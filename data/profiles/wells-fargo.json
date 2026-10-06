@@ -1,0 +1,157 @@
+{
+  "id": "wells-fargo",
+  "name": "Charles W. Scharf",
+  "company_id": "wells-fargo",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Johns Hopkins University",
+      "degree": "BA",
+      "field": null,
+      "year": 1987,
+      "source": "https://en.wikipedia.org/wiki/Charles_Scharf"
+    },
+    {
+      "institution": "New York University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/Charles_Scharf"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Commercial Credit (later Travelers/Citigroup)",
+      "title": "Analyst, then assistant to CFO Jamie Dimon and finance roles",
+      "start": "1987",
+      "end": "1995",
+      "source": "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html"
+    },
+    {
+      "organization": "Salomon Smith Barney / Citigroup",
+      "title": "CFO of Salomon Smith Barney, then CFO of Citigroup's Global Corporate and Investment Bank",
+      "start": "1995",
+      "end": "2000",
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    },
+    {
+      "organization": "Bank One",
+      "title": "Chief Financial Officer, then CEO of the retail division",
+      "start": "2000",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Charles_Scharf"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "CEO of Retail Financial Services, then Managing Director at One Equity Partners",
+      "start": "2004",
+      "end": "2012",
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    },
+    {
+      "organization": "Visa Inc.",
+      "title": "Chief Executive Officer",
+      "start": "2012",
+      "end": "2016",
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    },
+    {
+      "organization": "Bank of New York Mellon",
+      "title": "Chief Executive Officer (Chairman from 2018)",
+      "start": "2017",
+      "end": "2019",
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    },
+    {
+      "organization": "Wells Fargo",
+      "title": "President and CEO (Chairman from October 2025)",
+      "start": "2019",
+      "end": null,
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built his early career as a finance executive under Jamie Dimon, serving as CFO of Salomon Smith Barney and Bank One before running retail banking and then Visa and BNY Mellon.",
+  "tenure": {
+    "start": "2019-10-21",
+    "source": "https://en.wikipedia.org/wiki/Charles_Scharf"
+  },
+  "notable": [
+    {
+      "date": "2025-06",
+      "type": "decision",
+      "summary": "The Federal Reserve lifted the asset cap it had imposed on Wells Fargo in 2018 after the bank met conditions on governance and risk management that Scharf's team had worked to satisfy.",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250603a.htm"
+    },
+    {
+      "date": "2025-10",
+      "type": "decision",
+      "summary": "Wells Fargo's board named Scharf chairman in addition to CEO.",
+      "source": "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    },
+    {
+      "date": "2025-12",
+      "type": "statement",
+      "summary": "Scharf said Wells Fargo expected to have fewer employees in 2026 even before the effects of AI, which he called extremely significant for efficiency and headcount.",
+      "source": "https://finance.yahoo.com/news/wells-fargo-expects-more-job-134859532.html"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Reporting second-quarter results, Scharf said headcount had fallen for 24 straight quarters to about 197,000 as the bank grew loans after the asset cap and planned an 11% dividend increase.",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-company-q2-earnings-160330819.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "As a Johns Hopkins senior, Charlie Scharf landed a job with Jamie Dimon, starting a 25-year run at his side.",
+    "summary": "Scharf grew up in Westfield, N.J., the son of a stockbroker, and from age 13 spent summers commuting with his father to Wall Street, entering data and working in a securities vault. As a Johns Hopkins senior in 1987 he was hired by Jamie Dimon at Commercial Credit in Baltimore and soon became Dimon's assistant, younger than almost everyone around him by 20 years. He followed Dimon through the deals that built Citigroup, then to Bank One and JPMorgan Chase, where he ran the retail bank and handled the 2008 Washington Mutual acquisition. In 2012 he left to run Visa, then BNY Mellon, and in 2019 took over a Wells Fargo still under regulatory penalties for its fake-accounts scandal.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Westfield, New Jersey",
+        "source": "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a stockbroker at Smith Barney",
+        "source": "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html"
+      },
+      {
+        "label": "First job",
+        "value": "From age 13, summer back-office jobs at a Wall Street brokerage, including the securities vault",
+        "source": "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html"
+      },
+      {
+        "label": "Mentor",
+        "value": "Jamie Dimon, who hired him out of college in 1987 and made him his assistant",
+        "source": "https://www.cnbc.com/2019/09/27/at-wells-fargo-a-jamie-dimon-protege-finally-takes-over-a-big-us-bank.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "2012: left Dimon's orbit to become CEO of Visa",
+        "source": "https://www.cnbc.com/2019/09/27/at-wells-fargo-a-jamie-dimon-protege-finally-takes-over-a-big-us-bank.html"
+      }
+    ],
+    "quote": {
+      "text": "What I came to realize through the years is that there's a big difference between being a good manager and a good leader.",
+      "context": "On lessons from working for Jamie Dimon, Fortune profile, October 2025",
+      "source": "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://finance.yahoo.com/news/wells-fargo-reeling-scandal-jamie-091000477.html",
+      "https://www.cnbc.com/2019/09/27/at-wells-fargo-a-jamie-dimon-protege-finally-takes-over-a-big-us-bank.html",
+      "https://en.wikipedia.org/wiki/Charles_Scharf",
+      "https://www.wellsfargo.com/about/corporate/governance/scharf/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Undergraduate major not found in sources reviewed; field left null.",
+    "NYU degree: Wikipedia says executive MBA from NYU Stern (1991); Wells Fargo bio says MBA from New York University without year.",
+    "Exact start date 2019-10-21 kept from seed; Wells Fargo bio confirms only October 2019.",
+    "How he got the Commercial Credit job differs slightly: CNBC says he mailed his resume to Dimon; Fortune says his father suggested Commercial Credit. Hook avoids the detail.",
+    "End year of Commercial Credit/Travelers phase (1995) inferred from Wikipedia's start of Salomon CFO role."
+  ]
+}

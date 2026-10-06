@@ -1,0 +1,59 @@
+{
+  "id": "coca-cola",
+  "name": "Henrique Braun",
+  "company_id": "coca-cola",
+  "role": "CEO",
+  "education": [
+    {"institution": "Federal Rural University of Rio de Janeiro", "degree": "BS", "field": "Agricultural Engineering", "year": null, "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"institution": "Michigan State University", "degree": "MS", "field": null, "year": null, "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"institution": "Georgia State University", "degree": "MBA", "field": null, "year": null, "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"}
+  ],
+  "career": [
+    {"organization": "The Coca-Cola Company", "title": "Trainee in global engineering (Atlanta), then roles in supply chain, bottling, new business development, marketing and innovation", "start": "1996", "end": "2013", "source": "https://www.beveragedaily.com/Article/2025/12/11/who-is-henrique-braun-coca-colas-next-ceo/"},
+    {"organization": "The Coca-Cola Company", "title": "President, Greater China & South Korea", "start": "2013", "end": "2016", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"organization": "The Coca-Cola Company", "title": "President, Brazil business unit", "start": "2016", "end": "2020", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"organization": "The Coca-Cola Company", "title": "President, Latin America operating unit", "start": "2020", "end": "2022", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"organization": "The Coca-Cola Company", "title": "President, International Development", "start": "2022", "end": "2024", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+    {"organization": "The Coca-Cola Company", "title": "Executive Vice President and Chief Operating Officer", "start": "2025", "end": "2026", "source": "https://www.beveragedaily.com/Article/2025/12/11/who-is-henrique-braun-coca-colas-next-ceo/"},
+    {"organization": "The Coca-Cola Company", "title": "Chief Executive Officer", "start": "2026", "end": null, "source": "https://www.coca-colacompany.com/media-center/the-coca-cola-company-announces-ceo-succession-plan"}
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A 30-year Coca-Cola insider who started as an engineering trainee and rose through supply chain, bottling and general management of regional operating units to become COO overseeing all operating units.",
+  "tenure": {"start": "2026-03-31", "source": "https://www.coca-colacompany.com/media-center/the-coca-cola-company-announces-ceo-succession-plan"},
+  "notable": [
+    {"date": "2025-12", "type": "statement", "summary": "On being named CEO-designate, Braun said he would focus on continuing the momentum built with Coca-Cola's bottling system and saw large opportunities in a fast-changing global market.", "source": "https://www.fox5atlanta.com/news/coca-cola-names-henrique-braun-next-ceo-starting-2026"},
+    {"date": "2026-04", "type": "statement", "summary": "In his first quarterly results as CEO, Coca-Cola reported 12% net revenue growth to $12.5 billion, with Braun citing a focus on staying close to the consumer, executing locally and managing complexity.", "source": "https://www.coca-colacompany.com/media-center/coca-cola-reports-first-quarter-2026-results"},
+    {"date": "2026-07", "type": "decision", "summary": "Coca-Cola rolled out a single unified visual identity system for the Coca-Cola brand across more than 200 markets.", "source": "https://www.coca-colacompany.com/media-center/coca-cola-sharpens-its-identity-under-one-bold-visual-system"},
+    {"date": "2026-07", "type": "statement", "summary": "Coca-Cola reported second-quarter net revenue up 7% to $13.4 billion, with Braun saying the company delivered by staying close to consumers' and customers' changing needs.", "source": "https://www.coca-colacompany.com/media-center/coca-cola-reports-second-quarter-2026-results"}
+  ],
+  "personal_story": {
+    "hook": "Born in California and raised in Brazil, Henrique Braun joined Coca-Cola as an engineering trainee in 1996 and now runs it.",
+    "summary": "Braun was born in California and raised in Brazil, and holds U.S. and Brazilian citizenship. He studied agricultural engineering at the Federal Rural University of Rio de Janeiro, then earned a master's at Michigan State and an MBA at Georgia State. He joined Coca-Cola in Atlanta in 1996 as a trainee in global engineering and worked across supply chain, bottling, marketing and innovation on four continents. Running Greater China and South Korea, then Brazil and Latin America, set him up for the COO job in 2025 and the CEO role on March 31, 2026.",
+    "facts": [
+      {"label": "Grew up", "value": "Born in California in 1968, raised in Brazil; U.S.-Brazilian dual citizen", "source": "https://en.wikipedia.org/wiki/Henrique_Braun"},
+      {"label": "First job", "value": "1996: trainee in global engineering at Coca-Cola in Atlanta", "source": "https://www.beveragedaily.com/Article/2025/12/11/who-is-henrique-braun-coca-colas-next-ceo/"},
+      {"label": "Turning point", "value": "2013-2016: led Coca-Cola's Greater China & South Korea business", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"},
+      {"label": "Other", "value": "Trained as an agricultural engineer before moving into business", "source": "https://www.coca-colacompany.com/about-us/leadership/henrique-braun"}
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://www.coca-colacompany.com/about-us/leadership/henrique-braun",
+      "https://www.beveragedaily.com/Article/2025/12/11/who-is-henrique-braun-coca-colas-next-ceo/",
+      "https://en.wikipedia.org/wiki/Henrique_Braun",
+      "https://fortune.com/2025/12/11/coca-cola-names-30-year-veteran-henrique-braun-as-new-ceo/",
+      "https://www.fox5atlanta.com/news/coca-cola-names-henrique-braun-next-ceo-starting-2026",
+      "https://www.coca-colacompany.com/media-center/the-coca-cola-company-announces-ceo-succession-plan"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "International Development dates conflict: company bio 2022-2024, Beverage Daily 2023-2024, Wikipedia 2022-2025; company bio used.",
+    "COO start: Beverage Daily says January 2025; company bio says elected EVP in 2024 without a COO date; recorded as 2025.",
+    "Bachelor's degree type (BS vs other) and Michigan State MS field not stated; birth year 1968 from Wikipedia only.",
+    "Fed. Rural University of Rio de Janeiro per Wikipedia; company bio says 'University Federal of Rio de Janeiro' - institution name should be verified.",
+    "G1 Globo profile (likely richest source on his upbringing) was blocked; no verbatim quote about his path found.",
+    "July 2026 brand-identity rollout is a company decision not explicitly attributed to Braun."
+  ],
+  "needs_enrichment": true
+}

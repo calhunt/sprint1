@@ -1,0 +1,159 @@
+{
+  "id": "general-dynamics",
+  "name": "Phebe N. Novakovic",
+  "company_id": "general-dynamics",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Smith College",
+      "degree": "BA",
+      "field": "Government; German",
+      "year": 1979,
+      "source": "https://www.smith.edu/about-smith/news/2016-smith-medalists"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.smith.edu/about-smith/news/2016-smith-medalists"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Central Intelligence Agency",
+      "title": "Operations officer",
+      "start": "1983",
+      "end": null,
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+    },
+    {
+      "organization": "White House Office of Management and Budget",
+      "title": "Deputy associate director, overseeing defense and intelligence budgets",
+      "start": "1992",
+      "end": "1997",
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+    },
+    {
+      "organization": "U.S. Department of Defense",
+      "title": "Special assistant to Defense Secretary William Cohen and Deputy Secretary John Hamre",
+      "start": "1997",
+      "end": "2001",
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+    },
+    {
+      "organization": "General Dynamics",
+      "title": "Vice President of Strategic Planning, then Senior Vice President of Planning and Development",
+      "start": "2001",
+      "end": null,
+      "source": "https://www.smith.edu/about-smith/news/2016-smith-medalists"
+    },
+    {
+      "organization": "General Dynamics",
+      "title": "Executive Vice President, Marine Systems Group",
+      "start": null,
+      "end": "2012",
+      "source": "https://www.smith.edu/about-smith/news/2016-smith-medalists"
+    },
+    {
+      "organization": "General Dynamics",
+      "title": "President and Chief Operating Officer",
+      "start": "2012",
+      "end": "2012",
+      "source": "https://www.forbes.com/sites/lorenthompson/2012/11/26/general-dynamics-begins-2013-with-new-leader-changing-business-mix/"
+    },
+    {
+      "organization": "General Dynamics",
+      "title": "Chairman and Chief Executive Officer",
+      "start": "2013",
+      "end": null,
+      "source": "https://www.forbes.com/sites/lorenthompson/2012/11/26/general-dynamics-begins-2013-with-new-leader-changing-business-mix/"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "After CIA and Pentagon budget and policy roles, she joined General Dynamics as its top strategic planner and ran its Marine Systems shipbuilding group and then the whole company as COO before becoming CEO.",
+  "tenure": {
+    "start": "2013-01-01",
+    "source": "https://www.forbes.com/sites/lorenthompson/2012/11/26/general-dynamics-begins-2013-with-new-leader-changing-business-mix/"
+  },
+  "notable": [
+    {
+      "date": "2013-01",
+      "type": "decision",
+      "summary": "Taking over after a roughly $2 billion write-down tied to past IT acquisitions, Novakovic halted new acquisitions, cut headquarters staff and redirected cash to dividends and share buybacks.",
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+    },
+    {
+      "date": "2015",
+      "type": "decision",
+      "summary": "General Dynamics pulled out of bidding for the U.S. Air Force T-X trainer jet program, which Fortune estimated at $30-40 billion.",
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+    },
+    {
+      "date": "2018-04",
+      "type": "decision",
+      "summary": "General Dynamics completed its $9.7 billion acquisition of IT services firm CSRA, combining it with General Dynamics Information Technology.",
+      "source": "https://www.defensenews.com/industry/2018/04/03/general-dynamics-completes-csra-acquisition/"
+    },
+    {
+      "date": "2018-04",
+      "type": "statement",
+      "summary": "Novakovic said the combined CSRA and GDIT would offer competitive solutions to customers and attractive free cash flow and returns on capital for investors.",
+      "source": "https://www.defensenews.com/industry/2018/04/03/general-dynamics-completes-csra-acquisition/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Phebe Novakovic went from CIA operations officer to Pentagon aide to running one of America's biggest defense contractors.",
+    "summary": "Novakovic is the daughter of a Serbian immigrant who served as a lieutenant colonel in U.S. Air Force military intelligence, and she attended an Episcopal boarding school in San Antonio. She majored in government and German at Smith College, graduating in 1979, and started out analyzing weapons systems for a small Washington-area contractor. She joined the CIA as an operations officer in 1983, later earned a Wharton MBA, and spent the 1990s at the White House budget office overseeing defense and intelligence spending before becoming a special assistant to the Secretary of Defense. In 2001 she moved to General Dynamics as its strategic planner, ran its shipbuilding group, and became CEO in January 2013.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Father was a Serbian immigrant and U.S. Air Force lieutenant colonel in military intelligence",
+        "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+      },
+      {
+        "label": "Grew up",
+        "value": "Attended an Episcopal boarding school in San Antonio",
+        "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+      },
+      {
+        "label": "First job",
+        "value": "Analyst at the McLean Research Center, analyzing weapons systems",
+        "source": "https://www.smith.edu/about-smith/news/2016-smith-medalists"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined the CIA as an operations officer in 1983",
+        "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/"
+      },
+      {
+        "label": "Other",
+        "value": "Moved from the Pentagon to General Dynamics in 2001 as its top strategic planner",
+        "source": "https://www.forbes.com/sites/lorenthompson/2012/11/26/general-dynamics-begins-2013-with-new-leader-changing-business-mix/"
+      }
+    ],
+    "quote": {
+      "text": "Yes, well, it helps to have been a liberal arts major. I do know the English language.",
+      "context": "Quoted in Fortune's 2015 profile 'The Spy in General Dynamics' Corner Office' by Carla Anne Robbins",
+      "source": "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://fortune.com/2015/09/11/phebe-novakovic-general-dynamics/",
+      "https://www.smith.edu/about-smith/news/2016-smith-medalists",
+      "https://www.forbes.com/sites/lorenthompson/2012/11/26/general-dynamics-begins-2013-with-new-leader-changing-business-mix/",
+      "https://www.forbes.com/profile/phebe-novakovic/",
+      "https://en.wikipedia.org/wiki/Phebe_Novakovic"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "MBA year conflicts: Wikipedia says 1988, Fortune (2015) says 1986; year left null.",
+    "CIA end date not confirmed (joined 1983 per Fortune; departure year unstated); end left null.",
+    "Start year of Marine Systems EVP role unclear (Fortune ties it to Jay Johnson becoming CEO in 2009); start left null. Exact years of earlier GD planning roles also unconfirmed.",
+    "No 2024-2026 notable items found: gd.com (403), WSJ and other recent sources were unreachable without web search; notable list skews to earlier tenure.",
+    "Official General Dynamics bio could not be fetched (403); career details rely on Smith College medalist citation and Fortune."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,142 @@
+{
+  "id": "charter-communications",
+  "name": "Christopher L. Winfrey",
+  "company_id": "charter-communications",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Florida",
+      "degree": "BS",
+      "field": "Accounting",
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Chris_Winfrey"
+    },
+    {
+      "institution": "University of Florida",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Communications Equity Associates; NTL Incorporated",
+      "title": "Finance and operations roles (private equity associate; director of financial planning and operations in Europe)",
+      "start": null,
+      "end": null,
+      "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+    },
+    {
+      "organization": "Cablecom GmbH (Switzerland)",
+      "title": "Senior Vice President, Corporate Finance and Development",
+      "start": null,
+      "end": null,
+      "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+    },
+    {
+      "organization": "Unitymedia GmbH (Germany)",
+      "title": "Chief Financial Officer and Managing Director",
+      "start": null,
+      "end": "2010",
+      "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+    },
+    {
+      "organization": "Charter Communications",
+      "title": "Chief Financial Officer",
+      "start": "2010",
+      "end": "2021",
+      "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+    },
+    {
+      "organization": "Charter Communications",
+      "title": "Chief Operating Officer",
+      "start": "2021",
+      "end": "2022",
+      "source": "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+    },
+    {
+      "organization": "Charter Communications",
+      "title": "President and CEO",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "An accountant by training who spent most of his career in cable-industry finance, including roles as CFO of Unitymedia and more than a decade as Charter's CFO, before a short stint as COO.",
+  "tenure": {
+    "start": "2022-12-01",
+    "source": "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+  },
+  "notable": [
+    {
+      "date": "2023-09",
+      "type": "decision",
+      "summary": "After Charter introduced tiered TV packages, Disney channels went dark on Spectrum from Aug. 31 to Sept. 11, 2023, when the companies reached a deal that included giving Spectrum customers access to Disney's streaming services and dropped some networks from carriage.",
+      "source": "https://en.wikipedia.org/wiki/Charter_Communications"
+    },
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "Charter agreed to combine with Cox Communications in a transaction valuing Cox at about $34.5 billion, with Cox Enterprises set to own about 23% of the combined company.",
+      "source": "https://corporate.charter.com/newsroom/charter-communications-and-cox-communications-announce-definitive-agreement-to-combine-companies"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Charter completed the Cox transaction and its acquisition of Liberty Broadband; the parent company is to be renamed Cox Communications within a year while services continue under the Spectrum brand.",
+      "source": "https://corporate.charter.com/newsroom/charter-and-cox-communications-complete-transaction"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "On closing the Cox deal, Winfrey said the combined company would bring the best products, price and customer service to customers across an expanded 45-state Spectrum footprint.",
+      "source": "https://corporate.charter.com/newsroom/charter-and-cox-communications-complete-transaction"
+    }
+  ],
+  "personal_story": {
+    "hook": "Chris Winfrey worked in cable finance in Europe before joining Charter as CFO in 2010; he became CEO in 2022.",
+    "summary": "Winfrey, born in Kentucky in 1976, studied accounting and earned an MBA at the University of Florida. He spent the early part of his career in cable finance and operations in the U.S. and Europe, with roles at NTL in France, Cablecom in Switzerland and Unitymedia in Germany, where he was CFO. Charter hired him as CFO in 2010; he became chief operating officer in 2021 and succeeded Tom Rutledge as CEO in December 2022.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Kentucky in 1976",
+        "source": "https://en.wikipedia.org/wiki/Chris_Winfrey"
+      },
+      {
+        "label": "Turning point",
+        "value": "Worked in cable finance in France, Switzerland and Germany before returning to the U.S. as Charter's CFO in 2010",
+        "source": "https://corporate.charter.com/leadership/christopher-winfrey"
+      },
+      {
+        "label": "Mentor",
+        "value": "Succeeded Tom Rutledge, who cited Winfrey's expertise in both operations and finance",
+        "source": "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+      },
+      {
+        "label": "Other",
+        "value": "Received the cable industry association's Vanguard Award for Young Leadership in 2015",
+        "source": "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chris_Winfrey",
+      "https://corporate.charter.com/leadership/christopher-winfrey",
+      "https://www.thewrap.com/charter-communcations-chris-winfrey-named-ceo-announcement/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for both University of Florida degrees not found; degree type for undergraduate accounting recorded as BS per Wikipedia (Charter bio says only 'bachelor's degree in accounting').",
+    "Years of pre-Charter roles (Communications Equity Associates, NTL, Cablecom, Unitymedia) not found.",
+    "Birth year 1976 and Kentucky birthplace sourced only from Wikipedia.",
+    "Cox ownership share differs: May 2025 announcement says ~23%; Aug 2026 closing release says ~26% fully diluted (Liberty Broadband deal also closed).",
+    "Disney dispute item sourced only to Wikipedia; trade press articles (Variety, Hollywood Reporter) were paywalled.",
+    "No verbatim first-person quote about his path found; quote set to null.",
+    "Little public information on upbringing; profiles in CT Insider and Media Play News were blocked."
+  ],
+  "needs_enrichment": true
+}

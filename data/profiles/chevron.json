@@ -1,0 +1,138 @@
+{
+  "id": "chevron",
+  "name": "Mike Wirth",
+  "company_id": "chevron",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Colorado Boulder",
+      "degree": "BS",
+      "field": "Chemical Engineering",
+      "year": 1982,
+      "source": "https://en.wikipedia.org/wiki/Mike_Wirth"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Chevron",
+      "title": "Design engineer, then engineering, construction and operations roles",
+      "start": "1982",
+      "end": null,
+      "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+    },
+    {
+      "organization": "Chevron",
+      "title": "President, Marketing, Asia/Middle East/Africa (based in Singapore)",
+      "start": "2001",
+      "end": "2003",
+      "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+    },
+    {
+      "organization": "Chevron",
+      "title": "President, Global Supply and Trading",
+      "start": "2003",
+      "end": "2006",
+      "source": "https://www.chevron.com/who-we-are/leadership/michael-wirth"
+    },
+    {
+      "organization": "Chevron",
+      "title": "Executive Vice President, Downstream & Chemicals",
+      "start": "2006",
+      "end": "2015",
+      "source": "https://www.chevron.com/who-we-are/leadership/michael-wirth"
+    },
+    {
+      "organization": "Chevron",
+      "title": "Executive Vice President, Midstream & Development; Vice Chairman from Feb. 2017",
+      "start": "2016",
+      "end": "2018",
+      "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+    },
+    {
+      "organization": "Chevron Corporation",
+      "title": "Chairman and CEO",
+      "start": "2018",
+      "end": null,
+      "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A chemical engineer who joined Chevron in 1982 as a design engineer and rose through engineering, operations, refining and downstream leadership to the top job.",
+  "tenure": {
+    "start": "2018-02-01",
+    "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+  },
+  "notable": [
+    {
+      "date": "2023-07",
+      "type": "decision",
+      "summary": "Chevron's board waived the company's mandatory retirement age of 65 for Wirth, allowing him to remain CEO beyond 2025.",
+      "source": "https://www.cspdailynews.com/company-news/chevron-board-waives-mandatory-retirement-age-ceo-mike-wirth"
+    },
+    {
+      "date": "2024-08",
+      "type": "decision",
+      "summary": "Announced that Chevron would move its headquarters from San Ramon, California, to Houston, with Wirth relocating before the end of 2024 and corporate functions moving over five years.",
+      "source": "https://www.houston.org/news/chevron-announces-headquarters-relocation-houston/"
+    },
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "Completed the $53 billion acquisition of Hess after winning an arbitration against ExxonMobil over Hess's stake in Guyana's Stabroek Block, which had delayed the deal for over a year.",
+      "source": "https://worldoil.com/news/2025/7/18/chevron-completes-53-billion-hess-takeover-following-lengthy-exxon-arbitration/"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Announced plans to invest more than $7 billion through Venezuelan joint ventures to roughly double production there to about 600,000 barrels per day within five years.",
+      "source": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations"
+    }
+  ],
+  "personal_story": {
+    "hook": "Before running Chevron, Mike Wirth worked summer jobs making ashtrays at the Coors brewery, where his father was an executive.",
+    "summary": "Wirth was born in Los Alamos, New Mexico, where his father worked at the National Laboratory; the family later moved to Golden, Colorado, when his father took an executive role at Coors. He played football and basketball and credits his coaches with teaching him hard work, discipline and teamwork. His first jobs were summer work at the brewery, including making ashtrays, and he was struck by the loyalty his father earned by engaging with workers on the production line. After a chemical engineering degree from the University of Colorado, he joined Chevron in 1982 as a design engineer and spent the next 35 years inside the company before becoming CEO.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Los Alamos, N.M.; raised in Golden, Colorado",
+        "source": "https://fortune.com/2023/10/23/chevron-ceo-mike-wirth-interview-earth-environment-evil/"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked at Los Alamos National Laboratory, then became an executive at Coors",
+        "source": "https://fortune.com/2023/10/23/chevron-ceo-mike-wirth-interview-earth-environment-evil/"
+      },
+      {
+        "label": "First job",
+        "value": "Summer jobs at the Coors brewery, including making ashtrays",
+        "source": "https://fortune.com/2023/10/23/chevron-ceo-mike-wirth-interview-earth-environment-evil/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Credits school football and basketball coaches for values of hard work, discipline and teamwork",
+        "source": "https://fortune.com/2023/10/23/chevron-ceo-mike-wirth-interview-earth-environment-evil/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Chevron in 1982 as a design engineer straight out of college",
+        "source": "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://fortune.com/2023/10/23/chevron-ceo-mike-wirth-interview-earth-environment-evil/",
+      "https://chevroncorp.gcs-web.com/news-releases/news-release-details/michael-k-wirth-named-chairman-and-ceo-chevron",
+      "https://en.wikipedia.org/wiki/Mike_Wirth"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type (BS) and graduation year (1982) from Wikipedia; Chevron bio says only 'bachelor's degree in chemical engineering from the University of Colorado' (campus assumed Boulder per Wikipedia).",
+    "Years for the Asia/Middle East/Africa marketing role (2001-2003) inferred from Wikipedia (2001) and Chevron bio (Global Supply and Trading from 2003); not stated in the 2017 press release.",
+    "Chevron leadership bio page returned 403 on one URL; career dates partly from search-cached version of chevron.com/who-we-are/leadership/michael-wirth.",
+    "CSP Daily News described Wirth as 63 at the time of the July 2023 retirement-age waiver; he was born Oct 1960, so he was 62. Waiver date taken as July 2023 (Bloomberg dated 2023-07-24).",
+    "Oct 2026 executive reshuffle noted in seed list not researched; it reportedly did not change the CEO.",
+    "No verbatim quote about his path confirmed; quote left null."
+  ]
+}

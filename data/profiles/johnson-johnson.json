@@ -1,0 +1,54 @@
+{
+  "id": "johnson-johnson",
+  "name": "Joaquin Duato",
+  "company_id": "johnson-johnson",
+  "role": "CEO",
+  "education": [
+    {"institution": "ESADE Business School", "degree": "MBA", "field": null, "year": null, "source": "https://www.jnj.com/joaquin-duato"},
+    {"institution": "Thunderbird School of Global Management", "degree": "MIM", "field": "International Management", "year": null, "source": "https://www.jnj.com/joaquin-duato"}
+  ],
+  "career": [
+    {"organization": "Janssen Pharmaceutica (Johnson & Johnson), Spain", "title": "Joined J&J's pharmaceutical business in Spain", "start": "1989", "end": "2002", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+    {"organization": "Johnson & Johnson (United States)", "title": "Pharmaceutical leadership roles after relocating to the U.S.", "start": "2002", "end": "2011", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+    {"organization": "Johnson & Johnson", "title": "Executive Vice President; Worldwide Chairman, Pharmaceuticals", "start": "2011", "end": "2018", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+    {"organization": "Johnson & Johnson", "title": "Vice Chairman of the Executive Committee (oversaw Pharmaceutical and Consumer Health segments, supply chain and technology; interim CIO)", "start": "2018", "end": "2022", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+    {"organization": "Johnson & Johnson", "title": "Chief Executive Officer", "start": "2022", "end": null, "source": "https://www.jnj.com/joaquin-duato"},
+    {"organization": "Johnson & Johnson", "title": "Chairman of the Board", "start": "2023", "end": null, "source": "https://www.jnj.com/joaquin-duato"}
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A career-long J&J executive who rose through the pharmaceutical business in Spain and the U.S. to run the global pharmaceuticals unit and later oversee multiple segments, supply chain and technology before becoming CEO.",
+  "tenure": {"start": "2022-01-03", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+  "notable": [
+    {"date": "2022-03", "type": "statement", "summary": "Shortly after becoming CEO, Duato told CNBC he expected the next decade to bring more health-care transformation than the past century, and that separating the consumer business would make J&J more focused.", "source": "https://www.cnbc.com/2022/03/30/next-decade-will-transform-health-care-more-than-past-century-jj-ceo.html"},
+    {"date": "2023-07", "type": "decision", "summary": "Completed the separation of J&J's consumer health business, Kenvue, through a share exchange offer following Kenvue's May 2023 IPO.", "source": "https://en.wikipedia.org/wiki/Kenvue"},
+    {"date": "2025-04", "type": "decision", "summary": "J&J completed its $14.6 billion acquisition of Intra-Cellular Therapies, a maker of medicines for schizophrenia, depression and bipolar disorder.", "source": "https://en.wikipedia.org/wiki/Intra-Cellular_Therapies"},
+    {"date": "2025-10", "type": "decision", "summary": "J&J announced plans to separate its orthopaedics business, DePuy Synthes, over the following 18 to 24 months.", "source": "https://en.wikipedia.org/wiki/DePuy_Synthes"}
+  ],
+  "personal_story": {
+    "hook": "Born in Valencia, Spain, Joaquin Duato joined J&J's Spanish pharma unit in 1989 and now runs the whole company.",
+    "summary": "Duato was born in 1962 in Valencia, Spain, into a family with roots in health care: his mother was a nurse, his grandfather a pediatrician and his grandmother a pharmacist. His sister is the Spanish actress Ana Duato. After business studies at ESADE in Barcelona and Thunderbird in Arizona, he joined Janssen, J&J's pharmaceutical business in Spain, in 1989, and moved to the United States in 2002. He went on to lead J&J's worldwide pharmaceuticals business before becoming CEO in 2022 and chairman in 2023; he holds both U.S. and Spanish citizenship.",
+    "facts": [
+      {"label": "Grew up", "value": "Born April 1962 in Valencia, Spain", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+      {"label": "Family background", "value": "Mother a nurse, grandfather a pediatrician, grandmother a pharmacist; sister is actress Ana Duato", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+      {"label": "First job", "value": "Joined Janssen Pharmaceutica in Spain in 1989", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+      {"label": "Turning point", "value": "Relocated to the United States with J&J in 2002", "source": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato"},
+      {"label": "Other", "value": "Dual citizen of the U.S. and Spain; awarded Spain's Order of Civil Merit in 2023", "source": "https://www.jnj.com/joaquin-duato"}
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Duato",
+      "https://www.jnj.com/joaquin-duato"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "English Wikipedia, J&J's leadership page and J&J's Wikipedia article were rate-limited (HTTP 429); El Mundo, Bloomberg and the 2021 J&J succession release could not be fetched. Career chronology relies mainly on Spanish Wikipedia.",
+    "Family professions (nurse/pediatrician/pharmacist) appear in Spanish Wikipedia text without a specific citation; verify against an interview before publishing.",
+    "Undergraduate education (if any) not confirmed; J&J bio lists only the ESADE MBA and Thunderbird master's. Degree years unknown.",
+    "Exact titles 2002-2011 and the 2018 'Vice Chairman of the Executive Committee' title should be verified against a J&J proxy statement.",
+    "Tenure start 2022-01-03 from Spanish Wikipedia/seed list; J&J bio says only January 2022.",
+    "Intra-Cellular deal was announced January 2025 and completed April 2025 (per general knowledge; Wikipedia summary gave April 2025)."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,101 @@
+{
+  "id": "conocophillips",
+  "name": "Andy O'Brien",
+  "company_id": "conocophillips",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Plymouth",
+      "degree": "BA",
+      "field": "Business Administration",
+      "year": null,
+      "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Conoco / ConocoPhillips",
+      "title": "Finance, planning and strategy roles of increasing responsibility around the world",
+      "start": "1997",
+      "end": "2022",
+      "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+    },
+    {
+      "organization": "ConocoPhillips",
+      "title": "Executive leadership team member overseeing, at various times, Alaska and international businesses, commercial, LNG, finance, corporate strategy, investor relations and M&A",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+    },
+    {
+      "organization": "ConocoPhillips",
+      "title": "Chief Financial Officer and Executive Vice President, Strategy and Commercial",
+      "start": null,
+      "end": "2026",
+      "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+    },
+    {
+      "organization": "ConocoPhillips",
+      "title": "President and Chief Executive Officer",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.conocophillips.com/news-media/story/conocophillips-announces-planned-leadership-succession-andy-obrien-named-president-and-ceo-ryan-lance-to-assume-transitional-executive-chair-role-konnie-haynes-welsh-appointed-cfo/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "A chartered management accountant who spent nearly three decades in finance, planning and strategy roles at Conoco and ConocoPhillips, culminating as CFO and head of strategy and commercial.",
+  "tenure": {
+    "start": "2026-09-01",
+    "source": "https://www.conocophillips.com/news-media/story/conocophillips-announces-planned-leadership-succession-andy-obrien-named-president-and-ceo-ryan-lance-to-assume-transitional-executive-chair-role-konnie-haynes-welsh-appointed-cfo/"
+  },
+  "notable": [
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "ConocoPhillips announced O'Brien would become president and CEO on Sept. 1, 2026, with longtime CEO Ryan Lance moving to a transitional executive chair role and Konnie Haynes-Welsh succeeding O'Brien as CFO.",
+      "source": "https://www.conocophillips.com/news-media/story/conocophillips-announces-planned-leadership-succession-andy-obrien-named-president-and-ceo-ryan-lance-to-assume-transitional-executive-chair-role-konnie-haynes-welsh-appointed-cfo/"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "On his appointment, O'Brien said his focus would be to build on the company's momentum, keep raising the bar and unlock greater value across the company.",
+      "source": "https://www.conocophillips.com/news-media/story/conocophillips-announces-planned-leadership-succession-andy-obrien-named-president-and-ceo-ryan-lance-to-assume-transitional-executive-chair-role-konnie-haynes-welsh-appointed-cfo/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Andy O'Brien joined Conoco in 1997 in finance; 29 years later he became ConocoPhillips' CEO.",
+    "summary": "O'Brien earned a bachelor's degree in business administration from the University of Plymouth in England and qualified as a chartered management accountant. He began his career with Conoco in 1997 and held finance, planning and strategy roles in multiple countries. After joining the executive leadership team in 2022, he oversaw areas ranging from Alaska and international operations to LNG, investor relations and mergers and acquisitions, and served as CFO before succeeding Ryan Lance as CEO on Sept. 1, 2026.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Began his career with Conoco in 1997",
+        "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+      },
+      {
+        "label": "Other",
+        "value": "Chartered Management Accountant; business administration degree from the University of Plymouth",
+        "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined ConocoPhillips' executive leadership team in 2022",
+        "source": "https://www.conocophillips.com/about-us/leadership/andy-o-brien/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.conocophillips.com/about-us/leadership/andy-o-brien/",
+      "https://www.conocophillips.com/news-media/story/conocophillips-announces-planned-leadership-succession-andy-obrien-named-president-and-ceo-ryan-lance-to-assume-transitional-executive-chair-role-konnie-haynes-welsh-appointed-cfo/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree recorded as BA; company bio says only 'bachelor's degree in business administration' from the University of Plymouth. Graduation year unknown.",
+    "Start date of CFO role and the specific titles/dates of his 2022-2026 leadership roles not found; the 2026 10-K executive officer section could not be read (document truncated by fetch tool).",
+    "Only two notable items: O'Brien has been CEO about one month and no CEO-era decisions or statements beyond the succession release were found. Wikipedia's ConocoPhillips article still lists Ryan Lance as CEO.",
+    "No information on upbringing, nationality/hometown or personal path found; no Wikipedia article located. Plymouth degree and CIMA-style 'Chartered Management Accountant' designation suggest a UK background, but this is not stated in sources and is not asserted.",
+    "Quote omitted from personal_story because his available quotes (from the succession release) concern the company, not his path."
+  ],
+  "needs_enrichment": true
+}

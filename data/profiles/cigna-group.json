@@ -1,0 +1,131 @@
+{
+  "id": "cigna-group",
+  "name": "Brian Evanko",
+  "company_id": "cigna-group",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Pennsylvania State University",
+      "degree": "BS",
+      "field": "Actuarial Science",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Cigna",
+      "title": "Actuarial Executive Development Program, then senior actuarial and finance roles incl. in Singapore and Hong Kong",
+      "start": "1998",
+      "end": "2013",
+      "source": "https://www.thecignagroup.com/our-leaders/leadership-team/brian-evanko"
+    },
+    {
+      "organization": "Cigna",
+      "title": "President, U.S. Individual Business",
+      "start": "2013",
+      "end": "2017",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm"
+    },
+    {
+      "organization": "Cigna",
+      "title": "President, Government Business",
+      "start": "2017",
+      "end": "2021",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm"
+    },
+    {
+      "organization": "The Cigna Group",
+      "title": "Executive Vice President and Chief Financial Officer (also President and CEO of Cigna Healthcare from 2024)",
+      "start": "2021",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm"
+    },
+    {
+      "organization": "The Cigna Group",
+      "title": "President and Chief Operating Officer",
+      "start": "2025",
+      "end": "2026",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm"
+    },
+    {
+      "organization": "The Cigna Group",
+      "title": "President and Chief Executive Officer",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/ef20066976_ex99-1.htm"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "A credentialed actuary (FSA) and CFA charterholder who came up through Cigna's actuarial and finance ranks and served as CFO for four years before becoming COO and CEO.",
+  "tenure": {
+    "start": "2026-07-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/ef20066976_ex99-1.htm"
+  },
+  "notable": [
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "On being named CEO-designate, Evanko thanked predecessor David Cordani for his mentorship and said that over nearly 30 years at the company he had seen the strength of its businesses and its commitment to customers.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/ef20066976_ex99-1.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "In his first quarterly results as CEO, Cigna reported Q2 2026 revenue of $71.7 billion, up 7%, and raised its 2026 outlook, with Evanko citing technology, data and AI as drivers of more personalized, lower-cost care.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126030135/ef20078875_ex99-1.htm"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "At Cigna's 2026 Investor Day, introduced the \"Lead to One\" strategy and a multi-year, $3 billion modernization and productivity initiative, along with 2026-2030 targets of 10-14% annual adjusted EPS growth.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126038056/ef20082869_ex99-1.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Brian Evanko joined Cigna in 1998 through its actuarial development program and became CEO 28 years later.",
+    "summary": "Evanko studied actuarial science at Penn State and joined Cigna in 1998 through its Actuarial Executive Development Program, which he later led. He held actuarial and finance roles in Singapore and Hong Kong, then ran Cigna's U.S. individual and government businesses before serving as CFO from 2021. He became CEO on July 1, 2026, succeeding longtime chief David Cordani, and has said that following \"a legend\" adds pressure that helps him perform.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "1998: entered Cigna's Actuarial Executive Development Program, which he later led",
+        "source": "https://www.thecignagroup.com/our-leaders/leadership-team/brian-evanko"
+      },
+      {
+        "label": "Turning point",
+        "value": "Senior actuarial and financial roles in Singapore and Hong Kong",
+        "source": "https://www.thecignagroup.com/our-leaders/leadership-team/brian-evanko"
+      },
+      {
+        "label": "Mentor",
+        "value": "Thanked predecessor David Cordani for his mentorship on being named CEO",
+        "source": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/ef20066976_ex99-1.htm"
+      },
+      {
+        "label": "Other",
+        "value": "Fellow of the Society of Actuaries and CFA charterholder",
+        "source": "https://www.thecignagroup.com/our-leaders/leadership-team/brian-evanko"
+      }
+    ],
+    "quote": {
+      "text": "It's not easy to follow a legend. But that pressure actually helps me perform. So I'm excited for the future.",
+      "context": "Cigna Group newsroom feature on the CEO transition, March 2026",
+      "source": "https://newsroom.thecignagroup.com/seamless-ceo-transition-anchored-in-a-customer-first-vision",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://www.thecignagroup.com/our-leaders/leadership-team/brian-evanko",
+      "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm",
+      "https://www.sec.gov/Archives/edgar/data/1739940/000114036126007450/ef20066976_ex99-1.htm",
+      "https://newsroom.thecignagroup.com/seamless-ceo-transition-anchored-in-a-customer-first-vision"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type conflicts: Cigna 2026 proxy says BS from Penn State; TriNet 2026 proxy says B.A. in actuarial science. Recorded as BS; graduation year not found.",
+    "Years of the Singapore/Hong Kong roles and other 1998-2013 roles not found; condensed into one career entry.",
+    "Announcement date: SEC 8-K press release dated March 3, 2026 (matches seed); Cigna newsroom feature dated March 6, 2026.",
+    "Little public information on his upbringing or personal background; depth set to limited."
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "nvidia",
+  "name": "Jensen Huang",
+  "company_id": "nvidia",
+  "education": [
+    {
+      "institution": "Oregon State University",
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "year": 1984,
+      "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    },
+    {
+      "institution": "Stanford University",
+      "degree": "MS",
+      "field": "Electrical Engineering",
+      "year": 1992,
+      "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Advanced Micro Devices",
+      "title": "Microprocessor designer",
+      "start": "1984",
+      "end": "1985",
+      "source": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
+    },
+    {
+      "organization": "LSI Logic",
+      "title": "Various positions, including director of CoreWare division",
+      "start": "1985",
+      "end": "1993",
+      "source": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
+    },
+    {
+      "organization": "Nvidia",
+      "title": "Co-founder, President and Chief Executive Officer",
+      "start": "1993",
+      "end": null,
+      "source": "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "Co-founded Nvidia in 1993 and has served as its president and CEO since inception, after an early career as an electrical engineer and chip designer.",
+  "tenure": {
+    "start": "1993-04",
+    "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+  },
+  "notable": [
+    {
+      "date": "2020-04",
+      "type": "decision",
+      "summary": "Nvidia completed its approximately $7 billion acquisition of Israeli networking company Mellanox Technologies.",
+      "source": "https://www.cnbc.com/2020/04/27/nvidia-ceo-calls-mellanox-acquisition-a-homerun-deal.html"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "Nvidia announced a $5 billion investment in Intel along with a collaboration to co-develop data center and PC products.",
+      "source": "https://nvidianews.nvidia.com/news/nvidia-and-intel-to-develop-ai-infrastructure-and-personal-computing-products"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "Nvidia and OpenAI announced a letter of intent under which Nvidia planned to invest up to $100 billion in OpenAI as at least 10 gigawatts of Nvidia systems are deployed.",
+      "source": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Nvidia agreed to a reported $20 billion non-exclusive licensing and asset deal with AI inference chip startup Groq, hiring its founder Jonathan Ross and other staff.",
+      "source": "https://techstartups.com/2025/12/25/nvidia-strikes-20b-licensing-and-asset-deal-with-ai-chip-startup-groq-acqui-hires-founder-jonathan-ross/"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Exact day of tenure start not confirmed by a primary source (Wikipedia gives founding date April 5, 1993); recorded as 1993-04.",
+    "LSI Logic title progression only partly confirmed (Wikipedia mentions director of CoreWare; Nvidia bio says 'various positions').",
+    "Status of the OpenAI up-to-$100B investment was reported as not finalized; final terms/outcome as of Oct 2026 not verified.",
+    "Groq deal value ($20B) is as reported by media; not confirmed in an Nvidia filing.",
+    "Career list has only 3 roles; earlier pre-1984 jobs (e.g., Denny's) omitted as minor.",
+    "Personal story: Oneida age (9 vs 10) varies across sources; Wikipedia says he moved in 1973 at age 9 and lived at Oneida at age 10. Hook uses 10.",
+    "Personal story: some media (e.g. Fortune) imply Nvidia was planned at the same Denny's where he worked as a teen; Wikipedia places the founding meetings at a Denny's in East San Jose, while his teenage job was in Oregon. Summary keeps them separate.",
+    "Personal story: Denny's job dates (1978-1983) from Wikipedia only."
+  ],
+  "personal_story": {
+    "hook": "At about 10, he cleaned toilets at a Kentucky boarding school; at 30, he co-founded Nvidia after meetings in a Denny's booth.",
+    "summary": "Born in Taipei in 1963, Jensen Huang was sent to the US at age nine with his older brother; relatives mistakenly enrolled them at Oneida Baptist Institute, a Kentucky school for troubled youth, where his daily chore was cleaning toilets. After his parents settled in Beaverton, Oregon, he skipped two grades, graduated high school at 16, and from age 15 worked the graveyard shift at Denny's as a dishwasher, busboy and waiter. He studied electrical engineering at Oregon State, where he met his future wife, Lori, as his lab partner, then designed chips at AMD and LSI Logic. In 1993, after months of planning meetings at a Denny's in East San Jose, he and two co-founders started Nvidia.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Taipei, 1963; sent to the US at age 9 with his older brother",
+        "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+      },
+      {
+        "label": "Turning point",
+        "value": "Mistakenly enrolled at Oneida Baptist Institute, a Kentucky boarding school, where he cleaned toilets daily",
+        "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+      },
+      {
+        "label": "First job",
+        "value": "Dishwasher, busboy and waiter on Denny's graveyard shift, starting at 15",
+        "source": "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/"
+      },
+      {
+        "label": "Other",
+        "value": "Met wife Lori Mills as his lab partner at Oregon State",
+        "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+      },
+      {
+        "label": "Turning point",
+        "value": "Co-founded Nvidia in 1993 after planning it at a Denny's in East San Jose",
+        "source": "https://en.wikipedia.org/wiki/Jensen_Huang"
+      }
+    ],
+    "quote": {
+      "text": "Start your first job in the restaurant business. It teaches you humility, it teaches you hard work, it teaches you hospitality.",
+      "context": "Returning to the San Jose Denny's where Nvidia was planned, NVIDIA blog, September 2023",
+      "source": "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "https://blogs.nvidia.com/blog/nvidia-dennys-trillion/",
+      "https://fortune.com/2024/08/28/nvidias-billionaire-boss-i-used-to-clean-bathrooms-and-now-im-the-ceo"
+    ]
+  }
+}

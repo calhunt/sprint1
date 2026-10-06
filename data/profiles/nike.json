@@ -1,0 +1,156 @@
+{
+  "id": "nike",
+  "name": "Elliott Hill",
+  "company_id": "nike",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Texas Christian University",
+      "degree": "BS",
+      "field": "Kinesiology",
+      "year": 1986,
+      "source": "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm"
+    },
+    {
+      "institution": "Ohio University",
+      "degree": "MS",
+      "field": "Sports Administration",
+      "year": 1988,
+      "source": "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Nike",
+      "title": "Intern, then sales and retail roles in the U.S. and Europe (incl. European Apparel Sales Director, VP Sales/Retail EMEA, VP/GM U.S. Retail)",
+      "start": "1988",
+      "end": "2006",
+      "source": "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm"
+    },
+    {
+      "organization": "Nike",
+      "title": "Corporate Vice President, Global Retail",
+      "start": "2006",
+      "end": "2010",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm"
+    },
+    {
+      "organization": "Nike",
+      "title": "Vice President and General Manager, North America",
+      "start": "2010",
+      "end": "2013",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm"
+    },
+    {
+      "organization": "Nike",
+      "title": "President, Geographies & Sales (later Geographies & Integrated Marketplace)",
+      "start": "2013",
+      "end": "2018",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm"
+    },
+    {
+      "organization": "Nike",
+      "title": "President, Consumer and Marketplace",
+      "start": "2018",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm"
+    },
+    {
+      "organization": "Open Road Resources, LLC",
+      "title": "Founder",
+      "start": "2020",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm"
+    },
+    {
+      "organization": "Weber Inc.",
+      "title": "Director",
+      "start": "2020",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm"
+    },
+    {
+      "organization": "Nike",
+      "title": "President and CEO",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/exhibit991-pressreleasesep.htm"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Spent 32 years at Nike in sales, retail and commercial roles, ending as President of Consumer and Marketplace over all commercial and marketing operations for Nike and Jordan Brand.",
+  "tenure": {
+    "start": "2024-10-14",
+    "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-06",
+      "type": "statement",
+      "summary": "Reporting fiscal 2025 revenue of $46.3 billion, down 10%, Hill said the results were \"not where we want them to be\" and pointed to Nike's \"sport offense\" and \"Win Now\" actions to reposition the business.",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000034/q4fy25exhibit991er.htm"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Reorganized Nike's senior leadership team, creating a Chief Operating Officer role, eliminating the Chief Technology Officer and Chief Commercial Officer roles, and elevating four geography leaders to the leadership team.",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000115/sltannouncement.htm"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Named former Pfizer CFO David Denton as Nike's Chief Financial Officer, effective August 17, 2026, succeeding Matthew Friend.",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000070/pressrelease062326.htm"
+    },
+    {
+      "date": "2026-10",
+      "type": "decision",
+      "summary": "Announced an operating-model overhaul called \"Pace\" that consolidates Nike into three geographic regions, adds a campus in Bengaluru, India, and will result in fewer roles, with details due at a November 2026 investor day.",
+      "source": "https://about.nike.com/en/newsroom/releases/nike-inc-corporate-announcement-october-1-2026"
+    }
+  ],
+  "personal_story": {
+    "hook": "Elliott Hill joined Nike as an intern in 1988, retired in 2020, and came back four years later as CEO.",
+    "summary": "Hill earned a kinesiology degree from Texas Christian University in 1986 and a master's in sports administration from Ohio University in 1988, the year he started at Nike as an intern. Over 32 years he worked through sales and retail jobs in the U.S. and Europe, ending as President of Consumer and Marketplace over Nike's and Jordan Brand's commercial and marketing operations. He retired in 2020, founded Open Road Resources and joined boards including Weber, then returned to Nike as President and CEO in October 2024.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "BS in kinesiology, Texas Christian University (1986); now a TCU trustee",
+        "source": "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm"
+      },
+      {
+        "label": "First job",
+        "value": "Started at Nike as an intern in 1988",
+        "source": "https://en.wikipedia.org/wiki/Elliott_Hill"
+      },
+      {
+        "label": "Turning point",
+        "value": "Retired from Nike in 2020 and founded Open Road Resources before being recalled as CEO in 2024",
+        "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm"
+      }
+    ],
+    "quote": {
+      "text": "NIKE has always been a core part of who I am, and I'm ready to help lead it to an even brighter future.",
+      "context": "Nike press release announcing his return as CEO, September 19, 2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/exhibit991-pressreleasesep.htm",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1857951/000162828022001372/webr-2022proxy.htm",
+      "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/nke-20240919.htm",
+      "https://www.sec.gov/Archives/edgar/data/320187/000032018724000053/exhibit991-pressreleasesep.htm",
+      "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm",
+      "https://en.wikipedia.org/wiki/Elliott_Hill"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Ohio University degree is described only as a 'Master's Degree in Sports Administration' in the Weber proxy; recorded as MS, but the formal degree name may be Master of Sports Administration.",
+    "Upbringing, family background and early ambitions could not be sourced (no web search; Wikipedia, Nike newsroom and SEC filings only), so the personal story is limited to career facts.",
+    "The intern start in 1988 is sourced only from Wikipedia; the SEC filings say only that he was employed from 1988.",
+    "Weber board end date not confirmed (Weber went private in 2023); end left null.",
+    "The quote came through a summarizing fetch tool; check the wording against the press release before publishing."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,143 @@
+{
+  "id": "tiaa",
+  "name": "Thasunda Brown Duckett",
+  "company_id": "tiaa",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Houston",
+      "degree": "BBA",
+      "field": "Finance; Marketing",
+      "year": null,
+      "source": "https://commencement.howard.edu/honorees/thasunda-brown-duckett"
+    },
+    {
+      "institution": "Baylor University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://commencement.howard.edu/honorees/thasunda-brown-duckett"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Fannie Mae",
+      "title": "Director of Emerging Markets (affordable housing and homeownership initiatives)",
+      "start": "1996",
+      "end": "2004",
+      "source": "https://www.cnbc.com/2021/02/26/thasunda-brown-duckett-to-be-second-black-woman-fortune-500-ceo-in-2021.html"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "Home lending roles, incl. National Retail Sales Executive, Chase Mortgage Banking",
+      "start": "2004",
+      "end": null,
+      "source": "https://iasymposium.princeton.edu/speakers/thasunda-brown-duckett"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "CEO, Chase Auto Finance",
+      "start": null,
+      "end": "2016",
+      "source": "https://www.blackenterprise.com/chase-consumer-banking-ceo-thasunda-duckett-joins-nikes-board-of-directors/"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "CEO, Chase Consumer Banking",
+      "start": "2016",
+      "end": "2021",
+      "source": "https://www.cnbc.com/2021/02/26/thasunda-brown-duckett-to-be-second-black-woman-fortune-500-ceo-in-2021.html"
+    },
+    {
+      "organization": "TIAA",
+      "title": "President and CEO",
+      "start": "2021",
+      "end": null,
+      "source": "https://www.wsls.com/business/2021/02/25/tiaa-names-thasunda-brown-duckett-as-ceo/"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Built her career in consumer-facing lending and banking, from Fannie Mae emerging-markets outreach to running mortgage retail sales, Chase Auto Finance and Chase Consumer Banking.",
+  "tenure": {
+    "start": "2021-05-01",
+    "source": "https://www.wsls.com/business/2021/02/25/tiaa-names-thasunda-brown-duckett-as-ceo/"
+  },
+  "notable": [
+    {
+      "date": "2023-08",
+      "type": "decision",
+      "summary": "TIAA completed the sale of TIAA Bank to a group of private investment firms, with the bank resuming the EverBank name.",
+      "source": "https://en.wikipedia.org/wiki/EverBank"
+    },
+    {
+      "date": "2024-02",
+      "type": "decision",
+      "summary": "TIAA reported that its RetirePlus lifetime-income default offering had surpassed 400,000 participant accounts and $30 billion in assets.",
+      "source": "https://www.prnewswire.com/news-releases/tiaa-retireplus-surpasses-400-000-individual-participant-accounts-30-billion-in-assets-302066136.html"
+    },
+    {
+      "date": "2024-02",
+      "type": "statement",
+      "summary": "In a CNBC Changemakers profile, Duckett said that by being herself in corporate spaces she can \"continue to put cracks in the ceiling for the next generation of leaders.\"",
+      "source": "https://www.cnbc.com/2024/02/28/thasunda-brown-duckett-cnbc-changemakers.html"
+    },
+    {
+      "date": "2024-08",
+      "type": "decision",
+      "summary": "TIAA announced a strategic partnership with Accenture to modernize retirement recordkeeping starting in 2025, with about 1,500 TIAA employees in the U.S. and India moving to Accenture.",
+      "source": "https://www.prnewswire.com/news-releases/tiaa-announces-strategic-partnership-with-accenture-to-accelerate-transformation-of-its-retirement-recordkeeping-302231811.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "Thasunda Brown Duckett had to tell her father his pension wasn't enough; she now runs a retirement giant.",
+    "summary": "Duckett was born in Rochester, New York; her father worked in a Xerox warehouse before losing his job and moving the family to Texas, and her mother was a teacher. She has said she knows what it is like to open the refrigerator and see only baking soda, or to have the lights turned off. At the University of Houston she interned at Fannie Mae and, after graduating, took its offer even though it was the lowest she received, because she knew the company and its people. She spent 17 years at JPMorgan Chase, rising to run Chase Auto Finance and then Chase Consumer Banking, before becoming TIAA's CEO in 2021.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Rochester, N.Y.; family relocated to Texas, where she attended Sam Houston High School",
+        "source": "https://en.wikipedia.org/wiki/Thasunda_Brown_Duckett"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked at a Xerox warehouse before losing his job; mother was a schoolteacher",
+        "source": "https://www.cnbc.com/2021/03/01/tiaa-ceo-thasunda-brown-duckett-on-accepting-lowest-job-offer-after-college.html"
+      },
+      {
+        "label": "First job",
+        "value": "Took Fannie Mae's offer after college, the lowest-paying one she received, after interning there",
+        "source": "https://www.cnbc.com/2021/03/01/tiaa-ceo-thasunda-brown-duckett-on-accepting-lowest-job-offer-after-college.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Helping her father plan retirement and realizing his pension was not enough",
+        "source": "https://www.cnbc.com/2021/03/01/tiaa-ceo-thasunda-brown-duckett-on-accepting-lowest-job-offer-after-college.html"
+      },
+      {
+        "label": "Other",
+        "value": "Founded a foundation named for her parents that recognizes community leaders",
+        "source": "https://commencement.howard.edu/honorees/thasunda-brown-duckett"
+      }
+    ],
+    "quote": {
+      "text": "I often think about the day my father asked me to help him plan his retirement, and I had to tell him, 'Dad, your pension is not enough.'",
+      "context": "CNBC interview, March 2021, shortly after being named TIAA CEO",
+      "source": "https://www.cnbc.com/2021/03/01/tiaa-ceo-thasunda-brown-duckett-on-accepting-lowest-job-offer-after-college.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.cnbc.com/2021/03/01/tiaa-ceo-thasunda-brown-duckett-on-accepting-lowest-job-offer-after-college.html",
+      "https://www.cnbc.com/2024/02/28/thasunda-brown-duckett-cnbc-changemakers.html",
+      "https://commencement.howard.edu/honorees/thasunda-brown-duckett",
+      "https://en.wikipedia.org/wiki/Thasunda_Brown_Duckett"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Undergraduate degree type not stated exactly (sources say bachelor's in finance and marketing); recorded as BBA - verify. Graduation years not found.",
+    "Start year as CEO of Chase Auto Finance not found; Fannie Mae end year inferred from her 2004 move to Chase.",
+    "CNBC Feb 2021 article summary listed TIAA start as 'May 1, 2024' - treated as a fetch-tool error; WSLS and Wikipedia say May 1, 2021.",
+    "No Duckett-attributed quote found in 2025-2026 TIAA releases reachable via PR Newswire; notable items skew to 2023-2024."
+  ],
+  "needs_enrichment": false
+}

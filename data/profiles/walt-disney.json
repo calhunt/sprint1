@@ -1,0 +1,150 @@
+{
+  "id": "walt-disney",
+  "name": "Josh D'Amaro",
+  "company_id": "walt-disney",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Georgetown University",
+      "degree": "BS",
+      "field": "Business Administration",
+      "year": 1993,
+      "source": "https://thewaltdisneycompany.com/leaders/josh-damaro/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "The Gillette Company",
+      "title": "Finance department",
+      "start": null,
+      "end": "1998",
+      "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+    },
+    {
+      "organization": "Disneyland Resort / The Walt Disney Company",
+      "title": "Roles in finance, business strategy, sales and marketing (incl. CFO, Disney Consumer Products Licensing, 2008-2010)",
+      "start": "1998",
+      "end": "2010",
+      "source": "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/"
+    },
+    {
+      "organization": "Walt Disney World Resort",
+      "title": "VP, Adventures by Disney; VP, Disney's Animal Kingdom; SVP Resort & Transportation Operations; Chief Commercial Officer",
+      "start": "2010",
+      "end": "2018",
+      "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+    },
+    {
+      "organization": "Disneyland Resort",
+      "title": "President",
+      "start": "2018",
+      "end": "2019",
+      "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+    },
+    {
+      "organization": "Walt Disney World Resort",
+      "title": "President",
+      "start": "2019",
+      "end": "2020",
+      "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+    },
+    {
+      "organization": "Disney Experiences (formerly Disney Parks, Experiences and Products)",
+      "title": "Chairman",
+      "start": "2020",
+      "end": "2026",
+      "source": "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/"
+    },
+    {
+      "organization": "The Walt Disney Company",
+      "title": "Chief Executive Officer",
+      "start": "2026",
+      "end": null,
+      "source": "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent nearly three decades at Disney moving from finance and strategy roles into theme-park and resort operations, running Disneyland, Walt Disney World and then the full Experiences segment before becoming CEO.",
+  "tenure": {
+    "start": "2026-03-18",
+    "source": "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/"
+  },
+  "notable": [
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "On taking over from Bob Iger at Disney's annual meeting on March 18, 2026, D'Amaro said \"The most important part of Disney will always be the people.\"",
+      "source": "https://wdwnt.com/2026/03/bob-iger-steps-down-josh-damaro-disney-ceo/"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "In his fiscal Q3 2026 shareholder letter, Disney raised planned share repurchases to at least $9 billion for fiscal 2026 and said Consumer Products would move from the Experiences segment to Entertainment from fiscal 2027.",
+      "source": "https://s206.q4cdn.com/979796730/files/doc_financials/2026/q3/q3-fy26-earnings.pdf"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "In the same letter he described Disney's use of AI as primarily a way to enhance a creative process he called human-centered, artist-driven and creator-led, rather than simply a tool for efficiency.",
+      "source": "https://s206.q4cdn.com/979796730/files/doc_financials/2026/q3/q3-fy26-earnings.pdf"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Created a new Chief Technology Officer role reporting to him and named Karandeep Anand to it, effective Oct. 2, 2026.",
+      "source": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-names-karandeep-anand-to-newly-created-role-of-chief-technology-officer/"
+    }
+  ],
+  "personal_story": {
+    "hook": "A former sculpture student who joined Disneyland in 1998 now runs The Walt Disney Company.",
+    "summary": "D'Amaro grew up in Medfield, Massachusetts, and attended Medfield High School. He began college studying sculpture at Skidmore College before transferring to Georgetown University, where he earned a business administration degree in 1993. After a stint in finance at Gillette in Boston, he joined Disney at the Disneyland Resort in 1998 and spent the next decades in finance, strategy, marketing and park operations, eventually running Disneyland, Walt Disney World and the company's parks, cruise and consumer products businesses. He succeeded Bob Iger as CEO in March 2026, crediting Iger's mentorship.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Medfield, Massachusetts; attended Medfield High School",
+        "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Initially studied sculpture at Skidmore College before transferring to Georgetown",
+        "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+      },
+      {
+        "label": "First job",
+        "value": "Finance department at Gillette in Boston",
+        "source": "https://en.wikipedia.org/wiki/Josh_D%27Amaro"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Disney at the Disneyland Resort in 1998",
+        "source": "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Thanked Bob Iger for his mentorship on being named CEO",
+        "source": "https://thewaltdisneycompany.com/news/disney-ceo-announcement/"
+      }
+    ],
+    "quote": {
+      "text": "I also want to express my gratitude to Bob Iger for his generous mentorship, his friendship, and the profound impact of his leadership.",
+      "context": "Statement on being named Disney's next CEO, Feb. 3, 2026",
+      "source": "https://thewaltdisneycompany.com/news/disney-ceo-announcement/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Josh_D%27Amaro",
+      "https://thewaltdisneycompany.com/leaders/josh-damaro/",
+      "https://thewaltdisneycompany.com/press-releases/josh-damaro-named-next-chief-executive-officer-of-the-walt-disney-company/",
+      "https://thewaltdisneycompany.com/news/disney-ceo-announcement/",
+      "https://www.cbsnews.com/boston/news/josh-damaro-disney-ceo-medfield-massachusetts/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Wikipedia's early Disney chronology is internally inconsistent (lists Gillette 1998-1999 and Disney VP Sales 1998-2008 overlapping); career condensed to 1998-2010 finance/strategy/sales roles. Exact years for Adventures by Disney, Animal Kingdom and WDW roles come only from Wikipedia.",
+    "Degree: Disney bio says 'Bachelor of Science in Business Administration'; graduation year 1993 from Wikipedia and CBS Boston.",
+    "Skidmore sculpture detail and Gillette job sourced only to Wikipedia; Bloomberg (high-school leadership profile), NYT, Variety, Orlando Business Journal, Hollywood Reporter and Patch could not be fetched (blocked, paywalled or rate-limited)."
+  ],
+  "needs_enrichment": true
+}

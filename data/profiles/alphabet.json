@@ -1,0 +1,156 @@
+{
+  "id": "alphabet",
+  "name": "Sundar Pichai",
+  "company_id": "alphabet",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Kharagpur",
+      "degree": "BTech",
+      "field": "Metallurgical Engineering",
+      "year": 1993,
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "institution": "Stanford University",
+      "degree": "MS",
+      "field": "Materials Science and Engineering",
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "MBA",
+      "field": null,
+      "year": 2002,
+      "source": "https://www.linkedin.com/posts/the-wharton-school_a-message-from-google-and-alphabet-ceo-sundar-activity-6797916114648141825-4E8c"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Applied Materials",
+      "title": "Engineering and product management roles",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "organization": "McKinsey & Company",
+      "title": "Management consultant",
+      "start": null,
+      "end": "2004",
+      "source": "https://poetsandquants.com/2016/03/30/wharton-mba-becomes-highest-paid-exec-history/"
+    },
+    {
+      "organization": "Google",
+      "title": "Product manager, later leading Google Toolbar, Chrome, ChromeOS and Google Drive",
+      "start": "2004",
+      "end": "2013",
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "organization": "Google",
+      "title": "Senior Vice President overseeing Android, Chrome and Apps, then products broadly",
+      "start": "2013",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "organization": "Google",
+      "title": "Chief Executive Officer",
+      "start": "2015",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    },
+    {
+      "organization": "Alphabet",
+      "title": "Chief Executive Officer",
+      "start": "2019",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "Trained as a metallurgical engineer and materials scientist, he rose at Google as a product leader building Chrome and running Android before becoming CEO.",
+  "tenure": {
+    "start": "2019-12-03",
+    "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+  },
+  "notable": [
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "Reported that Alphabet's annual revenue exceeded $400 billion for the first time and guided 2026 capital spending to $175-185 billion, citing momentum after the Gemini 3 launch.",
+      "source": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "At Google I/O, said the Gemini app had passed 900 million monthly active users and introduced the Gemini 3.5 Flash model.",
+      "source": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
+    },
+    {
+      "date": "2026-06",
+      "type": "statement",
+      "summary": "In Stanford's 2026 commencement address, described growing up in Chennai waiting years for a telephone and refrigerator and leaving his PhD program to get a job.",
+      "source": "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Raised Alphabet's 2026 capital-spending forecast to $195-205 billion from $180-190 billion to meet demand for AI infrastructure and cloud capacity; the stock fell about 7%.",
+      "source": "https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Sundar Pichai's father spent a year's salary on his plane ticket to Stanford; he now runs Alphabet.",
+    "summary": "Pichai grew up in Chennai, India, the son of an electrical engineer and a stenographer, in a household where, he has said, the family waited years for a telephone, a TV and a refrigerator and worried whether water trucks would arrive during droughts. He studied metallurgical engineering at IIT Kharagpur and won a place at Stanford, where his father spent the equivalent of a year's salary on his ticket. He went to Stanford intending to earn a PhD and become an academic, but left the doctoral program because he needed to get a job sooner. After work at Applied Materials, a Wharton MBA and a stint at McKinsey, he joined Google as a product manager in 2004, led the creation of Chrome, and became Google's CEO in 2015 and Alphabet's in 2019.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1972 in Madurai; raised in Chennai, India",
+        "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+      },
+      {
+        "label": "Family background",
+        "value": "Father an electrical engineer, mother a stenographer; family waited years for a phone, TV and fridge",
+        "source": "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai"
+      },
+      {
+        "label": "Turning point",
+        "value": "Father spent about a year's salary on his ticket to Stanford",
+        "source": "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Planned to earn a PhD and become an academic; left the program to get a job",
+        "source": "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai"
+      },
+      {
+        "label": "First job",
+        "value": "Engineering and product management at Applied Materials",
+        "source": "https://en.wikipedia.org/wiki/Sundar_Pichai"
+      }
+    ],
+    "quote": {
+      "text": "I came here fully intending to get my PhD, and to move into academics. Life had other plans, and I needed to get a job sooner.",
+      "context": "Stanford University commencement address, June 14, 2026",
+      "source": "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://news.stanford.edu/stories/2026/06/commencement-address-google-ceo-sundar-pichai",
+      "https://en.wikipedia.org/wiki/Sundar_Pichai",
+      "https://poetsandquants.com/2016/03/30/wharton-mba-becomes-highest-paid-exec-history/",
+      "https://www.linkedin.com/posts/the-wharton-school_a-message-from-google-and-alphabet-ceo-sundar-activity-6797916114648141825-4E8c"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Wharton MBA year conflicts: Wharton itself styles him WG'02 (2002); Poets&Quants (2016) says he graduated in 2004. Used 2002.",
+    "Stanford MS year not confirmed by a primary source (commonly cited as 1995); left null.",
+    "Applied Materials and McKinsey dates not confirmed; left null except McKinsey ending when he joined Google in 2004.",
+    "Career titles 2004-2015 sourced from Wikipedia; no official Alphabet bio with dates was fetchable."
+  ]
+}

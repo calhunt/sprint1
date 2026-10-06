@@ -1,0 +1,167 @@
+{
+  "id": "ford-motor",
+  "name": "Jim Farley",
+  "company_id": "ford-motor",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Georgetown University",
+      "degree": "BA",
+      "field": "Economics",
+      "year": 1985,
+      "source": "https://college.georgetown.edu/news-story/how-georgetown-helped-ford-ceo-jim-farley-develop-a-love-for-problem-solving/"
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Toyota Motor Sales U.S.A.",
+      "title": "Product planner (Lexus), then marketing and advertising roles; led launch of Scion",
+      "start": "1990",
+      "end": null,
+      "source": "https://www.detroitnews.com/story/business/autos/ford/2020/08/04/fords-farley-rode-iconic-ford-brands-customer-needs-ceos-office/3290498001/"
+    },
+    {
+      "organization": "Toyota (Lexus division)",
+      "title": "Group Vice President and General Manager, Lexus",
+      "start": null,
+      "end": "2007",
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    },
+    {
+      "organization": "Ford Motor Company",
+      "title": "Group Vice President, Global Marketing (later also Sales, Service and Lincoln)",
+      "start": "2007",
+      "end": "2015",
+      "source": "https://www.detroitnews.com/story/business/autos/ford/2020/08/04/fords-farley-rode-iconic-ford-brands-customer-needs-ceos-office/3290498001/"
+    },
+    {
+      "organization": "Ford of Europe",
+      "title": "Chairman and CEO",
+      "start": "2015",
+      "end": "2017",
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    },
+    {
+      "organization": "Ford Motor Company",
+      "title": "Executive Vice President and President, Global Markets",
+      "start": "2017",
+      "end": "2019",
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    },
+    {
+      "organization": "Ford Motor Company",
+      "title": "President, New Businesses, Technology & Strategy; then Chief Operating Officer (Feb. 2020)",
+      "start": "2019",
+      "end": "2020",
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    },
+    {
+      "organization": "Ford Motor Company",
+      "title": "President and CEO",
+      "start": "2020",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Built his career in product planning, marketing and brand leadership at Toyota and Lexus, then joined Ford as its global marketing chief before running regions and operations.",
+  "tenure": {
+    "start": "2020-10-01",
+    "source": "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+  },
+  "notable": [
+    {
+      "date": "2022-03",
+      "type": "decision",
+      "summary": "Reorganized Ford into separate units for combustion vehicles (Ford Blue) and electric vehicles (Ford Model e), targeting more than 2 million EVs a year by 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/37996/000003799622000015/march2exhibit99.htm"
+    },
+    {
+      "date": "2025-07",
+      "type": "statement",
+      "summary": "At the Aspen Ideas Festival, said in an interview with Walter Isaacson that artificial intelligence is going to replace literally half of all white-collar workers in the U.S.",
+      "source": "https://finance.yahoo.com/news/ford-ceo-says-ai-replace-203114506.html"
+    },
+    {
+      "date": "2025-08",
+      "type": "decision",
+      "summary": "Announced a $2 billion retooling of Ford's Louisville, Kentucky, plant for a new low-cost Universal EV Platform and a roughly $30,000 midsize electric pickup due in 2027, citing the Model T as inspiration.",
+      "source": "https://www.electrive.com/2025/08/12/ford-universal-ev-platform-ford-announces-model-t-moment-for-electric-cars/"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Ended production of the all-electric F-150 Lightning and announced about $19.5 billion in EV-related charges, shifting to an extended-range F-150 with a gasoline generator.",
+      "source": "https://www.wardsauto.com/news/ford-scraps-ev-f150-lightning-replacement-erev/807986/"
+    }
+  ],
+  "personal_story": {
+    "hook": "At 15, Jim Farley sold his plane ticket home, rebuilt a Mustang, and drove it back without a license.",
+    "summary": "Farley's grandfather, Emmett Tracy, was one of Henry Ford's earliest employees and later a Ford dealer, and young Farley read industry publications with him and earned the nickname \"Jimmy Car Car.\" In the summer of 1977, at 15, he worked at a Ford engine remanufacturing plant in California owned by a friend of his grandfather, bought a 1964 1/2 Mustang, rebuilt its engine and drove it home with no license or insurance. He studied economics at Georgetown, working 20 to 40 hours a week, then earned an MBA at UCLA. Offered a Ford finance job on the F-Series rear differential, he chose a product planning role at Toyota's Lexus instead, a move unpopular in a family whose father had fought in World War II. After about 17 years at Toyota, including running Lexus, he joined Ford in 2007 under CEO Alan Mulally and rose to CEO in 2020.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Grandfather Emmett Tracy was among Henry Ford's earliest employees and later a Ford dealer; father was a Citibank executive",
+        "source": "https://www.edmunds.com/car-reviews/features/jim-farley-driving-fords-future.html"
+      },
+      {
+        "label": "First job",
+        "value": "At 15 (1977), worked at a Ford engine remanufacturing plant on the West Coast",
+        "source": "https://www.edmunds.com/car-reviews/features/jim-farley-driving-fords-future.html"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Nicknamed \"Jimmy Car Car\"; worked in car restoration shops as a youth",
+        "source": "https://www.troweprice.com/en/us/insights/the-long-view-ford"
+      },
+      {
+        "label": "Turning point",
+        "value": "Turned down a Ford finance job to join Toyota's Lexus as a product planner: \"whole car versus a differential\"",
+        "source": "https://www.troweprice.com/en/us/insights/the-long-view-ford"
+      },
+      {
+        "label": "Mentor",
+        "value": "Meeting CEO Alan Mulally persuaded him to leave Toyota for Ford",
+        "source": "https://www.troweprice.com/en/us/insights/the-long-view-ford"
+      },
+      {
+        "label": "Other",
+        "value": "Races vintage cars, including a 1966 Ford GT40",
+        "source": "https://www.benzinga.com/news/21/05/21205335/5-things-you-might-not-know-about-ford-ceo-jim-farley-1"
+      }
+    ],
+    "quote": {
+      "text": "You should run towards hairy, nasty problems and not away from them.",
+      "context": "Georgetown College alumni profile on how Georgetown shaped his love of problem solving",
+      "source": "https://college.georgetown.edu/news-story/how-georgetown-helped-ford-ceo-jim-farley-develop-a-love-for-problem-solving/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://www.edmunds.com/car-reviews/features/jim-farley-driving-fords-future.html",
+      "https://www.troweprice.com/en/us/insights/the-long-view-ford",
+      "https://college.georgetown.edu/news-story/how-georgetown-helped-ford-ceo-jim-farley-develop-a-love-for-problem-solving/",
+      "https://www.aol.com/articles/ford-ceo-jim-farley-says-151500000.html",
+      "https://www.detroitnews.com/story/business/autos/ford/2020/08/04/fords-farley-rode-iconic-ford-brands-customer-needs-ceos-office/3290498001/",
+      "https://www.benzinga.com/news/21/05/21205335/5-things-you-might-not-know-about-ford-ceo-jim-farley-1",
+      "https://en.wikipedia.org/wiki/Jim_Farley_(businessman)"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Undergraduate major: Georgetown College article says economics (switched from government); Detroit News (2020) says economics and computer science. Recorded as Economics. Degree type BA per Wikipedia.",
+    "UCLA MBA year not found; Detroit News describes it as an MBA in finance (concentration not recorded).",
+    "Birthplace conflict: Wikipedia says Buenos Aires, Argentina, then Greenwich, Conn.; Edmunds (2011) summary implied a Michigan connection ('sold my plane ticket back to Michigan'). Story avoids stating where he grew up.",
+    "Grandfather's Ford start: Georgetown and Detroit News say 1913 (Rouge per Detroit News; Edmunds says Highland Park then the Rouge); Wikipedia says the Rouge plant in 1918. Story says only 'one of Henry Ford's earliest employees' (Edmunds/T. Rowe Price: employee No. 389).",
+    "Mustang: Edmunds says a 1964.5 Mustang; Benzinga says he bought a 1966 Mustang needing restoration. Story follows Edmunds (Farley's own words).",
+    "Toyota start year 1990 and ~17-year tenure from Detroit News/Benzinga; Georgetown and T. Rowe Price say about 20 years. Joined Ford Nov 2007 per Wikipedia (T. Rowe Price summary says 2008).",
+    "AI/white-collar statement: made at the Aspen Ideas Festival (late June-early July 2025); Yahoo Finance says June, Wikipedia says July. Recorded as 2025-07."
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "merck",
+  "name": "Robert M. Davis",
+  "company_id": "merck",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Miami University",
+      "degree": "BS",
+      "field": "Finance",
+      "year": null,
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    },
+    {
+      "institution": "Northwestern University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    },
+    {
+      "institution": "Northwestern University",
+      "degree": "JD",
+      "field": null,
+      "year": null,
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Eli Lilly and Company",
+      "title": "Positions of increasing responsibility over more than 14 years",
+      "start": null,
+      "end": "2004",
+      "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+    },
+    {
+      "organization": "Baxter International",
+      "title": "Treasurer",
+      "start": "2004",
+      "end": "2006",
+      "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+    },
+    {
+      "organization": "Baxter International",
+      "title": "Corporate Vice President and Chief Financial Officer",
+      "start": "2006",
+      "end": "2010",
+      "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+    },
+    {
+      "organization": "Baxter International",
+      "title": "Corporate Vice President and President of the Renal business, then of the Medical Products business",
+      "start": "2010",
+      "end": "2014",
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    },
+    {
+      "organization": "Merck & Co.",
+      "title": "Executive Vice President and Chief Financial Officer (expanded in 2016 to lead Global Services incl. IT and procurement)",
+      "start": "2014",
+      "end": "2021",
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    },
+    {
+      "organization": "Merck & Co.",
+      "title": "President",
+      "start": "2021",
+      "end": null,
+      "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+    },
+    {
+      "organization": "Merck & Co.",
+      "title": "Chief Executive Officer (Chairman of the Board from Dec. 1, 2022)",
+      "start": "2021",
+      "end": null,
+      "source": "https://www.merck.com/leadership/robert-m-davis/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built his career in corporate finance, serving as Baxter's treasurer and CFO and then as Merck's CFO before becoming CEO.",
+  "tenure": {
+    "start": "2021-07-01",
+    "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+  },
+  "notable": [
+    {
+      "date": "2023-04",
+      "type": "decision",
+      "summary": "Merck agreed to acquire Prometheus Biosciences for $200 per share in cash, a total equity value of about $10.8 billion, to strengthen its immunology pipeline.",
+      "source": "https://www.merck.com/news/merck-strengthens-immunology-pipeline-with-acquisition-of-prometheus-biosciences-inc/"
+    },
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "Merck agreed to acquire Verona Pharma, maker of the COPD maintenance treatment Ohtuvayre, for about $10 billion.",
+      "source": "https://www.merck.com/news/merck-to-acquire-verona-pharma-expanding-its-portfolio-to-include-ohtuvayre-ensifentrine-a-first-in-class-copd-maintenance-treatment-for-adults-and-expected-to-drive-growth-into-the-next-dec/"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Merck reached an agreement with the U.S. government to offer certain diabetes medicines at about 70% off list price via a direct-to-patient program, alongside a three-year delay on Section 232 tariffs and a commitment of more than $70 billion in U.S. capital and R&D spending.",
+      "source": "https://www.merck.com/news/merck-reaches-agreement-with-u-s-government-to-expand-access-to-medicines-and-lower-costs-for-americans/"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "Merck agreed to acquire Terns Pharmaceuticals for about $6.7 billion in equity value, adding a candidate treatment for chronic myeloid leukemia.",
+      "source": "https://www.merck.com/news/merck-to-acquire-terns-pharmaceuticals-inc-expanding-its-hematology-pipeline-with-tern-701-a-novel-candidate-for-chronic-myeloid-leukemia-cml/"
+    }
+  ],
+  "personal_story": {
+    "hook": "A finance-trained lawyer, Rob Davis rose through treasury and CFO roles to run one of the world's largest drugmakers.",
+    "summary": "Davis earned a bachelor's degree in finance from Miami University, then both an MBA from Northwestern's Kellogg school and a law degree from Northwestern. He spent more than 14 years at Eli Lilly before moving to Baxter in 2004, where he served as treasurer and CFO and then ran its renal and medical products businesses. He joined Merck as CFO in 2014, took on its global services functions in 2016, and was named president in April 2021 before becoming CEO that July.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Holds both an MBA (Kellogg) and a JD from Northwestern University",
+        "source": "https://www.merck.com/leadership/robert-m-davis/"
+      },
+      {
+        "label": "First job",
+        "value": "Spent more than 14 years at Eli Lilly and Company in roles of increasing responsibility",
+        "source": "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Moved from finance to operations at Baxter, leading its renal and medical products businesses",
+        "source": "https://www.merck.com/leadership/robert-m-davis/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.merck.com/leadership/robert-m-davis/",
+      "https://www.merck.com/news/kenneth-c-frazier-to-retire-as-merck-ceo-board-elects-robert-m-davis-as-successor-frazier-to-continue-as-executive-chairman/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for all three degrees not found in company sources; left null.",
+    "Miami University degree type (BS vs BA) not stated; sources say only 'bachelor's degree in finance'. Recorded as BS, needs verification.",
+    "Start year at Eli Lilly not stated ('more than 14 years' before joining Baxter in 2004, implying c. 1990 or earlier); left null.",
+    "Exact years for Baxter Renal vs. Medical Products presidencies not split in sources; condensed as 2010-2014.",
+    "No Wikipedia article or long-form interview on his upbringing was reachable without web search; personal story limited to official bio facts.",
+    "Merck's own bio page is somewhat garbled on Lilly/Baxter dating; used the Feb. 2021 succession release for Baxter roles."
+  ],
+  "needs_enrichment": true
+}

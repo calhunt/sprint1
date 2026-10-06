@@ -1,0 +1,120 @@
+{
+  "id": "sysco",
+  "name": "Kevin P. Hourican",
+  "company_id": "sysco",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Pennsylvania State University",
+      "degree": "BS",
+      "field": "Economics",
+      "year": null,
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "degree": "MS",
+      "field": "Supply Chain Management",
+      "year": null,
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Macy's",
+      "title": "Executive leadership roles, most recently Senior Vice President, Regional Director of Stores (110 Mid-Atlantic stores)",
+      "start": null,
+      "end": null,
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    },
+    {
+      "organization": "CVS Health",
+      "title": "Executive Vice President, Retail Pharmacy and Supply Chain",
+      "start": null,
+      "end": null,
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    },
+    {
+      "organization": "CVS Health",
+      "title": "Executive Vice President of CVS Health and President of CVS Pharmacy",
+      "start": null,
+      "end": "2020",
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    },
+    {
+      "organization": "Sysco",
+      "title": "President and Chief Executive Officer",
+      "start": "2020",
+      "end": null,
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+    },
+    {
+      "organization": "Sysco",
+      "title": "Chair of the Board and Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://investors.sysco.com/~/media/Files/S/Sysco-IR/documents/annual-reports/sysco-2025-proxy-statement.pdf"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Built his career running store operations, pharmacy operations and supply chain at Macy's and CVS Health before leading Sysco.",
+  "tenure": {
+    "start": "2020-02-01",
+    "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+  },
+  "notable": [
+    {
+      "date": "2021-05",
+      "type": "decision",
+      "summary": "At Sysco's 2021 Investor Day, unveiled the \"Recipe for Growth\" strategy, targeting growth at 1.5 times the market rate through fiscal 2024 and $750 million in cost reductions over fiscal 2021-2024.",
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2021/05-20-2021-190032467"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "Announced an agreement to acquire Jetro Restaurant Depot, a cash-and-carry foodservice operator, for about $29.1 billion in enterprise value, expected to close by the third quarter of fiscal 2027.",
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2026/03-30-2026-113036743"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Sysco added two directors and turned its board technology committee into an AI Transformation & Technology Committee, following engagement with long-term shareholder the D. E. Shaw Group.",
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2026/08-20-2026-130356986"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Introduced a $500 million multi-year AI-powered efficiency program through fiscal 2029 and raised Sysco's mid-term adjusted EPS growth target to 9%-11%.",
+      "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2026/09-09-2026-110128822"
+    }
+  ],
+  "personal_story": {
+    "hook": "Kevin Hourican ran CVS's 9,900-store retail business before taking over food distributor Sysco in 2020.",
+    "summary": "Hourican studied economics and later supply chain management at Penn State. He held store leadership roles at Macy's, eventually overseeing 110 department stores in the Mid-Atlantic, then moved to CVS Health, where he ran pharmacy operations and the supply chain before becoming president of CVS Pharmacy. Sysco hired him from outside the company as president and CEO effective February 1, 2020, and added the board chair role in 2024.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Economics undergraduate and master's in supply chain management, both from Penn State",
+        "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+      },
+      {
+        "label": "Turning point",
+        "value": "Moved from department-store operations at Macy's to CVS Health, eventually leading its $85 billion retail business",
+        "source": "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://investors.sysco.com/annual-reports-and-sec-filings/news-releases/2020/01-13-2020-122931728",
+      "https://investors.sysco.com/~/media/Files/S/Sysco-IR/documents/annual-reports/sysco-2025-proxy-statement.pdf"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree types assumed: Sysco says 'undergraduate degree in economics' and 'master's degree in supply chain management' from Penn State without naming BS/BA or MS; recorded as BS and MS, verify. Graduation years not found.",
+    "Start/end years for Macy's and CVS roles not found in Sysco sources (Wikipedia unavailable to fetch); left null.",
+    "No early-life or personal background sources were reachable; personal story is thin."
+  ],
+  "needs_enrichment": true
+}

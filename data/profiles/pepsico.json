@@ -1,0 +1,146 @@
+{
+  "id": "pepsico",
+  "name": "Ramon Laguarta",
+  "company_id": "pepsico",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "ESADE Business School",
+      "degree": "MBA",
+      "field": "Business Administration",
+      "year": 1985,
+      "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+    },
+    {
+      "institution": "Thunderbird School of Global Management",
+      "degree": "MIM",
+      "field": "International Management",
+      "year": 1986,
+      "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Chupa Chups",
+      "title": "Several international roles in Europe and the U.S.",
+      "start": null,
+      "end": "1996",
+      "source": "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/"
+    },
+    {
+      "organization": "PepsiCo Europe",
+      "title": "General manager roles (Greece Snacks; Iberia Snacks & Juices), Commercial VP for Europe, President of Eastern Europe Region",
+      "start": "1996",
+      "end": "2014",
+      "source": "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/"
+    },
+    {
+      "organization": "PepsiCo Europe Sub-Saharan Africa",
+      "title": "Chief Executive Officer",
+      "start": "2014",
+      "end": "2017",
+      "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+    },
+    {
+      "organization": "PepsiCo",
+      "title": "President (oversaw global category groups, global operations, corporate strategy, public policy)",
+      "start": "2017",
+      "end": "2018",
+      "source": "https://www.cnbc.com/2018/08/06/pepsicos-indra-nooyi-to-step-down-after-12-years-as-ceo-president-ra.html"
+    },
+    {
+      "organization": "PepsiCo",
+      "title": "Chief Executive Officer",
+      "start": "2018",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+    },
+    {
+      "organization": "PepsiCo",
+      "title": "Chairman of the Board",
+      "start": "2019",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Began in international roles at confectioner Chupa Chups and spent two decades running commercial and regional consumer-goods businesses across PepsiCo Europe before becoming president and CEO.",
+  "tenure": {
+    "start": "2018-10-03",
+    "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+  },
+  "notable": [
+    {
+      "date": "2018-12",
+      "type": "decision",
+      "summary": "Completed PepsiCo's acquisition of SodaStream, announced in August 2018, as part of a push toward healthier products and less packaging waste.",
+      "source": "https://en.wikipedia.org/wiki/PepsiCo"
+    },
+    {
+      "date": "2020-03",
+      "type": "decision",
+      "summary": "Agreed to acquire Rockstar Energy for about $3.85 billion, expanding PepsiCo's energy-drink portfolio.",
+      "source": "https://en.wikipedia.org/wiki/PepsiCo"
+    },
+    {
+      "date": "2025-03",
+      "type": "decision",
+      "summary": "Announced the acquisition of prebiotic soda brand Poppi for more than $1.6 billion, following the $1.2 billion Siete Foods deal completed in January 2025.",
+      "source": "https://en.wikipedia.org/wiki/PepsiCo"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "In an agreement with activist investor Elliott Management, PepsiCo said it would cut nearly 20% of its U.S. product lineup by early 2026, close three manufacturing plants and reduce staff to focus on core brands.",
+      "source": "https://en.wikipedia.org/wiki/PepsiCo"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Barcelona native who started out at lollipop maker Chupa Chups now runs PepsiCo.",
+    "summary": "Laguarta is from Barcelona and studied business at ESADE before earning a master's in international management at Thunderbird in Arizona in 1986. He began his career at Spanish confectioner Chupa Chups, holding international roles in Europe and the U.S., then joined PepsiCo in 1996. Over two decades he ran snack and juice businesses in Greece and Iberia, led Eastern Europe, and became CEO of PepsiCo's Europe and Sub-Saharan Africa unit in 2014. Promoted to president in 2017, he moved to the U.S. and succeeded Indra Nooyi as CEO in October 2018, the company's sixth.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "From Barcelona, Spain; born 1963",
+        "source": "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/"
+      },
+      {
+        "label": "First job",
+        "value": "International roles at Chupa Chups in Europe and the U.S.",
+        "source": "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined PepsiCo in 1996 and spent two decades in its European businesses",
+        "source": "https://en.wikipedia.org/wiki/Ramon_Laguarta"
+      },
+      {
+        "label": "Other",
+        "value": "Speaks English, Spanish, French, German and Greek",
+        "source": "https://www.foxbusiness.com/business-leaders/pepsis-new-ceo-ramon-laguarta-five-things-to-know"
+      },
+      {
+        "label": "Other",
+        "value": "Succeeded Indra Nooyi as PepsiCo's sixth CEO in 2018",
+        "source": "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ramon_Laguarta",
+      "https://fortune.com/2018/08/06/key-facts-new-pepsico-ceo-ramon-laguarta/",
+      "https://www.foxbusiness.com/business-leaders/pepsis-new-ceo-ramon-laguarta-five-things-to-know",
+      "https://www.cnbc.com/2018/08/06/pepsicos-indra-nooyi-to-step-down-after-12-years-as-ceo-president-ra.html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "ESADE degree: Wikipedia says bachelor's and master's in business administration (1985); Fortune/Fox say MBA. Recorded as a single MBA entry.",
+    "Languages differ: Wikipedia adds Catalan; Fortune/Fox list English, Spanish, French, German and Greek.",
+    "Years at Chupa Chups and exact years of individual PepsiCo Europe roles not confirmed.",
+    "No 2026 CEO actions were sourced: PepsiCo's leadership page and newsroom archive were not reachable (404); notable items from 2025 Elliott settlement rely on the PepsiCo Wikipedia article without direct news URLs.",
+    "No verbatim quote from Laguarta about his path found on reachable pages; quote left null."
+  ],
+  "needs_enrichment": true
+}

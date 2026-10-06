@@ -1,0 +1,155 @@
+{
+  "id": "at-t",
+  "name": "John Stankey",
+  "company_id": "at-t",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Loyola Marymount University",
+      "degree": "BBA",
+      "field": "Finance",
+      "year": 1985,
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "degree": "MBA",
+      "field": null,
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Pacific Bell / SBC Communications",
+      "title": "Entry-level hire rising through operating roles to Executive Vice President, Industry Markets",
+      "start": "1985",
+      "end": "2001",
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    },
+    {
+      "organization": "SBC Southwest",
+      "title": "President and CEO",
+      "start": "2001",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    },
+    {
+      "organization": "AT&T",
+      "title": "Chief Information Officer, then Senior EVP and Chief Technology Officer",
+      "start": "2005",
+      "end": "2012",
+      "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+    },
+    {
+      "organization": "AT&T",
+      "title": "Chief Strategy Officer and Group President; later CEO of AT&T Entertainment Group after the DirecTV acquisition",
+      "start": "2012",
+      "end": "2018",
+      "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+    },
+    {
+      "organization": "WarnerMedia",
+      "title": "CEO",
+      "start": "2018",
+      "end": "2020",
+      "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+    },
+    {
+      "organization": "AT&T",
+      "title": "President and Chief Operating Officer",
+      "start": "2019",
+      "end": "2020",
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    },
+    {
+      "organization": "AT&T",
+      "title": "CEO (also Chairman of the Board)",
+      "start": "2020",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/John_Stankey"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent his entire career inside Pacific Bell, SBC and AT&T, running regional operations, technology and business units before becoming CEO.",
+  "tenure": {
+    "start": "2020-07-01",
+    "source": "https://en.wikipedia.org/wiki/John_Stankey"
+  },
+  "notable": [
+    {
+      "date": "2025-08",
+      "type": "statement",
+      "summary": "In a memo to employees, Stankey said AT&T was moving toward a \"more market-based culture\" with five-day in-office work at hub locations, and that those needing remote or hybrid schedules would have difficulty aligning with the company.",
+      "source": "https://www.entrepreneur.com/business-news/att-ceo-to-employees-embrace-rto-or-move-on/495427"
+    },
+    {
+      "date": "2026-02",
+      "type": "decision",
+      "summary": "AT&T completed its $5.75 billion all-cash acquisition of Lumen's consumer fiber business, adding more than 1 million fiber customers and over 4 million fiber locations in 11 states.",
+      "source": "https://about.att.com/story/2026/att-lumen-deal-close.html"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "AT&T committed to invest more than $250 billion through 2030 to build fiber and wireless networks across the United States.",
+      "source": "https://about.att.com/story/2026/att-announces-250-billion-commitment.html"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "AT&T completed its $23 billion purchase of low- and mid-band wireless spectrum licenses from EchoStar, a deal announced in August 2025.",
+      "source": "https://finance.yahoo.com/technology/articles/t-closes-23-billion-deal-205335496.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "John Stankey joined Pacific Bell straight out of college in 1985; 35 years later he became CEO of AT&T.",
+    "summary": "Stankey grew up in Los Angeles, the youngest of three children of an insurance underwriter and a stay-at-home mother. An Eagle Scout, he worked after school at a sporting goods store stringing tennis rackets, which he has said taught him how businesses decide what they can and can't do. After earning a finance degree from Loyola Marymount in 1985 he joined Pacific Bell, and while working in the Los Angeles cellular business during the late-1980s boom he earned a UCLA MBA, where strategy professor Richard Rumelt pushed him toward 'second-order thinking.' He moved up through the Baby Bell consolidations into SBC and AT&T, running technology, strategy, entertainment and WarnerMedia before taking over as CEO in July 2020.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Los Angeles; youngest of three children",
+        "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+      },
+      {
+        "label": "Family background",
+        "value": "Father an insurance underwriter, mother a stay-at-home parent",
+        "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+      },
+      {
+        "label": "First job",
+        "value": "High school job stringing tennis rackets at a sporting goods store; Eagle Scout",
+        "source": "https://www.nexttv.com/news/at-ts-change-agent"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Pacific Bell right after college in 1985 and stayed through its absorption into SBC and AT&T",
+        "source": "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/"
+      },
+      {
+        "label": "Mentor",
+        "value": "UCLA Anderson strategy professor Richard Rumelt",
+        "source": "https://www.anderson.ucla.edu/news-and-events/position-success"
+      }
+    ],
+    "quote": {
+      "text": "My parents had an expectation the day I graduated that I was on my own, and I was going to have to figure out how to put food on the table and shelter myself.",
+      "context": "UCLA Anderson School of Management alumni profile, April 2025",
+      "source": "https://www.anderson.ucla.edu/news-and-events/position-success",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://fortune.com/2020/04/24/new-att-ceo-john-stankey-2020/",
+      "https://www.nexttv.com/news/at-ts-change-agent",
+      "https://www.anderson.ucla.edu/news-and-events/position-success",
+      "https://en.wikipedia.org/wiki/John_Stankey"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Chairman role: Wikipedia says he was elected chairman in February 2025; not independently confirmed from an AT&T release.",
+    "Exact dates of pre-2001 Pacific Bell/SBC roles (EVP Industry Markets ~1998-2000) from Wikipedia only.",
+    "Date he became CEO of AT&T Entertainment Group (2015 per Fortune) not separately listed; condensed into the 2012-2018 career entry."
+  ]
+}

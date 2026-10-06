@@ -1,0 +1,138 @@
+{
+  "id": "apple",
+  "name": "John Ternus",
+  "company_id": "apple",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "BS",
+      "field": "Mechanical Engineering and Applied Mechanics",
+      "year": 1997,
+      "source": "https://www.thedp.com/article/2026/04/penn-apple-ceo-john-ternus-engineering"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Virtual Research Systems",
+      "title": "Mechanical engineer (virtual reality headsets)",
+      "start": null,
+      "end": "2001",
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+    },
+    {
+      "organization": "Apple",
+      "title": "Product design team engineer (initially Apple Cinema Display)",
+      "start": "2001",
+      "end": "2013",
+      "source": "https://en.wikipedia.org/wiki/John_Ternus"
+    },
+    {
+      "organization": "Apple",
+      "title": "Vice President, Hardware Engineering",
+      "start": "2013",
+      "end": "2021",
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+    },
+    {
+      "organization": "Apple",
+      "title": "Senior Vice President, Hardware Engineering",
+      "start": "2021",
+      "end": "2026",
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+    },
+    {
+      "organization": "Apple",
+      "title": "Chief Executive Officer",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A mechanical engineer who spent 25 years in Apple's product design and hardware engineering organization, leading hardware for iPhone, iPad, Mac, AirPods and Apple Watch before becoming CEO.",
+  "tenure": {
+    "start": "2026-09-01",
+    "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+  },
+  "notable": [
+    {
+      "date": "2026-04",
+      "type": "statement",
+      "summary": "On being named Tim Cook's successor, said he had been lucky to work under Steve Jobs and to have had Cook as his mentor, and was grateful to carry Apple's mission forward.",
+      "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Took over as CEO on September 1, 2026, with Tim Cook becoming executive chairman.",
+      "source": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "According to Bloomberg reporting, removed layers of engineering program managers and directors in the hardware group and scaled back some early-stage projects, with the aim of shipping products faster.",
+      "source": "https://macdailynews.com/2026/09/29/new-ceo-john-ternus-wants-apple-to-get-back-to-work"
+    },
+    {
+      "date": "2026-10",
+      "type": "decision",
+      "summary": "According to Bloomberg reporting, has taken direct, hands-on oversight of Apple's design teams rather than naming a new chief design officer.",
+      "source": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/"
+    }
+  ],
+  "personal_story": {
+    "hook": "As a Penn engineering student, John Ternus nearly broke the campus CNC machine and earned the nickname 'Crash.'",
+    "summary": "Ternus, a California native, studied mechanical engineering at the University of Pennsylvania, where he swam on the varsity team and, for his senior project, built a mechanical feeding arm that people with quadriplegia could control with head movements. After graduating in 1997 he designed virtual reality headsets at Virtual Research Systems. He joined Apple's product design team in 2001 — his second job out of college — and has said he was not sure at first that he belonged there. Over 25 years he rose to run hardware engineering, and on September 1, 2026 he succeeded Tim Cook as CEO.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "California native",
+        "source": "https://www.phillyvoice.com/apple-next-ceo-john-ternus-university-of-pennsylvania-tim-cook/"
+      },
+      {
+        "label": "Other",
+        "value": "Varsity swimmer at Penn; letter winner in men's swimming and diving",
+        "source": "https://www.inquirer.com/news/philadelphia/john-ternus-apple-ceo-university-of-pennsylvania-20260421.html"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Senior project: a head-controlled mechanical feeding arm for people with quadriplegia",
+        "source": "https://www.thedp.com/article/2026/04/penn-apple-ceo-john-ternus-engineering"
+      },
+      {
+        "label": "First job",
+        "value": "Mechanical engineer designing VR headsets at Virtual Research Systems",
+        "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Calls Tim Cook his mentor; worked under Steve Jobs",
+        "source": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"
+      }
+    ],
+    "quote": {
+      "text": "When I first got to Apple, it was my second job out of college, and the first time I walked through those doors, it was exhilarating and intimidating all at once.",
+      "context": "Undergraduate commencement address, Penn Engineering, 2024",
+      "source": "https://aletteraday.substack.com/p/letter-327-john-ternus-2024",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.inquirer.com/news/philadelphia/john-ternus-apple-ceo-university-of-pennsylvania-20260421.html",
+      "https://www.thedp.com/article/2026/04/penn-apple-ceo-john-ternus-engineering",
+      "https://aletteraday.substack.com/p/letter-327-john-ternus-2024",
+      "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "https://www.phillyvoice.com/apple-next-ceo-john-ternus-university-of-pennsylvania-tim-cook/",
+      "https://en.wikipedia.org/wiki/John_Ternus"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Fortune 500 page still lists Timothy D. Cook as CEO; Apple confirmed Ternus effective Sept 1, 2026.",
+    "Degree field: Apple says 'mechanical engineering'; Daily Pennsylvanian and Inquirer say 'mechanical engineering and applied mechanics' (DP also mentions a psychology minor, not included).",
+    "Start year at Virtual Research Systems not published (presumably 1997, after graduation); left null.",
+    "Sept-Oct 2026 restructuring and design-oversight items rely on Bloomberg reporting relayed by secondary outlets (MacDailyNews, 9to5Mac); Apple has not confirmed.",
+    "Quote taken from a Substack transcript of the 2024 Penn commencement speech via a summarizing fetch; verify against Penn's official video/transcript. The 'Crash' nickname comes from the same speech as reported by the Inquirer."
+  ]
+}

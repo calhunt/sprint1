@@ -1,0 +1,146 @@
+{
+  "id": "walmart",
+  "name": "John R. Furner",
+  "company_id": "walmart",
+  "education": [
+    {
+      "institution": "University of Arkansas",
+      "degree": "BS",
+      "field": "Marketing Management",
+      "year": 1996,
+      "source": "https://en.wikipedia.org/wiki/John_Furner"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Walmart",
+      "title": "Hourly associate, then store, district, buying, regional and sourcing roles (incl. VP of Global Sourcing)",
+      "start": "1993",
+      "end": null,
+      "source": "https://corporate.walmart.com/about/board-of-directors/john-furner"
+    },
+    {
+      "organization": "Walmart China",
+      "title": "Chief Merchandising and Marketing Officer",
+      "start": null,
+      "end": "2015",
+      "source": "https://www.andnowuknow.com/buyside-news/walmart-taps-john-furner-new-sams-club-ceo-rosalind-brewer-exit/laura-hillen/52166"
+    },
+    {
+      "organization": "Sam's Club",
+      "title": "Executive Vice President and Chief Merchandising Officer",
+      "start": "2015",
+      "end": "2017",
+      "source": "https://www.andnowuknow.com/buyside-news/walmart-taps-john-furner-new-sams-club-ceo-rosalind-brewer-exit/laura-hillen/52166"
+    },
+    {
+      "organization": "Sam's Club",
+      "title": "President and CEO",
+      "start": "2017",
+      "end": "2019",
+      "source": "https://www.andnowuknow.com/buyside-news/walmart-taps-john-furner-new-sams-club-ceo-rosalind-brewer-exit/laura-hillen/52166"
+    },
+    {
+      "organization": "Walmart U.S.",
+      "title": "President and CEO",
+      "start": "2019",
+      "end": "2026",
+      "source": "https://corporate.walmart.com/news/2019/10/10/walmart-names-john-furner-president-ceo-of-walmart-u-s"
+    },
+    {
+      "organization": "Walmart Inc.",
+      "title": "President and CEO",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000172/pressrelease111425.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent his entire 30+ year career inside Walmart, rising from hourly store associate through store operations, merchandising and sourcing to run Sam's Club and Walmart U.S.",
+  "tenure": {
+    "start": "2026-02-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000172/pressrelease111425.htm"
+  },
+  "notable": [
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "As incoming CEO, announced an executive reorganization effective Feb. 1, 2026, naming new heads of Walmart U.S., Walmart International and Sam's Club U.S. and creating a Chief Growth Officer role, citing AI reshaping retail.",
+      "source": "https://corporate.walmart.com/news/2026/01/16/walmart-announces-leadership-changes"
+    },
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "On his first earnings call as CEO, Furner said Walmart's use of technology and AI was helping reduce friction and simplify decision-making, as the company reported fiscal 2026 revenue of about $713 billion.",
+      "source": "https://www.ciodive.com/news/walmart-AI-wins-sparky-john-furner/812606/"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Walmart laid off or relocated about 1,000 corporate employees, mainly in global technology and AI product teams, as part of a restructuring to streamline teams.",
+      "source": "https://gvwire.com/2026/05/12/walmart-lays-off-or-relocates-about-1000-corporate-workers-wsj-reports/"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "In a public letter to customers, Furner pledged that Walmart will not use customer data or AI to set personalized prices, stating \"We price the product, not the person.\"",
+      "source": "https://www.foxbusiness.com/retail/walmart-vows-not-use-customer-data-personalized-pricing-we-wont-do-it"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Start year of Walmart China role unconfirmed: AndNowUKnow implies ~2013-2015 (two years before Oct 2015), Wikipedia suggests ~2014-2017; start left null.",
+    "Graduation year 1996 sourced only from Wikipedia; Walmart's official bio gives no year.",
+    "Date of the personalized-pricing letter: Shelby Report says Sept 25, 2026, Fox Business reports Sept 27; recorded as 2026-09.",
+    "Father's Walmart tenure differs: NWA Democrat-Gazette (2018) says 21 years (assistant regional manager to regional VP); Fortune (Mar 2026) says 25 years, joining operations in 1977. Story says only 'regional manager'.",
+    "Mother's illness timing differs: NWA says diagnosed 1988, died April 1989; Fortune says she fell ill in 1987 and store managers raised money for the family (story not clearly attributed to Furner, so omitted).",
+    "First job location: Walmart bio and Fortune say Store 100 garden center (1993); NWA 2018 profile describes a part-time start at Sam's Club and work at a Springdale Walmart during college. Order/timing of the Mexico internship relative to 1993 is unclear."
+  ],
+  "personal_story": {
+    "hook": "John Furner started at Walmart stacking mulch in a store garden center; 33 years later, he runs the company.",
+    "summary": "Furner grew up in central Arkansas, the son of a Walmart regional manager, and spent summers on his grandfather's farm gathering eggs and selling watermelons at a roadside stand. He lost his mother when he was 14, and says that to understand who he is, you'd have to have met her. As a teenager he got hooked on a $125 guitar, and at the University of Arkansas he played in a cover band for a few months and switched majors several times before settling on marketing. In 1993 he took a part-time hourly job in the garden center of Walmart's Store 100 in Bentonville, and an internship at a Sam's Club in Mexico showed him shopping as a family outing. From there he worked through store, buying and international roles to lead Sam's Club, then Walmart U.S., and, from February 2026, all of Walmart.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1974 in Jacksonville, Ark.; summers on grandfather's farm near Russellville selling produce at a roadside stand",
+        "source": "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked at Walmart for decades, rising to regional vice president; mother died in 1989 when he was 14",
+        "source": "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Spent a teenage year obsessed with guitar and briefly played in a cover band before choosing marketing",
+        "source": "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/"
+      },
+      {
+        "label": "First job",
+        "value": "1993: part-time hourly associate in the garden center of Walmart Store 100, Bentonville",
+        "source": "https://corporate.walmart.com/about/board-of-directors/john-furner"
+      },
+      {
+        "label": "Turning point",
+        "value": "Four-month Sam's Club internship in Mexico, where he saw shopping as family entertainment",
+        "source": "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/"
+      }
+    ],
+    "quote": {
+      "text": "If you wanted to know the reason I am who I am, you'd have to meet my mom.",
+      "context": "Interview with the Northwest Arkansas Democrat-Gazette 'High Profile' column, Feb. 2018, while Sam's Club CEO",
+      "source": "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://www.nwaonline.com/news/2018/feb/11/john-robert-furner/",
+      "https://corporate.walmart.com/about/board-of-directors/john-furner",
+      "https://fortune.com/2026/06/04/walmart-ceo-john-furmer-leadership-secrets-for-success-embrace-change-career-advice-three-decades-retail-experience/",
+      "https://fortune.com/2026/03/10/walmart-ceo-john-furner-leadership-strategy-walmart-learned-from-father/",
+      "https://www.fastcompany.com/91548708/walmart-ceo-john-furners-first-interview",
+      "https://www.sec.gov/Archives/edgar/data/104169/000010416925000172/pressrelease111425.htm",
+      "https://en.wikipedia.org/wiki/John_Furner"
+    ]
+  }
+}

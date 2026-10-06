@@ -1,0 +1,157 @@
+{
+  "id": "microsoft",
+  "name": "Satya Nadella",
+  "company_id": "microsoft",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Mangalore University",
+      "degree": "BE",
+      "field": "Electrical Engineering",
+      "year": 1988,
+      "source": "https://news.microsoft.com/exec/satya-nadella/"
+    },
+    {
+      "institution": "University of Wisconsin-Milwaukee",
+      "degree": "MS",
+      "field": "Computer Science",
+      "year": 1990,
+      "source": "https://en.wikipedia.org/wiki/Satya_Nadella"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "MBA",
+      "field": null,
+      "year": 1997,
+      "source": "https://news.uchicago.edu/story/microsoft-ceo-elected-university-chicago-board-trustees"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Sun Microsystems",
+      "title": "Member of technology staff",
+      "start": "1990",
+      "end": "1992",
+      "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf"
+    },
+    {
+      "organization": "Microsoft",
+      "title": "Engineer, rising to Corporate Vice President of Microsoft Business Solutions (Dynamics) and Search & Advertising",
+      "start": "1992",
+      "end": "2007",
+      "source": "https://news.microsoft.com/exec/satya-nadella/"
+    },
+    {
+      "organization": "Microsoft",
+      "title": "Senior Vice President, Research and Development, Online Services Division",
+      "start": "2007",
+      "end": "2011",
+      "source": "https://en.wikipedia.org/wiki/Satya_Nadella"
+    },
+    {
+      "organization": "Microsoft",
+      "title": "President, Server and Tools Business",
+      "start": "2011",
+      "end": "2013",
+      "source": "https://en.wikipedia.org/wiki/Satya_Nadella"
+    },
+    {
+      "organization": "Microsoft",
+      "title": "Executive Vice President, Cloud and Enterprise Group",
+      "start": "2013",
+      "end": "2014",
+      "source": "https://news.microsoft.com/source/2014/02/04/microsoft-board-names-satya-nadella-as-ceo/"
+    },
+    {
+      "organization": "Microsoft",
+      "title": "Chief Executive Officer (Chairman and CEO since 2021)",
+      "start": "2014",
+      "end": null,
+      "source": "https://news.microsoft.com/source/2014/02/04/microsoft-board-names-satya-nadella-as-ceo/"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An electrical engineer and computer scientist who spent 22 years in Microsoft engineering and product leadership, culminating in running its server tools and cloud business, before becoming CEO.",
+  "tenure": {
+    "start": "2014-02-04",
+    "source": "https://news.microsoft.com/source/2014/02/04/microsoft-board-names-satya-nadella-as-ceo/"
+  },
+  "notable": [
+    {
+      "date": "2025-07",
+      "type": "statement",
+      "summary": "In a memo to employees after about 15,000 job cuts in 2025, Nadella said the layoffs weighed heavily on him and called the situation \"the enigma of success in an industry that has no franchise value,\" saying Microsoft must become an \"intelligence engine.\"",
+      "source": "https://www.techrepublic.com/article/news-microsoft-layoffs-satya-nadella/"
+    },
+    {
+      "date": "2025-10",
+      "type": "decision",
+      "summary": "Microsoft signed a new definitive agreement with OpenAI as it recapitalized into a public benefit corporation, giving Microsoft a roughly 27% stake and IP rights through 2032 while loosening exclusivity terms.",
+      "source": "https://www.computing.co.uk/news/2025/microsoft-takes-27-percent-stake-openai"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "With Mustafa Suleyman, announced a reorganization unifying Microsoft's consumer and commercial Copilot efforts under a single leader, Jacob Andreou, as EVP of Copilot.",
+      "source": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/"
+    },
+    {
+      "date": "2016-12",
+      "type": "decision",
+      "summary": "Completed Microsoft's $26.2 billion acquisition of LinkedIn, the largest deal of his tenure at the time.",
+      "source": "https://www.geekwire.com/2016/microsofts-26b-linkedin-deal-closes/"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Hyderabad teenager who hoped to play cricket, Satya Nadella became Microsoft's third CEO 22 years after joining.",
+    "summary": "Nadella grew up in Hyderabad, the son of a civil servant and economist and a Sanskrit professor who, he says, \"could hardly agree on anything.\" His real interest was cricket; he played junior cricket for his state but concluded he was not going to make it. He studied electrical engineering in India, then chose the University of Wisconsin-Milwaukee for a master's in computer science largely because it offered him a research assistantship. After two years at Sun Microsystems he joined Microsoft in 1992 and earned a Chicago MBA while working there. He rose through the business software, search and cloud divisions and was named CEO in February 2014.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1967 in Hyderabad, India; attended Hyderabad Public School",
+        "source": "https://en.wikipedia.org/wiki/Satya_Nadella"
+      },
+      {
+        "label": "Family background",
+        "value": "Father a civil servant and economist; mother a Sanskrit professor",
+        "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Cricket; played junior cricket for his state",
+        "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf"
+      },
+      {
+        "label": "Turning point",
+        "value": "Chose Milwaukee for grad school based on where he could get a research assistantship",
+        "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf"
+      },
+      {
+        "label": "First job",
+        "value": "Technology staff at Sun Microsystems, starting 1990",
+        "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf"
+      }
+    ],
+    "quote": {
+      "text": "I played some junior cricket for the – for the state, but – [laughs] – I mean, it was pretty evident that there was no way I was going to make it.",
+      "context": "Conversation at the Economic Club of Washington, D.C., Oct. 4, 2017, discussing his book Hit Refresh",
+      "source": "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://www.economicclub.org/sites/default/files/transcripts/Economic_Club_Satya_Nadella_Transcript.pdf",
+      "https://en.wikipedia.org/wiki/Satya_Nadella",
+      "https://news.microsoft.com/exec/satya-nadella/",
+      "https://news.uchicago.edu/story/microsoft-ceo-elected-university-chicago-board-trustees"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Undergraduate institution: Microsoft and UChicago bios say Mangalore University (the degree-granting university); Wikipedia and others say Manipal Institute of Technology, then affiliated with Mangalore University. Degree type (BE vs BS) not stated by official bio ('Bachelor's degree in electrical engineering').",
+    "Years for BE (1988) and MS (1990) come from Wikipedia only; Sun start year 1990 from his own remarks.",
+    "Microsoft roles 1992-2007 condensed; exact years for VP Business Division / Business Solutions not confirmed.",
+    "Notable items include a 2016 decision for context; recent items are 2025-2026.",
+    "Oct. 2026 CNBC report of LinkedIn CEO Ryan Roslansky's departure could not be fetched (403); not included."
+  ]
+}

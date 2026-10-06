@@ -1,0 +1,120 @@
+{
+  "id": "energy-transfer--mccrea",
+  "name": "Marshall S. \"Mackie\" McCrea III",
+  "company_id": "energy-transfer",
+  "role": "Co-CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Energy Transfer (La Grange Acquisition LP)",
+      "title": "Senior Vice President - Business Development and Producer Services",
+      "start": "1997",
+      "end": "2005",
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    },
+    {
+      "organization": "Energy Transfer",
+      "title": "Senior Vice President - Commercial Development; President of La Grange Acquisition LP (from March 2005)",
+      "start": "2004",
+      "end": "2007",
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    },
+    {
+      "organization": "Energy Transfer",
+      "title": "President - Midstream",
+      "start": "2007",
+      "end": "2008",
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    },
+    {
+      "organization": "Energy Transfer Operating, L.P.",
+      "title": "President and Chief Operating Officer (director of Energy Transfer LP from Dec. 2009)",
+      "start": "2008",
+      "end": "2015",
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    },
+    {
+      "organization": "Energy Transfer family",
+      "title": "Group Chief Operating Officer and Chief Commercial Officer",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    },
+    {
+      "organization": "Energy Transfer LP",
+      "title": "Co-Chief Executive Officer and Chief Commercial Officer",
+      "start": "2021",
+      "end": null,
+      "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Rose at Energy Transfer through business development, commercial and operating roles, serving as president and COO of its operating partnership and later group COO and chief commercial officer.",
+  "tenure": {
+    "start": "2021-01",
+    "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+  },
+  "notable": [
+    {
+      "date": "2026-06",
+      "type": "statement",
+      "summary": "McCrea notified Energy Transfer that he intends to retire as co-CEO on or before Dec. 31, 2026, citing personal objectives and more time with family, and will remain on the board afterward.",
+      "source": "https://ir.energytransfer.com/node/52376/html"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Energy Transfer announced a fully subscribed expansion of its Nederland, Texas, export terminal adding 240,000 barrels per day of ethane export capacity, with phased startup from 2028.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-announces-fully-subscribed-export-expansion"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Energy Transfer, Sunoco, SunocoCorp and USA Compression changed their state of formation from Delaware to Texas, effective July 6, 2026.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-lp-sunoco-lp-sunococorp-llc-and-usa-compression"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Energy Transfer announced it would move its common unit listing from the NYSE to the Texas Stock Exchange, effective Oct. 5, 2026.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-transfer-stock-exchange-listings-texas-stock"
+    }
+  ],
+  "personal_story": {
+    "hook": "Mackie McCrea joined Energy Transfer's business in 1997 and became its co-CEO 24 years later.",
+    "summary": "Little about McCrea's early life is public. He joined La Grange Acquisition, Energy Transfer's main operating subsidiary, in 1997 as senior vice president of business development and producer services, and became its president in 2005. He went on to lead the midstream business, served as president and COO of the operating partnership from 2008 to 2015, and later as group COO and chief commercial officer. Named co-CEO in January 2021, he announced in June 2026 that he would retire by the end of the year to pursue personal objectives and spend more time with his family.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Earliest disclosed role: SVP of business development and producer services at La Grange Acquisition LP from 1997",
+        "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named president of La Grange Acquisition LP, Energy Transfer's primary operating subsidiary, in March 2005",
+        "source": "https://ir.energytransfer.com/board-member/marshall-mccrea"
+      },
+      {
+        "label": "Other",
+        "value": "Plans to retire as co-CEO on or before Dec. 31, 2026, staying on the board",
+        "source": "https://ir.energytransfer.com/node/52376/html"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://ir.energytransfer.com/board-member/marshall-mccrea",
+      "https://ir.energytransfer.com/node/52376/html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education not found: Energy Transfer bio omits it, no Wikipedia article was reachable, and the 10-K Item 10 text could not be retrieved. Education left empty.",
+    "Career before 1997 not disclosed in the sources reached.",
+    "Role between October 2018 and January 2021 not stated in the bio (he is described as chief commercial officer currently).",
+    "Retirement 8-K dated June 1, 2026 (filed June 3); the stated reasons are the company's paraphrase, not a direct quote.",
+    "Background category ambiguous between Operations and Sales & Marketing (long-time chief commercial officer); chose Operations.",
+    "Co-CEO since January 2021 per bio; exact day not confirmed."
+  ],
+  "needs_enrichment": true
+}

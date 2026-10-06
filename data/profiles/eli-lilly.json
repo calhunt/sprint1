@@ -1,0 +1,146 @@
+{
+  "id": "eli-lilly",
+  "name": "David A. Ricks",
+  "company_id": "eli-lilly",
+  "education": [
+    {
+      "institution": "Purdue University",
+      "degree": "BS",
+      "field": "Industrial Management",
+      "year": 1990,
+      "source": "https://www.purdue.edu/bot/about/trustees/trustee-bios/ricks.php"
+    },
+    {
+      "institution": "Indiana University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1996,
+      "source": "https://www.purdue.edu/bot/about/trustees/trustee-bios/ricks.php"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Eli Lilly and Company",
+      "title": "Business Development Associate; later U.S. marketing and sales management and Lilly Canada sales/marketing roles",
+      "start": "1996",
+      "end": "2005",
+      "source": "https://assets.ctfassets.net/srys4ukjcerm/1qkSIAXFDT9IGU2TcW8mDL/6f925dd36c8e8e658a4b0f98464058c3/2022_02_25RicksPrintable.pdf"
+    },
+    {
+      "organization": "Eli Lilly and Company (Lilly Canada)",
+      "title": "General Manager",
+      "start": "2005",
+      "end": "2008",
+      "source": "https://assets.ctfassets.net/srys4ukjcerm/1qkSIAXFDT9IGU2TcW8mDL/6f925dd36c8e8e658a4b0f98464058c3/2022_02_25RicksPrintable.pdf"
+    },
+    {
+      "organization": "Eli Lilly and Company (Lilly China)",
+      "title": "President and General Manager",
+      "start": "2008",
+      "end": "2009",
+      "source": "https://assets.ctfassets.net/srys4ukjcerm/1qkSIAXFDT9IGU2TcW8mDL/6f925dd36c8e8e658a4b0f98464058c3/2022_02_25RicksPrintable.pdf"
+    },
+    {
+      "organization": "Eli Lilly and Company (Lilly USA)",
+      "title": "President",
+      "start": "2009",
+      "end": "2012",
+      "source": "https://assets.ctfassets.net/srys4ukjcerm/1qkSIAXFDT9IGU2TcW8mDL/6f925dd36c8e8e658a4b0f98464058c3/2022_02_25RicksPrintable.pdf"
+    },
+    {
+      "organization": "Eli Lilly and Company (Lilly Bio-Medicines)",
+      "title": "President",
+      "start": "2012",
+      "end": "2016",
+      "source": "https://www.prnewswire.com/news-releases/john-c-lechleiter-to-retire-as-lilly-ceo-board-elects-david-a-ricks-as-successor-300304528.html"
+    },
+    {
+      "organization": "Eli Lilly and Company",
+      "title": "Chief Executive Officer (Chair since June 2017)",
+      "start": "2017",
+      "end": null,
+      "source": "https://www.prnewswire.com/news-releases/john-c-lechleiter-to-retire-as-lilly-ceo-board-elects-david-a-ricks-as-successor-300304528.html"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Ricks rose through Lilly's commercial organization, from U.S. marketing and sales roles to running the company's Canadian, Chinese and U.S. commercial operations before leading Lilly Bio-Medicines.",
+  "tenure": {
+    "start": "2017-01-01",
+    "source": "https://www.prnewswire.com/news-releases/john-c-lechleiter-to-retire-as-lilly-ceo-board-elects-david-a-ricks-as-successor-300304528.html"
+  },
+  "notable": [
+    {
+      "date": "2023-03",
+      "type": "decision",
+      "summary": "Lilly announced a 70% list-price cut on its most commonly prescribed insulins and a $35 monthly cap on patient out-of-pocket insulin costs, with Ricks stating that the system 'does not provide affordable insulin for everyone and that needs to change.'",
+      "source": "https://investor.lilly.com/news-releases/news-release-details/lilly-cuts-insulin-prices-70-and-caps-patient-insulin-out-pocket"
+    },
+    {
+      "date": "2025-02",
+      "type": "decision",
+      "summary": "Lilly announced a $27 billion investment to build four new U.S. manufacturing sites, three for active pharmaceutical ingredients and one for injectable medicines.",
+      "source": "https://www.statnews.com/2025/02/26/eli-lilly-drug-manufacturing-investment/"
+    },
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "Lilly reached an agreement with the Trump administration to lower prices of its GLP-1 obesity drugs for Medicare and direct cash purchases, in exchange for a three-year exemption from pharmaceutical tariffs.",
+      "source": "https://www.healthcaredive.com/news/lilly-novo-trump-obesity-drug-pricing-deal-zepbound-wegovy/804937/"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Start/end years for early roles (business development associate, U.S. marketing/sales, Lilly Canada national sales director and marketing director) are not individually documented; condensed into one 1996-2005 entry.",
+    "Indiana University MBA field/concentration not stated in sources (Wikipedia attributes it to the Kelley School of Business).",
+    "Lilly.com leadership bio page returned 404; career years taken from a 2022 Lilly-hosted printable bio PDF and the 2016 succession press release.",
+    "Only 3 notable items recorded; 2026 events (e.g., Foundayo approval April 2026) not included as CEO decisions/statements could not be sourced from an opened article.",
+    "Hometown conflict: Ricks says he grew up in California's East Bay (Posse Foundation interview, 2019); a Chief Executive article summary was ambiguous about him being an 'Indiana native' — East Bay used as it is in his own words.",
+    "The medicine his mother was prescribed is not named in the Cheeky Pint transcript.",
+    "IBM role/dates unspecified (Chief Executive says 'a stint at IBM' before Lilly); order relative to MBA unclear."
+  ],
+  "personal_story": {
+    "hook": "He says he joined Eli Lilly \"accidentally\" in 1996. Two decades later, he was running it.",
+    "summary": "David Ricks grew up in California's East Bay, in what he calls a melting pot, and his parents took the family to live abroad. He studied industrial management at Purdue, worked at IBM and earned an MBA at Indiana University. In 1996 he joined Lilly as a business development associate largely because his girlfriend, now his wife, was in medical school — he later said he came to the company \"accidentally.\" One project he had worked on became an approved medicine that his own mother was later prescribed, and Lilly kept moving him into jobs he says he \"had no business being in,\" including running its businesses in Canada and China, before he became CEO in 2017.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "East Bay area of California; parents emphasized global travel and the family lived abroad",
+        "source": "https://www.possefoundation.org/news-and-events/ubben-posse-fellow-interviews-david-ricks"
+      },
+      {
+        "label": "First job",
+        "value": "Worked at IBM, then joined Lilly in 1996 as a business development associate after an IU MBA",
+        "source": "https://chiefexecutive.net/ceo-of-the-year-a-conversation-with-eli-lillys-dave-ricks/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Followed his girlfriend (now wife), a medical student, to Indianapolis — calls his arrival at Lilly 'accidental'",
+        "source": "https://chiefexecutive.net/ceo-of-the-year-a-conversation-with-eli-lillys-dave-ricks/"
+      },
+      {
+        "label": "Other",
+        "value": "A project he worked on became a medicine his mother was later prescribed — 'that's the magic'",
+        "source": "https://cheekypint.transistor.fm/18/transcript"
+      },
+      {
+        "label": "Other",
+        "value": "Received the Distinguished Eagle Scout Award in 2016",
+        "source": "https://engineering.purdue.edu/BME/AboutUs/News/2016/alumnus-receives-high-honor-from-boy-scouts-of-america"
+      }
+    ],
+    "quote": {
+      "text": "Have a sense of adventure! Move around, and don't be afraid to change.",
+      "context": "Advice to new graduates, Ubben Posse Fellow interview, summer 2019",
+      "source": "https://www.possefoundation.org/news-and-events/ubben-posse-fellow-interviews-david-ricks",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.possefoundation.org/news-and-events/ubben-posse-fellow-interviews-david-ricks",
+      "https://chiefexecutive.net/ceo-of-the-year-a-conversation-with-eli-lillys-dave-ricks/",
+      "https://cheekypint.transistor.fm/18/transcript",
+      "https://engineering.purdue.edu/BME/AboutUs/News/2016/alumnus-receives-high-honor-from-boy-scouts-of-america",
+      "https://purdueforlife.shorthandstories.com/lilly/index.html"
+    ]
+  }
+}

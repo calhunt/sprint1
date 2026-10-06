@@ -1,0 +1,153 @@
+{
+  "id": "tesla",
+  "name": "Elon Musk",
+  "company_id": "tesla",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "BA",
+      "field": "Physics",
+      "year": 1997,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "BS",
+      "field": "Economics",
+      "year": 1997,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Zip2",
+      "title": "Co-founder",
+      "start": "1995",
+      "end": "1999",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "X.com / PayPal",
+      "title": "Co-founder and CEO of X.com (merged with Confinity, later PayPal)",
+      "start": "1999",
+      "end": "2002",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "SpaceX",
+      "title": "Founder, CEO and Chief Engineer",
+      "start": "2002",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "Tesla",
+      "title": "Lead Series A investor and chairman",
+      "start": "2004",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "Tesla",
+      "title": "Chief Executive Officer",
+      "start": "2008",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "Twitter (now X)",
+      "title": "Owner and CEO after $44 billion acquisition",
+      "start": "2022",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    },
+    {
+      "organization": "xAI",
+      "title": "Founder",
+      "start": "2023",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "A serial entrepreneur who co-founded Zip2 and X.com and founded SpaceX, and was Tesla's lead early investor and chairman before taking over as CEO in 2008.",
+  "tenure": {
+    "start": "2008-10",
+    "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+  },
+  "notable": [
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "Tesla shareholders approved a performance-based 2025 CEO Performance Award for Musk, granted by the board in September 2025, by about 1.89 billion votes to 565 million.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925108507/tm2530590d1_8k.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Tesla agreed to invest about $2 billion in preferred stock of Musk's AI company xAI, after reporting that 2025 vehicle deliveries fell 9% and revenue fell 3%.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Tesla began removing safety monitors from its Robotaxi vehicles in Austin, Texas.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Tesla reported it had begun Cybercab production at Gigafactory Texas, had Robotaxi operating in seven metro areas, and was installing Optimus robot production lines at Fremont in place of Model S/X lines.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/exhibit991.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "At 12, Elon Musk sold a video game he had coded himself for about $500.",
+    "summary": "Musk was born in 1971 in Pretoria, South Africa, and was severely bullied as a child. He became interested in computers around age 10, taught himself programming from a VIC-20 manual, and at 12 sold his BASIC game Blastar for about $500; he has credited part of his success to reading books like The Lord of the Rings, the Foundation series and The Hitchhiker's Guide to the Galaxy. At 17 he emigrated to Canada, partly to avoid South African military service, studied at Queen's University, then transferred to the University of Pennsylvania. Accepted to a Stanford graduate program in 1995, he did not enroll and instead co-founded Zip2; its 1999 sale and the later sale of PayPal funded SpaceX and his early investment in Tesla.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1971 in Pretoria, South Africa",
+        "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Taught himself programming; sold the game Blastar at age 12",
+        "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      {
+        "label": "Other",
+        "value": "Emigrated to Canada in 1989 at 17",
+        "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      {
+        "label": "Turning point",
+        "value": "Skipped a Stanford materials science graduate program in 1995 to start Zip2",
+        "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      {
+        "label": "Other",
+        "value": "Received about $22 million from Zip2's 1999 sale to Compaq and about $176 million from PayPal's sale to eBay",
+        "source": "https://en.wikipedia.org/wiki/Elon_Musk"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elon_Musk"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Story and career sourced only to Wikipedia; primary interviews/profiles could not be located without web search (achievement.org page 404).",
+    "Quote omitted: Wikiquote lines from a 2007 PBS Wired Science interview ('One was the Internet, one was clean energy and one was space...') appear as fragments and could not be verified verbatim against the original.",
+    "End date of Tesla chairmanship left null: the fetched Wikipedia summary said he resigned as chairman in May 2020 under an SEC settlement, which conflicts with widely reported 2018 timing; needs checking.",
+    "Queen's University (attended 1990-1992, no degree) omitted from education list; mentioned in story only.",
+    "Pay package: Wikipedia describes the Nov 2025 award as worth up to about $1 trillion over 10 years, contingent on an $8.5 trillion market cap; the 8-K summary did not detail share count, so the value is not stated in notable.",
+    "June 2025 Austin Robotaxi launch not included: fetched Wikipedia summaries were inconsistent on it.",
+    "Q2 2026 update shows a SpaceX equity holding ($2.0B purchased in Q1 2026) rather than xAI; the relationship between the January 2026 xAI investment and this holding was not verified.",
+    "Non-Tesla 2025 role as senior adviser leading DOGE (Jan-May 2025) not included in notable since it is outside Tesla."
+  ],
+  "needs_enrichment": true
+}

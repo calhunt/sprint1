@@ -1,0 +1,137 @@
+{
+  "id": "ibm",
+  "name": "Arvind Krishna",
+  "company_id": "ibm",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Kanpur",
+      "degree": "BTech",
+      "field": "Electrical Engineering",
+      "year": 1985,
+      "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "degree": "PhD",
+      "field": "Electrical Engineering",
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+    }
+  ],
+  "career": [
+    {
+      "organization": "IBM Thomas J. Watson Research Center",
+      "title": "Researcher, rising to research leadership roles",
+      "start": "1990",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+    },
+    {
+      "organization": "IBM Systems and Technology Group",
+      "title": "General Manager (incl. Information Management Software)",
+      "start": "2009",
+      "end": "2015",
+      "source": "https://newsroom.ibm.com/Arvind-Krishna"
+    },
+    {
+      "organization": "IBM Research",
+      "title": "Senior Vice President and Director",
+      "start": "2015",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+    },
+    {
+      "organization": "IBM Cloud and Cognitive Software",
+      "title": "Senior Vice President; led the $34 billion Red Hat acquisition",
+      "start": null,
+      "end": "2020",
+      "source": "https://newsroom.ibm.com/Arvind-Krishna"
+    },
+    {
+      "organization": "IBM",
+      "title": "Chief Executive Officer (Chairman from 2021)",
+      "start": "2020",
+      "end": null,
+      "source": "https://www.cnbc.com/2020/04/06/arvind-krishna-takes-over-as-ibm-ceo.html"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An electrical engineering PhD who spent nearly two decades at IBM Research and led IBM's research, systems and cloud software businesses before becoming CEO.",
+  "tenure": {
+    "start": "2020-04-06",
+    "source": "https://www.cnbc.com/2020/04/06/arvind-krishna-takes-over-as-ibm-ceo.html"
+  },
+  "notable": [
+    {
+      "date": "2020-04",
+      "type": "statement",
+      "summary": "In his first memo as CEO, during the COVID-19 pandemic, Krishna told employees that the crisis had shown IBM's essential role and that 'trust is our license to operate.'",
+      "source": "https://www.cnbc.com/2020/04/06/arvind-krishna-takes-over-as-ibm-ceo.html"
+    },
+    {
+      "date": "2021-11",
+      "type": "decision",
+      "summary": "Completed the spin-off of IBM's managed infrastructure services unit as Kyndryl, announced in October 2020, to focus IBM on hybrid cloud and AI.",
+      "source": "https://en.wikipedia.org/wiki/Kyndryl"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Announced the acquisition of data-streaming company Confluent at an $11 billion valuation; the deal closed in March 2026.",
+      "source": "https://en.wikipedia.org/wiki/Confluent,_Inc."
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "IBM agreed to acquire HRL Laboratories to add expertise in silicon-spin qubits, quantum sensing and cryogenics.",
+      "source": "https://en.wikipedia.org/wiki/IBM"
+    }
+  ],
+  "personal_story": {
+    "hook": "Arvind Krishna joined IBM's research lab in 1990 and spent 30 years there before becoming CEO.",
+    "summary": "Krishna was born in 1962 in Andhra Pradesh, India, into a Telugu family; his father was an Indian Army officer who rose to major general. He attended schools in Coonoor, Tamil Nadu, and Dehradun, then earned an electrical engineering degree at IIT Kanpur in 1985. He moved to the U.S. for a PhD at the University of Illinois Urbana-Champaign and joined IBM's Thomas J. Watson Research Center in 1990, where he spent about 18 years. He later ran IBM Research and its cloud software business and was a principal architect of the $34 billion Red Hat acquisition, the deal that preceded his appointment as CEO in 2020.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1962 in West Godavari District, Andhra Pradesh; schooled in Coonoor and Dehradun",
+        "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+      },
+      {
+        "label": "Family background",
+        "value": "Son of an Indian Army officer who reached the rank of major general",
+        "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+      },
+      {
+        "label": "First job",
+        "value": "Researcher at IBM's Thomas J. Watson Research Center from 1990",
+        "source": "https://en.wikipedia.org/wiki/Arvind_Krishna"
+      },
+      {
+        "label": "Turning point",
+        "value": "Led the $34 billion Red Hat acquisition, IBM's biggest software deal",
+        "source": "https://newsroom.ibm.com/Arvind-Krishna"
+      },
+      {
+        "label": "Other",
+        "value": "Co-author of 15 patents; named by Wired in 2016 among '25 geniuses' for blockchain work",
+        "source": "https://newsroom.ibm.com/Arvind-Krishna"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Arvind_Krishna",
+      "https://newsroom.ibm.com/Arvind-Krishna",
+      "https://www.cnbc.com/2020/04/06/arvind-krishna-takes-over-as-ibm-ceo.html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Interview sources (India Today, Economic Times, NYT) were blocked, so the personal story relies on Wikipedia and the IBM newsroom bio; no verbatim quote about his path was confirmed.",
+    "Exact end date of the SVP IBM Research role and start of the Cloud and Cognitive Software role not confirmed (both cited as 2015 onward on Wikipedia).",
+    "Confluent and HRL Laboratories items cite Wikipedia; IBM press release URLs could not be located without search.",
+    "Patent count (15) is from Wikipedia; the IBM bio was not checked for this figure."
+  ],
+  "needs_enrichment": true
+}

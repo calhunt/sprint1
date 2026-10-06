@@ -1,0 +1,153 @@
+{
+  "id": "broadcom",
+  "name": "Hock E. Tan",
+  "company_id": "broadcom",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "BS",
+      "field": "Mechanical Engineering",
+      "year": 1975,
+      "source": "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706"
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "degree": "MS",
+      "field": "Mechanical Engineering",
+      "year": 1975,
+      "source": "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706"
+    }
+  ],
+  "career": [
+    {
+      "organization": "PepsiCo; General Motors",
+      "title": "Finance positions",
+      "start": null,
+      "end": null,
+      "source": "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706"
+    },
+    {
+      "organization": "Hume Industries (Malaysia)",
+      "title": "Managing director",
+      "start": "1983",
+      "end": "1988",
+      "source": "https://theedgemalaysia.com/article/cover-story-skinny-penang-boy-global-tech-leader"
+    },
+    {
+      "organization": "Commodore International",
+      "title": "Vice President of Finance",
+      "start": "1992",
+      "end": "1994",
+      "source": "https://en.wikipedia.org/wiki/Hock_E._Tan"
+    },
+    {
+      "organization": "Integrated Circuit Systems",
+      "title": "Senior Vice President, then Chief Executive Officer (from 1999)",
+      "start": "1994",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Hock_E._Tan"
+    },
+    {
+      "organization": "Avago Technologies",
+      "title": "President and Chief Executive Officer",
+      "start": "2006",
+      "end": "2016",
+      "source": "https://en.wikipedia.org/wiki/Hock_E._Tan"
+    },
+    {
+      "organization": "Broadcom Inc.",
+      "title": "President and Chief Executive Officer",
+      "start": "2016",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Broadcom"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Though trained as a mechanical engineer, he built his career in corporate finance and general management at PepsiCo, GM, Commodore and Integrated Circuit Systems before using acquisitions to build Avago into Broadcom.",
+  "tenure": {
+    "start": "2006-03",
+    "source": "https://en.wikipedia.org/wiki/Hock_E._Tan"
+  },
+  "notable": [
+    {
+      "date": "2018-03",
+      "type": "decision",
+      "summary": "Broadcom's roughly $117 billion bid for Qualcomm, launched under Tan in November 2017, was blocked by a U.S. presidential order citing national security concerns.",
+      "source": "https://en.wikipedia.org/wiki/Broadcom"
+    },
+    {
+      "date": "2022-05",
+      "type": "decision",
+      "summary": "Broadcom agreed to acquire cloud software company VMware for about $61 billion; the deal closed in November 2023.",
+      "source": "https://en.wikipedia.org/wiki/Broadcom"
+    },
+    {
+      "date": "2025-10",
+      "type": "decision",
+      "summary": "Broadcom and OpenAI announced a collaboration to deploy 10 gigawatts of custom AI accelerators, starting in the second half of 2026 and finishing by the end of 2029.",
+      "source": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "European cloud trade group CISPE filed an antitrust complaint with the European Commission over Broadcom's VMware licensing changes, which Broadcom disputes.",
+      "source": "https://www.theregister.com/2026/03/19/cispe_eu_complaint_vmware_vcsp_closure/"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Penang teenager whose parents couldn't afford college, Hock Tan reached MIT on a scholarship.",
+    "summary": "Tan was born in Penang, Malaysia, around 1951-52. In 1971, at 18, he left for MIT on a scholarship, later saying his parents could not have afforded to send him to college. He earned bachelor's and master's degrees in mechanical engineering in 1975 and then an MBA from Harvard. He worked in finance at PepsiCo, General Motors and Commodore and ran Hume Industries in Malaysia, then became CEO of Integrated Circuit Systems in 1999. In 2006 he took over Avago Technologies, newly spun out of Agilent, and used a string of acquisitions to turn it into today's Broadcom.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Penang, Malaysia, around 1951-52",
+        "source": "https://en.wikipedia.org/wiki/Hock_E._Tan"
+      },
+      {
+        "label": "Family background",
+        "value": "Says his parents could not have afforded to send him to college",
+        "source": "https://theedgemalaysia.com/article/cover-story-skinny-penang-boy-global-tech-leader"
+      },
+      {
+        "label": "Turning point",
+        "value": "1971: left Malaysia for MIT on a scholarship at age 18",
+        "source": "https://theedgemalaysia.com/article/cover-story-skinny-penang-boy-global-tech-leader"
+      },
+      {
+        "label": "Mentor",
+        "value": "Called MIT professor Nam P. Suh 'an inspiration' and funded a professorship in his honor",
+        "source": "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706"
+      }
+    ],
+    "quote": {
+      "text": "My parents could not have afforded to send me to college, much less MIT, but this great American educational institution took a chance on me, sight unseen, by giving me a scholarship",
+      "context": "Remarks at the White House Oval Office, Nov. 2017, announcing Broadcom's move of its headquarters to the U.S.",
+      "source": "https://theedgemalaysia.com/article/cover-story-skinny-penang-boy-global-tech-leader",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://theedgemalaysia.com/article/cover-story-skinny-penang-boy-global-tech-leader",
+      "https://news.mit.edu/2015/alum-hock-tan-4-million-gift-meche-0706",
+      "https://en.wikipedia.org/wiki/Hock_E._Tan"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure start 2006-03 kept from seed; Wikipedia says only that he was hired to lead Avago after the 2005 Agilent buyout. Broadcom bio/proxy could not be fetched to confirm the month.",
+    "Career chronology conflicts: The Edge lists Hume Industries 1983-1988 and orders the finance jobs differently; Wikipedia lists Commodore VP 1992, ICS 1994 (SVP 1995, CEO 1999). Edge also says he joined ICS in 1999. PepsiCo/GM years and Pacven Investment (Singapore) role left undated/omitted.",
+    "End date of ICS tenure not confirmed; left null.",
+    "Harvard MBA year not found.",
+    "Wikipedia says he joined Meta's board in Feb. 2024, but Meta's current leadership page did not list him; board status omitted.",
+    "Pages that could not be read: todayonline.com and sandiegouniontribune.com (site blocked), reuters.com (blocked), broadcom.com leadership pages (404/JS-only), SEC EDGAR (robots)."
+  ],
+  "needs_enrichment": true
+}

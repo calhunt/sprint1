@@ -1,0 +1,118 @@
+{
+  "id": "energy-transfer--long",
+  "name": "Thomas E. Long",
+  "company_id": "energy-transfer",
+  "role": "Co-CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Duke Energy Corp. (subsidiaries)",
+      "title": "Several executive positions",
+      "start": "1998",
+      "end": "2005",
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    },
+    {
+      "organization": "DCP Midstream Partners, LP",
+      "title": "Vice President and Chief Financial Officer",
+      "start": null,
+      "end": "2008",
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    },
+    {
+      "organization": "Matrix Service Company",
+      "title": "Vice President and Chief Financial Officer",
+      "start": "2008",
+      "end": "2010",
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    },
+    {
+      "organization": "Regency GP LLC",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "start": "2010",
+      "end": "2015",
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    },
+    {
+      "organization": "Energy Transfer",
+      "title": "Chief Financial Officer (board member from April 2019)",
+      "start": null,
+      "end": "2021",
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    },
+    {
+      "organization": "Energy Transfer LP",
+      "title": "Co-Chief Executive Officer",
+      "start": "2021",
+      "end": null,
+      "source": "https://ir.energytransfer.com/board-member/thomas-long"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Served as chief financial officer at DCP Midstream Partners, Matrix Service, Regency and Energy Transfer before becoming co-CEO.",
+  "tenure": {
+    "start": "2021-01",
+    "source": "https://ir.energytransfer.com/board-member/thomas-long"
+  },
+  "notable": [
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Energy Transfer disclosed that co-CEO Marshall McCrea would retire on or before Dec. 31, 2026, after which Long will become sole CEO.",
+      "source": "https://ir.energytransfer.com/node/52376/html"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Energy Transfer announced a fully subscribed expansion of its Nederland, Texas, export terminal adding 240,000 barrels per day of ethane export capacity, with phased startup from 2028.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-announces-fully-subscribed-export-expansion"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Energy Transfer, Sunoco, SunocoCorp and USA Compression changed their state of formation from Delaware to Texas, effective July 6, 2026.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-lp-sunoco-lp-sunococorp-llc-and-usa-compression"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Energy Transfer announced it would move its common unit listing from the NYSE to the Texas Stock Exchange, effective Oct. 5, 2026; Long has served on the TXSE board since July 2024.",
+      "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-transfer-stock-exchange-listings-texas-stock"
+    }
+  ],
+  "personal_story": {
+    "hook": "Tom Long built his career as a midstream-energy CFO before becoming co-CEO of Energy Transfer in 2021.",
+    "summary": "Little about Long's early life is public. After seven years in executive roles at Duke Energy subsidiaries starting in 1998, he became CFO of DCP Midstream Partners, then of Matrix Service Company in 2008 and of Regency GP in 2010. He went on to serve as Energy Transfer's CFO and was named co-CEO alongside Mackie McCrea in January 2021. He is slated to become sole CEO when McCrea retires, on or before Dec. 31, 2026.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Earliest disclosed role: executive positions at Duke Energy subsidiaries, 1998-2005",
+        "source": "https://ir.energytransfer.com/board-member/thomas-long"
+      },
+      {
+        "label": "Turning point",
+        "value": "Became executive vice president and CFO of Regency GP in 2010",
+        "source": "https://ir.energytransfer.com/board-member/thomas-long"
+      },
+      {
+        "label": "Other",
+        "value": "Chairman of USA Compression Partners; on the Texas Stock Exchange board since July 2024",
+        "source": "https://ir.energytransfer.com/board-member/thomas-long"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://ir.energytransfer.com/board-member/thomas-long",
+      "https://ir.energytransfer.com/node/52376/html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education not found: Energy Transfer bio omits it, no Wikipedia article was reachable, and the 10-K Item 10 text could not be retrieved. Education left empty.",
+    "Start years unknown for DCP Midstream CFO role (ended before May 2008) and Energy Transfer CFO role (bio says only 'prior to' January 2021).",
+    "Co-CEO since January 2021 per bio; exact day not confirmed.",
+    "Notable items are company-level actions under the co-CEOs; the press releases contain no quotes attributed to Long."
+  ],
+  "needs_enrichment": true
+}

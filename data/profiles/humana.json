@@ -1,0 +1,159 @@
+{
+  "id": "humana",
+  "name": "Jim Rechtin",
+  "company_id": "humana",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "DePauw University",
+      "degree": "BA",
+      "field": "Political Science",
+      "year": 1993,
+      "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": 2000,
+      "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Peace Corps (Republic of Congo)",
+      "title": "Volunteer directing a public health and water sanitation project",
+      "start": null,
+      "end": null,
+      "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+    },
+    {
+      "organization": "Horizon House (Indianapolis)",
+      "title": "Operations manager at a nonprofit providing health care and services to people experiencing homelessness",
+      "start": null,
+      "end": null,
+      "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+    },
+    {
+      "organization": "Bain & Company",
+      "title": "Consultant rising to partner, focused on health care (14 years)",
+      "start": null,
+      "end": "2014",
+      "source": "https://humana.gcs-web.com/management/james-rechtin"
+    },
+    {
+      "organization": "DaVita Medical Group (HealthCare Partners)",
+      "title": "SVP of Corporate Strategy, then President of the California market",
+      "start": "2014",
+      "end": null,
+      "source": "https://humana.gcs-web.com/management/james-rechtin"
+    },
+    {
+      "organization": "OptumCare (UnitedHealth Group)",
+      "title": "President",
+      "start": null,
+      "end": "2020",
+      "source": "https://www.beckershospitalreview.com/hospital-executive-moves/envision-taps-optum-president-as-new-ceo.html"
+    },
+    {
+      "organization": "Envision Healthcare",
+      "title": "President and CEO",
+      "start": "2020",
+      "end": "2023",
+      "source": "https://www.beckershospitalreview.com/hospital-executive-moves/envision-taps-optum-president-as-new-ceo.html"
+    },
+    {
+      "organization": "Humana",
+      "title": "President and Chief Operating Officer",
+      "start": "2024",
+      "end": "2024",
+      "source": "https://humana.gcs-web.com/news-releases/news-release-details/jim-rechtin-assume-humana-ceo-role-effective-july-1-2024"
+    },
+    {
+      "organization": "Humana",
+      "title": "President and CEO",
+      "start": "2024",
+      "end": null,
+      "source": "https://humana.gcs-web.com/news-releases/news-release-details/jim-rechtin-assume-humana-ceo-role-effective-july-1-2024"
+    }
+  ],
+  "background_category": "Consulting",
+  "background_rationale": "Spent 14 years at Bain & Company advising health care companies before moving into provider-side operating roles at DaVita Medical Group, OptumCare and Envision Healthcare.",
+  "tenure": {
+    "start": "2024-07-01",
+    "source": "https://humana.gcs-web.com/news-releases/news-release-details/jim-rechtin-assume-humana-ceo-role-effective-july-1-2024"
+  },
+  "notable": [
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Humana hired former Amazon health care executive Aaron Martin into a newly created Medicare Advantage president role, to later lead the insurance segment when longtime insurance president George Renaudin retires.",
+      "source": "https://www.healthcaredive.com/news/humana-insurance-president-retiring-replacement-renaudin-martin/808050/"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Rechtin began a term as board chair of AHIP, the health insurance industry trade group, after taking part in its push for voluntary commitments to simplify prior authorization.",
+      "source": "https://www.ahip.org/news/articles/jim-rechtin-president-and-ceo-of-humana-elected-ahip-board-chair-for-2026"
+    },
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "After Humana projected Medicare Advantage membership growth of more than 25% in 2026, Rechtin said that if 2027 government funding could not fully support its benefits, \"we will adapt as we have in the past.\"",
+      "source": "https://www.fiercehealthcare.com/payers/humana-posts-796m-loss-q4-elevated-medicare-advantage-costs-continue"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Humana said it would exit Medicare Advantage plans covering about 600,000 members in 2027, mostly lower-star-rated plans, as part of its goal of at least a 3% pre-tax margin in 2028.",
+      "source": "https://www.beckerspayer.com/payer/medicare-advantage/humana-to-exit-medicare-advantage-plans-covering-600000-members-in-2027/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Before running Humana, Jim Rechtin directed a water sanitation project in Congo as a Peace Corps volunteer, and nearly quit.",
+    "summary": "Rechtin was born in Covington, Kentucky, and grew up mostly in Indianapolis. A month-long service trip to Appalachia during his sophomore year at DePauw, where he majored in political science, showed him how different life could be a few hundred miles from home, and led to further trips to Honduras and the Dominican Republic. After graduating in 1993 he joined the Peace Corps in the Republic of Congo, directing a public health and water sanitation project; he nearly quit in his first six months and learned that communities' priorities differed from what he had assumed. Back in Indianapolis he managed operations at Horizon House, a nonprofit serving people experiencing homelessness, then earned a Harvard MBA and spent 14 years at Bain before running provider businesses and, from 2024, Humana.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Covington, Ky.; raised mostly in Indianapolis",
+        "source": "https://en.wikipedia.org/wiki/Jim_Rechtin"
+      },
+      {
+        "label": "Turning point",
+        "value": "Sophomore-year service trip to Appalachia, living with a family for a month",
+        "source": "https://www.depauw.edu/stories/details/jim-rechtin-93-featured-in-fortune-magazine/"
+      },
+      {
+        "label": "Other",
+        "value": "Peace Corps volunteer in the Republic of Congo, directing a public health and water sanitation project",
+        "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+      },
+      {
+        "label": "First job",
+        "value": "Operations manager at Horizon House, an Indianapolis nonprofit for people experiencing homelessness",
+        "source": "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/"
+      }
+    ],
+    "quote": {
+      "text": "You come in with an idea of what needs to happen, but the reality is you don't know.",
+      "context": "Reflecting on his Peace Corps service, in a Fortune interview, Nov. 2025",
+      "source": "https://finance.yahoo.com/news/peace-corps-boardroom-humana-ceo-103000297.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://finance.yahoo.com/news/peace-corps-boardroom-humana-ceo-103000297.html",
+      "https://www.depauw.edu/stories/details/jim-rechtin-93-featured-in-fortune-magazine/",
+      "https://www.depauw.edu/alumni/help/alumniassociation/alumniprofile/rechtin/",
+      "https://en.wikipedia.org/wiki/Jim_Rechtin",
+      "https://humana.gcs-web.com/management/james-rechtin"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Dates for Peace Corps service, Horizon House and the start of the Bain tenure are not published; Horizon House is listed as his first job but its order relative to the Peace Corps is not confirmed by sources (story says 'back in Indianapolis' based on DePauw profile sequence; verify).",
+    "OptumCare presidency start date not confirmed (presumably after Optum's 2019 acquisition of DaVita Medical Group); left null.",
+    "Bain end year 2014 inferred from his joining DaVita in 2014.",
+    "Envision end year 2023 from Wikipedia (Humana announced him as successor in 2023, he joined Humana Jan. 2024)."
+  ]
+}

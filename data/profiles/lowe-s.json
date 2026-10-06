@@ -1,0 +1,141 @@
+{
+  "id": "lowe-s",
+  "name": "Marvin R. Ellison",
+  "company_id": "lowe-s",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Memphis",
+      "degree": "BBA",
+      "field": "Business Administration",
+      "year": null,
+      "source": "https://corporate.lowes.com/who-we-are/lowes-leadership/executive-leadership/marvin-r-ellison"
+    },
+    {
+      "institution": "Emory University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://corporate.lowes.com/who-we-are/lowes-leadership/executive-leadership/marvin-r-ellison"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Target Corporation",
+      "title": "Various operational roles",
+      "start": "1987",
+      "end": "2002",
+      "source": "https://corporate.lowes.com/investors/corporate-governance/board-of-directors/marvin-r-ellison"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Operational roles incl. President - Northern Division and SVP - Global Logistics",
+      "start": "2002",
+      "end": "2008",
+      "source": "https://investors.fedex.com/governance/board-of-directors/default.aspx"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Executive Vice President - U.S. Stores",
+      "start": "2008",
+      "end": "2014",
+      "source": "https://investors.fedex.com/governance/board-of-directors/default.aspx"
+    },
+    {
+      "organization": "J. C. Penney Company",
+      "title": "President and CEO-designate",
+      "start": "2014",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Marvin_Ellison"
+    },
+    {
+      "organization": "J. C. Penney Company",
+      "title": "CEO (Chairman from Aug. 2016)",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://investors.fedex.com/governance/board-of-directors/default.aspx"
+    },
+    {
+      "organization": "Lowe's Companies, Inc.",
+      "title": "President and CEO (Chairman since 2021)",
+      "start": "2018",
+      "end": null,
+      "source": "https://corporate.lowes.com/investors/corporate-governance/board-of-directors/marvin-r-ellison"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Built his career in retail store operations, logistics and loss prevention at Target and Home Depot, where he ran U.S. stores, before becoming CEO of J.C. Penney and Lowe's.",
+  "tenure": {
+    "start": "2018-07-02",
+    "source": "https://en.wikipedia.org/wiki/Marvin_Ellison"
+  },
+  "notable": [
+    {
+      "date": "2022-11",
+      "type": "decision",
+      "summary": "Lowe's agreed to sell its Canadian retail business to Sycamore Partners for $400 million, a sale completed in February 2023.",
+      "source": "https://en.wikipedia.org/wiki/Lowe%27s"
+    },
+    {
+      "date": "2025-08",
+      "type": "decision",
+      "summary": "Lowe's agreed to acquire Foundation Building Materials for $8.8 billion in cash to expand its business serving contractors and builders.",
+      "source": "https://en.wikipedia.org/wiki/Lowe%27s"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Lowe's announced it had become the first home improvement retailer to offer drone delivery.",
+      "source": "https://corporate.lowes.com/newsroom/press-releases"
+    }
+  ],
+  "personal_story": {
+    "hook": "One of seven children in Brownsville, Tennessee, Marvin Ellison went on to lead two Fortune 500 retailers.",
+    "summary": "Ellison grew up poor in Brownsville, Tennessee, one of seven children, while his father worked multiple jobs. His family performed as a gospel act, and he has remained a musician. He worked his way through the University of Memphis, an experience he has said shaped his corporate career, and then spent 15 years in operations at Target and 12 at Home Depot, where he ran U.S. stores. He became CEO of J.C. Penney in 2015 and of Lowe's in 2018, and Lowe's describes him as the only African American to serve as chairman and CEO of two Fortune 500 companies.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Brownsville, Tennessee, one of seven children in a poor family",
+        "source": "https://en.wikipedia.org/wiki/Marvin_Ellison"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked multiple jobs; family performed as a gospel act",
+        "source": "https://en.wikipedia.org/wiki/Marvin_Ellison"
+      },
+      {
+        "label": "Turning point",
+        "value": "Worked his way through college at the University of Memphis",
+        "source": "https://en.wikipedia.org/wiki/Marvin_Ellison"
+      },
+      {
+        "label": "First job",
+        "value": "1987: joined Target in operational roles, staying 15 years",
+        "source": "https://corporate.lowes.com/investors/corporate-governance/board-of-directors/marvin-r-ellison"
+      },
+      {
+        "label": "Other",
+        "value": "Only African American to serve as chairman and CEO of two Fortune 500 companies (per Lowe's)",
+        "source": "https://corporate.lowes.com/who-we-are/lowes-leadership/executive-leadership/marvin-r-ellison"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marvin_Ellison",
+      "https://corporate.lowes.com/who-we-are/lowes-leadership/executive-leadership/marvin-r-ellison",
+      "https://corporate.lowes.com/investors/corporate-governance/board-of-directors/marvin-r-ellison"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Chairman start date conflicts: Lowe's board bio says May 2021; FedEx board bio says June 2021.",
+    "Degree type: Lowe's bio says bachelor's in business administration; Wikipedia says marketing. Recorded as BBA in Business Administration. Graduation years not found.",
+    "Early Target role often described as loss prevention/security (Wikipedia mentions loss prevention); not confirmed from a primary source, so kept generic.",
+    "FBM acquisition and Canada sale cited via Wikipedia (Reuters and GlobeSt originals blocked or 404). Artisan Design Group acquisition not verified, so omitted.",
+    "Drone-delivery item sourced from the Lowe's press-release listing (title and date 2026-09-24 only); the release itself was not opened.",
+    "No verifiable verbatim quote found; Fortune, Dallas News and CNN profiles could not be fetched (robots, 404, 503).",
+    "WebFetch was rate-limited (HTTP 429) for part of this session; corporate.lowes.com leadership page, a Fortune 2015 article and SEC EDGAR could not be read then."
+  ],
+  "needs_enrichment": true
+}

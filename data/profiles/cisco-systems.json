@@ -1,0 +1,146 @@
+{
+  "id": "cisco-systems",
+  "name": "Chuck Robbins",
+  "company_id": "cisco-systems",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "degree": "BS",
+      "field": "Mathematics (computer science concentration)",
+      "year": 1987,
+      "source": "https://en.wikipedia.org/wiki/Chuck_Robbins"
+    }
+  ],
+  "career": [
+    {
+      "organization": "North Carolina National Bank (now Bank of America)",
+      "title": "Application developer",
+      "start": "1987",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Chuck_Robbins"
+    },
+    {
+      "organization": "Wellfleet Communications / Bay Networks; Ascend Communications",
+      "title": "Management and sales positions",
+      "start": null,
+      "end": "1997",
+      "source": "https://moneyinc.com/chuck-robbins-10-things-didnt-know-ciscos-ceo/"
+    },
+    {
+      "organization": "Cisco Systems",
+      "title": "Account manager, then regional manager and operations director",
+      "start": "1997",
+      "end": null,
+      "source": "https://moneyinc.com/chuck-robbins-10-things-didnt-know-ciscos-ceo/"
+    },
+    {
+      "organization": "Cisco Systems",
+      "title": "Senior Vice President, Americas; then Senior Vice President, Worldwide Field Operations",
+      "start": null,
+      "end": "2015",
+      "source": "https://finance.yahoo.com/news/ciscos-chambers-step-down-ceo-125209673.html"
+    },
+    {
+      "organization": "Cisco Systems",
+      "title": "Chief Executive Officer",
+      "start": "2015",
+      "end": null,
+      "source": "https://www.fordfoundation.org/about/people/chuck-robbins/"
+    },
+    {
+      "organization": "Cisco Systems",
+      "title": "Chairman and CEO",
+      "start": "2017",
+      "end": null,
+      "source": "https://www.fordfoundation.org/about/people/chuck-robbins/"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "After starting as a bank programmer, he spent nearly two decades in Cisco's sales organization, rising from account manager to head of worldwide field operations before becoming CEO.",
+  "tenure": {
+    "start": "2015-07-26",
+    "source": "https://finance.yahoo.com/news/ciscos-chambers-step-down-ceo-125209673.html"
+  },
+  "notable": [
+    {
+      "date": "2024-02",
+      "type": "decision",
+      "summary": "Cisco announced it would cut about 4,250 jobs, roughly 5% of its workforce, as Robbins cited customer caution and weak demand from telecom and cable providers.",
+      "source": "https://www.cnbc.com/2024/02/14/cisco-cutting-5percent-of-global-workforce-in-restructuring-move.html"
+    },
+    {
+      "date": "2024-03",
+      "type": "decision",
+      "summary": "Cisco completed its acquisition of Splunk for about $28 billion in equity value, the largest acquisition in the company's history.",
+      "source": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2024/m03/cisco-completes-acquisition-of-splunk.html"
+    },
+    {
+      "date": "2018-10",
+      "type": "statement",
+      "summary": "Robbins told Fortune he expected companies to stop talking about corporate social responsibility as a separate activity, saying people now understand the underlying business value of diversity.",
+      "source": "https://fortune.com/2018/10/15/cisco-ceo-chuck-robbins-csr/"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "Cisco reported record fiscal 2026 revenue of $63.3 billion, up 12%, with $9.3 billion in AI-infrastructure orders; Robbins said Cisco is well positioned to support customers wherever they deploy AI.",
+      "source": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-reports-fourth-quarter-earnings.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "Chuck Robbins began as a bank programmer and joined Cisco's sales team in 1997; he has led the company since 2015.",
+    "summary": "Robbins was born in Grayson, Georgia, and graduated from Rocky Mount High School in North Carolina before earning a mathematics degree with a computer science concentration at UNC-Chapel Hill in 1987. He began his career as an application developer at North Carolina National Bank, then moved into networking at Wellfleet, Bay Networks and Ascend. He joined Cisco in 1997 as an account manager and rose through its sales organization to run worldwide field operations. When he was named to succeed longtime CEO John Chambers in 2015, he said he planned to spend his first 90 days listening.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Grayson, Georgia; attended Rocky Mount High School in North Carolina",
+        "source": "https://en.wikipedia.org/wiki/Chuck_Robbins"
+      },
+      {
+        "label": "First job",
+        "value": "Application developer at North Carolina National Bank",
+        "source": "https://en.wikipedia.org/wiki/Chuck_Robbins"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Cisco in 1997 as an account manager",
+        "source": "https://moneyinc.com/chuck-robbins-10-things-didnt-know-ciscos-ceo/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Succeeded longtime Cisco CEO John Chambers, who called him a champion of Cisco's culture",
+        "source": "https://www.forbes.com/sites/cassandrafrangos/2018/12/03/making-leadership-last-how-long-tenure-ceos-stand-their-ground/"
+      },
+      {
+        "label": "Other",
+        "value": "Lifelong fan of UNC Tar Heels basketball",
+        "source": "https://moneyinc.com/chuck-robbins-10-things-didnt-know-ciscos-ceo/"
+      }
+    ],
+    "quote": {
+      "text": "The market is moving too rapidly for any one individual to think they have all the answers.",
+      "context": "Reuters interview after being named Cisco's next CEO, May 2015",
+      "source": "https://finance.yahoo.com/news/ciscos-chambers-step-down-ceo-125209673.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chuck_Robbins",
+      "https://moneyinc.com/chuck-robbins-10-things-didnt-know-ciscos-ceo/",
+      "https://www.fordfoundation.org/about/people/chuck-robbins/",
+      "https://finance.yahoo.com/news/ciscos-chambers-step-down-ceo-125209673.html",
+      "https://www.forbes.com/sites/cassandrafrangos/2018/12/03/making-leadership-last-how-long-tenure-ceos-stand-their-ground/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Exact CEO start day (2015-07-26) is from the seed list; sources opened confirm only 'July 2015'.",
+    "Degree naming: Wikipedia says 'Bachelor of Mathematics'; Ford Foundation and Moneyinc say bachelor's in mathematics (mathematical sciences) with a computer science concentration; recorded as BS, abbreviation unconfirmed.",
+    "Upbringing: Ford Foundation bio says 'born and raised in Georgia', while Wikipedia places his high school in Rocky Mount, North Carolina; the move was not explained in sources reached.",
+    "Exact years of pre-Cisco roles (Wellfleet/Bay Networks/Ascend) and of Cisco SVP roles not found.",
+    "Forbes (Frangos, 2018) states he became CEO in 2016, which conflicts with all other sources (2015); ignored.",
+    "Personal story relies on Wikipedia, company/board bios and short news items; Mercury News Q&A and Network World profiles were blocked."
+  ],
+  "needs_enrichment": true
+}

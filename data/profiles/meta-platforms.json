@@ -1,0 +1,128 @@
+{
+  "id": "meta-platforms",
+  "name": "Mark Zuckerberg",
+  "company_id": "meta-platforms",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Harvard University",
+      "degree": "Did not graduate",
+      "field": "Computer Science; Psychology",
+      "year": null,
+      "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Synapse (Phillips Exeter Academy project)",
+      "title": "Co-developer of the Synapse MP3 player, with Adam D'Angelo",
+      "start": "2002",
+      "end": "2002",
+      "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+    },
+    {
+      "organization": "Facebook (TheFacebook.com)",
+      "title": "Co-founder and Chief Executive Officer",
+      "start": "2004",
+      "end": "2021",
+      "source": "https://www.britannica.com/money/Mark-Zuckerberg"
+    },
+    {
+      "organization": "Chan Zuckerberg Initiative",
+      "title": "Co-founder, with Priscilla Chan",
+      "start": "2015",
+      "end": null,
+      "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+    },
+    {
+      "organization": "Meta Platforms",
+      "title": "Chairman and Chief Executive Officer (Facebook renamed Meta)",
+      "start": "2021",
+      "end": null,
+      "source": "https://www.britannica.com/money/Mark-Zuckerberg"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "Co-founded Facebook from his Harvard dorm room in 2004 and has run it as CEO ever since, through its renaming to Meta Platforms.",
+  "tenure": {
+    "start": "2004-07",
+    "source": "https://www.britannica.com/money/Mark-Zuckerberg"
+  },
+  "notable": [
+    {
+      "date": "2025-01",
+      "type": "decision",
+      "summary": "Meta ended its third-party fact-checking program in the United States and moved to an X-style Community Notes system.",
+      "source": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/"
+    },
+    {
+      "date": "2025-06",
+      "type": "decision",
+      "summary": "Zuckerberg created Meta Superintelligence Labs, led by former Scale AI CEO Alexandr Wang, after Meta invested $14.3 billion for a 49% stake in Scale AI.",
+      "source": "https://www.entrepreneur.com/business-news/mark-zuckerberg-reveals-meta-superintelligence-labs/494047"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Meta guided to 2026 capital expenditures of $115-135 billion, up from about $72 billion in 2025, to build AI computing capacity.",
+      "source": "https://www.datacenterdynamics.com/en/news/meta-estimates-2026-capex-to-be-between-115-135bn/"
+    },
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "Zuckerberg testified in a Los Angeles bellwether trial alleging Instagram was designed to addict young users, acknowledging that under-13 users lie about their age and that enforcement is very difficult.",
+      "source": "https://www.npr.org/2026/02/18/nx-s1-5717117/zuckerberg-testimony-social-media-addiction-trial"
+    }
+  ],
+  "personal_story": {
+    "hook": "Mark Zuckerberg launched Facebook from his Harvard dorm room at 19 and has run it ever since.",
+    "summary": "Zuckerberg grew up in Dobbs Ferry, New York, where around age 12 he built \"ZuckNet,\" a messaging program used at home and at his father's dental office. At Phillips Exeter Academy he and roommate Adam D'Angelo built the Synapse music player, which drew interest from Microsoft and AOL; he chose Harvard instead. As a sophomore in 2003 he built Facemash, a photo-rating site that was shut down within days amid a privacy outcry, and in February 2004 he launched TheFacebook.com from his Kirkland House dorm. He moved the company to Palo Alto that summer and left Harvard in 2005; Harvard gave him an honorary degree in 2017.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Dobbs Ferry, New York; born May 14, 1984, in White Plains",
+        "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Around age 12 built \"ZuckNet,\" a messaging program for his family and his father's dental office",
+        "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+      },
+      {
+        "label": "First job",
+        "value": "Built the Synapse MP3 player at Exeter; declined interest from Microsoft and AOL to attend Harvard",
+        "source": "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Facemash, a 2003 dorm project, was taken offline within days after a campus privacy outcry",
+        "source": "https://www.thecrimson.com/article/2003/11/4/hot-or-not-website-briefly-judges/"
+      },
+      {
+        "label": "Other",
+        "value": "Left Harvard after sophomore year in 2005; received an honorary Doctor of Laws in 2017",
+        "source": "https://www.wbur.org/news/2017/05/25/zuckerberg-harvard-commencement"
+      }
+    ],
+    "quote": {
+      "text": "We all know we don't succeed just by having a good idea or working hard. We succeed by being lucky too.",
+      "context": "Harvard Commencement address, May 25, 2017",
+      "source": "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://www.ebsco.com/research-starters/biography/mark-zuckerberg/",
+      "https://www.britannica.com/money/Mark-Zuckerberg",
+      "https://www.thecrimson.com/article/2003/11/4/hot-or-not-website-briefly-judges/",
+      "https://www.wbur.org/news/2017/05/25/zuckerberg-harvard-commencement",
+      "https://news.harvard.edu/gazette/story/2017/05/mark-zuckerbergs-speech-as-written-for-harvards-class-of-2017/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "No earned degree: left Harvard in 2005; received an honorary Doctor of Laws (2017). Education entry uses degree \"Did not graduate\" - confirm how the site should count this.",
+    "Field of study: a 2003 Harvard Crimson article lists computer science; EBSCO says computer science and psychology.",
+    "ZuckNet age differs by source (Britannica ~11, EBSCO 12)."
+  ]
+}

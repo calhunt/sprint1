@@ -1,0 +1,154 @@
+{
+  "id": "fedex",
+  "name": "Raj Subramaniam",
+  "company_id": "fedex",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Bombay",
+      "degree": "BTech",
+      "field": "Chemical Engineering",
+      "year": 1987,
+      "source": "https://en.wikipedia.org/wiki/Raj_Subramaniam"
+    },
+    {
+      "institution": "Syracuse University",
+      "degree": "MS",
+      "field": "Chemical Engineering",
+      "year": 1989,
+      "source": "https://news.syr.edu/blog/2023/05/25/dean-j-cole-smith-talks-with-fedex-president-and-ceo-raj-subramaniam-g89-about-leadership-and-advice-for-current-students/"
+    },
+    {
+      "institution": "University of Texas at Austin",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.fedex.com/en-us/about/leadership/raj-subramaniam.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "FedEx",
+      "title": "Associate marketing analyst, then management and marketing roles in the U.S. and Asia",
+      "start": "1991",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Raj_Subramaniam"
+    },
+    {
+      "organization": "FedEx Express Canada",
+      "title": "President",
+      "start": null,
+      "end": null,
+      "source": "https://newsroom.fedex.com/newsroom/raj-subramaniam-to-become-president-and-ceo-of-fedex-corporation-frederick-w-smith-to-serve-as-executive-chairman/"
+    },
+    {
+      "organization": "FedEx Services / FedEx Corporation",
+      "title": "Executive Vice President, Marketing and Communications (Chief Marketing and Communications Officer from 2017)",
+      "start": "2013",
+      "end": "2018",
+      "source": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926097836/tm2531093-3_def14a.htm"
+    },
+    {
+      "organization": "Federal Express (FedEx Express)",
+      "title": "President and Chief Executive Officer",
+      "start": "2019",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926097836/tm2531093-3_def14a.htm"
+    },
+    {
+      "organization": "FedEx Corporation",
+      "title": "President and Chief Operating Officer",
+      "start": "2019",
+      "end": "2022",
+      "source": "https://www.sec.gov/Archives/edgar/data/1048911/000110465926097836/tm2531093-3_def14a.htm"
+    },
+    {
+      "organization": "FedEx Corporation",
+      "title": "President and Chief Executive Officer",
+      "start": "2022",
+      "end": null,
+      "source": "https://newsroom.fedex.com/newsroom/raj-subramaniam-to-become-president-and-ceo-of-fedex-corporation-frederick-w-smith-to-serve-as-executive-chairman/"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "An engineer by training who joined FedEx as a marketing analyst and rose largely through marketing roles, including chief marketing and communications officer, before moving into operating leadership as Express CEO and corporate COO.",
+  "tenure": {
+    "start": "2022-06-01",
+    "source": "https://newsroom.fedex.com/newsroom/raj-subramaniam-to-become-president-and-ceo-of-fedex-corporation-frederick-w-smith-to-serve-as-executive-chairman/"
+  },
+  "notable": [
+    {
+      "date": "2023-04",
+      "type": "decision",
+      "summary": "Announced plans to consolidate FedEx Express, FedEx Ground, FedEx Services and other operating companies into a single Federal Express Corporation by June 2024, alongside the DRIVE cost program targeting $4 billion in savings by fiscal 2025.",
+      "source": "https://newsroom.fedex.com/newsroom/global-english/fedex-announces-planned-consolidation-of-operating-companies"
+    },
+    {
+      "date": "2024-06",
+      "type": "decision",
+      "summary": "FedEx Ground and FedEx Services were merged into Federal Express, creating a unified air-ground network as part of the Network 2.0 and 'one FedEx' restructuring.",
+      "source": "https://en.wikipedia.org/wiki/FedEx"
+    },
+    {
+      "date": "2024-12",
+      "type": "decision",
+      "summary": "Announced the intent to separate FedEx Freight into an independent public company, saying it was the right time given the dynamics of the less-than-truckload market.",
+      "source": "https://newsroom.fedex.com/newsroom/global-english/fedex-announces-intent-to-separate-fedex-freight-creating-two-industry-leading-public-companies"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "FedEx completed the spin-off of FedEx Freight, which began trading on the NYSE as FDXF, with FedEx retaining a 19.9% stake to be disposed of within 24 months.",
+      "source": "https://newsroom.fedex.com/newsroom/global-english/fedex-completes-spin-off-of-fedex-freight"
+    }
+  ],
+  "personal_story": {
+    "hook": "A police chief's son from Kerala, Raj Subramaniam joined FedEx as a marketing analyst and became its second-ever CEO.",
+    "summary": "Subramaniam was born in 1967 in Thiruvananthapuram (Trivandrum), Kerala; his father was an Indian Police Service officer who retired as the state's Director General of Police, and his mother was a doctor in the Kerala Health Services. He moved to Mumbai at 15, studied chemical engineering at IIT Bombay, and came to the United States on a scholarship to Syracuse University, finishing a master's in chemical engineering in 1989. After an MBA at the University of Texas at Austin during the early-1990s recession, he joined FedEx in 1991 as a marketing analyst. Over three decades he worked in marketing roles in Asia and the U.S., ran FedEx's Canadian operation, and served as chief marketing officer, Express CEO and COO before succeeding founder Fred Smith as CEO in June 2022.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1967 in Thiruvananthapuram, Kerala; attended Loyola School, moved to Mumbai at 15",
+        "source": "https://en.wikipedia.org/wiki/Raj_Subramaniam"
+      },
+      {
+        "label": "Family background",
+        "value": "Father a senior police officer who retired as Kerala's Director General of Police; mother a government doctor",
+        "source": "https://www.onmanorama.com/news/business/2022/03/30/raj-subramaniam-fedex-ceo-usa-kerala-father-says-be-humble.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Came to the U.S. on a scholarship to Syracuse University for a chemical engineering master's (1989)",
+        "source": "https://en.wikipedia.org/wiki/Raj_Subramaniam"
+      },
+      {
+        "label": "First job",
+        "value": "Joined FedEx in 1991 as a marketing analyst",
+        "source": "https://en.wikipedia.org/wiki/Raj_Subramaniam"
+      },
+      {
+        "label": "Other",
+        "value": "Became only the second CEO in FedEx's history, succeeding founder Fred Smith",
+        "source": "https://www.fedex.com/en-us/about/leadership/raj-subramaniam.html"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raj_Subramaniam",
+      "https://www.onmanorama.com/news/business/2022/03/30/raj-subramaniam-fedex-ceo-usa-kerala-father-says-be-humble.html",
+      "https://news.syr.edu/blog/2023/05/25/dean-j-cole-smith-talks-with-fedex-president-and-ceo-raj-subramaniam-g89-about-leadership-and-advice-for-current-students/",
+      "https://www.fedex.com/en-us/about/leadership/raj-subramaniam.html",
+      "https://newsroom.fedex.com/newsroom/raj-subramaniam-to-become-president-and-ceo-of-fedex-corporation-frederick-w-smith-to-serve-as-executive-chairman/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Express CEO dates conflict: Wikipedia says promoted to FedEx Express CEO in 2018; the 2026 proxy says President and CEO of Federal Express January-March 2019. Proxy used.",
+    "Wikipedia says he was EVP Marketing and Communication 2013-2019; proxy splits this into FedEx Services EVP (2013-Jan 2017) and FedEx Corp EVP and CMCO (Jan 2017-Dec 2018). Proxy used.",
+    "Years for Asia-Pacific marketing roles (Wikipedia: 1996-2003) and FedEx Canada presidency (Wikipedia: from 2003) rely on a paywalled WSJ article that couldn't be fetched, so they're left out or null.",
+    "MBA year not confirmed ('early 1990s'); 'associate marketing analyst' first title sourced via Wikipedia citing WSJ (not fetched).",
+    "No verbatim quote about his path was found on reachable pages (Syracuse interview is video-only; IIT.org interview blocked by robots.txt)."
+  ],
+  "needs_enrichment": true
+}

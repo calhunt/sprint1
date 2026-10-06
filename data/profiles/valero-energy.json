@@ -1,0 +1,134 @@
+{
+  "id": "valero-energy",
+  "name": "Lane Riggs",
+  "company_id": "valero-energy",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "degree": "BS",
+      "field": "Chemical Engineering",
+      "year": null,
+      "source": "https://www.valero.com/about/executive-team"
+    },
+    {
+      "institution": "West Texas A&M University",
+      "degree": "MBA",
+      "field": "Finance and Economics",
+      "year": null,
+      "source": "https://www.valero.com/about/executive-team"
+    }
+  ],
+  "career": [
+    {
+      "organization": "McKee refinery (now part of Valero)",
+      "title": "Process Engineer",
+      "start": "1989",
+      "end": null,
+      "source": "https://www.valero.com/about/executive-team"
+    },
+    {
+      "organization": "Valero Energy",
+      "title": "Management roles incl. General Manager-Process Engineering, Director-Supply and Optimization, VP-Refinery Planning and Economics, SVP-Crude, Feedstock Supply and Trading, SVP and EVP-Refining Operations",
+      "start": null,
+      "end": "2017",
+      "source": "https://www.valero.com/about/executive-team"
+    },
+    {
+      "organization": "Valero Energy",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2018",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000014/vlo-20240325.htm"
+    },
+    {
+      "organization": "Valero Energy",
+      "title": "President and Chief Operating Officer",
+      "start": "2020",
+      "end": "2023",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000014/vlo-20240325.htm"
+    },
+    {
+      "organization": "Valero Energy",
+      "title": "Chief Executive Officer and President",
+      "start": "2023",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000119312523142878/d476944d8k.htm"
+    },
+    {
+      "organization": "Valero Energy",
+      "title": "Chairman of the Board (in addition to CEO and President)",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.valero.com/about/executive-team"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A chemical engineer who started as a refinery process engineer and rose through refining operations, engineering and supply roles to become COO and then CEO.",
+  "tenure": {
+    "start": "2023-06-30",
+    "source": "https://www.sec.gov/Archives/edgar/data/1035002/000119312523142878/d476944d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2024-12",
+      "type": "decision",
+      "summary": "Valero's Diamond Green Diesel joint venture completed a sustainable aviation fuel project at its Port Arthur plant, allowing about half of its 470 million gallon annual renewable diesel capacity to be converted to SAF.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000002/a12312024exh9901earningsre.htm"
+    },
+    {
+      "date": "2025-01",
+      "type": "statement",
+      "summary": "Reporting 2024 results, Riggs said 2024 was Valero's best year for personnel and process safety, as the company returned $4.3 billion to stockholders through buybacks and dividends.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000002/a12312024exh9901earningsre.htm"
+    },
+    {
+      "date": "2025-03",
+      "type": "decision",
+      "summary": "Valero approved a plan to cease refining operations at its Benicia, California refinery by the end of April 2026 and recorded a $1.1 billion impairment on its California refineries.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000016/a3312025exh9901earningsrel.htm"
+    },
+    {
+      "date": "2026-04",
+      "type": "decision",
+      "summary": "Valero idled processing units and ceased all refining operations at the Benicia refinery, moving the site into decommissioning and redevelopment.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050822/a6302026exh9901earningsrel.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Lane Riggs started as a process engineer at a Texas Panhandle refinery in 1989; today he is Valero's chairman and CEO.",
+    "summary": "Riggs studied chemical engineering at the University of Oklahoma and began his career in 1989 as a process engineer at the McKee refinery in the Texas Panhandle. He later earned an MBA with an emphasis in finance and economics from West Texas A&M University. Over more than three decades he moved through process engineering, supply optimization, refinery planning, crude and feedstock trading and refining operations before becoming chief operating officer in 2018, CEO in mid-2023 and chairman at the end of 2024.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "1989: Process Engineer at the McKee refinery",
+        "source": "https://www.valero.com/about/executive-team"
+      },
+      {
+        "label": "Other",
+        "value": "Earned an MBA from West Texas A&M while working in the refining business",
+        "source": "https://www.valero.com/about/executive-team"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named Executive Vice President and COO on January 1, 2018",
+        "source": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000014/vlo-20240325.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.valero.com/about/executive-team",
+      "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000014/vlo-20240325.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for both degrees not found; Valero bio gives none.",
+    "Valero says he has been 'with the company since 1989'; in 1989 the McKee refinery likely belonged to a Valero predecessor (Diamond Shamrock) - not verified, so the hook does not say he joined 'Valero' in 1989. Location 'Texas Panhandle' (Sunray, TX) for McKee is general knowledge, not from the cited bio.",
+    "Tenure: 8-K and Valero bio say effective close of business June 30, 2023; 2024 proxy says CEO 'since July 1, 2023'. Kept seed date 2023-06-30.",
+    "Start years of individual mid-career roles (GM Process Engineering through EVP Refining Operations) not found; condensed into one entry ending 2017.",
+    "No Wikipedia article and no interviews/profiles reachable without web search; no personal background (hometown, family, early life) or verified quote available."
+  ],
+  "needs_enrichment": true
+}

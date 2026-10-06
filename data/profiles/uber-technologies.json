@@ -1,0 +1,144 @@
+{
+  "id": "uber-technologies",
+  "name": "Dara Khosrowshahi",
+  "company_id": "uber-technologies",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Brown University",
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Allen & Company",
+      "title": "Analyst, later Vice President (investment banking)",
+      "start": "1991",
+      "end": "1998",
+      "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+    },
+    {
+      "organization": "USA Networks",
+      "title": "Senior Vice President of Strategic Planning, later President",
+      "start": "1998",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+    },
+    {
+      "organization": "IAC",
+      "title": "Chief Financial Officer (IAC / IAC Travel)",
+      "start": null,
+      "end": "2005",
+      "source": "https://www.uber.com/us/en/about/leadership/dara-khosrowshahi/"
+    },
+    {
+      "organization": "Expedia",
+      "title": "Chief Executive Officer",
+      "start": "2005",
+      "end": "2017",
+      "source": "https://www.inc.com/minda-zetlin/expedia-chief-dara-khosrowshahi-will-be-ubers-next.html"
+    },
+    {
+      "organization": "Uber Technologies",
+      "title": "Chief Executive Officer",
+      "start": "2017",
+      "end": null,
+      "source": "https://www.uber.com/us/en/about/leadership/dara-khosrowshahi/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Began as an investment banker at Allen & Company and served as IAC's chief financial officer before running Expedia for 12 years and then Uber.",
+  "tenure": {
+    "start": "2017-09",
+    "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+  },
+  "notable": [
+    {
+      "date": "2017-11",
+      "type": "decision",
+      "summary": "Replaced Uber's 14 founding cultural values with eight new ones, including the line \"We do the right thing. Period.\"",
+      "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+    },
+    {
+      "date": "2019-05",
+      "type": "decision",
+      "summary": "Led Uber through its initial public offering on the New York Stock Exchange.",
+      "source": "https://en.wikipedia.org/wiki/Uber"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Uber agreed to acquire Germany-based Delivery Hero in an all-stock deal valued at about $14.8 billion, subject to shareholder acceptance and regulatory review.",
+      "source": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "In a post titled 'Building a simpler, faster Uber,' Khosrowshahi announced a roughly 10% workforce reduction and fewer management layers, saying a leaner organization would mean faster decisions.",
+      "source": "https://www.uber.com/us/en/newsroom/simplerfasteruber/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Dara Khosrowshahi fled Iran's revolution at age 9; four decades later, he runs Uber.",
+    "summary": "Khosrowshahi was born in Tehran in 1969 into a family whose business conglomerate was later nationalized after the Iranian Revolution. At age 9 the family left Iran, eventually settling in Tarrytown, New York, and his father was later held in Iran for six years, so his mother, who had never worked in Iran, took a full-time job and raised her three children largely alone. He studied engineering at Brown University but went into investment banking at Allen & Company, where client Barry Diller later hired him into his media and internet businesses. After serving as CFO at Diller's IAC, he ran Expedia for 12 years and, after initially saying no to recruiters, took over a scandal-hit Uber in 2017.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Tehran in 1969; left Iran at 9 and grew up in Tarrytown, New York",
+        "source": "https://www.uber.com/us/en/about/leadership/dara-khosrowshahi/"
+      },
+      {
+        "label": "Family background",
+        "value": "Family's Tehran conglomerate was lost after the revolution; father was held in Iran for six years while his mother raised three children",
+        "source": "https://www.inc.com/minda-zetlin/expedia-chief-dara-khosrowshahi-will-be-ubers-next.html"
+      },
+      {
+        "label": "Other",
+        "value": "Comes from a family of tech figures, including cousins who co-founded Code.org and created Google Sheets",
+        "source": "http://fortune.com/2017/11/17/uber-ceo-dara-khosrowshahi/"
+      },
+      {
+        "label": "First job",
+        "value": "Analyst at investment bank Allen & Company after graduating from Brown in 1991",
+        "source": "https://en.wikipedia.org/wiki/Dara_Khosrowshahi"
+      },
+      {
+        "label": "Mentor",
+        "value": "Barry Diller, an Allen & Co. client who hired him at USA Networks and IAC",
+        "source": "https://www.inc.com/minda-zetlin/expedia-chief-dara-khosrowshahi-will-be-ubers-next.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Initially turned down Uber's headhunter; Spotify's Daniel Ek urged him to reconsider at Sun Valley in 2017",
+        "source": "https://www.businesstoday.in/technology/news/story/why-would-i-jump-into-that-mess-how-a-reluctant-dara-khosrowshahi-got-recruited-as-uber-ceo-386482-2023-06-21"
+      }
+    ],
+    "quote": {
+      "text": "I saw my family losing everything, and you know what? We rebuilt a life.",
+      "context": "Said at an Uber all-hands meeting after becoming CEO, as reported by Fortune (Nov. 2017)",
+      "source": "http://fortune.com/2017/11/17/uber-ceo-dara-khosrowshahi/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dara_Khosrowshahi",
+      "https://www.uber.com/us/en/about/leadership/dara-khosrowshahi/",
+      "https://www.inc.com/minda-zetlin/expedia-chief-dara-khosrowshahi-will-be-ubers-next.html",
+      "http://fortune.com/2017/11/17/uber-ceo-dara-khosrowshahi/",
+      "https://www.businesstoday.in/technology/news/story/why-would-i-jump-into-that-mess-how-a-reluctant-dara-khosrowshahi-got-recruited-as-uber-ceo-386482-2023-06-21"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure start: Wikipedia says he became CEO in August 2017 (appointment announced Aug. 27-29); seed date 2017-09 kept (widely reported formal start in early Sept. 2017) but not confirmed from a fetched source - CNBC announcement page returned 403.",
+    "Father's detention: Inc. says he returned to Iran when Dara was 13 to care for his grandfather and was detained six years; Wikipedia says the government barred him from leaving for six years. Story uses 'held in Iran for six years'.",
+    "CFO title: Wikipedia says CFO of IAC; Uber bio says CFO of IAC Travel. Start year of CFO role and end year of USA Networks role not confirmed.",
+    "Degree field: Wikipedia says 'electrical and electronics engineering'; Uber bio says only 'bachelor's degree in engineering'. Recorded as Electrical Engineering.",
+    "IPO notable sourced to Wikipedia's Uber article (WSJ citation not fetched).",
+    "Delivery Hero deal status (completion/regulatory approval) as of Oct 2026 not confirmed."
+  ],
+  "needs_enrichment": false
+}

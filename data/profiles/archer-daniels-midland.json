@@ -1,0 +1,123 @@
+{
+  "id": "archer-daniels-midland",
+  "name": "Juan R. Luciano",
+  "company_id": "archer-daniels-midland",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Instituto Tecnológico de Buenos Aires",
+      "degree": "BS",
+      "field": "Industrial Engineering",
+      "year": null,
+      "source": "https://www.adm.com/our-company/senior-leadership/juan-luciano"
+    }
+  ],
+  "career": [
+    {
+      "organization": "The Dow Chemical Company",
+      "title": "Various roles over 25 years, culminating as Executive Vice President and President of the Performance division",
+      "start": null,
+      "end": "2011",
+      "source": "https://www.lilly.com/leadership/board-of-directors/juan-luciano"
+    },
+    {
+      "organization": "Archer Daniels Midland",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2011",
+      "end": "2014",
+      "source": "https://www.adm.com/our-company/senior-leadership/juan-luciano"
+    },
+    {
+      "organization": "Archer Daniels Midland",
+      "title": "President",
+      "start": "2014",
+      "end": null,
+      "source": "https://www.adm.com/our-company/senior-leadership/juan-luciano"
+    },
+    {
+      "organization": "Archer Daniels Midland",
+      "title": "Chief Executive Officer",
+      "start": "2015",
+      "end": null,
+      "source": "https://investors.adm.com/news/news-details/2014/ADM-Names-Juan-Luciano-Next-CEO-Pat-Woertz-Remains-Chairman/default.aspx"
+    },
+    {
+      "organization": "Archer Daniels Midland",
+      "title": "Chairman of the Board",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.adm.com/our-company/senior-leadership/juan-luciano"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An industrial engineer by training, he spent 25 years in Dow Chemical's operating businesses before running ADM's operations as COO.",
+  "tenure": {
+    "start": "2015-01-01",
+    "source": "https://investors.adm.com/news/news-details/2014/ADM-Names-Juan-Luciano-Next-CEO-Pat-Woertz-Remains-Chairman/default.aspx"
+  },
+  "notable": [
+    {
+      "date": "2015-10",
+      "type": "decision",
+      "summary": "ADM agreed to sell its global cocoa business to Olam International for about $1.2 billion, with about 1,500 employees transferring with the business.",
+      "source": "https://en.wikipedia.org/wiki/Archer_Daniels_Midland"
+    },
+    {
+      "date": "2024-01",
+      "type": "decision",
+      "summary": "ADM placed its CFO on administrative leave, cut guidance and delayed its annual report amid an SEC inquiry into accounting in its Nutrition segment; the shares fell a record 23% in one day.",
+      "source": "https://fortune.com/2024/01/22/archer-daniels-midland-cfo-suspended-sec-request-accouinting-shares-plunge-23-percent/"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "After ADM agreed to a $40 million SEC civil penalty over its Nutrition accounting and the DOJ closed its criminal probe without charges, Luciano said the period had underscored the need to incorporate learnings and strengthen the business.",
+      "source": "https://investigatemidwest.org/2026/01/30/sec-fines-adm-40-million-over-accounting-issues-doj-drops-criminal-probe/"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Appointed former Syngenta Group CEO Jeff Rowe as executive vice president and chief operating officer, reporting to Luciano, effective Aug. 17, 2026.",
+      "source": "https://investors.adm.com/news/news-details/2026/ADM-Appoints-Jeff-Rowe-as-Executive-Vice-President-and-Chief-Operating-Officer/default.aspx"
+    }
+  ],
+  "personal_story": {
+    "hook": "Juan Luciano grew up on a farm in Argentina and has run agribusiness giant ADM since 2015.",
+    "summary": "Luciano was born around 1962 in Argentina and grew up on a farm in San Nicolás, Buenos Aires province. He studied industrial engineering at the Buenos Aires Institute of Technology, then spent 25 years at Dow Chemical, rising to run its Performance division. He joined ADM as chief operating officer in 2011, became president in 2014 and CEO on January 1, 2015, adding the chairman title in 2016.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "On a farm in San Nicolás, Buenos Aires province, Argentina",
+        "source": "https://en.wikipedia.org/wiki/Juan_Luciano"
+      },
+      {
+        "label": "Other",
+        "value": "Industrial engineering degree from the Buenos Aires Institute of Technology",
+        "source": "https://www.adm.com/our-company/senior-leadership/juan-luciano"
+      },
+      {
+        "label": "Turning point",
+        "value": "Left Dow after 25 years to join ADM as COO in 2011",
+        "source": "https://www.lilly.com/leadership/board-of-directors/juan-luciano"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Juan_Luciano",
+      "https://www.adm.com/our-company/senior-leadership/juan-luciano",
+      "https://www.lilly.com/leadership/board-of-directors/juan-luciano",
+      "https://investors.adm.com/news/news-details/2014/ADM-Names-Juan-Luciano-Next-CEO-Pat-Woertz-Remains-Chairman/default.aspx"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree recorded as BS; sources say only 'industrial engineering degree' / 'bachelor's in industrial engineering' (an Argentine engineering degree may be a longer professional title). Graduation year not found.",
+    "Farm upbringing sourced via Wikipedia, which cites a 2014 Crain's Chicago Business profile ('ADM's new CEO is a real-life farm boy') that blocked fetching; birth year 'circa 1962' from Wikipedia citing Bloomberg.",
+    "Dow start year and intermediate roles not found; Dow career condensed to one entry.",
+    "Cocoa-sale item sourced to Wikipedia because the cited Reuters article was blocked; replace with a primary source.",
+    "Whether Luciano still holds the 'President' title in 2026 was not confirmed (Investigate Midwest, Jan 2026, calls him president, CEO and board chair); end left null.",
+    "Luciano's January 2026 statement was obtained via a summarizing fetch and is paraphrased in notable; no verbatim quote about his path was found."
+  ],
+  "needs_enrichment": true
+}

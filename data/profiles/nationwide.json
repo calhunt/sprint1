@@ -1,0 +1,106 @@
+{
+  "id": "nationwide",
+  "name": "Kirt A. Walker",
+  "company_id": "nationwide",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "degree": "BA",
+      "field": "Management",
+      "year": null,
+      "source": "https://news.nationwide.com/kirt-walker/"
+    },
+    {
+      "institution": "The American College of Financial Services",
+      "degree": "MS",
+      "field": "Management (leadership emphasis)",
+      "year": null,
+      "source": "https://news.nationwide.com/kirt-walker/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Nationwide family of companies (property & casualty)",
+      "title": "Various leadership roles over 23 years, including President of Allied Insurance and President and COO of Nationwide Insurance",
+      "start": "1986",
+      "end": null,
+      "source": "https://news.nationwide.com/kirt-walker/"
+    },
+    {
+      "organization": "Nationwide Financial",
+      "title": "President and Chief Operating Officer (10 years)",
+      "start": null,
+      "end": "2019",
+      "source": "https://news.nationwide.com/kirt-walker/"
+    },
+    {
+      "organization": "Nationwide",
+      "title": "Chief Executive Officer; Board member; chair of the Nationwide Foundation",
+      "start": "2019",
+      "end": null,
+      "source": "https://news.nationwide.com/kirt-walker/"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A Nationwide lifer since 1986 who ran its property & casualty and financial services businesses as president and COO before becoming CEO.",
+  "tenure": {
+    "start": "2019-10",
+    "source": "https://news.nationwide.com/kirt-walker/"
+  },
+  "notable": [
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "Nationwide completed its $1.25 billion acquisition of Allstate's employer stop loss business, creating a new Group Benefits segment.",
+      "source": "https://news.nationwide.com/nationwide-completes-acquisition-of-allstate-employer-stop-loss-business-for-125-billion/"
+    },
+    {
+      "date": "2025-08",
+      "type": "decision",
+      "summary": "Nationwide acquired the renewal rights to Markel's roughly $1.2 billion global reinsurance business.",
+      "source": "https://www.insurancejournal.com/news/national/2025/08/19/836198.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "Marking Nationwide's 100th anniversary, Walker wrote that \"we're not an insurance or financial services company — we're a protection company.\"",
+      "source": "https://news.nationwide.com/centennial/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Raised on an Iowa Century Farm, Kirt Walker joined Nationwide in 1986 and stayed 33 years before becoming CEO.",
+    "summary": "Walker is a native of Irvington, Iowa, and was raised on a Century Farm. He earned a management degree from Iowa State University and joined the Nationwide family of companies in 1986. He spent 23 years in property and casualty leadership roles, including president of Allied Insurance and president and COO of Nationwide Insurance, then a decade as president and COO of Nationwide Financial before being elected CEO in 2019.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Native of Irvington, Iowa; raised on a Century Farm",
+        "source": "https://news.nationwide.com/kirt-walker/"
+      },
+      {
+        "label": "First job",
+        "value": "Joined the Nationwide family of companies in 1986",
+        "source": "https://news.nationwide.com/kirt-walker/"
+      },
+      {
+        "label": "Other",
+        "value": "Iowa State University Distinguished Alumnus; inducted into the Iowa Business Hall of Fame in 2026",
+        "source": "https://news.nationwide.com/kirt-walker/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://news.nationwide.com/kirt-walker/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure month (2019-10) kept from seed; Nationwide bio says only 'elected CEO in 2019'. The 2019 announcement could not be located.",
+    "Graduation years not found.",
+    "Exact years of P&C roles and the Nationwide Financial presidency not given; bio implies roughly 1986-2009 and 2009-2019 (23 + 10 years), left null where unstated.",
+    "Wikipedia (Nationwide article) cites an Oct. 2025 $1.5 billion technology and AI investment; the source (pulse2.com) and two Nationwide newsroom pages (April 2026 'centennial year stronger than ever'; May 2026 board chair release) could not be read due to fetch rate limiting, so omitted.",
+    "No Wikipedia article on Walker exists/was reachable; no interviews about his upbringing were reachable without web search."
+  ],
+  "needs_enrichment": true
+}

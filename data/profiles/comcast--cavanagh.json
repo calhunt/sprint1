@@ -1,0 +1,160 @@
+{
+  "id": "comcast--cavanagh",
+  "name": "Michael J. Cavanagh",
+  "company_id": "comcast",
+  "role": "Co-CEO",
+  "education": [
+    {
+      "institution": "Yale University",
+      "degree": "BA",
+      "field": "History",
+      "year": 1988,
+      "source": "https://en.wikipedia.org/wiki/Michael_J._Cavanagh"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "JD",
+      "field": null,
+      "year": 1993,
+      "source": "https://en.wikipedia.org/wiki/Michael_J._Cavanagh"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Citigroup and predecessor companies",
+      "title": "Various roles, incl. CFO of the Consumer Group for Europe, Middle East and Africa",
+      "start": "1993",
+      "end": "2000",
+      "source": "https://www.sec.gov/Archives/edgar/data/1166691/000095010315003787/dp56117_ex9902.htm"
+    },
+    {
+      "organization": "Bank One",
+      "title": "Head of Strategy and Planning, Treasurer, then CEO/COO of Middle Market Banking",
+      "start": "2000",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Michael_J._Cavanagh"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "Chief Financial Officer",
+      "start": "2004",
+      "end": "2010",
+      "source": "https://www.sec.gov/Archives/edgar/data/19617/000001961710000268/f8ksrman.htm"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "CEO of Treasury & Securities Services, then Co-CEO of the Corporate & Investment Bank (2012-2014)",
+      "start": "2010",
+      "end": "2014",
+      "source": "https://corporate.comcast.com/news-information/leadership-overview/michael-j-cavanagh"
+    },
+    {
+      "organization": "The Carlyle Group",
+      "title": "Co-President and Co-Chief Operating Officer",
+      "start": "2014",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Michael_J._Cavanagh"
+    },
+    {
+      "organization": "Comcast",
+      "title": "Senior Executive Vice President and Chief Financial Officer",
+      "start": "2015",
+      "end": "2022",
+      "source": "https://www.sec.gov/Archives/edgar/data/1166691/000095010315003787/dp56117_ex9902.htm"
+    },
+    {
+      "organization": "Comcast",
+      "title": "President",
+      "start": "2022",
+      "end": "2025",
+      "source": "https://www.inquirer.com/business/comcast/comcast-cavanagh-president-roberts-philly-20221012.html"
+    },
+    {
+      "organization": "Comcast",
+      "title": "Co-Chief Executive Officer (with Brian Roberts)",
+      "start": "2026",
+      "end": null,
+      "source": "https://corporate.comcast.com/press/releases/mike-cavanagh-brian-roberts-co-chief-executive-officer"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Spent two decades in banking finance and strategy roles, including six years as JPMorgan Chase's CFO, before joining Comcast as CFO in 2015.",
+  "tenure": {
+    "start": "2026-01",
+    "source": "https://corporate.comcast.com/press/releases/mike-cavanagh-brian-roberts-co-chief-executive-officer"
+  },
+  "notable": [
+    {
+      "date": "2025-12",
+      "type": "statement",
+      "summary": "As co-CEO-designate, Cavanagh explained Comcast's decision not to pursue Warner Bros. Discovery further after Netflix won the bidding, saying the company was not interested in stressing its balance sheet.",
+      "source": "https://philadelphia.today/2025/12/comcast-warner-bros-discovery-failed-bid/"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Took office as co-CEO and joined Comcast's board in the same week the company completed the spin-off of its cable networks into Versant Media Group.",
+      "source": "https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Comcast announced it would separate into two public companies within about a year, with Cavanagh named to become CEO of the spun-off NBCUniversal, including Sky.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1166691/000095010326009591/dp249094_ex9901.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "On the second-quarter earnings call, Cavanagh said the goal was to complete the separation in about a year with strong investment-grade profiles for both companies, as Peacock reported its first profitable quarter.",
+      "source": "https://www.marketbeat.com/instant-alerts/comcast-q2-earnings-call-highlights-2026-07-23/"
+    }
+  ],
+  "personal_story": {
+    "hook": "He pumped gas as a teenager and worked construction summers to get through Yale; now Mike Cavanagh co-runs Comcast.",
+    "summary": "Cavanagh grew up in a middle-class Irish-Catholic family on Long Island and pumped gas at a filling station before college. At Yale he rowed crew and worked summer construction jobs to cover expenses, graduating in 1988 with a history degree, then earned a law degree from the University of Chicago in 1993. He went into banking instead of law, became a protege of Jamie Dimon, and followed him to Bank One and JPMorgan Chase, where he served as CFO through the 2008 financial crisis. After a brief stint at Carlyle, he joined Comcast as CFO in 2015, became its first president from outside the Roberts family in 2022, and co-CEO in 2026.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Irish-Catholic family on Long Island",
+        "source": "https://www.inquirer.com/philly/business/comcast/20150831_New_Comcast_CFO_says_company_must_avoid_complacency.html"
+      },
+      {
+        "label": "First job",
+        "value": "Pumped gas at a filling station before college",
+        "source": "https://www.spokesman.com/stories/2023/may/22/nbcuniversals-new-leader-a-hollywood-outsider-step/"
+      },
+      {
+        "label": "Other",
+        "value": "Rowed crew at Yale and worked summer construction jobs to cover expenses",
+        "source": "https://www.spokesman.com/stories/2023/may/22/nbcuniversals-new-leader-a-hollywood-outsider-step/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Long-time protege of Jamie Dimon at Bank One and JPMorgan Chase",
+        "source": "https://www.inquirer.com/philly/business/comcast/20150831_New_Comcast_CFO_says_company_must_avoid_complacency.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "2022: became Comcast's first president from outside the founding Roberts family",
+        "source": "https://www.inquirer.com/business/comcast/comcast-cavanagh-president-roberts-philly-20221012.html"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://www.spokesman.com/stories/2023/may/22/nbcuniversals-new-leader-a-hollywood-outsider-step/",
+      "https://www.inquirer.com/philly/business/comcast/20150831_New_Comcast_CFO_says_company_must_avoid_complacency.html",
+      "https://www.inquirer.com/business/comcast/comcast-cavanagh-president-roberts-philly-20221012.html",
+      "https://en.wikipedia.org/wiki/Michael_J._Cavanagh",
+      "https://corporate.comcast.com/news-information/leadership-overview/michael-j-cavanagh"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Citigroup start year 1993 is inferred from Wikipedia's 'seven years' before joining Bank One in 2000 and his 1993 JD; exact start and which predecessor firm are unconfirmed.",
+    "Order of JPMorgan roles: Wikipedia lists TSS before CFO, but JPMorgan's June 2010 8-K shows he moved from CFO to head of TSS in 2010; career follows the 8-K.",
+    "Exact co-CEO start date: TheWrap reports Jan. 1, 2026; Comcast release says January 2026.",
+    "Q2 2026 earnings statement sourced from a MarketBeat summary; verify against the call transcript.",
+    "No verbatim quote about his own path found; quote left null. Spokesman-Review (2023) details on pumping gas and construction jobs not independently confirmed elsewhere."
+  ]
+}

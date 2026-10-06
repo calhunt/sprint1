@@ -1,0 +1,129 @@
+{
+  "id": "cardinal-health",
+  "name": "Jason M. Hollar",
+  "company_id": "cardinal-health",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Indiana University",
+      "degree": "BS",
+      "field": "Business",
+      "year": null,
+      "source": "https://www.prnewswire.com/news-releases/sears-holdings-names-jason-hollar-chief-financial-officer-300344917.html"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "MBA",
+      "field": "Finance; Accounting",
+      "year": null,
+      "source": "https://www.prnewswire.com/news-releases/sears-holdings-names-jason-hollar-chief-financial-officer-300344917.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Navistar International",
+      "title": "Finance roles in the engine group, South America operations and corporate planning, incl. CFO of the military/defense subsidiary",
+      "start": null,
+      "end": null,
+      "source": "https://www.counterman.com/tenneco-board-appoints-jason-hollar-as-cfo/"
+    },
+    {
+      "organization": "Delphi Automotive",
+      "title": "Vice President and Corporate Controller (also VP Finance, Powertrain Systems)",
+      "start": null,
+      "end": "2014",
+      "source": "https://www.counterman.com/tenneco-board-appoints-jason-hollar-as-cfo/"
+    },
+    {
+      "organization": "Sears Holdings",
+      "title": "Senior Vice President, Finance; then Chief Financial Officer (from Oct. 2016)",
+      "start": "2014",
+      "end": "2017",
+      "source": "https://www.prnewswire.com/news-releases/sears-holdings-names-jason-hollar-chief-financial-officer-300344917.html"
+    },
+    {
+      "organization": "Tenneco",
+      "title": "Senior Vice President, Finance; then Executive Vice President and Chief Financial Officer (from July 2018)",
+      "start": "2017",
+      "end": "2020",
+      "source": "https://www.counterman.com/tenneco-board-appoints-jason-hollar-as-cfo/"
+    },
+    {
+      "organization": "Cardinal Health",
+      "title": "Chief Financial Officer",
+      "start": "2020",
+      "end": "2022",
+      "source": "https://www.prnewswire.com/news-releases/cardinal-health-names-jason-hollar-as-new-chief-financial-officer-301026480.html"
+    },
+    {
+      "organization": "Cardinal Health",
+      "title": "Chief Executive Officer",
+      "start": "2022",
+      "end": null,
+      "source": "https://newsroom.cardinalhealth.com/2022-08-11-Cardinal-Health-Announces-Leadership-Changes"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built a 20+ year career in corporate finance, controllership and planning at Navistar, Delphi, Sears and Tenneco, and was Cardinal Health's CFO before becoming CEO.",
+  "tenure": {
+    "start": "2022-09-01",
+    "source": "https://newsroom.cardinalhealth.com/2022-08-11-Cardinal-Health-Announces-Leadership-Changes"
+  },
+  "notable": [
+    {
+      "date": "2024-11",
+      "type": "decision",
+      "summary": "Cardinal Health agreed to acquire a 71% stake in gastroenterology MSO GI Alliance for $2.8 billion and Advanced Diabetes Supply Group for $1.1 billion, expanding its specialty and at-home businesses.",
+      "source": "https://www.fiercehealthcare.com/finance/cardinal-health-inks-two-deals-worth-39b-expand-diabetes-gastroenterology-businesses"
+    },
+    {
+      "date": "2025-08",
+      "type": "decision",
+      "summary": "Cardinal Health agreed to acquire urology-focused MSO Solaris Health for about $1.9 billion, with Hollar saying accelerating Specialty growth remained the company's top priority.",
+      "source": "https://www.fiercehealthcare.com/finance/cardinal-health-builds-out-urology-focus-19b-deal-solaris-health"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Cardinal Health agreed to buy AdaptHealth's Diabetes Health business and Strive Medical for a combined $360 million in cash, adding more than 245,000 patients to its at-Home Solutions platform.",
+      "source": "https://www.mdm.com/news/mergers-acquisitions/cardinal-health-expands-home-care-business-with-360m-acquisition-pair/"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "At an investor conference, Hollar said fiscal 2026 finished far ahead of plan, with all five operating segments growing earnings by double digits.",
+      "source": "https://www.investing.com/news/transcripts/cardinal-health-at-2026-global-healthcare-conference-growth-broadens-93CH-4901993"
+    }
+  ],
+  "personal_story": {
+    "hook": "Jason Hollar spent more than two decades in finance at manufacturers and retailers before running a healthcare giant.",
+    "summary": "Hollar studied business at Indiana University and earned an MBA from the University of Chicago. He spent much of his early career at truck and engine maker Navistar in finance roles that included its South America operations, then worked at Delphi, Sears and Tenneco, eventually serving as CFO at each of the last two. He joined Cardinal Health as CFO in 2020 and was named CEO two years later. Little about his upbringing has been shared publicly.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Has lived and worked in the United States, Europe and South America",
+        "source": "https://www.hda.org/hda-events/2024-hda-research-foundation-ceo-roundtable-fundraiser/guest-speaker/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Cardinal Health as CFO in May 2020, at the start of the COVID-19 pandemic; named CEO in 2022",
+        "source": "https://www.prnewswire.com/news-releases/cardinal-health-names-jason-hollar-as-new-chief-financial-officer-301026480.html"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/sears-holdings-names-jason-hollar-chief-financial-officer-300344917.html",
+      "https://www.counterman.com/tenneco-board-appoints-jason-hollar-as-cfo/",
+      "https://www.prnewswire.com/news-releases/cardinal-health-names-jason-hollar-as-new-chief-financial-officer-301026480.html",
+      "https://www.hda.org/hda-events/2024-hda-research-foundation-ceo-roundtable-fundraiser/guest-speaker/",
+      "https://newsroom.cardinalhealth.com/2022-08-11-Cardinal-Health-Announces-Leadership-Changes"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Start/end years of Navistar and Delphi roles not found in reliable sources; Delphi end year 2014 inferred from joining Sears in Oct. 2014.",
+    "Graduation years for BS and MBA not found.",
+    "Cardinal's 2022 release (as summarized) mentioned Tenneco CFO from June 2017; Tenneco-era coverage says he joined Tenneco in 2017 as SVP Finance and became CFO July 2018. Used the latter."
+  ]
+}

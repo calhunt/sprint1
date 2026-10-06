@@ -1,0 +1,123 @@
+{
+  "id": "freddie-mac",
+  "name": "Kenny M. Smith",
+  "company_id": "freddie-mac",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Texas Tech University",
+      "degree": "BBA",
+      "field": "Accounting",
+      "year": 1983,
+      "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Deloitte Consulting LLP",
+      "title": "Consultant rising to Principal (incl. U.S. real estate industry leader and regional managing director of the consulting practice)",
+      "start": "1993",
+      "end": "2014",
+      "source": "https://www.prnewswire.com/news-releases/kenny-smith-named-new-leader-of-deloittes-banking-and-securities-team-280924042.html"
+    },
+    {
+      "organization": "Deloitte",
+      "title": "Global Lead Client Service Partner for Wells Fargo & Company",
+      "start": "2008",
+      "end": "2019",
+      "source": "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-president-mike-hutchins-remain-president-freddie-mac"
+    },
+    {
+      "organization": "Deloitte LLP",
+      "title": "Vice Chairman and leader of the banking and securities practice",
+      "start": "2014",
+      "end": null,
+      "source": "https://www.prnewswire.com/news-releases/kenny-smith-named-new-leader-of-deloittes-banking-and-securities-team-280924042.html"
+    },
+    {
+      "organization": "Deloitte",
+      "title": "Vice Chairman, U.S. Financial Services Industry Leader",
+      "start": null,
+      "end": "2020",
+      "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php"
+    },
+    {
+      "organization": "Freddie Mac",
+      "title": "Chief Executive Officer and Director",
+      "start": "2025",
+      "end": null,
+      "source": "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-president-mike-hutchins-remain-president-freddie-mac"
+    }
+  ],
+  "background_category": "Consulting",
+  "background_rationale": "Spent nearly three decades at Deloitte advising banks and other financial institutions on strategy, risk and governance, ending as vice chairman and U.S. financial services industry leader before being named Freddie Mac CEO.",
+  "tenure": {
+    "start": "2025-12-17",
+    "source": "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-president-mike-hutchins-remain-president-freddie-mac"
+  },
+  "notable": [
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "In his first annual results as CEO, Smith reported 2025 net income of $10.7 billion on revenue of $23.3 billion and said Freddie Mac helped more than 1.7 million families buy, refinance or rent a home.",
+      "source": "https://www.housingwire.com/articles/freddie-mac-2025-earnings/"
+    },
+    {
+      "date": "2026-04",
+      "type": "decision",
+      "summary": "Freddie Mac became the first government-sponsored enterprise to securitize loans using the VantageScore 4.0 credit score and shifted its multifamily business toward fully guaranteed securitizations.",
+      "source": "https://www.housingwire.com/articles/freddie-mac-q1-earnings-refinance/"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Reporting second-quarter net income of $3.8 billion, Smith said Freddie Mac helped nearly 439,000 households buy, refinance or rent a home, including 97,000 first-time homebuyers.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1026214/000102621426000047/a2q2026erexhibit991.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "A first-generation college student, Kenny Smith picked accounting because it had the shortest registration line.",
+    "summary": "Smith grew up in Lubbock, Texas, in a family he says didn't have \"two nickels to rub together\"; one of his grandfathers laid the bricks of downtown Lubbock's streets during the Great Depression. He and his sister were the first in their family to attend college. Planning on pre-law, he was nudged toward business by a teacher's husband, and at Texas Tech registration he joined the accounting line because it was the shortest. He graduated in 1983, became a CPA, and built a long career at Deloitte advising banks, retiring in 2020 as vice chairman before Freddie Mac's board named him CEO in December 2025.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Lubbock, Texas; attended Coronado High School",
+        "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php"
+      },
+      {
+        "label": "Family background",
+        "value": "First-generation college student; a grandfather laid the brick streets of downtown Lubbock in the Depression",
+        "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php"
+      },
+      {
+        "label": "Turning point",
+        "value": "Chose accounting at Texas Tech registration because it was the shortest line",
+        "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php"
+      },
+      {
+        "label": "Other",
+        "value": "Certified Public Accountant; Texas Tech Rawls College distinguished alumnus",
+        "source": "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-president-mike-hutchins-remain-president-freddie-mac"
+      }
+    ],
+    "quote": {
+      "text": "The shortest line in the business school was the accounting line and so I signed up for accounting because it was the shortest line at registration.",
+      "context": "Texas Tech Rawls College of Business distinguished alumnus profile, Dec. 2022",
+      "source": "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.depts.ttu.edu/rawlsbusiness/news/posts/2022/12/Distinguished-alumnus-puts-serving-others-as-his-most-important-life-pursuit.php",
+      "https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-president-mike-hutchins-remain-president-freddie-mac",
+      "https://www.prnewswire.com/news-releases/kenny-smith-named-new-leader-of-deloittes-banking-and-securities-team-280924042.html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Deloitte tenure conflicts: Freddie Mac release says 27 years at Deloitte Consulting; Texas Tech (2022) says more than 36 years at Deloitte; 2014 Deloitte release says he joined Deloitte in 1993 but cites a 30-year client-service career. Employer(s) between 1983 graduation and 1993 not confirmed, so omitted.",
+    "Start year of the Vice Chairman, U.S. Financial Services Industry Leader role not confirmed (Freddie Mac says he held it 5 years, implying ~2015); left null. Retirement from Deloitte in May 2020 per Texas Tech.",
+    "Field 'Accounting' is from the Texas Tech profile; Freddie Mac release lists only a BBA.",
+    "Smith has given few public interviews as CEO; notable items rely on earnings-release statements."
+  ]
+}

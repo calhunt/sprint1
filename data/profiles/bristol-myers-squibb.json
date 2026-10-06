@@ -1,0 +1,50 @@
+{
+  "id": "bristol-myers-squibb",
+  "name": "Christopher Boerner",
+  "company_id": "bristol-myers-squibb",
+  "role": "CEO",
+  "education": [
+    {"institution": "Washington University in St. Louis", "degree": "BA", "field": "Economics; History", "year": null, "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"institution": "University of California, Berkeley", "degree": "MA", "field": "Business Administration", "year": null, "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"institution": "University of California, Berkeley", "degree": "PhD", "field": "Business Administration", "year": null, "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"}
+  ],
+  "career": [
+    {"organization": "McKinsey & Company", "title": "Consultant to global pharmaceutical and biotechnology clients", "start": null, "end": null, "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Genentech (Roche Group)", "title": "Marketing leadership roles in oncology and immunology", "start": "2002", "end": "2010", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Seattle Genetics", "title": "Leadership roles", "start": "2010", "end": "2015", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Bristol Myers Squibb", "title": "Head of U.S. Commercial Markets, then Head of International Markets", "start": "2015", "end": "2018", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Bristol Myers Squibb", "title": "Executive Vice President, Chief Commercialization Officer", "start": "2018", "end": "2023", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Bristol Myers Squibb", "title": "Executive Vice President, Chief Operating Officer and CEO-designate", "start": "2023", "end": "2023", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+    {"organization": "Bristol Myers Squibb", "title": "Chief Executive Officer (later also Board Chair)", "start": "2023", "end": null, "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"}
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "After early consulting work at McKinsey, he built his career in biopharma marketing and commercial leadership at Genentech, Seattle Genetics and BMS, culminating as BMS's Chief Commercialization Officer before becoming COO and CEO.",
+  "tenure": {"start": "2023-11-01", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+  "notable": [
+    {"date": "2024-03", "type": "decision", "summary": "Completed the roughly $14 billion acquisition of Karuna Therapeutics, adding the schizophrenia drug candidate KarXT and expanding BMS's neuroscience portfolio.", "source": "https://news.bms.com/news/corporate-financial/2024/Bristol-Myers-Squibb-Completes-Acquisition-of-Karuna-Therapeutics-Strengthening-Neuroscience-Portfolio/default.aspx"},
+    {"date": "2024-04", "type": "decision", "summary": "Launched a strategic productivity initiative targeting about $1.5 billion in cost savings by the end of 2025, with most savings to be reinvested in growth.", "source": "https://news.bms.com/news/corporate-financial/2024/Bristol-Myers-Squibb-Reports-First-Quarter-Financial-Results-for-2024/default.aspx"},
+    {"date": "2024-09", "type": "decision", "summary": "BMS won U.S. FDA approval for Cobenfy (formerly KarXT), described as the first new type of schizophrenia treatment in decades.", "source": "https://en.wikipedia.org/wiki/Bristol_Myers_Squibb"},
+    {"date": "2025-02", "type": "decision", "summary": "Expanded the productivity initiative to deliver about $2 billion in additional annualized cost savings by the end of 2027.", "source": "https://news.bms.com/news/corporate-financial/2025/Bristol-Myers-Squibb-Reports-Fourth-Quarter-and-Full-Year-Financial-Results-for-2024/default.aspx"}
+  ],
+  "personal_story": {
+    "hook": "An Arkansas-raised economist with a Berkeley business PhD, Chris Boerner rose through drug marketing to run Bristol Myers Squibb.",
+    "summary": "Boerner was born and raised in Fort Smith, Arkansas, and studied economics and history at Washington University in St. Louis before earning a master's and a PhD in business administration at UC Berkeley's Haas School. He started out at McKinsey advising pharmaceutical and biotech clients, then spent eight years in marketing at Genentech and five at Seattle Genetics. He joined Bristol Myers Squibb in 2015 to run U.S. commercial operations, became chief commercialization officer in 2018, and was named COO and CEO-designate in 2023 before taking over as CEO that November.",
+    "facts": [
+      {"label": "Grew up", "value": "Born and raised in Fort Smith, Arkansas", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+      {"label": "First job", "value": "Consultant at McKinsey & Company serving pharma and biotech clients", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"},
+      {"label": "Turning point", "value": "Joined BMS in 2015 to lead U.S. commercial markets", "source": "https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"}
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": ["https://www.bms.com/our-company/leadership/leadership-team/chris-boerner.html"]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for BA, MA and PhD not found in reachable sources.",
+    "Wikipedia article for Boerner could not be fetched (cache-only); personal story based solely on the BMS bio.",
+    "Exact year he added the Board Chair title not confirmed; McKinsey dates unknown.",
+    "Exact dates of US Commercial vs International Markets roles (2015-2018) not broken out in the BMS bio.",
+    "Cobenfy approval sourced to Wikipedia's BMS article only; no 2026 CEO-era events could be sourced without web search."
+  ],
+  "needs_enrichment": true
+}

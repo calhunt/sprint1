@@ -1,0 +1,157 @@
+{
+  "id": "ups",
+  "name": "Carol B. Tomé",
+  "company_id": "ups",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Wyoming",
+      "degree": "BA",
+      "field": "Communication",
+      "year": null,
+      "source": "https://about.ups.com/us/en/our-company/leadership/carol-tome.html"
+    },
+    {
+      "institution": "University of Denver",
+      "degree": "MBA",
+      "field": "Finance",
+      "year": null,
+      "source": "https://about.ups.com/us/en/our-company/leadership/carol-tome.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "United Bank of Denver",
+      "title": "Commercial Lender",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+    },
+    {
+      "organization": "Johns-Manville Corporation",
+      "title": "Director of Banking",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+    },
+    {
+      "organization": "Riverwood International Corporation",
+      "title": "Vice President and Treasurer",
+      "start": null,
+      "end": "1995",
+      "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Senior finance executive (hired to support expansion into Mexico)",
+      "start": "1995",
+      "end": "2001",
+      "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Chief Financial Officer",
+      "start": "2001",
+      "end": "2019",
+      "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+    },
+    {
+      "organization": "UPS",
+      "title": "Member, Board of Directors",
+      "start": "2003",
+      "end": null,
+      "source": "https://about.ups.com/us/en/our-company/leadership/carol-tome.html"
+    },
+    {
+      "organization": "UPS",
+      "title": "Chief Executive Officer",
+      "start": "2020",
+      "end": null,
+      "source": "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built her career in corporate finance, from commercial lending and treasury roles to nearly two decades as CFO of The Home Depot, before being recruited from the UPS board to run the company.",
+  "tenure": {
+    "start": "2020-06-01",
+    "source": "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/"
+  },
+  "notable": [
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "UPS terminated its planned acquisition of Mexican express delivery company Estafeta, announced in July 2024, citing the inability of all closing conditions to be satisfied.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1090727/000109072725000067/ups-20250918.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "UPS reported that during 2025, as it reduced Amazon volume and reconfigured its network, it eliminated about 48,000 operational positions and ceased daily operations at 93 facilities.",
+      "source": "https://investors.ups.com/news-events/press-releases/detail/2154/ups-releases-4q-2025-earnings-and-provides-2026-guidance"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "Tomé said that upon completion of the Amazon glide-down, 2026 would be an inflection point in UPS's strategy to deliver growth and sustained margin expansion.",
+      "source": "https://investors.ups.com/news-events/press-releases/detail/2154/ups-releases-4q-2025-earnings-and-provides-2026-guidance"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Announced executive leadership changes and a new global operating model effective Sept. 1, 2026, including new chief global operations and chief U.S. domestic officer roles.",
+      "source": "https://investors.ups.com/news-events/press-releases/detail/2168/ups-announces-executive-leadership-changes-and-new-global"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Wyoming banker's daughter, Carol Tomé came out of retirement at 63 to become UPS's first outside CEO.",
+    "summary": "Tomé was born in 1957 in Jackson, Wyoming, where her father was a community banker; she has called it an unbelievable childhood in which she learned to hunt, fish, cook, sew and live off the land. She has also traced her drive to a line of self-reliant women, including a great-grandmother who came to Wyoming by wagon train as a homesteader. After studying at the University of Wyoming and the University of Denver, she planned on a banking career and started as a commercial lender, then moved into corporate treasury roles. She joined The Home Depot in 1995 and served as its CFO for nearly two decades, crediting co-founder Arthur Blank with investing in her from her first day. Retired and, in her words, seriously bored, she was asked by the UPS board, on which she had sat since 2003, to become CEO in 2020, the first outsider and first woman to lead the company.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1957 in Jackson, Wyoming; learned to hunt, fish, cook, sew and live off the land",
+        "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a community banker; great-grandmother was a Wyoming homesteader who arrived by wagon train",
+        "source": "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/"
+      },
+      {
+        "label": "First job",
+        "value": "Commercial lender at United Bank of Denver",
+        "source": "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9"
+      },
+      {
+        "label": "Mentor",
+        "value": "Home Depot co-founder Arthur Blank, who she says invested in her from her first day",
+        "source": "https://saportareport.com/2022-four-pillar-honoree-carol-tome-blends-culture-of-home-depot-and-ups/columnists/mariasmetro/maria_saporta/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Called out of retirement in 2020, at 63, to become UPS's first outside and first female CEO",
+        "source": "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/"
+      }
+    ],
+    "quote": {
+      "text": "I think this was my calling. I think I've been called back.",
+      "context": "Interview with Maria Saporta, SaportaReport, March 2021, on leaving retirement to become UPS CEO",
+      "source": "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carol_Tom%C3%A9",
+      "https://about.ups.com/us/en/our-company/leadership/carol-tome.html",
+      "https://saportareport.com/carol-tome-on-becoming-ceo-of-ups-this-was-my-calling/columnists/maria_saporta/",
+      "https://saportareport.com/2022-four-pillar-honoree-carol-tome-blends-culture-of-home-depot-and-ups/columnists/mariasmetro/maria_saporta/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduate degree wording differs: UPS bio says 'Master's degree in Finance' from the University of Denver; Wikipedia says MBA. Recorded as MBA (Finance); verify against UPS proxy.",
+    "Undergraduate degree type: UPS bio says bachelor's in Communication; Wikipedia says BA. Graduation years not found.",
+    "Years for pre-Home Depot roles (United Bank of Denver, Johns-Manville, Riverwood) not found; her first Home Depot title (1995-2001) not confirmed, so described generically.",
+    "Notable items such as the 2023 Teamsters contract and the January 2025 decision to cut Amazon volume by more than half could not be sourced from a fetchable page (NPR/CNBC/BBC blocked)."
+  ],
+  "needs_enrichment": true
+}

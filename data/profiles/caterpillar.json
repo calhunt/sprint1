@@ -1,0 +1,134 @@
+{
+  "id": "caterpillar",
+  "name": "Joseph E. Creed",
+  "company_id": "caterpillar",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Western Illinois University",
+      "degree": "BS",
+      "field": "Accounting",
+      "year": null,
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Caterpillar",
+      "title": "Joined the company; finance roles",
+      "start": "1997",
+      "end": "2013",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar Energy & Transportation",
+      "title": "Chief Financial Officer",
+      "start": "2013",
+      "end": "2017",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar",
+      "title": "Senior Vice President, Finance Services; Interim CFO (2018)",
+      "start": "2017",
+      "end": "2019",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar",
+      "title": "Senior Vice President, Oil & Gas and Marine and Electric Power divisions",
+      "start": "2019",
+      "end": "2021",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar",
+      "title": "Group President, Energy & Transportation",
+      "start": "2021",
+      "end": "2023",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar",
+      "title": "Chief Operating Officer",
+      "start": "2023",
+      "end": "2025",
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    },
+    {
+      "organization": "Caterpillar",
+      "title": "Chief Executive Officer (Chairman from 2026)",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "An accounting graduate who spent much of his Caterpillar career in finance roles, including segment CFO and interim corporate CFO, before running operating divisions and becoming COO.",
+  "tenure": {
+    "start": "2025-05",
+    "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+  },
+  "notable": [
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "In Caterpillar's 2025 annual report, Creed said the company's centennial year brought the highest full-year sales and revenues in its history, at $67.6 billion, alongside a refreshed enterprise strategy.",
+      "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/2025-annual-sustainability-report.html"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Caterpillar acquired Skycatch, a provider of 3D spatial data and AI analysis for mining sites, to integrate with its RPM and MineStar mining technology.",
+      "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/072026-mining-technology-expansion.html"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "Reporting second-quarter 2026 sales and revenues of $20.5 billion, up 24% from a year earlier, Creed said it was the first quarter in company history above $20 billion.",
+      "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/2q26-results-caterpillar-inc.html"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Caterpillar agreed to acquire Fabick, a century-old Cat dealership serving Missouri, Illinois, Wisconsin and Michigan's Upper Peninsula.",
+      "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-inc-enters-into-agreement-to-acquire-fabick-cat-dealership.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "Joe Creed joined Caterpillar in 1997 with an accounting degree and became its CEO 28 years later.",
+    "summary": "Creed earned an accounting degree from Western Illinois University and joined Caterpillar in 1997. He spent much of his career in finance, including CFO of the Energy & Transportation segment and a stint as interim CFO of the whole company in 2018, before running the oil and gas, marine and electric power businesses. He became group president of Energy & Transportation in 2021 and chief operating officer in 2023, then succeeded Jim Umpleby as CEO in 2025 and added the chairman title in 2026. Little has been published about his upbringing.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Joined Caterpillar in 1997",
+        "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Served as Caterpillar's interim CFO in 2018",
+        "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+      },
+      {
+        "label": "Other",
+        "value": "Former chairman of Easterseals of Central Illinois",
+        "source": "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.caterpillar.com/en/company/governance/officers/joseph-e-creed.html",
+      "https://en.wikipedia.org/wiki/Caterpillar_Inc."
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type not specified: Caterpillar bio says only 'bachelor's degree in accounting' from Western Illinois University; recorded as BS. Graduation year unknown.",
+    "Tenure month (May 2025) comes from the seed list and Wikipedia's 'May 1' succession sentence (year not stated there); the Caterpillar bio confirms only the year 2025. The CEO-succession press release could not be located without search.",
+    "Hometown and early life not found; Creed's own Wikipedia article could not be fetched.",
+    "Caterpillar bio also lists participation in a Stanford executive leadership program; not recorded as a degree.",
+    "Did not include the 2025 RPMGlobal acquisition ($728M per Wikipedia) because no primary source was opened."
+  ],
+  "needs_enrichment": true
+}

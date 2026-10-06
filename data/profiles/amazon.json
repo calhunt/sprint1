@@ -1,0 +1,150 @@
+{
+  "id": "amazon",
+  "name": "Andy Jassy",
+  "company_id": "amazon",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Harvard University",
+      "degree": "BA",
+      "field": "Government",
+      "year": 1990,
+      "source": "https://www.thecrimson.com/article/2023/4/7/jassy-amazon-seas-talk/"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1997,
+      "source": "https://fortune.com/2026/04/21/amazon-ceo-andy-jassy-gen-z-career-advice-pay-dues-climb-ladder-embrace-learning-machine/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "MBI (collectibles company)",
+      "title": "Project manager",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    },
+    {
+      "organization": "Amazon",
+      "title": "Marketing manager; ran early marketing team and later the compact disc business",
+      "start": "1997",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    },
+    {
+      "organization": "Amazon",
+      "title": "Technical adviser ('shadow') to Jeff Bezos",
+      "start": null,
+      "end": "2003",
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    },
+    {
+      "organization": "Amazon Web Services",
+      "title": "Founding leader of AWS (launched 2006 with a 57-person team)",
+      "start": "2003",
+      "end": "2016",
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    },
+    {
+      "organization": "Amazon Web Services",
+      "title": "CEO",
+      "start": "2016",
+      "end": "2021",
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    },
+    {
+      "organization": "Amazon",
+      "title": "President and CEO",
+      "start": "2021",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Joined Amazon as a marketing manager straight out of business school and built his career running internal businesses, most notably founding and leading Amazon Web Services for 18 years before becoming CEO.",
+  "tenure": {
+    "start": "2021-07-05",
+    "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+  },
+  "notable": [
+    {
+      "date": "2024-09",
+      "type": "decision",
+      "summary": "Told corporate employees they would be required to work in the office five days a week starting January 2025.",
+      "source": "https://techcrunch.com/2024/09/16/amazon-mandates-full-five-day-return-to-office/"
+    },
+    {
+      "date": "2025-06",
+      "type": "statement",
+      "summary": "In a memo to employees, said generative AI would reduce Amazon's total corporate workforce over the next few years as efficiency gains take hold.",
+      "source": "https://techcrunch.com/2025/06/17/amazon-expects-to-reduce-corporate-jobs-due-to-ai"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Amazon cut about 16,000 corporate jobs, following roughly 14,000 cuts in October 2025, describing the moves as reducing layers and bureaucracy.",
+      "source": "https://www.ksat.com/business/2026/01/28/amazon-cuts-16000-jobs-in-the-latest-round-of-layoffs/"
+    },
+    {
+      "date": "2026-04",
+      "type": "statement",
+      "summary": "In his annual shareholder letter, defended plans for about $200 billion in 2026 capital spending, mostly on AI infrastructure, writing that Amazon was not investing it \"on a hunch.\"",
+      "source": "https://www.geekwire.com/2026/not-on-a-hunch-andy-jassy-defends-amazons-200b-spending-spree/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Andy Jassy wanted to be a sportscaster; instead he joined Amazon in 1997 and went on to build AWS.",
+    "summary": "Jassy grew up in Scarsdale, New York, a Giants fan who played varsity soccer and tennis and dreamed of becoming a professional athlete. After graduating from Harvard College in 1990, he tried sportscasting, sports production, coaching and paralegal work, worked as a project manager at collectibles company MBI, and co-founded a small company that he later shut down. He started at Amazon in 1997 the Monday after his last Harvard Business School exam, without knowing what his job or title would be. As Jeff Bezos's technical adviser, or 'shadow,' he helped develop the idea that became Amazon Web Services, which he ran for years before succeeding Bezos as CEO in 2021.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Scarsdale, New York; varsity soccer and tennis at Scarsdale High School",
+        "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Wanted to be a professional athlete, then a sportscaster",
+        "source": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-linkedin-interview"
+      },
+      {
+        "label": "First job",
+        "value": "After college: sportscasting, sports production, coaching and paralegal work",
+        "source": "https://fortune.com/2026/04/21/amazon-ceo-andy-jassy-gen-z-career-advice-pay-dues-climb-ladder-embrace-learning-machine/"
+      },
+      {
+        "label": "Other",
+        "value": "Co-founded a company with an MBI colleague before business school, then closed it",
+        "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+      },
+      {
+        "label": "Turning point",
+        "value": "Became Jeff Bezos's first technical adviser ('shadow'), a role that led to AWS",
+        "source": "https://en.wikipedia.org/wiki/Andy_Jassy"
+      }
+    ],
+    "quote": {
+      "text": "You never know which things you're going to like. In my lifetime, I have not predicted the things that I have loved.",
+      "context": "Capital Group 'Power of Advice' podcast, 2026, as reported by Fortune",
+      "source": "https://fortune.com/2026/04/21/amazon-ceo-andy-jassy-gen-z-career-advice-pay-dues-climb-ladder-embrace-learning-machine/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andy_Jassy",
+      "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-linkedin-interview",
+      "https://fortune.com/2026/04/21/amazon-ceo-andy-jassy-gen-z-career-advice-pay-dues-climb-ladder-embrace-learning-machine/",
+      "https://dozenworthyreads.substack.com/p/andy-jassy-brilliant-ceo-empathetic",
+      "https://www.thecrimson.com/article/2023/4/7/jassy-amazon-seas-talk/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Start/end years for MBI and the short-lived startup are not published; Wikipedia says only that he worked five years between college and his MBA.",
+    "Exact order of post-college jobs (sportscasting, production, coaching, paralegal, MBI) is unclear; Fortune lists them without dates.",
+    "The '265 employees' figure and the 'started the Monday after my last HBS exam' detail come from a secondary Substack summary of a Jassy talk; primary source not located.",
+    "AWS career dates (2003 concept, 2006 launch, 2016 CEO title) sourced from Wikipedia only; official Amazon bio page returned 404."
+  ]
+}

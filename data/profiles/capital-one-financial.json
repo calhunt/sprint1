@@ -1,0 +1,129 @@
+{
+  "id": "capital-one-financial",
+  "name": "Richard D. Fairbank",
+  "company_id": "capital-one-financial",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Stanford University",
+      "degree": "BA",
+      "field": "Economics",
+      "year": 1972,
+      "source": "https://www.gsb.stanford.edu/insights/richard-fairbank-capital-one-poised-be-biggest-virtual-bank"
+    },
+    {
+      "institution": "Stanford University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1981,
+      "source": "https://www.gsb.stanford.edu/insights/richard-fairbank-capital-one-poised-be-biggest-virtual-bank"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Strategic Planning Associates (later Mercer Management Consulting)",
+      "title": "Management consultant; ran the financial services practice",
+      "start": "1981",
+      "end": "1988",
+      "source": "https://en.wikipedia.org/wiki/Richard_Fairbank"
+    },
+    {
+      "organization": "Signet Bank",
+      "title": "Co-founder and head of new credit card division (with Nigel Morris)",
+      "start": "1988",
+      "end": "1994",
+      "source": "https://bankingjournal.aba.com/2017/06/nine-young-bankers-who-changed-america-richard-fairbank/"
+    },
+    {
+      "organization": "Capital One Financial",
+      "title": "Founder, Chairman and CEO",
+      "start": "1994",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Richard_Fairbank"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "Co-founded the data-driven credit card business at Signet Bank that was spun off as Capital One in 1994 and has led it as CEO ever since, after seven years as a management consultant.",
+  "tenure": {
+    "start": "1994-11",
+    "source": "https://en.wikipedia.org/wiki/Richard_Fairbank"
+  },
+  "notable": [
+    {
+      "date": "2019-07",
+      "type": "statement",
+      "summary": "After Capital One disclosed a data breach affecting about 100 million people in the U.S. and 6 million in Canada, Fairbank said he sincerely apologized and was committed to making it right.",
+      "source": "https://www.cnn.com/2019/07/29/business/capital-one-data-breach"
+    },
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "Completed the all-stock acquisition of Discover Financial, announced in February 2024 at about $35.3 billion, making Capital One the largest U.S. credit card issuer.",
+      "source": "https://www.businesswire.com/news/home/20250517147002/en/Capital-One-Completes-Acquisition-of-Discover"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Agreed to acquire business-payments fintech Brex for $5.15 billion in stock and cash, saying the deal accelerates Capital One's push into business payments.",
+      "source": "https://www.capitalone.com/about/newsroom/capital-one-to-acquire-brex/"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "Capital One announced layoffs of more than 1,100 employees at the former Discover headquarters in Riverwoods, Illinois.",
+      "source": "https://www.cbsnews.com/chicago/news/capital-one-layoffs-riverwoods-illinois-discover-headquarters/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Fairbank and his co-founder pitched their data-driven credit card idea to about 20 banks before one said yes.",
+    "summary": "Fairbank is the son of two physicists; his father, William Fairbank, was a Stanford physics professor, and Fairbank has said he feels his father's presence and optimism every day. As a Stanford undergraduate he founded a swimming school because he wanted to work with children, and he ran a community recreation agency before returning to Stanford for an MBA in 1981. As a consultant at Strategic Planning Associates he noticed that banks sat on rich customer data but still sold one-size-fits-all credit cards. In 1988 he and Nigel Morris pitched an information-based alternative to about 20 banks before Signet Bank in Virginia let them run a new card division. He has described the next stretch as four years of near-death experiences before the first success; in 1994 Signet spun the business off as Capital One, with Fairbank as CEO.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Both parents were physicists; father William Fairbank was a Stanford physics professor",
+        "source": "https://www.gsb.stanford.edu/insights/richard-fairbank-capital-one-poised-be-biggest-virtual-bank"
+      },
+      {
+        "label": "First job",
+        "value": "Founded a swimming school as a Stanford undergraduate; later ran a community recreation agency",
+        "source": "https://www.gsb.stanford.edu/insights/richard-fairbank-capital-one-poised-be-biggest-virtual-bank"
+      },
+      {
+        "label": "Other",
+        "value": "Graduated first in his Stanford MBA class (1981)",
+        "source": "https://en.wikipedia.org/wiki/Richard_Fairbank"
+      },
+      {
+        "label": "Turning point",
+        "value": "After about 20 bank rejections, Signet Bank backed his credit card idea in 1988",
+        "source": "https://bankingjournal.aba.com/2017/06/nine-young-bankers-who-changed-america-richard-fairbank/"
+      },
+      {
+        "label": "Other",
+        "value": "Has taken a $0 base salary since 1997",
+        "source": "https://en.wikipedia.org/wiki/Richard_Fairbank"
+      }
+    ],
+    "quote": {
+      "text": "Don't take a job because it would look great on your resume. The resume that really matters is the one between your two ears.",
+      "context": "Talk to Stanford GSB students, reported by Stanford GSB Insights, Nov. 2007",
+      "source": "https://www.gsb.stanford.edu/insights/richard-fairbank-nobody-wants-work-phony",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.gsb.stanford.edu/insights/richard-fairbank-capital-one-poised-be-biggest-virtual-bank",
+      "https://www.gsb.stanford.edu/insights/richard-fairbank-nobody-wants-work-phony",
+      "https://bankingjournal.aba.com/2017/06/nine-young-bankers-who-changed-america-richard-fairbank/",
+      "https://en.wikipedia.org/wiki/Richard_Fairbank"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure month (November 1994) comes from the seed list; sources opened confirm only the year 1994 for the spin-off and CEO appointment.",
+    "Strategic Planning Associates dates (1981-1988) are inferred from Wikipedia's 'seven years' and the 1988 Signet start; not explicitly dated in a source.",
+    "Undergraduate degree type listed as BA; Stanford GSB says 'bachelor's degree in economics' without specifying BA vs BS.",
+    "Capital One's official leadership bio page could not be fetched (404); career relies on Wikipedia, Stanford GSB and ABA Banking Journal."
+  ],
+  "needs_enrichment": true
+}

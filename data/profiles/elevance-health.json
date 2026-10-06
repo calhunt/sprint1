@@ -1,0 +1,156 @@
+{
+  "id": "elevance-health",
+  "name": "Gail K. Boudreaux",
+  "company_id": "elevance-health",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Dartmouth College",
+      "degree": "BA",
+      "field": "Psychology",
+      "year": 1982,
+      "source": "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/"
+    },
+    {
+      "institution": "Columbia University",
+      "degree": "MBA",
+      "field": "Finance; Health Care Administration",
+      "year": 1989,
+      "source": "https://www.britannica.com/money/Gail-Boudreaux"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Professional basketball (Versailles, France)",
+      "title": "Professional basketball player",
+      "start": "1982",
+      "end": "1983",
+      "source": "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/"
+    },
+    {
+      "organization": "Aetna",
+      "title": "Management trainee, rising to Senior Vice President, Group Insurance",
+      "start": "1983",
+      "end": "2002",
+      "source": "https://www.britannica.com/money/Gail-Boudreaux"
+    },
+    {
+      "organization": "Blue Cross and Blue Shield of Illinois / Health Care Service Corporation",
+      "title": "President, BCBS of Illinois; then Executive Vice President, External Operations, HCSC",
+      "start": "2002",
+      "end": "2008",
+      "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+    },
+    {
+      "organization": "UnitedHealthcare (UnitedHealth Group)",
+      "title": "President; Executive Vice President, UnitedHealth Group",
+      "start": "2008",
+      "end": "2011",
+      "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+    },
+    {
+      "organization": "UnitedHealthcare (UnitedHealth Group)",
+      "title": "Chief Executive Officer",
+      "start": "2011",
+      "end": "2014",
+      "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+    },
+    {
+      "organization": "GKB Global Health, LLC",
+      "title": "Founder and CEO",
+      "start": "2015",
+      "end": "2017",
+      "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+    },
+    {
+      "organization": "Anthem, Inc. (renamed Elevance Health in 2022)",
+      "title": "President and Chief Executive Officer",
+      "start": "2017",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent more than three decades running health insurance businesses at Aetna, Blue Cross Blue Shield of Illinois/HCSC and UnitedHealthcare, starting as a management trainee and rising through operating roles to CEO.",
+  "tenure": {
+    "start": "2017-11-20",
+    "source": "https://www.sec.gov/Archives/edgar/data/1156039/000119312517333500/d332795d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2022-06",
+      "type": "decision",
+      "summary": "Anthem renamed its holding company Elevance Health, with Boudreaux saying the name better reflected the business it had become.",
+      "source": "https://www.forbes.com/sites/brucejapsen/2022/05/18/anthem-shareholders-approve--health-insurers-rebrand-to-elevance-health/"
+    },
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "Boudreaux announced Elevance would acquire CareBridge, a home- and community-based care management company, to expand its Carelon services division.",
+      "source": "https://www.forbes.com/sites/brucejapsen/2024/10/17/elevance-health-ads-to-carelon-portfolio-with-carebridge-acquisition/"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "Boudreaux described 2026 as a year of execution and repositioning, as Elevance guided to a low-single-digit revenue decline and targeted a return to 12% EPS growth in 2027.",
+      "source": "https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Boudreaux said Elevance would exit additional Medicaid markets over the next 12 to 18 months where it did not see a path to sustainable performance.",
+      "source": "https://insurancenewsnet.com/innarticle/elevance-hikes-2026-outlook-off-strong-q2-to-exit-more-medicaid-markets"
+    }
+  ],
+  "personal_story": {
+    "hook": "Before running a health insurer, Gail Boudreaux's first full-time job was playing professional basketball in France.",
+    "summary": "Boudreaux grew up in Chicopee, Massachusetts, the daughter of a machinist and a homemaker, playing pickup sports in neighborhood parks with her older brother. At Dartmouth she was a 6-foot-2 center, a three-time Ivy League Player of the Year and the program's all-time leading scorer and rebounder. After graduating in 1982 she spent a year playing professionally in Versailles, France, without speaking the language. A summer internship at Aetna led to a spot in its management training program in 1983, the start of a career in health insurance that took her to the top of UnitedHealthcare and then Anthem.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Chicopee, Massachusetts, in a close Polish family",
+        "source": "https://www.ncaa.org/news/2025/4/4/media-center-gail-koziara-boudreaux-from-the-basketball-court-to-the-boardroom.aspx"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a machinist; mother was a homemaker",
+        "source": "https://www.ncaa.org/news/2025/4/4/media-center-gail-koziara-boudreaux-from-the-basketball-court-to-the-boardroom.aspx"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Three-time Ivy League Player of the Year; Dartmouth's all-time leading scorer and rebounder",
+        "source": "https://dartmouthsports.com/news/2015/10/12/210418001"
+      },
+      {
+        "label": "First job",
+        "value": "Professional basketball player in Versailles, France, for a year after college",
+        "source": "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/"
+      },
+      {
+        "label": "Turning point",
+        "value": "A senior-year summer internship at Aetna led to one of five spots in its 1983 management training program",
+        "source": "https://www.ncaa.org/news/2025/4/4/media-center-gail-koziara-boudreaux-from-the-basketball-court-to-the-boardroom.aspx"
+      }
+    ],
+    "quote": {
+      "text": "What I learned from that is you can do anything if you're willing to be open-minded and take on a challenge.",
+      "context": "On moving to France to play professional basketball, quoted by Fortune, July 2026",
+      "source": "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/",
+      "https://www.ncaa.org/news/2025/4/4/media-center-gail-koziara-boudreaux-from-the-basketball-court-to-the-boardroom.aspx",
+      "https://dartmouthsports.com/news/2015/10/12/210418001",
+      "https://www.britannica.com/money/Gail-Boudreaux"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure start: seed says 2017-11-06 (announcement date); Anthem's 8-K gives effective date Nov. 20, 2017, which is used here.",
+    "Dartmouth major (psychology) sourced only from Fortune (2026); Dartmouth athletics page says only that she graduated with honors.",
+    "Dartmouth stats differ: Dartmouth athletics/Britannica say 21.9 ppg; NCAA/Fortune say 21.7 ppg (not used in story).",
+    "Aetna end year and BCBS Illinois start year (2002) from Britannica; 8-K lists HCSC EVP role from 2006. GKB Global Health founding: 8-K says 2015, Britannica says 2014."
+  ]
+}

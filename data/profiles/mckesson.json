@@ -1,0 +1,160 @@
+{
+  "id": "mckesson",
+  "name": "Brian S. Tyler",
+  "company_id": "mckesson",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of California, Santa Cruz",
+      "degree": "BA",
+      "field": "Economics",
+      "year": null,
+      "source": "https://www.businessroundtable.org/members/brian-tyler"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "MA",
+      "field": "Economics",
+      "year": null,
+      "source": "https://www.businessroundtable.org/members/brian-tyler"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "PhD",
+      "field": "Economics",
+      "year": null,
+      "source": "https://www.businessroundtable.org/members/brian-tyler"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Integral, Inc.",
+      "title": "Senior Associate, health care consulting",
+      "start": "1994",
+      "end": "1997",
+      "source": "https://www.businessroundtable.org/members/brian-tyler"
+    },
+    {
+      "organization": "McKesson",
+      "title": "Leadership roles incl. President of U.S. Pharmaceutical, McKesson Medical-Surgical and McKesson Specialty Health",
+      "start": "1997",
+      "end": "2012",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    },
+    {
+      "organization": "McKesson",
+      "title": "Executive Vice President, Corporate Strategy and Business Development",
+      "start": "2012",
+      "end": "2015",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    },
+    {
+      "organization": "McKesson",
+      "title": "President, North American Pharmaceutical Distribution and Services",
+      "start": "2015",
+      "end": "2016",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    },
+    {
+      "organization": "McKesson Europe",
+      "title": "President and COO, then Chairman of the Management Board",
+      "start": "2016",
+      "end": "2018",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    },
+    {
+      "organization": "McKesson",
+      "title": "President and Chief Operating Officer",
+      "start": "2018",
+      "end": "2019",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    },
+    {
+      "organization": "McKesson",
+      "title": "Chief Executive Officer (Chair from May 2026)",
+      "start": "2019",
+      "end": null,
+      "source": "https://www.biospace.com/brian-tyler-becomes-mckesson-s-new-ceo"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "An economist by training who spent 22 years running McKesson businesses, from U.S. pharmaceutical and medical-surgical distribution to McKesson Europe, before serving as COO and then CEO.",
+  "tenure": {
+    "start": "2019-04-01",
+    "source": "https://www.biospace.com/brian-tyler-becomes-mckesson-s-new-ceo"
+  },
+  "notable": [
+    {
+      "date": "2022-02",
+      "type": "decision",
+      "summary": "McKesson, with two other distributors and Johnson & Johnson, finalized a $26 billion national opioid settlement, with McKesson paying $7.4 billion over time without admitting wrongdoing.",
+      "source": "https://www.npr.org/2022/02/25/1082901958/opioid-settlement-johnson-26-billion"
+    },
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "McKesson announced its intent to separate its Medical-Surgical Solutions segment into an independent company to focus on oncology and biopharma services.",
+      "source": "https://www.mckesson.com/about-us/newsroom/press-releases/2025/mckesson-reports-fiscal-2025-fourth-quarter-and-full-year-results/"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "McKesson agreed to sell an approximately 13% stake in Medical-Surgical Solutions to Apollo funds for $1.25 billion, calling it a key milestone toward a planned separation and IPO.",
+      "source": "https://www.dotmed.com/news/story/66309"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Tyler added the role of Chair of McKesson's board to his CEO duties.",
+      "source": "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Brian Tyler's first job was cleaning machines in his father's shop; he now runs McKesson.",
+    "summary": "Tyler was born in Oakland, California, and says his first job, working as a janitor and cleaning machines in his father's shop, taught him that every job matters. He studied economics at the University of California, Santa Cruz, graduating with high honors, then earned a master's and a PhD in economics at the University of Chicago, specializing in industrial organization and labor economics. After three years in health care consulting at Integral, Inc. in Cambridge, Massachusetts, he joined McKesson in 1997. Over 22 years he led most of its major businesses, including McKesson Europe, before becoming CEO in 2019.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Oakland, California",
+        "source": "https://www.dmagazine.com/healthcare-business/2026/07/meet-the-dallas-500-brian-tyler-mckesson/"
+      },
+      {
+        "label": "First job",
+        "value": "Janitor, cleaning machines in his father's shop",
+        "source": "https://www.dmagazine.com/healthcare-business/2026/07/meet-the-dallas-500-brian-tyler-mckesson/"
+      },
+      {
+        "label": "Other",
+        "value": "PhD in economics from the University of Chicago, funded by a National Science Foundation grant",
+        "source": "https://www.businessroundtable.org/members/brian-tyler"
+      },
+      {
+        "label": "Turning point",
+        "value": "Left health care consulting at Integral, Inc. to join McKesson in 1997",
+        "source": "https://www.businessroundtable.org/members/brian-tyler"
+      }
+    ],
+    "quote": {
+      "text": "It taught me the importance of working hard and being part of a team, and most importantly, that every single person and job matters if success is your goal.",
+      "context": "On his first job in his father's shop, D CEO magazine 'Dallas 500' profile, July 2026",
+      "source": "https://www.dmagazine.com/healthcare-business/2026/07/meet-the-dallas-500-brian-tyler-mckesson/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.dmagazine.com/healthcare-business/2026/07/meet-the-dallas-500-brian-tyler-mckesson/",
+      "https://www.businessroundtable.org/members/brian-tyler",
+      "https://www.hda.org/hda-events/2022-ceo-roundtable-fundraiser/guest-speaker/",
+      "https://www.mckesson.com/about-us/corporate-governance/board-of-directors/brian-tyler/",
+      "https://www.biospace.com/brian-tyler-becomes-mckesson-s-new-ceo"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for BA, MA and PhD not found in reliable sources; left null.",
+    "Integral, Inc. dates (1994-1997) inferred from 'three years' before joining McKesson in 1997.",
+    "Years of his early McKesson division presidencies (U.S. Pharmaceutical, Medical-Surgical, Specialty Health) not given in the official bio; condensed into one 1997-2012 entry.",
+    "Chair appointment (May 2026) sourced only from McKesson's board bio; no press release found.",
+    "The opioid settlement framework was announced in July 2021 and finalized in Feb 2022; recorded as 2022-02."
+  ]
+}

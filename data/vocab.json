@@ -1,0 +1,73 @@
+{
+  "_about": "Standard vocabulary used by scripts/build_data.py so filters and charts count consistently. Profiles keep the original wording for display; these mappings add normalized values.",
+
+  "institution_aliases": {
+    "Harvard Business School": "Harvard University",
+    "Harvard College": "Harvard University",
+    "Harvard Law School": "Harvard University",
+    "Wharton School": "University of Pennsylvania",
+    "The Wharton School": "University of Pennsylvania",
+    "Wharton School of the University of Pennsylvania": "University of Pennsylvania",
+    "Stanford Graduate School of Business": "Stanford University",
+    "Stanford GSB": "Stanford University",
+    "Kellogg School of Management": "Northwestern University",
+    "Booth School of Business": "University of Chicago",
+    "University of Chicago Booth School of Business": "University of Chicago",
+    "MIT": "Massachusetts Institute of Technology",
+    "MIT Sloan School of Management": "Massachusetts Institute of Technology",
+    "Sloan School of Management": "Massachusetts Institute of Technology",
+    "Kelley School of Business": "Indiana University",
+    "Columbia Business School": "Columbia University",
+    "Tuck School of Business": "Dartmouth College",
+    "Fuqua School of Business": "Duke University",
+    "Ross School of Business": "University of Michigan",
+    "Haas School of Business": "University of California, Berkeley",
+    "UC Berkeley": "University of California, Berkeley",
+    "UCLA": "University of California, Los Angeles",
+    "Anderson School of Management": "University of California, Los Angeles",
+    "NYU": "New York University",
+    "Stern School of Business": "New York University",
+    "Penn": "University of Pennsylvania",
+    "UPenn": "University of Pennsylvania",
+    "Penn State": "Pennsylvania State University",
+    "The Pennsylvania State University": "Pennsylvania State University",
+    "UT Austin": "University of Texas at Austin",
+    "The University of Texas at Austin": "University of Texas at Austin",
+    "Manhattan College": "Manhattan University",
+    "Georgia Tech": "Georgia Institute of Technology",
+    "Texas A&M": "Texas A&M University",
+    "University of Illinois": "University of Illinois Urbana-Champaign",
+    "University of Illinois at Urbana-Champaign": "University of Illinois Urbana-Champaign",
+    "University of North Carolina": "University of North Carolina at Chapel Hill",
+    "UNC Chapel Hill": "University of North Carolina at Chapel Hill",
+    "Kent University": "University of Kent",
+    "Yale School of Management": "Yale University",
+    "Yale Law School": "Yale University"
+  },
+
+  "field_groups": [
+    {"group": "Engineering", "keywords": ["engineering", "mechanics"]},
+    {"group": "Computer Science & Math", "keywords": ["computer science", "operations research", "mathematics", "statistics", "actuarial"]},
+    {"group": "Accounting", "keywords": ["accounting"]},
+    {"group": "Finance", "keywords": ["finance"]},
+    {"group": "Economics", "keywords": ["economics", "economic"]},
+    {"group": "Business & Management", "keywords": ["business", "management", "marketing", "commerce", "supply chain", "sports administration", "health care administration"]},
+    {"group": "Sciences & Health", "keywords": ["physics", "chemistry", "biology", "biotechnology", "pharmac", "veterinary", "medicine", "pre-med", "kinesiology"]},
+    {"group": "Politics & Government", "keywords": ["political", "politics", "government", "public affairs", "international relations", "public policy"]},
+    {"group": "Humanities & Communication", "keywords": ["history", "english", "literature", "german", "journalism", "communication", "philosophy", "latin american studies"]},
+    {"group": "Psychology", "keywords": ["psychology"]}
+  ],
+
+  "degree_levels": [
+    {"level": "Bachelor's", "pattern": "^(BA|BS|BSC|AB|SB|BBA|BENG|BE|BTECH|BCOM|BACHELOR)"},
+    {"level": "MBA", "pattern": "MBA"},
+    {"level": "Law degree", "pattern": "^(JD|LLB|LLM)"},
+    {"level": "Doctorate / MD", "pattern": "^(PHD|DPHIL|MD|DVM|PHARMD|EDD|DBA)"},
+    {"level": "Master's (non-MBA)", "pattern": "^(MS|MA|MSC|MENG|MPA|MPP|MFA|MIM|MASTER)"},
+    {"level": "Attended, no degree", "pattern": "(DID NOT GRADUATE|NO DEGREE|DROPPED)"}
+  ],
+
+  "degree_field_groups": {
+    "Law degree": "Law"
+  }
+}

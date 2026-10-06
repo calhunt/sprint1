@@ -1,0 +1,168 @@
+{
+  "id": "citigroup",
+  "name": "Jane Fraser",
+  "company_id": "citigroup",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Cambridge",
+      "degree": "BA",
+      "field": "Economics",
+      "year": 1988,
+      "source": "https://www.britannica.com/money/Jane-Fraser"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1994,
+      "source": "https://www.britannica.com/money/Jane-Fraser"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Goldman Sachs",
+      "title": "Mergers and acquisitions analyst (London)",
+      "start": "1988",
+      "end": "1990",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+    },
+    {
+      "organization": "Asesores Bursatiles",
+      "title": "Brokerage associate (Madrid)",
+      "start": "1990",
+      "end": "1992",
+      "source": "https://www.britannica.com/money/Jane-Fraser"
+    },
+    {
+      "organization": "McKinsey & Company",
+      "title": "Consultant, rising to partner (financial services and global strategy)",
+      "start": "1994",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "Head of client strategy, then Global Head of Strategy and M&A",
+      "start": "2004",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "CEO of Citi Private Bank, then CitiMortgage, then U.S. Consumer and Commercial Banking",
+      "start": "2009",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "CEO, Citi Latin America",
+      "start": "2015",
+      "end": "2019",
+      "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "President and CEO of Global Consumer Banking",
+      "start": "2019",
+      "end": "2021",
+      "source": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "CEO (also Chair of the Board from October 2025)",
+      "start": "2021",
+      "end": null,
+      "source": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+    }
+  ],
+  "background_category": "Consulting",
+  "background_rationale": "Spent a decade at McKinsey, rising to partner in its financial services and global strategy practice, before joining Citi as a strategy executive and then running a series of its businesses.",
+  "tenure": {
+    "start": "2021-03-01",
+    "source": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+  },
+  "notable": [
+    {
+      "date": "2024-01",
+      "type": "decision",
+      "summary": "Announced plans to eliminate about 20,000 jobs, roughly 10% of Citi's workforce, by 2026 as part of a reorganization to simplify the bank.",
+      "source": "https://www.cbsnews.com/news/citi-layoffs-2024-20000-job-cuts-jane-fraser/"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "Citi agreed to sell a 25% stake in its Mexican unit Banamex to businessman Fernando Chico Pardo for about $2.3 billion, ahead of a planned public listing.",
+      "source": "https://www.bloomberg.com/news/articles/2025-09-24/citi-sells-banamex-stake-to-mexican-businessman-for-2-3-billion"
+    },
+    {
+      "date": "2025-10",
+      "type": "decision",
+      "summary": "Fraser was elected Chair of Citigroup's board in addition to her role as CEO.",
+      "source": "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "At Citi's May 7, 2026 investor day, Fraser's team set a target of a 14% to 15% return on tangible common equity by 2031, which some analysts said fell short of expectations.",
+      "source": "https://qz.com/citigroup-investor-day-profit-targets-rotce-050726"
+    }
+  ],
+  "personal_story": {
+    "hook": "A St Andrews schoolgirl who earned pocket money caddying became the first woman to run a major U.S. bank.",
+    "summary": "Fraser was born in 1967 in St Andrews, Scotland, an only child whose father was an accountant, and as a schoolgirl earned pocket money caddying on the town's Old Course; she spent part of her teenage years in Australia. She considered medicine before deciding her strengths lay in economics, which she studied at Cambridge, then worked as an M&A analyst at Goldman Sachs in London and at a brokerage in Madrid, where she became fluent in Spanish. After a Harvard MBA she spent a decade at McKinsey, making partner while working part-time as a mother of two young sons. A 1999 book she co-authored on global strategy caught the eye of Citi executive Michael Klein, who spent years recruiting her; she joined Citi in 2004 and in 2021 became the first woman to lead a major U.S. bank.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1967 in St Andrews, Scotland; teenage years partly in Australia",
+        "source": "https://www.britannica.com/money/Jane-Fraser"
+      },
+      {
+        "label": "Family background",
+        "value": "Only child; father was an accountant",
+        "source": "https://www.britannica.com/money/Jane-Fraser"
+      },
+      {
+        "label": "First job",
+        "value": "Caddied on St Andrews' Old Course for pocket money as a schoolgirl",
+        "source": "https://www.britannica.com/money/Jane-Fraser"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Considered medicine before choosing economics",
+        "source": "https://www.britannica.com/money/Jane-Fraser"
+      },
+      {
+        "label": "Turning point",
+        "value": "Her co-authored 1999 book led Citi's Michael Klein to recruit her, and she joined Citi in 2004",
+        "source": "https://www.britannica.com/money/Jane-Fraser"
+      },
+      {
+        "label": "Other",
+        "value": "Made partner at McKinsey while working part-time with young children",
+        "source": "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)"
+      }
+    ],
+    "quote": {
+      "text": "Being a mother of young children and having a career is the toughest thing I have ever had to do.",
+      "context": "Interview with McKinsey after leaving the firm, reflecting on working part-time as a partner while raising young children",
+      "source": "https://www.axios.com/citis-new-ceo-proves-women-cannot-have-it-all-bc69a92c-2d0f-455c-a8ec-3279ab97ed8b.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.britannica.com/money/Jane-Fraser",
+      "https://en.wikipedia.org/wiki/Jane_Fraser_(executive)",
+      "https://www.scmp.com/magazines/style/entertainment/article/3300485/meet-citigroup-ceo-jane-fraser-originally-scotland-she-first-woman-lead-major-us-bank-has-raised-two",
+      "https://www.axios.com/citis-new-ceo-proves-women-cannot-have-it-all-bc69a92c-2d0f-455c-a8ec-3279ab97ed8b.html",
+      "https://www.citigroup.com/global/about-us/leadership/jane-fraser"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Australia: Britannica says the family moved to Australia when she was 12; SCMP says she spent her teenage years there. Wording kept to 'part of her teenage years'.",
+    "Cambridge degree: Citi bio lists an M.A. in economics (the Cambridge MA is conferred by tradition on BA holders); recorded as BA 1988.",
+    "Exact Banamex sale stake/closing details: the 25% sale to Chico Pardo was announced Sept 2025 and reportedly closed Dec 2025; a further ~24% sale has also been reported but not verified here."
+  ]
+}

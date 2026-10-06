@@ -1,0 +1,137 @@
+{
+  "id": "enterprise-products-partners--teague",
+  "name": "A. James \"Jim\" Teague",
+  "company_id": "enterprise-products-partners",
+  "role": "Co-CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Dow Chemical",
+      "title": "Various roles over 22 years, including Vice President of Hydrocarbon Feedstocks",
+      "start": null,
+      "end": "1997",
+      "source": "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm"
+    },
+    {
+      "organization": "MAPCO, Inc.",
+      "title": "President of Marketing and Trading",
+      "start": "1997",
+      "end": "1998",
+      "source": "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm"
+    },
+    {
+      "organization": "Tejas Natural Gas Liquids, LLC (Shell affiliate)",
+      "title": "President",
+      "start": "1998",
+      "end": "1999",
+      "source": "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Executive Vice President (also Chief Commercial Officer 2008-2010; director since 2008)",
+      "start": "1999",
+      "end": "2013",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Chief Operating Officer",
+      "start": "2010",
+      "end": "2015",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Chief Executive Officer",
+      "start": "2016",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Co-Chief Executive Officer (retiring Jan. 4, 2027)",
+      "start": "2020",
+      "end": null,
+      "source": "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A career commercial and operating executive in hydrocarbons, he ran feedstocks at Dow and marketing and trading at MAPCO, then served as Enterprise's chief commercial officer and chief operating officer before becoming CEO, overseeing commercial, operations and engineering as co-CEO.",
+  "tenure": {
+    "start": "2020-01-28",
+    "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+  },
+  "notable": [
+    {
+      "date": "2020-01",
+      "type": "decision",
+      "summary": "On Teague's recommendation, Enterprise moved to a co-CEO model, with Teague, CEO since January 2016, sharing the top job with CFO Randy Fowler.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/exhibit99_1.htm"
+    },
+    {
+      "date": "2022-02",
+      "type": "decision",
+      "summary": "Enterprise completed its $3.2 billion acquisition of Navitas Midstream, which Teague described as an entry point for its gas processing and NGL businesses in the Midland Basin.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000114036122017072/exhibit99_1.htm"
+    },
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "Enterprise acquired Pinon Midstream, a gathering and treating system in the Delaware Basin, for $949 million.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000114036125002931/exhibit99_1.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Teague announced he will retire on Jan. 4, 2027, after 28 years at Enterprise, with co-CEO Randy Fowler set to become sole CEO.",
+      "source": "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027"
+    }
+  ],
+  "personal_story": {
+    "hook": "Jim Teague spent 22 years at Dow Chemical before joining Enterprise in 1999; he has led it since 2016.",
+    "summary": "Little about Teague's early life or education is public. He spent 22 years at Dow Chemical, rising to vice president of hydrocarbon feedstocks, a role he says let him travel extensively around the world. He then ran marketing and trading at MAPCO and led Shell affiliate Tejas Natural Gas Liquids, and came to Enterprise in 1999 when it bought midstream assets from Shell affiliates. At Enterprise he served as chief commercial officer and chief operating officer before becoming CEO in 2016 and co-CEO in 2020; he plans to retire on Jan. 4, 2027.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Earliest disclosed career: 22 years at Dow Chemical, ending as VP of Hydrocarbon Feedstocks",
+        "source": "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Enterprise in 1999 as part of its purchase of midstream assets from Shell affiliates",
+        "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+      },
+      {
+        "label": "Other",
+        "value": "Credited with expanding Enterprise's NGL services and developing petrochemical pricing hubs at Mont Belvieu, Texas",
+        "source": "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027"
+      },
+      {
+        "label": "Other",
+        "value": "Director of Solaris Energy Infrastructure; age 81 per its 2026 proxy",
+        "source": "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm"
+      }
+    ],
+    "quote": {
+      "text": "I spent 22 years with Dow Chemical, where I had the opportunity to travel extensively around the world, serving as Vice President of Hydrocarbon Feedstocks.",
+      "context": "Enterprise press release announcing his planned retirement, July 1, 2026",
+      "source": "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027",
+      "https://www.sec.gov/Archives/edgar/data/1697500/000114036126012799/ny20062642x1_def14a.htm",
+      "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education not found: Wikipedia was not fetchable, the company leadership page failed, and SEC filings (Enterprise 8-Ks, Solaris proxies) do not state his degrees. Education left empty.",
+    "Tenure start: SEC 8-K gives co-CEO election effective January 28, 2020 (seed list said 2020-01-01); used 2020-01-28. He was also sole CEO from January 2016 to January 2020.",
+    "Dow start year not disclosed (22 years ending ~1997 implies ~1975); left null.",
+    "Age figures in filings are slightly inconsistent (73 in 2018 Solaris proxy, 74 in Jan 2020 8-K, 81 in 2026 Solaris proxy); birth year not stated.",
+    "Retirement press release was not the SEC filing itself; the July 1, 2026 8-K confirms the Jan. 4, 2027 retirement date."
+  ],
+  "needs_enrichment": true
+}

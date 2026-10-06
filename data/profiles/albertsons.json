@@ -1,0 +1,120 @@
+{
+  "id": "albertsons",
+  "name": "Susan Morris",
+  "company_id": "albertsons",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Colorado State University",
+      "degree": null,
+      "field": null,
+      "year": null,
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Albertsons",
+      "title": "Customer service desk associate at a store in the Denver market, then merchandising and operations roles",
+      "start": null,
+      "end": null,
+      "source": "https://www.albertsonscompanies.com/about-aci/our-leadership/default.aspx"
+    },
+    {
+      "organization": "Albertsons Companies",
+      "title": "Division President in two markets (incl. Intermountain Division)",
+      "start": null,
+      "end": null,
+      "source": "https://www.albertsonscompanies.com/newsroom/blog/blog-details/2025/A-Journey-of-Dedication-and-Leadership/default.aspx"
+    },
+    {
+      "organization": "Albertsons Companies",
+      "title": "Executive Vice President, Regional Operations",
+      "start": null,
+      "end": "2018",
+      "source": "https://www.albertsonscompanies.com/about-aci/our-leadership/default.aspx"
+    },
+    {
+      "organization": "Albertsons Companies",
+      "title": "Executive Vice President and Chief Operations Officer",
+      "start": "2018",
+      "end": "2025",
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx"
+    },
+    {
+      "organization": "Albertsons Companies",
+      "title": "Chief Executive Officer",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent nearly four decades in Albertsons store, division and regional operations, ending as chief operations officer over more than 2,200 stores before becoming CEO.",
+  "tenure": {
+    "start": "2025-05-01",
+    "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx"
+  },
+  "notable": [
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "Weeks after taking over, reorganized the senior leadership team, naming a new chief merchandising officer and expanding the chief commercial officer and chief technology roles.",
+      "source": "https://www.albertsonscompanies.com/newsroom/blog/blog-details/2025/New-Leadership-Structure-to-Drive-Growth-through-Excellence-and-Innovation/default.aspx"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Albertsons launched an AI shopping assistant built on OpenAI models across its banner websites for meal planning, restocking and list-based shopping.",
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Accelerates-Digital-Transformation-with-the-Albertsons-AI-Shopping-Assistant-Redefining-the-Grocery-Shopping-Experience/default.aspx"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Consolidated Albertsons' 11 operating divisions into four regions and centralized center-store merchandising, saying it would speed decisions and move accountability closer to stores.",
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2026/Albertsons-Companies-Advances-the-ACI-Edge-with-New-Regional-Operating-Model-and-Merch-United/default.aspx"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "The board appointed Meg Whitman to a newly created executive chair role to advise Morris on strategy and execution, with Morris remaining CEO.",
+      "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2026/Albertsons-Companies-Inc--Appoints-Meg-Whitman-as-Executive-Chair/default.aspx"
+    }
+  ],
+  "personal_story": {
+    "hook": "Susan Morris started at an Albertsons customer service desk in Denver and now runs the company.",
+    "summary": "Morris, a Colorado State University graduate, began her grocery career at a customer service desk in an Albertsons store in the Denver market. Over nearly four decades she worked through merchandising and operations jobs, led two divisions including the Intermountain Division, a period in which the company describes former operations chief Bob Butler as her mentor. From 2018 she was chief operations officer over more than 2,200 stores, and she succeeded Vivek Sankaran as CEO on May 1, 2025.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Customer service desk at an Albertsons store in the Denver market",
+        "source": "https://www.albertsonscompanies.com/about-aci/our-leadership/default.aspx"
+      },
+      {
+        "label": "Mentor",
+        "value": "Bob Butler, former Albertsons EVP of Operations",
+        "source": "https://www.albertsonscompanies.com/newsroom/blog/blog-details/2025/A-Journey-of-Dedication-and-Leadership/default.aspx"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named EVP and chief operations officer in January 2018, overseeing more than 2,200 stores",
+        "source": "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.albertsonscompanies.com/about-aci/our-leadership/default.aspx",
+      "https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2025/Albertsons-Companies-Inc.-Announces-CEO-Succession-Plan/default.aspx",
+      "https://www.albertsonscompanies.com/newsroom/blog/blog-details/2025/A-Journey-of-Dedication-and-Leadership/default.aspx"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type, field and graduation year at Colorado State University not stated in company sources; left null.",
+    "Start year at Albertsons not given (company says 'four decades ago' / 'nearly 40 years'); names of both divisions she led and dates for division president and EVP Regional Operations roles not found.",
+    "No Wikipedia article reachable; no interviews about her upbringing found, so personal story is limited and has no verbatim quote about her path.",
+    "Seed name 'Susan D. Morris'; company sources use 'Susan Morris'."
+  ],
+  "needs_enrichment": true
+}

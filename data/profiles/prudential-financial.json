@@ -1,0 +1,135 @@
+{
+  "id": "prudential-financial",
+  "name": "Andrew F. Sullivan",
+  "company_id": "prudential-financial",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "United States Naval Academy",
+      "degree": "BS",
+      "field": null,
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "U.S. Navy",
+      "title": "Nuclear submarine officer",
+      "start": null,
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm"
+    },
+    {
+      "organization": "DaimlerChrysler, Diamond Technology Partners, Cigna, CareFirst BlueCross BlueShield",
+      "title": "Leadership positions",
+      "start": null,
+      "end": "2011",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm"
+    },
+    {
+      "organization": "Prudential Financial",
+      "title": "Various leadership roles, including head of Workplace Solutions (Group Insurance underwriting, claims and service)",
+      "start": "2011",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465925028759/tm2418128-4_def14a.htm"
+    },
+    {
+      "organization": "Prudential Financial",
+      "title": "Executive Vice President and Head of U.S. Businesses",
+      "start": "2019",
+      "end": "2022",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312519234106/d787217dex991.htm"
+    },
+    {
+      "organization": "Prudential Financial",
+      "title": "Executive Vice President and Head of International Businesses and Global Investment Management (incl. PGIM)",
+      "start": "2023",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312522270735/d377568d8k.htm"
+    },
+    {
+      "organization": "Prudential Financial",
+      "title": "President and CEO",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524269980/d908564dex991.htm"
+    },
+    {
+      "organization": "Prudential Financial",
+      "title": "Chairman of the Board",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526100276/d110533d8k.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "After Navy service and roles at insurers, an automaker and a consulting firm, he spent 14 years at Prudential running business units, from Workplace Solutions to all U.S. businesses to International and PGIM.",
+  "tenure": {
+    "start": "2025-03-31",
+    "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524269980/d908564dex991.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Announced a leadership realignment effective Feb. 2, 2026, under which U.S. Businesses, Emerging Markets, Japan and PGIM report directly to him, saying the aim was \"a more agile, more focused Prudential.\"",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312525327631/d942578dex991.htm"
+    },
+    {
+      "date": "2026-02",
+      "type": "decision",
+      "summary": "After an internal investigation found employee misconduct in investment solicitations, Prudential of Japan began a voluntary 90-day suspension of new sales and set up a customer reimbursement program; Sullivan said rebuilding customer trust was a top priority.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000012/exhibit993-4q2025newsrelea.htm"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "The board named Sullivan Chairman, combining the roles after Executive Chairman Charles Lowrey stepped down.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526100276/d110533d8k.htm"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "Reporting second-quarter results, Sullivan said the strategy is to unlock Prudential's asset management, retirement and protection capabilities through deeper integration and greater use of its scale.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000170/exhibit991-2q26earningspre.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Andy Sullivan began his career as a nuclear submarine officer and now chairs and runs Prudential Financial.",
+    "summary": "Sullivan graduated from the U.S. Naval Academy in Annapolis and served as a nuclear submarine officer, earning the Navy and Marine Corps Achievement Medal. He then worked at DaimlerChrysler, Diamond Technology Partners, Cigna and CareFirst BlueCross BlueShield before joining Prudential in 2011. At Prudential he led Workplace Solutions, then all U.S. businesses, then the international insurance operations and PGIM, before becoming CEO in March 2025 and chairman in March 2026.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "U.S. Naval Academy graduate; nuclear submarine officer awarded the Navy and Marine Corps Achievement Medal",
+        "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465925028759/tm2418128-4_def14a.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Prudential in 2011 after roles at an automaker, a consultancy and two health insurers",
+        "source": "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm"
+      }
+    ],
+    "quote": {
+      "text": "I am honored to have the opportunity to lead this company as it embarks on its next chapter.",
+      "context": "Prudential news release announcing his appointment as CEO, Dec. 3, 2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524269980/d908564dex991.htm",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1137774/000110465926035162/tm2524217-6_def14a.htm",
+      "https://www.sec.gov/Archives/edgar/data/1137774/000110465925028759/tm2418128-4_def14a.htm",
+      "https://www.sec.gov/Archives/edgar/data/1137774/000119312524269980/d908564dex991.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "needs_enrichment": true,
+  "open_issues": [
+    "Naval Academy graduation year and major not found; degree recorded as BS because USNA awards BS degrees, but not stated in sources. Any graduate degree unconfirmed.",
+    "Years for Navy service and pre-Prudential roles (DaimlerChrysler, Diamond Technology Partners, Cigna, CareFirst) not found.",
+    "2019 Investor Day materials list him as 'Senior Vice President and CEO of Individual Solutions' while the Aug 2019 release says he headed Workplace Solutions; exact sequence of 2011-2019 roles unclear.",
+    "Japan sales-suspension release was filed with the Feb 3, 2026 earnings 8-K; original announcement date may be earlier (Jan 2026).",
+    "Quote is from a press release, not about his personal path; Prudential.com and Wikipedia were not reachable, so no interviews found. Quote wording obtained via summarizing fetch tool."
+  ]
+}

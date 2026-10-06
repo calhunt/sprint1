@@ -1,0 +1,145 @@
+{
+  "id": "goldman-sachs-group",
+  "name": "David M. Solomon",
+  "company_id": "goldman-sachs-group",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Hamilton College",
+      "degree": "BA",
+      "field": "Political Science",
+      "year": 1984,
+      "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Irving Trust Company",
+      "title": "Training program",
+      "start": "1984",
+      "end": "1986",
+      "source": "https://finance.yahoo.com/news/goldman-sachs-ceo-rejected-twice-161911345.html"
+    },
+    {
+      "organization": "Drexel Burnham Lambert",
+      "title": "Commercial paper sales, then high-yield (junk) bonds",
+      "start": "1986",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/David_M._Solomon"
+    },
+    {
+      "organization": "Bear Stearns",
+      "title": "Senior role leading the high-yield bond business",
+      "start": null,
+      "end": "1999",
+      "source": "https://en.wikipedia.org/wiki/David_M._Solomon"
+    },
+    {
+      "organization": "Goldman Sachs",
+      "title": "Partner and co-head of High Yield and Leveraged Loan business; later global head of the Financing Group",
+      "start": "1999",
+      "end": "2006",
+      "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    },
+    {
+      "organization": "Goldman Sachs",
+      "title": "Co-head of the Investment Banking Division",
+      "start": "2006",
+      "end": "2016",
+      "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    },
+    {
+      "organization": "Goldman Sachs",
+      "title": "President and co-COO, then sole COO (from March 2018)",
+      "start": "2017",
+      "end": "2018",
+      "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    },
+    {
+      "organization": "Goldman Sachs",
+      "title": "Chief Executive Officer (Chairman since January 2019)",
+      "start": "2018",
+      "end": null,
+      "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    }
+  ],
+  "background_category": "Investment/Trading",
+  "background_rationale": "Built his career in high-yield bond sales and leveraged finance at Drexel, Bear Stearns and Goldman, then co-ran Goldman's investment banking division for a decade before becoming COO and CEO.",
+  "tenure": {
+    "start": "2018-10-01",
+    "source": "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+  },
+  "notable": [
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Goldman agreed to transition the Apple Card program to JPMorgan Chase, closing out its consumer-lending push with Apple.",
+      "source": "https://en.wikipedia.org/wiki/Goldman_Sachs"
+    },
+    {
+      "date": "2026-04",
+      "type": "decision",
+      "summary": "Goldman completed its roughly $2 billion acquisition of ETF manager Innovator Capital Management, which oversaw about $31 billion across 171 ETFs.",
+      "source": "https://en.wikipedia.org/wiki/Goldman_Sachs"
+    },
+    {
+      "date": "2026-06",
+      "type": "statement",
+      "summary": "After the Federal Reserve's 2026 stress test, Solomon announced a dividend increase from $4.50 to $5.00 per share, citing the continued strength of the firm's earnings and capital position.",
+      "source": "https://www.goldmansachs.com/pressroom/press-releases/2026/gs-statement-on-comprehensive-capital-analysis-and-review-2026-results"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Goldman agreed to acquire options-based ETF provider NEOS Investments for up to $2.25 billion, expanding its active ETF business to about $80 billion in assets.",
+      "source": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-announces-agreement-to-acquire-NEOS-investments"
+    }
+  ],
+  "personal_story": {
+    "hook": "Goldman Sachs turned David Solomon down twice; he joined as a partner in 1999 and became CEO in 2018.",
+    "summary": "Solomon was born in Hartsdale, New York, and grew up in Westchester County, scooping ice cream at Baskin-Robbins and working summers as a camp counselor in New Hampshire. At Hamilton College he studied political science, played rugby and later credited the school's focus on writing and speaking for his career. Graduating in 1984, he sent letters to dozens of Wall Street firms; Goldman rejected him, and again a year or so later after a final-round interview, so he started in Irving Trust's training program. He moved into junk-bond sales at Drexel Burnham Lambert, ran high-yield at Bear Stearns, and only after Goldman recruited him did he join as a partner in 1999, rising to co-head investment banking and then CEO. He also performs as an electronic-music DJ under the name D-Sol, donating proceeds to charity.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1962 in Hartsdale, N.Y.; attended Edgemont Junior-Senior High School",
+        "source": "https://en.wikipedia.org/wiki/David_M._Solomon"
+      },
+      {
+        "label": "First job",
+        "value": "Teen jobs at a Baskin-Robbins and as a summer camp counselor",
+        "source": "https://en.wikipedia.org/wiki/David_M._Solomon"
+      },
+      {
+        "label": "Turning point",
+        "value": "Rejected by Goldman after a cold letter and again after a final-round analyst interview in 1985",
+        "source": "https://finance.yahoo.com/news/goldman-sachs-ceo-rejected-twice-161911345.html"
+      },
+      {
+        "label": "Other",
+        "value": "Performs as DJ D-Sol; proceeds go to charitable causes",
+        "source": "https://en.wikipedia.org/wiki/David_M._Solomon"
+      }
+    ],
+    "quote": {
+      "text": "Hamilton always emphasized written and oral communication, and as I look back at the thing that helped me, written and oral communication has always been super, super important to my career.",
+      "context": "Speaking about his Hamilton College education, as reported by Hamilton College news while he was Goldman's president",
+      "source": "https://www.hamilton.edu/news/story/goldman-president-solomon-84-discusses-hamiltons-role-in-his-success-david-solomon-goldman-sachs-chief-co-operating-officer-writing-speaking-communication-skills",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://finance.yahoo.com/news/goldman-sachs-ceo-rejected-twice-161911345.html",
+      "https://www.hamilton.edu/news/story/goldman-president-solomon-84-discusses-hamiltons-role-in-his-success-david-solomon-goldman-sachs-chief-co-operating-officer-writing-speaking-communication-skills",
+      "https://en.wikipedia.org/wiki/David_M._Solomon",
+      "https://www.goldmansachs.com/our-firm/history/moments/2018-solomon-ceo"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Hometown: Wikipedia says born in Hartsdale and grew up in Scarsdale area (Edgemont schools); story says 'Westchester County' to avoid the ambiguity.",
+    "Major: Goldman's history page and Fortune say political science; Wikipedia notes some sources cite economics.",
+    "Exact dates for Irving Trust end/Drexel start (1986 per Wikipedia) and the Bear Stearns period are not confirmed by a primary source; Bear Stearns start left null.",
+    "Apple Card and Innovator Capital items are sourced to Wikipedia (citing CNBC Jan. 7, 2026 and Reuters Apr. 2, 2026), as the original articles blocked fetching; verify against originals.",
+    "Late-Sept 2026 press reports say the board is discussing succession to COO John Waldron (possibly 2027-2028); not officially announced, so not included in notable."
+  ]
+}

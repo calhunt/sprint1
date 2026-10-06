@@ -1,0 +1,138 @@
+{
+  "id": "progressive",
+  "name": "Tricia Griffith",
+  "company_id": "progressive",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Illinois State University",
+      "degree": null,
+      "field": null,
+      "year": 1986,
+      "source": "https://ceo-na.com/executive-interviews/a-progressive-business-woman/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Progressive",
+      "title": "Claims representative, then managerial roles in the Claims division",
+      "start": "1988",
+      "end": "2002",
+      "source": "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/"
+    },
+    {
+      "organization": "Progressive",
+      "title": "Chief Human Resource Officer",
+      "start": "2002",
+      "end": "2008",
+      "source": "https://en.wikipedia.org/wiki/Tricia_Griffith"
+    },
+    {
+      "organization": "Progressive",
+      "title": "Claims Group President",
+      "start": "2008",
+      "end": "2014",
+      "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066117000021/progressivecorp2017def14a.htm"
+    },
+    {
+      "organization": "Progressive",
+      "title": "President of Customer Operations",
+      "start": "2014",
+      "end": "2015",
+      "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066117000021/progressivecorp2017def14a.htm"
+    },
+    {
+      "organization": "Progressive",
+      "title": "Personal Lines Chief Operating Officer",
+      "start": "2015",
+      "end": "2016",
+      "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066117000021/progressivecorp2017def14a.htm"
+    },
+    {
+      "organization": "The Progressive Corporation",
+      "title": "President and Chief Executive Officer",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066116000109/a8-kjuly2016ceotransition.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent her entire career at Progressive, starting as a claims representative and rising through claims, human resources, customer operations and personal lines operating roles before becoming CEO.",
+  "tenure": {
+    "start": "2016-07-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066116000109/a8-kjuly2016ceotransition.htm"
+  },
+  "notable": [
+    {
+      "date": "2018-11",
+      "type": "decision",
+      "summary": "Under Griffith, Progressive pushed to bundle auto and home policies for customers it calls 'Robinsons', growing that group from about 400,000 to 1 million households in just over two years.",
+      "source": "https://fortune.com/2018/11/15/progressive-insurance-ceo-tricia-griffith/"
+    },
+    {
+      "date": "2018-11",
+      "type": "statement",
+      "summary": "Discussing Progressive's Snapshot telematics data, Griffith said understanding which risks will have more losses is 'really the name of the game' in insurance.",
+      "source": "https://fortune.com/2018/11/15/progressive-insurance-ceo-tricia-griffith/"
+    },
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "Progressive reported 2025 companywide policies in force growth of 10%, net premiums written growth of 12%, a combined ratio of 87.4 and net income of $11.3 billion.",
+      "source": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000099/pgr-20260318.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "The daughter of a waitress and a door-to-door insurance salesman, Tricia Griffith joined Progressive as a claims rep and became CEO.",
+    "summary": "Griffith grew up in Illinois; her mother was a waitress and her father sold insurance door to door, and she has said those were the two jobs she did not want. After graduating from Illinois State University and a short stint in retail, she answered a classified ad and in 1988 joined Progressive as a claims representative in Indianapolis, at a salary of $19,200, expecting it to be temporary. About nine months in, she says, she fell in love with the company's values and the people she worked with. She rose through claims, became chief human resources officer in 2002 despite her own doubts that she could do it, and later ran claims, customer operations and personal lines before becoming the company's first female CEO in July 2016.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Grew up in Illinois; mother a waitress, father sold insurance door to door",
+        "source": "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/"
+      },
+      {
+        "label": "First job",
+        "value": "1988: Progressive claims representative in Indianapolis, salary $19,200, after about six months in retail",
+        "source": "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/"
+      },
+      {
+        "label": "Turning point",
+        "value": "About nine months into the job, decided to stay after falling in love with the company's values and people",
+        "source": "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/"
+      },
+      {
+        "label": "Turning point",
+        "value": "2002: took the chief HR officer job despite an internal voice saying she probably couldn't do it",
+        "source": "https://fortune.com/2018/11/15/progressive-insurance-ceo-tricia-griffith/"
+      },
+      {
+        "label": "Other",
+        "value": "First woman named Fortune's Businessperson of the Year (2018)",
+        "source": "https://en.wikipedia.org/wiki/Tricia_Griffith"
+      }
+    ],
+    "quote": {
+      "text": "I really fell in love with our core values and the people I worked with. I fell in love with learning something new every day.",
+      "context": "Cleveland Magazine Business Hall of Fame profile, November 2025, recalling her first year at Progressive",
+      "source": "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://clevelandmagazine.com/articles/2025-business-hall-of-fame-tricia-griffith/",
+      "https://fortune.com/2018/11/15/progressive-insurance-ceo-tricia-griffith/",
+      "https://ceo-na.com/executive-interviews/a-progressive-business-woman/",
+      "https://en.wikipedia.org/wiki/Tricia_Griffith"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type and major at Illinois State University not found; graduation year 1986 comes only from a CEO-NA interview. Wharton Advanced Management Program (non-degree) left out of education.",
+    "Fortune (2018) says she joined Progressive intending to stay while completing her MBA, but no source reached confirms an MBA; Cleveland Magazine says she planned to pay off loans. Not included.",
+    "Fortune describes her first role as 'claims adjuster trainee' found via a classified ad; Cleveland Magazine and Wikipedia say 'claims representative'.",
+    "End year of CHRO role (2008) and start of Claims Group President role are from Wikipedia; the 2017 proxy says only 'prior to April 2014'.",
+    "Only three CEO-era notable items could be sourced; COVID-era policyholder credits and Florida property actions could not be confirmed from reachable pages."
+  ],
+  "needs_enrichment": false
+}

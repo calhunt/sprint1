@@ -1,0 +1,136 @@
+{
+  "id": "stonex-group",
+  "name": "Philip A. Smith",
+  "company_id": "stonex-group",
+  "education": [
+    {
+      "institution": "University of Kent",
+      "degree": "BSc",
+      "field": null,
+      "year": null,
+      "source": "https://marketswiki.com/wiki/Philip_A._Smith",
+      "note": "Single community-edited source (MarketsWiki); unverified"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Global Currencies Ltd",
+      "title": "Joined 1996; elected to Board of Directors 1999 (principal shareholder)",
+      "start": "1996",
+      "end": "2004",
+      "source": "https://ir.stonex.com/management/philip-smith"
+    },
+    {
+      "organization": "INTL Global Currencies Ltd (INTL FCStone / StoneX)",
+      "title": "Chief Executive Officer",
+      "start": "2004",
+      "end": "2014",
+      "source": "https://www.sec.gov/Archives/edgar/data/0000913760/000091376024000192/intl-20241205.htm"
+    },
+    {
+      "organization": "INTL FCStone / StoneX Financial Ltd",
+      "title": "Chief Executive Officer, Europe, Middle East and Africa operations (Asia added January 2015)",
+      "start": "2008",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/0000913760/000091376024000192/intl-20241205.htm"
+    },
+    {
+      "organization": "StoneX Group Inc.",
+      "title": "Executive Committee member responsible for Commercial and Payments segments",
+      "start": null,
+      "end": "2024",
+      "source": "https://liquidityfinder.com/news/philip-smith-named-new-group-ceo-of-stonex-group-glenn-stevens-to-retire-at-end-of-2024-a62d1"
+    },
+    {
+      "organization": "StoneX Group Inc.",
+      "title": "Group Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.stonex.com/en/about/our-leadership/philip-smith/"
+    }
+  ],
+  "background_category": "Investment/Trading",
+  "background_rationale": "His career has been spent in foreign exchange payments and financial markets brokerage, from Global Currencies Ltd through leading StoneX's EMEA operations and its Commercial and Payments segments.",
+  "tenure": {
+    "start": "2024-12",
+    "source": "https://www.stonex.com/en/about/our-leadership/philip-smith/"
+  },
+  "notable": [
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "StoneX completed its acquisition of R.J. O'Brien, announced in 2025 at about $900 million in cash and stock, making it the largest non-bank futures commission merchant in the United States.",
+      "source": "https://www.globenewswire.com/news-release/2025/07/31/3125375/11961/en/StoneX-Completes-Acquisition-of-R-J-O-Brien-Becoming-the-Largest-Non-Bank-FCM-in-the-United-States-and-Enhancing-Global-Multi-Asset-Capabilities.html"
+    },
+    {
+      "date": "2026-08",
+      "type": "statement",
+      "summary": "Reporting fiscal 2026 third-quarter results with net operating revenues up 47% year over year, Smith said the company was beginning to realize benefits from integrating R.J. O'Brien.",
+      "source": "https://ir.stonex.com/news-releases/news-release-details/stonex-group-inc-reports-fiscal-2026-third-quarter-financial"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "StoneX agreed to acquire Banco Travelex S.A., a Brazilian foreign exchange bank, subject to Central Bank of Brazil approval, excluding its retail FX operations.",
+      "source": "https://www.stonex.com/en-us/media-room/press-releases/stonex-announces-acquisition-of-banco-travelex-expanding-brazil-payments-and-fx-capabilities/"
+    },
+    {
+      "date": "2026-10",
+      "type": "decision",
+      "summary": "StoneX announced the acquisition of Integra Trading S.A.S., establishing a Colombian coffee origination and processing platform.",
+      "source": "https://ir.stonex.com/news-releases/news-release-details/stonex-group-inc-acquires-integra-trading-sas-establishing"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Exact effective day of Group CEO appointment not stated; company bio says December 2024, 8-K event dated 2024-12-05, announcement publicized 2024-12-09. Recorded as 2024-12.",
+    "Start year of Executive Committee role over Commercial and Payments segments not found.",
+    "Consolidation of INTL Global Currencies into StoneX Financial Ltd: 8-K and company bio say 2014; LiquidityFinder says 2015. Used 2014.",
+    "Title held at Global Currencies Ltd from 1996 to 1999 not specified in sources.",
+    "Still CEO as of Oct 2026: confirmed via signed SOX certification on 10-Q dated 2026-08-05 (https://www.sec.gov/Archives/edgar/data/913760/000091376026000038/snex2026exh321q3roll.htm) and current company leadership page; ir.stonex.com/corporate-governance/management page is stale (still lists O'Connor as CEO).",
+    "Education (BSc, Kent University) sourced only to MarketsWiki (community wiki); field and year not found; not confirmed by company bio, SEC filings or LinkedIn (blocked). Treat as moderately reliable.",
+    "No first-person quote about his career path found in public interviews (Sky News Arabia gold interview, Oct 2025 StoneX Australia podcast episode only on markets); personal_story.quote set to null.",
+    "Personal background (upbringing, family, how he came to FX) not publicly reported; personal_story depth 'limited'. Companies House lists DOB June 1972, consistent with 8-K age 52 (Dec 2024).",
+    "'Fewer than 10 people' refers to StoneX (then International Assets Holding) at start of O'Connor's tenure (~2002), per O'Connor quote in Finance Magnates, not headcount at the 2004 acquisition."
+  ],
+  "personal_story": {
+    "hook": "He joined a British currency-payments firm in 1996; 28 years later he was running the global group that bought it.",
+    "summary": "Philip Smith earned a Bachelor of Science from Kent University, according to MarketsWiki. In 1996 he joined Global Currencies Ltd, a UK foreign-exchange payments company, and was elected to its board three years later. In 2004 the firm was acquired by the company now called StoneX, which, by former CEO Sean O'Connor's account, had begun his tenure with fewer than 10 people. Smith stayed on to run the acquired business, took charge of Europe, Middle East and Africa in 2008, and in December 2024, aged 52, succeeded O'Connor as Group CEO after more than 20 years working alongside him.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Bachelor of Science, Kent University",
+        "source": "https://marketswiki.com/wiki/Philip_A._Smith"
+      },
+      {
+        "label": "First job",
+        "value": "Joined Global Currencies Ltd, a UK FX payments company, in 1996; board director 1999",
+        "source": "https://www.stonex.com/en/about/our-leadership/philip-smith/"
+      },
+      {
+        "label": "Turning point",
+        "value": "2004 acquisition of Global Currencies made him CEO of INTL Global Currencies Ltd",
+        "source": "https://www.sec.gov/Archives/edgar/data/0000913760/000091376024000192/intl-20241205.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named CEO of EMEA operations in July 2008",
+        "source": "https://www.sec.gov/Archives/edgar/data/0000913760/000091376024000192/intl-20241205.htm"
+      },
+      {
+        "label": "Mentor",
+        "value": "Worked alongside predecessor Sean O'Connor for over 20 years",
+        "source": "https://fxnewsgroup.com/forex-news/executives/glenn-stevens-leaving-forex-com-philip-smith-becomes-stonex-ceo/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://marketswiki.com/wiki/Philip_A._Smith",
+      "https://www.stonex.com/en/about/our-leadership/philip-smith/",
+      "https://www.sec.gov/Archives/edgar/data/0000913760/000091376024000192/intl-20241205.htm",
+      "https://www.financemagnates.com/executives/stonex-names-new-ceo-in-leadership-shift-after-22-years/",
+      "https://fxnewsgroup.com/forex-news/executives/glenn-stevens-leaving-forex-com-philip-smith-becomes-stonex-ceo/"
+    ]
+  }
+}

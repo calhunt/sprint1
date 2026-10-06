@@ -1,0 +1,155 @@
+{
+  "id": "massachusetts-mutual-life",
+  "name": "Roger W. Crandall",
+  "company_id": "massachusetts-mutual-life",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Vermont",
+      "degree": null,
+      "field": "Economics",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-202608058kexh991.htm"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "MassMutual",
+      "title": "Investment Management Department (rising to Managing Director)",
+      "start": "1988",
+      "end": "2000",
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    },
+    {
+      "organization": "Babson Capital Management (David L. Babson & Company)",
+      "title": "Managing Director; head of Corporate Bond Management, Public Bond Trading and Institutional Fixed Income",
+      "start": "2000",
+      "end": "2005",
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    },
+    {
+      "organization": "MassMutual / Babson Capital Management",
+      "title": "Executive Vice President and Chief Investment Officer of MassMutual; Chairman of Babson Capital",
+      "start": "2005",
+      "end": "2008",
+      "source": "https://www.sec.gov/Archives/edgar/data/275694/000107261308000788/sc-14a_15797.txt"
+    },
+    {
+      "organization": "MassMutual",
+      "title": "Co-Chief Operating Officer",
+      "start": "2007",
+      "end": "2008",
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    },
+    {
+      "organization": "MassMutual",
+      "title": "President and Chief Operating Officer",
+      "start": "2008",
+      "end": "2009",
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    },
+    {
+      "organization": "MassMutual",
+      "title": "President and CEO (later also Chairman)",
+      "start": "2010",
+      "end": null,
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+    },
+    {
+      "organization": "Constellation Energy",
+      "title": "Independent Director",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-202608058kexh991.htm"
+    }
+  ],
+  "background_category": "Investment/Trading",
+  "background_rationale": "Spent nearly two decades in MassMutual's investment management and fixed-income businesses, including running bond trading at Babson Capital and serving as Chief Investment Officer, before moving into operating leadership.",
+  "tenure": {
+    "start": "2010-01-01",
+    "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+  },
+  "notable": [
+    {
+      "date": "2023-02",
+      "type": "decision",
+      "summary": "MassMutual converted its 125,000 preferred shares of Jefferies Financial Group into about 4.65 million common shares, which Crandall said built on a long-term relationship with the firm.",
+      "source": "https://www.sec.gov/Archives/edgar/data/96223/000119312523040315/d455985dex991.htm"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "MassMutual closed the sale of an 18% stake in its asset manager Barings to Japan's MS&AD Insurance Group, keeping 82% and controlling governance rights.",
+      "source": "https://www.massmutual.com/about-us/news-and-press-releases/press-releases/2026/05/massmutual-and-barings-announce-closing"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "MassMutual agreed to reinsure a block of universal life policies with secondary guarantees, with nearly $6 billion in statutory reserves, with Nationwide; the deal closed in June 2026.",
+      "source": "https://www.massmutual.com/about-us/news-and-press-releases/press-releases/2026/05/massmutual-announces-strategic-reinsurance-agreement-with-nationwide"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "Marking MassMutual's 175th anniversary, Crandall said the milestone was about the people who rely on the company and the commitments it has kept, as it paid an estimated record $2.9 billion in 2026 policyowner dividends.",
+      "source": "https://www.massmutual.com/about-us/news-and-press-releases/press-releases/2026/05/massmutual-turns-175"
+    }
+  ],
+  "personal_story": {
+    "hook": "Roger Crandall joined MassMutual's investment department in 1988 and has run the 175-year-old insurer since 2010.",
+    "summary": "Crandall earned a bachelor's degree in economics from the University of Vermont and an MBA from the Wharton School, and is a Chartered Financial Analyst. He joined MassMutual in 1988 and spent 12 years in its investment management department, then moved to its Babson Capital subsidiary, where he ran corporate bond management and public bond trading. He became MassMutual's Chief Investment Officer and Babson's chairman in 2005, co-COO in 2007 and President and COO in December 2008, and succeeded Stuart Reese as CEO on January 1, 2010. Outside MassMutual he has chaired the Federal Reserve Bank of Boston's board and in 2026 joined Constellation Energy's board.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Bachelor's in economics (University of Vermont), MBA (Wharton), CFA charterholder",
+        "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+      },
+      {
+        "label": "First job",
+        "value": "Joined MassMutual's investment management department in 1988",
+        "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "2005: named MassMutual Chief Investment Officer and Chairman of Babson Capital",
+        "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html"
+      },
+      {
+        "label": "Other",
+        "value": "Served as Chair of the Federal Reserve Bank of Boston; joined Constellation Energy's board in August 2026",
+        "source": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-202608058kexh991.htm"
+      }
+    ],
+    "quote": {
+      "text": "I'm honored to become the next CEO of MassMutual and have the opportunity to continue the legacy of leadership established by Stu Reese.",
+      "context": "MassMutual press release announcing his appointment as CEO, December 30, 2009",
+      "source": "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/roger-crandall-to-become-ceo-of-massmutual-on-january-1-80338257.html",
+      "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000089/ceg-202608058kexh991.htm",
+      "https://www.sec.gov/Archives/edgar/data/275694/000107261308000788/sc-14a_15797.txt",
+      "https://www.sec.gov/Archives/edgar/data/275694/000107261304000595/def-14a_12535.txt"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "tenure.start refined from the seed '2010' to 2010-01-01 per MassMutual's Dec. 30, 2009 release (PR Newswire).",
+    "Bachelor's degree type (BA vs BS) is not stated in the sources ('bachelor's degree in economics'), so degree is null; graduation years for both degrees were not found.",
+    "Babson managing director start date conflicts: the 2009 release says he was named Managing Director in 2002 after moving to Babson in 2000; a 2008 fund proxy lists Babson Managing Director 2000-2005, and a 2004 proxy lists MassMutual Managing Director 1993-2000.",
+    "The year he added the title of Chairman of MassMutual was not found; the current company governance page lists him as Chairman, President and CEO.",
+    "Dates of his Federal Reserve Bank of Boston board chair service were not confirmed.",
+    "Wikipedia and long-form interviews could not be reached (no web search; Wikipedia page not cached), so upbringing and formative experiences are missing.",
+    "The quote came through a summarizing fetch tool; check the wording against the PR Newswire release before publishing."
+  ],
+  "needs_enrichment": true
+}

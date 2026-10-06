@@ -1,0 +1,120 @@
+{
+  "id": "kroger",
+  "name": "Greg Foran",
+  "company_id": "kroger",
+  "role": "CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Woolworths (New Zealand and Australia)",
+      "title": "Trainee manager at 17, store manager at 20, then progressively senior supermarket roles over about 30 years",
+      "start": null,
+      "end": "2011",
+      "source": "https://www.fortune.com/2026/02/11/meet-serial-ceo-taking-over-kroger-greg-foran-started-career-stacking-shelves-about-lead-third-billion-dollar-company"
+    },
+    {
+      "organization": "Walmart China / Walmart Asia",
+      "title": "President and CEO",
+      "start": "2012",
+      "end": "2014",
+      "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+    },
+    {
+      "organization": "Walmart U.S.",
+      "title": "President and CEO",
+      "start": "2014",
+      "end": "2019",
+      "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+    },
+    {
+      "organization": "Air New Zealand",
+      "title": "CEO",
+      "start": "2020",
+      "end": "2025",
+      "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+    },
+    {
+      "organization": "The Kroger Co.",
+      "title": "CEO",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.barchart.com/story/news/104183/kroger-appoints-greg-foran-as-chief-executive-officer"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Started as a supermarket trainee manager straight out of high school and spent four decades running store operations, culminating in leading Walmart U.S. and Air New Zealand.",
+  "tenure": {
+    "start": "2026-02-09",
+    "source": "https://www.barchart.com/story/news/104183/kroger-appoints-greg-foran-as-chief-executive-officer"
+  },
+  "notable": [
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Outlined a plan to lower prices on thousands of products, funded partly by direct importing and technology, and to open 70 to 80 new stores in the coming year, while signaling interest in acquisitions in markets such as the Northeast.",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/kroger-ceo-plans-broad-price-105504484.html"
+    },
+    {
+      "date": "2026-06",
+      "type": "statement",
+      "summary": "After visiting more than 100 stores, Foran said Kroger's promotions had become too complicated and its price position had not kept pace, and that the company needed to move faster and make decisions more quickly.",
+      "source": "https://www.grocerydive.com/news/kroger-store-experience-grocery-greg-foran/823460/"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "On Kroger's second-quarter 2026 call, Foran described cost reduction as a multiyear program, with savings from sourcing, imports and headcount to be reinvested in prices customers will see.",
+      "source": "https://www.supermarketnews.com/grocery-operations/kroger-s-battle-with-price-to-last-multiple-years"
+    }
+  ],
+  "personal_story": {
+    "hook": "Greg Foran skipped university, took a supermarket trainee-manager job at 17, and now runs Kroger.",
+    "summary": "Foran was born in New Zealand in 1961 to two school teachers and grew up in Hastings and Hamilton, stocking supermarket shelves part-time on Friday nights while in high school. He did not go to university; at his mother's suggestion he applied for a trainee manager job at Woolworths and got it at 17, then became one of the chain's youngest store managers at 20. After roughly three decades at Woolworths, he was passed over for its top job and joined Walmart in 2011, running its China, Asia and then U.S. businesses, where he oversaw a turnaround of Walmart's largest division. He went on to lead Air New Zealand through the pandemic before becoming Kroger's CEO in February 2026.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Hastings and Hamilton, New Zealand",
+        "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+      },
+      {
+        "label": "Family background",
+        "value": "Son of two school teachers",
+        "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+      },
+      {
+        "label": "First job",
+        "value": "Part-time Friday-night shelf stacker, then Woolworths trainee manager at 17",
+        "source": "https://www.fortune.com/2026/02/11/meet-serial-ceo-taking-over-kroger-greg-foran-started-career-stacking-shelves-about-lead-third-billion-dollar-company"
+      },
+      {
+        "label": "Other",
+        "value": "Did not attend university",
+        "source": "https://en.wikipedia.org/wiki/Greg_Foran"
+      },
+      {
+        "label": "Turning point",
+        "value": "Passed over for the Woolworths CEO job, he joined Walmart in 2011",
+        "source": "https://www.fortune.com/2026/02/11/meet-serial-ceo-taking-over-kroger-greg-foran-started-career-stacking-shelves-about-lead-third-billion-dollar-company"
+      }
+    ],
+    "quote": {
+      "text": "If you find something that you like doing, then you put more effort in, and you get good at it. And if that gets recognized, then you get more opportunity.",
+      "context": "Quoted in Fortune profile on his path from shelf stacker to Kroger CEO, Feb. 2026",
+      "source": "https://www.fortune.com/2026/02/11/meet-serial-ceo-taking-over-kroger-greg-foran-started-career-stacking-shelves-about-lead-third-billion-dollar-company",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://www.fortune.com/2026/02/11/meet-serial-ceo-taking-over-kroger-greg-foran-started-career-stacking-shelves-about-lead-third-billion-dollar-company",
+      "https://en.wikipedia.org/wiki/Greg_Foran",
+      "https://www.barchart.com/story/news/104183/kroger-appoints-greg-foran-as-chief-executive-officer"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "No university degree; education list intentionally empty.",
+    "Early Woolworths timeline conflicts: Fortune says trainee manager at 17 and store manager at 20; Wikipedia says he became a Woolworths manager at 20 (and describes starting as a shelf stacker). Specific Woolworths roles and years (incl. in Australia) not confirmed, so condensed into one entry.",
+    "Walmart join date: Wikipedia says 2011, with Walmart China CEO role from March 2012; career entry starts at 2012.",
+    "Air New Zealand: Wikipedia says resignation announced March 2025 with departure Oct. 2025; end recorded as 2025."
+  ]
+}

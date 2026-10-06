@@ -1,0 +1,127 @@
+{
+  "id": "enterprise-products-partners--fowler",
+  "name": "W. Randall Fowler",
+  "company_id": "enterprise-products-partners",
+  "role": "Co-CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Enterprise Products Partners",
+      "title": "Director of Investor Relations (joined shortly after the 1998 IPO)",
+      "start": "1999",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm"
+    },
+    {
+      "organization": "Enterprise Products GP / EPCO",
+      "title": "Senior Vice President and Treasurer (GP); Chief Financial Officer (EPCO)",
+      "start": "2005",
+      "end": "2007",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm"
+    },
+    {
+      "organization": "EPCO, Inc.",
+      "title": "President and CEO",
+      "start": "2007",
+      "end": "2010",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "start": "2007",
+      "end": "2015",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Chief Administrative Officer, then President",
+      "start": "2015",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners (general partner)",
+      "title": "Chief Financial Officer (second stint)",
+      "start": "2018",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526291582/d67955d8k.htm"
+    },
+    {
+      "organization": "Enterprise Products Partners",
+      "title": "Co-Chief Executive Officer (sole CEO from Jan. 4, 2027)",
+      "start": "2020",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526291582/d67955d8k.htm"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "A certified public accountant (inactive) with 48 years of energy-industry finance and accounting experience, he served two long stints as Enterprise's CFO before becoming co-CEO.",
+  "tenure": {
+    "start": "2020-01-28",
+    "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+  },
+  "notable": [
+    {
+      "date": "2020-01",
+      "type": "decision",
+      "summary": "Became co-CEO alongside A.J. 'Jim' Teague while keeping the CFO post, with responsibility for finance, accounting, IT and risk management while Teague oversaw commercial, operations and engineering.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/exhibit99_1.htm"
+    },
+    {
+      "date": "2024-03",
+      "type": "decision",
+      "summary": "Handed the CFO title to R. Daniel Boss effective March 1, 2024, while continuing as co-CEO and supervising the finance, treasury and tax leaders.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1061219/000119312524038486/d790507d8k.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Enterprise announced that Teague will retire on Jan. 4, 2027, and that Fowler will then become sole CEO, with the Office of the Chairman expanded to include the chief commercial officer and CFO.",
+      "source": "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027"
+    }
+  ],
+  "personal_story": {
+    "hook": "Randy Fowler joined Enterprise as director of investor relations in 1999; in January 2027 he is set to become sole CEO.",
+    "summary": "Little about Fowler's early life is public. A certified public accountant (now inactive), he had already worked in energy-industry finance and accounting before joining Enterprise in January 1999, shortly after its IPO, as director of investor relations. He rose through treasurer and CFO roles, also running Enterprise's privately held affiliate EPCO as president and CEO from 2007 to 2010, and served as Enterprise's CFO from 2007 to 2015 and again from 2018 to 2024. He became co-CEO with Jim Teague in January 2020 and is slated to become sole CEO when Teague retires on Jan. 4, 2027.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Earliest disclosed Enterprise role: director of investor relations, January 1999",
+        "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm"
+      },
+      {
+        "label": "Other",
+        "value": "Certified Public Accountant (inactive); 48 years of energy-industry finance and accounting experience",
+        "source": "https://www.sec.gov/Archives/edgar/data/1061219/000119312526291582/d67955d8k.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named executive vice president and CFO in August 2007",
+        "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm"
+      },
+      {
+        "label": "Other",
+        "value": "Served as chairman of the National Association of Publicly Traded Partnerships (as of 2010)",
+        "source": "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1061219/000106121910000072/epdform8k_112310.htm",
+      "https://www.sec.gov/Archives/edgar/data/1061219/000106121920000003/epdform8k_01282020.htm",
+      "https://www.sec.gov/Archives/edgar/data/1061219/000119312526291582/d67955d8k.htm",
+      "https://ir.enterpriseproducts.com/news-releases/news-release-details/teague-announces-plan-retire-january-2027"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education not found: Wikipedia and the company leadership page could not be fetched, and the SEC 10-K Item 10 bios were beyond the fetch limit. Education left empty.",
+    "Tenure start: SEC 8-K gives co-CEO election effective January 28, 2020 (seed list said 2020-01-01); used 2020-01-28.",
+    "End year of the 1999 investor-relations role not disclosed; left null.",
+    "Pre-1999 employers not identified; the '48 years of experience' figure implies a career start around 1978.",
+    "No verified verbatim quote from Fowler about his path; quote null."
+  ],
+  "needs_enrichment": true
+}

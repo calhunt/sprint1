@@ -1,0 +1,150 @@
+{
+  "id": "bank-of-america",
+  "name": "Brian T. Moynihan",
+  "company_id": "bank-of-america",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Brown University",
+      "degree": "BA",
+      "field": "History",
+      "year": 1981,
+      "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    },
+    {
+      "institution": "University of Notre Dame",
+      "degree": "JD",
+      "field": null,
+      "year": 1984,
+      "source": "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Edwards & Angell (law firm, Providence)",
+      "title": "Associate, then partner (firm's youngest-ever partner)",
+      "start": "1984",
+      "end": "1993",
+      "source": "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan"
+    },
+    {
+      "organization": "Fleet Financial / FleetBoston",
+      "title": "Deputy General Counsel, later EVP running brokerage and wealth management",
+      "start": "1993",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    },
+    {
+      "organization": "Bank of America",
+      "title": "President, Global Wealth and Investment Management",
+      "start": "2004",
+      "end": "2008",
+      "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    },
+    {
+      "organization": "Bank of America",
+      "title": "General Counsel; President, Global Banking and Wealth Management (incl. Merrill Lynch)",
+      "start": "2008",
+      "end": "2009",
+      "source": "https://www.irishamerica.com/2009/08/the-life-of-brian-moynihan/"
+    },
+    {
+      "organization": "Bank of America",
+      "title": "President, Consumer and Small Business Banking",
+      "start": "2009",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    },
+    {
+      "organization": "Bank of America",
+      "title": "President and CEO (Chairman from 2014)",
+      "start": "2010",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    }
+  ],
+  "background_category": "Law",
+  "background_rationale": "Trained as a lawyer and spent nine years at a Providence law firm before joining client Fleet as deputy general counsel, then moved into running wealth management and consumer banking businesses.",
+  "tenure": {
+    "start": "2010-01-01",
+    "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+  },
+  "notable": [
+    {
+      "date": "2014-08",
+      "type": "decision",
+      "summary": "Bank of America agreed to a $16.65 billion settlement with the U.S. Justice Department and other agencies over mortgage-related financial fraud claims from the financial crisis era, then the largest civil settlement with a single entity in U.S. history.",
+      "source": "https://www.justice.gov/usao-wdnc/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud"
+    },
+    {
+      "date": "2025-01",
+      "type": "statement",
+      "summary": "After President Trump publicly accused Bank of America at Davos of refusing conservative customers, the bank responded that it welcomes conservatives and never closes accounts for political reasons.",
+      "source": "https://www.bankingdive.com/news/bank-of-america-moynihan-trump-davos-dimon-debanking-conservatives-bpi/738266/"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "Named Dean Athanasia and Jim DeMare co-presidents in a leadership reshuffle widely seen as setting up succession, while indicating he plans to stay on through the end of the decade.",
+      "source": "https://www.bankingdive.com/news/bank-of-america-sets-up-succession-race-next-ceo/760139/"
+    },
+    {
+      "date": "2025-11",
+      "type": "statement",
+      "summary": "At the bank's first investor day in over a decade, Moynihan's team set a 16%-18% return on tangible common equity target and highlighted a $13 billion annual technology budget.",
+      "source": "https://www.bankingdive.com/news/bofa-investor-day-moynihan-growth-targets-succession-demare-athanasia-borthwick-ai-technology/804892/"
+    }
+  ],
+  "personal_story": {
+    "hook": "The son of a DuPont research chemist in Marietta, Ohio, Moynihan went from corporate lawyer to running Bank of America.",
+    "summary": "Moynihan grew up in Marietta, Ohio, in a large Catholic family where his father worked as a research chemist for DuPont and hand-me-down sweaters passed from brother to brother. His parents stretched to put all the children through college, and as a teenager he worked jobs including a Bonanza steakhouse and maintenance at a Catholic church. He studied history at Brown, where he co-captained the rugby team, then earned a law degree at Notre Dame. At the Providence firm Edwards & Angell he became the youngest-ever partner, and in 1993 a client, Fleet, hired him as deputy general counsel. Through bank mergers he moved from lawyer to business leader, running wealth management, Merrill Lynch and consumer banking before becoming CEO in 2010.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Marietta, Ohio, sixth of eight children in a Catholic family of Irish descent",
+        "source": "https://www.irishamerica.com/2009/08/the-life-of-brian-moynihan/"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a research chemist with DuPont; parents stretched to send all the children to college",
+        "source": "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan"
+      },
+      {
+        "label": "First job",
+        "value": "Teenage jobs at a Bonanza steakhouse and doing maintenance at a Catholic church",
+        "source": "https://www.axios.com/local/charlotte/2015/09/03/life-lessons-from-brian-moynihan-charlottes-most-prominent-ceo-16180"
+      },
+      {
+        "label": "Other",
+        "value": "Co-captained the rugby team at Brown",
+        "source": "https://en.wikipedia.org/wiki/Brian_Moynihan"
+      },
+      {
+        "label": "Turning point",
+        "value": "In 1993 law-firm client Fleet recruited him as deputy general counsel, his entry into banking",
+        "source": "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan"
+      }
+    ],
+    "quote": {
+      "text": "They took all their resources, both financial and energy, and threw them on the table, so to speak, and said, 'We're all in.'",
+      "context": "Describing his parents' commitment to educating their children, Brown Alumni Monthly profile, May 2010",
+      "source": "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.brownalumnimagazine.com/articles/2010-05-13/the-brothers-moynihan",
+      "https://www.irishamerica.com/2009/08/the-life-of-brian-moynihan/",
+      "https://www.axios.com/local/charlotte/2015/09/03/life-lessons-from-brian-moynihan-charlottes-most-prominent-ceo-16180",
+      "https://en.wikipedia.org/wiki/Brian_Moynihan"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Family size: Irish America (2009) and Wikipedia say sixth of eight children; Brown Alumni Monthly says 'a family of nine' (possibly counting a parent or a different count). Story says 'large family'; fact cites Irish America.",
+    "Edwards & Angell start year (1984) inferred from JD year and Brown Alumni Monthly's 'nine years' before joining Fleet in 1993.",
+    "Dates of 2008-2009 roles (General Counsel, Global Banking & Wealth Management, Consumer & Small Business Banking) overlap and are condensed; Wikipedia's chronology is not fully clear.",
+    "Year he added the Chairman title (2014) taken from Wikipedia; not independently verified in this pass.",
+    "No official Bank of America bio page could be fetched (404); career relies on Wikipedia and press profiles."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "tjx",
+  "name": "Ernie Herrman",
+  "company_id": "tjx",
+  "role": "CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "TJX Companies",
+      "title": "Various merchandising positions",
+      "start": "1989",
+      "end": "2004",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000119312516568937/d56044ddef14a.htm"
+    },
+    {
+      "organization": "Marmaxx (TJX)",
+      "title": "Senior Executive Vice President and Chief Operating Officer",
+      "start": "2004",
+      "end": "2005",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm"
+    },
+    {
+      "organization": "Marmaxx (TJX)",
+      "title": "President",
+      "start": "2005",
+      "end": "2008",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm"
+    },
+    {
+      "organization": "TJX Companies",
+      "title": "Senior Executive Vice President, Group President, Marmaxx, HomeGoods and TJX Canada",
+      "start": "2008",
+      "end": "2011",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm"
+    },
+    {
+      "organization": "TJX Companies",
+      "title": "President",
+      "start": "2011",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm"
+    },
+    {
+      "organization": "TJX Companies",
+      "title": "Chief Executive Officer",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000119312515338934/d44242d8k.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A TJX lifer who spent 15 years in merchandising before running the Marmaxx division and then TJX's major store businesses as president.",
+  "tenure": {
+    "start": "2016-01-31",
+    "source": "https://www.sec.gov/Archives/edgar/data/109198/000119312515338934/d44242d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2020-03",
+      "type": "decision",
+      "summary": "Closed all TJX stores, distribution centers and offices from March 19, 2020, later furloughing most U.S. store and distribution-center associates, and took a 30% base salary cut from April to July 2020.",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000119312520100237/d865110d8k.htm"
+    },
+    {
+      "date": "2025-01",
+      "type": "decision",
+      "summary": "TJX's board extended Herrman's employment agreement as CEO and President through January 29, 2028.",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000002/tjx-20250131.htm"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "With second-quarter sales up 5% to $15.2 billion, TJX raised its full-year outlook, said it would accelerate store growth to about 4% a year from fiscal 2028, and raised its long-term target to 7,500 stores worldwide.",
+      "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000045/tjxq2fy27earningspressrele.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Ernie Herrman joined TJX in merchandising in 1989 and has spent his whole executive career there, becoming CEO in 2016.",
+    "summary": "Herrman joined TJX in 1989 and spent 15 years in merchandising roles before becoming chief operating officer and then president of Marmaxx, the unit behind T.J. Maxx and Marshalls. He went on to oversee Marmaxx, HomeGoods and TJX Canada, became company president in 2011, and succeeded Carol Meyrowitz as CEO at the start of fiscal 2016. Little about his upbringing or education is available in the sources reached.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Merchandising roles at TJX starting in 1989",
+        "source": "https://www.sec.gov/Archives/edgar/data/109198/000119312516568937/d56044ddef14a.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named President of Marmaxx in 2005, then TJX President in 2011",
+        "source": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/109198/000119312516568937/d56044ddef14a.htm",
+      "https://www.sec.gov/Archives/edgar/data/109198/000010919826000015/tjx-20260430.htm",
+      "https://www.sec.gov/Archives/edgar/data/109198/000119312515338934/d44242d8k.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "needs_enrichment": true,
+  "open_issues": [
+    "Education not found: TJX proxy statements do not list it and Wikipedia/tjx.com bio pages were unreachable. Education left empty.",
+    "Pre-1989 career (if any) not found.",
+    "Tenure start refined from seed '2016-01' to 2016-01-31 (start of fiscal 2017) per the Oct 2015 8-K; proxy says 'since January 2016'.",
+    "No personal interviews reachable; story limited to career facts. No verified quote."
+  ]
+}

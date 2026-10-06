@@ -1,0 +1,143 @@
+{
+  "id": "home-depot",
+  "name": "Ted Decker",
+  "company_id": "home-depot",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "College of William & Mary",
+      "degree": "BA",
+      "field": "English",
+      "year": 1985,
+      "source": "https://www.wm.edu/peopleofwm/bold-leaders/decker-t/"
+    },
+    {
+      "institution": "Carnegie Mellon University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1993,
+      "source": "https://www.cmu.edu/engage/news-stories/getting-more-done-way-life-home-depots-ted-decker"
+    }
+  ],
+  "career": [
+    {
+      "organization": "PNC Bank",
+      "title": "Corporate finance and lending roles (Pittsburgh and Sydney)",
+      "start": null,
+      "end": null,
+      "source": "https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer"
+    },
+    {
+      "organization": "Scott Paper Co. / Kimberly-Clark Corp.",
+      "title": "Business development, strategic planning and finance roles (incl. London and Atlanta)",
+      "start": null,
+      "end": "2000",
+      "source": "https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Director of business valuation, rising to SVP of strategic business development and SVP of retail finance",
+      "start": "2000",
+      "end": "2014",
+      "source": "https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "Chief Merchant and Executive Vice President of Merchandising",
+      "start": "2014",
+      "end": "2020",
+      "source": "https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "President and Chief Operating Officer",
+      "start": "2020",
+      "end": "2022",
+      "source": "https://corporate.homedepot.com/news/leadership/home-depot-names-ted-decker-president-and-chief-operating-officer-announces"
+    },
+    {
+      "organization": "The Home Depot",
+      "title": "President and CEO (Chair from October 2022)",
+      "start": "2022",
+      "end": null,
+      "source": "https://corporate.homedepot.com/newsroom/teddecker-named-ceo"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built his early career in banking and corporate finance at PNC, Scott Paper and Kimberly-Clark, and joined Home Depot in business valuation and finance before moving into merchandising and operations.",
+  "tenure": {
+    "start": "2022-03-01",
+    "source": "https://corporate.homedepot.com/newsroom/teddecker-named-ceo"
+  },
+  "notable": [
+    {
+      "date": "2024-03",
+      "type": "decision",
+      "summary": "Home Depot agreed to acquire roofing and building-products distributor SRS Distribution for about $18.25 billion, its largest deal, to expand its business with professional contractors.",
+      "source": "https://ir.homedepot.com/news-releases/2024/03-28-2024-100102814"
+    },
+    {
+      "date": "2025-06",
+      "type": "decision",
+      "summary": "Home Depot agreed for its SRS subsidiary to acquire specialty building-products distributor GMS in a deal valued at about $5.5 billion, completed in September 2025.",
+      "source": "https://ir.homedepot.com/news-releases/2025/06-30-2025-130354727"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Decker began a temporary medical leave on Aug. 12, 2026, expected to last a few months, with executives Ann-Marie Campbell and Richard McPhail overseeing operations and finance in the interim.",
+      "source": "https://www.cbsnews.com/atlanta/news/home-depot-president-and-ceo-ted-decker-taking-medical-leave-of-absence-company-says/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Ted Decker started mowing lawns at age 8 and ran a landscaping business before running Home Depot.",
+    "summary": "Decker grew up outside Erie, Pennsylvania, where he began mowing lawns at age 8 and built a landscaping business that he ran through high school. At William & Mary he majored in English while taking economics courses, and spent summers sealing driveways, buying supplies at local hardware stores. He pursued international banking after graduation, working for PNC in Sydney, then moved into corporate roles at Scott Paper and Kimberly-Clark, including in London. A recruiter's call reached him in his London office on the way to the airport and led to a lunch interview with Home Depot's CEO; he joined in 2000 as director of business valuation, hired by then-CFO Carol Tome, and was promoted repeatedly until becoming CEO in 2022.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Fairview Township, near Erie, Pennsylvania",
+        "source": "https://en.wikipedia.org/wiki/Ted_Decker"
+      },
+      {
+        "label": "First job",
+        "value": "Mowing lawns from age 8, growing into a landscaping business through high school",
+        "source": "https://www.cmu.edu/engage/news-stories/getting-more-done-way-life-home-depots-ted-decker"
+      },
+      {
+        "label": "Other",
+        "value": "Summers in college sealing driveways in Erie",
+        "source": "https://magazine.wm.edu/issue/2024-winter/home-and-hearth-matter.php"
+      },
+      {
+        "label": "Turning point",
+        "value": "A recruiter's call in his London office led to a lunch interview with Home Depot's CEO and a 2000 job offer",
+        "source": "https://www.cmu.edu/engage/news-stories/getting-more-done-way-life-home-depots-ted-decker"
+      },
+      {
+        "label": "Mentor",
+        "value": "Carol Tome, who hired him at Home Depot in 2000 and later became UPS CEO",
+        "source": "https://magazine.wm.edu/issue/2024-winter/home-and-hearth-matter.php"
+      }
+    ],
+    "quote": {
+      "text": "Anything you can do to embrace change and appreciate the new opportunities change brings, you will grow the most and the reward is exponential",
+      "context": "William & Mary Alumni Magazine profile, Winter 2024",
+      "source": "https://magazine.wm.edu/issue/2024-winter/home-and-hearth-matter.php",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://magazine.wm.edu/issue/2024-winter/home-and-hearth-matter.php",
+      "https://www.cmu.edu/engage/news-stories/getting-more-done-way-life-home-depots-ted-decker",
+      "https://en.wikipedia.org/wiki/Ted_Decker",
+      "https://corporate.homedepot.com/bio/ted-decker-chair-president-chief-executive-officer"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Decker has been on temporary medical leave since Aug. 12, 2026; no return or replacement found as of Oct. 5, 2026. He retains the CEO title.",
+    "Chief Merchant start year inferred as 2014 from the company bio ('over six years' before his Oct. 2020 promotion); exact date not confirmed.",
+    "Start/end years of PNC and Scott Paper/Kimberly-Clark roles not found; CMU says he did three years in Sydney with PNC. Order relative to his 1993 MBA unclear.",
+    "CMU article says he started the landscaping business with his brother; brother not named here."
+  ]
+}

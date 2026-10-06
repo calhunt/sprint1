@@ -1,0 +1,151 @@
+{
+  "id": "cvs-health",
+  "name": "J. David Joyner",
+  "company_id": "cvs-health",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Texas Tech University",
+      "degree": "BBA",
+      "field": "Finance",
+      "year": 1986,
+      "source": "https://www.lubbockmatadors.com/ownership"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Aetna",
+      "title": "Employee benefit representative",
+      "start": null,
+      "end": null,
+      "source": "https://www.depts.ttu.edu/rawlsbusiness/advisory-council/david-joyner/"
+    },
+    {
+      "organization": "Caremark Prescription Services",
+      "title": "Regional sales manager",
+      "start": null,
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/0000064803/000119312524239193/d837701dex991.htm"
+    },
+    {
+      "organization": "CVS Caremark",
+      "title": "Executive Vice President, Sales and Account Services",
+      "start": "2011",
+      "end": "2019",
+      "source": "https://www.biopharmadive.com/news/cvs-replaces-ceo-karen-lynch-caremark-head-david-joyner/730301/"
+    },
+    {
+      "organization": "CVS Health",
+      "title": "Executive Vice President, Sales and Marketing",
+      "start": null,
+      "end": "2019",
+      "source": "https://www.depts.ttu.edu/rawlsbusiness/advisory-council/david-joyner/"
+    },
+    {
+      "organization": "Private equity-backed healthcare companies",
+      "title": "Advisor and board member",
+      "start": "2020",
+      "end": "2022",
+      "source": "https://www.lubbockmatadors.com/ownership"
+    },
+    {
+      "organization": "CVS Health",
+      "title": "Executive Vice President and President, CVS Caremark",
+      "start": "2023",
+      "end": "2024",
+      "source": "https://www.biopharmadive.com/news/cvs-replaces-ceo-karen-lynch-caremark-head-david-joyner/730301/"
+    },
+    {
+      "organization": "CVS Health",
+      "title": "President and CEO (Chairman from January 2026)",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/0000064803/000119312524239193/d837701dex991.htm"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Built his career in health-benefit sales and account management, rising from Aetna benefit representative and Caremark regional sales manager to run sales and marketing and then the Caremark PBM before becoming CEO.",
+  "tenure": {
+    "start": "2024-10-17",
+    "source": "https://www.sec.gov/Archives/edgar/data/0000064803/000119312524239193/d837701dex991.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "CVS announced Aetna would stop offering individual ACA exchange plans in 2026, affecting about 1 million members, with Joyner saying there was no near- or long-term pathway for Aetna to materially improve its position.",
+      "source": "https://www.healthcaredive.com/news/cvs-aetna-exit-aca-novo-nordisk-wegovy-deal/746833/"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "At an investor day, CVS laid out a four-pillar strategy, launched an AI-based 'Engagement as a Service' platform and set a mid-teens adjusted EPS growth target through 2028.",
+      "source": "https://www.prnewswire.com/news-releases/cvs-health-updates-financial-guidance-highlights-strength-of-businesses-and-announces-strategy-to-uniquely-reimagine-health-care-at-investor-day-event-302635905.html"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Joyner became Chair of the Board in addition to CEO, succeeding executive chair Roger Farah, after the board decided to combine the two roles.",
+      "source": "https://www.cvshealth.com/news/company-news/cvs-health-names-david-joyner-chair-of-the-board-of-directors.html"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "CVS reported second-quarter 2026 revenue of $106.1 billion, up 7.3% year over year, and raised its full-year 2026 adjusted EPS guidance to $7.90-$8.10.",
+      "source": "https://www.stocktitan.net/news/CVS/cvs-health-corporation-reports-strong-second-quarter-2026-results-bzm0krnylhj8.html"
+    }
+  ],
+  "personal_story": {
+    "hook": "David Joyner began as an Aetna benefits representative; today he runs CVS Health, which owns Aetna.",
+    "summary": "Joyner graduated from Texas Tech University in 1986 with a finance degree and started his career at Aetna as an employee benefit representative. He moved to Caremark Prescription Services as a regional sales manager and spent decades in pharmacy-benefit sales, rising to run sales and account services for CVS Caremark. He left CVS around the end of 2019 and advised private equity-backed healthcare companies, then returned in 2023 to lead Caremark. In October 2024 he was named CEO of CVS Health, and in January 2026 he also became its chair.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "Texas Tech University BBA in finance, Class of 1986; Phi Delta Theta member",
+        "source": "https://phideltatheta.org/news-stories/famous-phis/david-joyner/"
+      },
+      {
+        "label": "First job",
+        "value": "Employee benefit representative at Aetna",
+        "source": "https://www.cvshealth.com/about/leadership/david-joyner.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Left CVS after its EVP sales role, then returned in January 2023 to lead CVS Caremark",
+        "source": "https://www.biopharmadive.com/news/cvs-replaces-ceo-karen-lynch-caremark-head-david-joyner/730301/"
+      },
+      {
+        "label": "Other",
+        "value": "Serves on the advisory council of Texas Tech's Rawls College of Business and is part-owner of the Lubbock Matadors soccer club",
+        "source": "https://www.lubbockmatadors.com/ownership"
+      }
+    ],
+    "quote": {
+      "text": "There is no greater honor than to lead a company whose mission and purpose are completely focused on improving health.",
+      "context": "CVS Health press release announcing his appointment as CEO, October 2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/0000064803/000119312524239193/d837701dex991.htm",
+      "verified": "2026-10-05"
+    },
+    "depth": "limited",
+    "sources": [
+      "https://www.depts.ttu.edu/rawlsbusiness/advisory-council/david-joyner/",
+      "https://www.cvshealth.com/about/leadership/david-joyner.html",
+      "https://phideltatheta.org/news-stories/famous-phis/david-joyner/",
+      "https://www.lubbockmatadors.com/ownership",
+      "https://www.biopharmadive.com/news/cvs-replaces-ceo-karen-lynch-caremark-head-david-joyner/730301/",
+      "https://www.sec.gov/Archives/edgar/data/0000064803/000119312524239193/d837701dex991.htm",
+      "https://en.wikipedia.org/wiki/David_Joyner_(business_executive)",
+      "https://en.wikipedia.org/wiki/CVS_Health"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Start/end years for the Aetna and Caremark regional sales roles not found in reliable sources; left null. Lubbock Matadors bio says he spent 27 years at CVS Health (implying a Caremark start around 1992-93), unconfirmed.",
+    "Departure date conflicts: LinkedIn (via BioPharma Dive) shows EVP role ending Dec 2019; Wikipedia says he left CVS in 2020. Lubbock Matadors bio describes this as retirement.",
+    "Title wording differs: CVS 2024 press release says SVP of sales and account services and SVP of sales and marketing; Texas Tech and LinkedIn say EVP. Used EVP.",
+    "Graduation year 1986 comes from Phi Delta Theta and Lubbock Matadors pages, not the official CVS bio.",
+    "Hook relies on CVS's 2018 acquisition of Aetna (widely reported; cited via Wikipedia CVS Health page). Aetna and CVS were separate companies when he worked at Aetna.",
+    "No public details found on his upbringing or hometown; July 2026 Economic Club interview with David Rubenstein could not be reviewed (YouTube fetch was rate-limited) and may contain personal-story material.",
+    "Quote is from a press release rather than about his personal path; verify wording against the press release before publishing."
+  ]
+}

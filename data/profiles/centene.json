@@ -1,0 +1,159 @@
+{
+  "id": "centene",
+  "name": "Sarah M. London",
+  "company_id": "centene",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Harvard University",
+      "degree": "BA",
+      "field": "History and Literature",
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Sarah_London"
+    },
+    {
+      "institution": "University of Chicago",
+      "degree": "MBA",
+      "field": null,
+      "year": 2010,
+      "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Health Leads",
+      "title": "Director of Special Projects (after stints in the Los Angeles film industry and Harvard fundraising)",
+      "start": null,
+      "end": null,
+      "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+    },
+    {
+      "organization": "R1 RCM; Humedica",
+      "title": "Analytics and healthcare informatics roles",
+      "start": "2010",
+      "end": "2014",
+      "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+    },
+    {
+      "organization": "Optum Analytics",
+      "title": "Vice President, Client Management and Operations; then Chief Product Officer",
+      "start": "2014",
+      "end": "2018",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "organization": "Optum Ventures",
+      "title": "Senior Principal and Operating Partner",
+      "start": "2018",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "organization": "Centene Corporation",
+      "title": "SVP, Technology and Modernization; then EVP, Advanced Technology and President, Health Care Enterprises",
+      "start": "2020",
+      "end": "2021",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "organization": "Centene Corporation",
+      "title": "Vice Chairman of the Board",
+      "start": "2021",
+      "end": "2022",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "organization": "Centene Corporation",
+      "title": "Chief Executive Officer",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.fiercehealthcare.com/payers/centene-taps-london-succeed-neidorff-ceo"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "Built her career in healthcare data analytics and technology, as chief product officer at Optum Analytics, a health-tech venture investor and Centene's head of technology modernization before becoming CEO.",
+  "tenure": {
+    "start": "2022-03-23",
+    "source": "https://www.fiercehealthcare.com/payers/centene-taps-london-succeed-neidorff-ceo"
+  },
+  "notable": [
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "Centene withdrew its 2025 financial guidance after finding a sharp shift in morbidity among its ACA Marketplace members, then took corrective pricing actions for 2026 in states covering 95% of Marketplace membership.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "In the 2026 proxy statement, London said Centene had completed 12 divestitures, including Magellan Health, Magellan Rx and PANTHERx, and made difficult decisions where programs no longer met its risk and return thresholds.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Reporting second-quarter results, London called the improved full-year outlook a meaningful milestone on Centene's path to restoring profitability, as it raised 2026 adjusted EPS guidance to more than $4.80.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000154/a20260728ex991pressrelease.htm"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Centene named former Lincoln Financial CFO Chris Neczypor as its next chief financial officer, effective Jan. 1, 2027, succeeding Drew Asher.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000165/a20260817formex991pressrel.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Sarah London worked in the Los Angeles film industry before building a career in health data and becoming Centene's CEO.",
+    "summary": "London grew up in St. Louis and studied history and literature at Harvard, where she played Division I tennis. After college she spent two years in the film industry in Los Angeles, then returned to Boston to do fundraising at Harvard focused on health, education and equity, and worked for the nonprofit Health Leads. After earning her MBA at Chicago Booth in 2010, she moved into healthcare analytics at Humedica and Optum, rising to chief product officer before investing in health startups at Optum Ventures. She joined Centene in 2020 to lead technology modernization and was named CEO in March 2022, at the time among the youngest CEOs in the Fortune 500.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "St. Louis, Missouri",
+        "source": "https://en.wikipedia.org/wiki/Sarah_London"
+      },
+      {
+        "label": "Other",
+        "value": "Played Division I tennis at Harvard",
+        "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+      },
+      {
+        "label": "First job",
+        "value": "Spent two years in the film industry in Los Angeles after college",
+        "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+      },
+      {
+        "label": "Turning point",
+        "value": "Worked for Health Leads, a nonprofit training college students as community health workers, before business school",
+        "source": "https://www.chicagobooth.edu/magazine/change-starts-from-the-top"
+      },
+      {
+        "label": "Other",
+        "value": "Named the youngest CEO in the Fortune 500 by CNBC in 2024",
+        "source": "https://www.cnbc.com/2024/02/28/sarah-london-cnbc-changemakers.html"
+      }
+    ],
+    "quote": {
+      "text": "I live for those moments when one of my assumptions is challenged or I hear a brand new perspective.",
+      "context": "CNBC Changemakers profile, February 2024",
+      "source": "https://www.cnbc.com/2024/02/28/sarah-london-cnbc-changemakers.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sarah_London",
+      "https://www.chicagobooth.edu/magazine/change-starts-from-the-top",
+      "https://www.cnbc.com/2024/02/28/sarah-london-cnbc-changemakers.html",
+      "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000077/cnc-20260326.htm",
+      "https://www.fiercehealthcare.com/payers/centene-taps-london-succeed-neidorff-ceo"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Tenure start: seed says 2022-03-01; Fierce Healthcare reports she became CEO effective immediately on March 23, 2022 (proxy says March 2022). Used 2022-03-23.",
+    "Proxy text dates her Centene start to Sept. 2020 as SVP but also brackets Centene service as 'March 2021-present'; career uses 2020.",
+    "Years for R1 RCM and Humedica roles and for pre-MBA roles (film, Harvard fundraising, Health Leads) not found; R1/Humedica entry spans 2010-2014 by inference from MBA year and Optum start.",
+    "Harvard graduation year not found. Wikipedia gives birth year 1979 or 1980.",
+    "Month of the 2025 guidance withdrawal (July 2025) is inferred: the 2026 proxy says 'mid-year' and the July 25, 2025 Q2 release says guidance would be given on the call.",
+    "Primary research for this profile used WebFetch only (WebSearch budget exhausted); a Business Roundtable or Centene bio page could confirm details."
+  ]
+}

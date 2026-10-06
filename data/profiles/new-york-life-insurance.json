@@ -1,0 +1,114 @@
+{
+  "id": "new-york-life-insurance",
+  "name": "Craig L. DeSanto",
+  "company_id": "new-york-life-insurance",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Cornell University",
+      "degree": "BS",
+      "field": null,
+      "year": null,
+      "source": "https://www.newyorklife.com/newsroom/executive-biographies/craig-desanto-bio"
+    }
+  ],
+  "career": [
+    {
+      "organization": "New York Life",
+      "title": "Actuarial summer intern, then roles across finance and business operations, including leading the institutional and individual life insurance businesses",
+      "start": "1997",
+      "end": "2015",
+      "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+    },
+    {
+      "organization": "New York Life",
+      "title": "Leader of Strategic Businesses (adding retail annuities in 2018 and New York Life Investment Management in 2019)",
+      "start": "2015",
+      "end": "2020",
+      "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+    },
+    {
+      "organization": "New York Life",
+      "title": "President (led closing of the Cigna Group Life and Disability acquisition; CEO-elect from November 2021)",
+      "start": "2020",
+      "end": "2022",
+      "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+    },
+    {
+      "organization": "New York Life",
+      "title": "President and CEO",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+    },
+    {
+      "organization": "New York Life",
+      "title": "Chair of the Board (in addition to President and CEO)",
+      "start": "2023",
+      "end": null,
+      "source": "https://www.newyorklife.com/newsroom/2023/craig-desanto-becoming-chair-of-board"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "He started as an actuarial intern and came up through New York Life's finance and business operations before running its strategic, annuity and investment businesses.",
+  "tenure": {
+    "start": "2022-04-18",
+    "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+  },
+  "notable": [
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "New York Life announced it would combine its general account and third-party asset management businesses into a single investment platform of about $785 billion, effective January 1, 2026.",
+      "source": "https://www.newyorklife.com/newsroom/2025/unifying-investment-businesses"
+    },
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "New York Life declared an estimated $2.78 billion policyowner dividend for 2026, the largest in its history, with DeSanto citing the company's focus on long-term decisions.",
+      "source": "https://www.newyorklife.com/newsroom/2025/record-dividend-payout-for-2026"
+    },
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "Announcing record 2025 earnings of $3.6 billion, DeSanto said that as a mutual company New York Life operates \"for our policy owners — not shareholders,\" and noted continued investment in digital and AI capabilities.",
+      "source": "https://www.newyorklife.com/newsroom/2026/record-financial-results-for-2025"
+    }
+  ],
+  "personal_story": {
+    "hook": "Craig DeSanto joined New York Life as an actuarial summer intern in 1997; 25 years later he became its CEO.",
+    "summary": "DeSanto earned a bachelor of science degree from Cornell University and joined New York Life in 1997 as an actuarial summer intern. He has stayed with the company ever since, moving through finance and business operations and later running its strategic businesses, retail annuities and its asset management arm. In 2020 he led the closing of the acquisition of Cigna's group life and disability business and was named president, becoming the company's 19th CEO in April 2022 and its chair in 2023. Little has been published about his upbringing.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Actuarial summer intern at New York Life, 1997",
+        "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+      },
+      {
+        "label": "Turning point",
+        "value": "Led the 2020 closing of the Cigna Group Life and Disability acquisition, the year he was named president",
+        "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+      },
+      {
+        "label": "Other",
+        "value": "Became New York Life's 19th CEO in its roughly 178-year history",
+        "source": "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.newyorklife.com/newsroom/executive-biographies/craig-desanto-bio",
+      "https://www.newyorklife.com/newsroom/2022/craig-desanto-assumes-position-of-ceo",
+      "https://www.newyorklife.com/newsroom/2023/craig-desanto-becoming-chair-of-board"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "CEO start date conflict: the April 2022 release says he assumed the CEO position April 18, 2022; the January 2023 chair release says April 16, 2022. Seed says 2022-04; 2022-04-18 used.",
+    "Cornell major and graduation year not found in reachable sources; no Wikipedia article exists.",
+    "Career titles before 2015 not individually dated in company sources.",
+    "No interviews or profiles about his upbringing or early life were reachable without web search; no verbatim quote about his path found."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,137 @@
+{
+  "id": "phillips-66",
+  "name": "Mark Lashier",
+  "company_id": "phillips-66",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "degree": "BS",
+      "field": "Chemical Engineering",
+      "year": null,
+      "source": "https://investor.phillips66.com/corporate-governance/person-details/default.aspx?ItemId=ffb76783-53a4-4a75-aedb-e527b27622fa"
+    },
+    {
+      "institution": "Iowa State University",
+      "degree": "PhD",
+      "field": "Chemical Engineering",
+      "year": null,
+      "source": "https://investor.phillips66.com/corporate-governance/person-details/default.aspx?ItemId=ffb76783-53a4-4a75-aedb-e527b27622fa"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Phillips Petroleum",
+      "title": "Associate Research Engineer, then project and regional roles incl. Project Director for Saudi Arabia",
+      "start": "1989",
+      "end": "2000",
+      "source": "https://www.houstonchronicle.com/business/texas-inc/article/Chevron-Phillips-CEO-talks-leadership-pollution-13551919.php"
+    },
+    {
+      "organization": "Chevron Phillips Chemical Company (CPChem)",
+      "title": "Regional Manager in Asia, then VP Corporate Planning and Development, SVP Specialties, Aromatics and Styrenics, and EVP Olefins and Polyolefins",
+      "start": "2000",
+      "end": "2017",
+      "source": "https://investor.phillips66.com/corporate-governance/person-details/default.aspx?ItemId=ffb76783-53a4-4a75-aedb-e527b27622fa"
+    },
+    {
+      "organization": "Chevron Phillips Chemical Company (CPChem)",
+      "title": "President and CEO",
+      "start": "2017",
+      "end": "2021",
+      "source": "https://www.businesswire.com/news/home/20220412005910/en/Phillips-66-Announces-CEO-Transition-Plans"
+    },
+    {
+      "organization": "Phillips 66",
+      "title": "President and Chief Operating Officer",
+      "start": "2021",
+      "end": "2022",
+      "source": "https://www.businesswire.com/news/home/20220412005910/en/Phillips-66-Announces-CEO-Transition-Plans"
+    },
+    {
+      "organization": "Phillips 66",
+      "title": "President and CEO, later Chairman and CEO",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.phillips66.com/newsroom/220701-lashier-ceo/"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A chemical engineer with a PhD and 13 U.S. patents who started as a research engineer at Phillips Petroleum before moving into petrochemical operations and executive roles.",
+  "tenure": {
+    "start": "2022-07-01",
+    "source": "https://www.businesswire.com/news/home/20220412005910/en/Phillips-66-Announces-CEO-Transition-Plans"
+  },
+  "notable": [
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "Phillips 66 announced plans to cease operations at its Los Angeles-area refinery in the fourth quarter of 2025.",
+      "source": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx"
+    },
+    {
+      "date": "2025-05",
+      "type": "statement",
+      "summary": "After activist investor Elliott won two of four contested board seats in a proxy fight over the company's integrated strategy, Lashier said the vote reflected a belief in that strategy.",
+      "source": "https://energynow.com/2025/05/elliott-wins-two-seats-phillips-66-retains-two-seats-in-hotly-contested-board-fight/"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Phillips 66, Kinder Morgan and HF Sinclair reached a final investment decision on the roughly $5 billion Western Gateway refined-products pipeline to Arizona and California, targeted for completion in 2029.",
+      "source": "https://www.hydrocarbonprocessing.com/news/2026/08/phillips-66-kinder-morgan-and-hf-sinclair-announce-fid-for-western-gateway-refined-products-pipeline/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Mark Lashier started at Phillips Petroleum as a research engineer in 1989; 33 years later he became Phillips 66's CEO.",
+    "summary": "Lashier grew up in a large family in Farragut, a farming town of about 500 people in southwest Iowa, and has said that while they didn't have a lot, they learned how to work hard. He entered Iowa State as a pre-med student, but a zoology lab spent dissecting a squid convinced him it wasn't for him; tutoring engineering students in his dorm drew him to chemical engineering, and he went on to earn a PhD in it. In 1989 he joined Phillips Petroleum's research center, where his work turning lab discoveries into practical applications earned him 13 U.S. patents. He later moved his family to Singapore to start up operations for the new Chevron Phillips Chemical joint venture, became its CEO in 2017, and took over Phillips 66 in July 2022.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Farragut, Iowa, a farming town of about 500 people",
+        "source": "https://energiesmedia.com/mark-lashier-phillips-66-leadership/"
+      },
+      {
+        "label": "Family background",
+        "value": "Large family with limited resources",
+        "source": "https://www.ice.com/insights/conversations/inside-the-ice-house/phillips66-ceo-mark-lashier-energizes-innovation-and-community-enhancement"
+      },
+      {
+        "label": "Turning point",
+        "value": "Switched from pre-med to chemical engineering after a zoology lab and tutoring engineering students",
+        "source": "https://www.ice.com/insights/conversations/inside-the-ice-house/phillips66-ceo-mark-lashier-energizes-innovation-and-community-enhancement"
+      },
+      {
+        "label": "First job",
+        "value": "1989: research engineer at Phillips Petroleum's research center",
+        "source": "https://www.phillips66.com/newsroom/220701-lashier-ceo/"
+      },
+      {
+        "label": "Other",
+        "value": "Moved his family to Singapore in 1998 and led startup of the new CPChem joint venture's operations there",
+        "source": "https://www.houstonchronicle.com/business/texas-inc/article/Chevron-Phillips-CEO-talks-leadership-pollution-13551919.php"
+      }
+    ],
+    "quote": {
+      "text": "If you had told me when I started my career at Phillips Petroleum that I would be in this role today, I wouldn't have thought it possible.",
+      "context": "Phillips 66 newsroom profile on becoming CEO, July 2022",
+      "source": "https://www.phillips66.com/newsroom/220701-lashier-ceo/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.ice.com/insights/conversations/inside-the-ice-house/phillips66-ceo-mark-lashier-energizes-innovation-and-community-enhancement",
+      "https://www.phillips66.com/newsroom/220701-lashier-ceo/",
+      "https://energiesmedia.com/mark-lashier-phillips-66-leadership/",
+      "https://www.houstonchronicle.com/business/texas-inc/article/Chevron-Phillips-CEO-talks-leadership-pollution-13551919.php",
+      "https://rcel.rice.edu/news/rcel-hosts-mark-lashier-phd-chairman-and-ceo-phillips-66-engineer-c-suite-series"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for BS and PhD not found in official bios; left null.",
+    "Exact date he added the Chairman title (after Greg Garland's 2024 retirement) not confirmed; career entry combines titles.",
+    "Phillips Petroleum end year 2000 reflects the formation of the CPChem joint venture; boundary between Phillips and CPChem roles (e.g., Asia regional manager) is approximate.",
+    "Houston Chronicle says Singapore move was 1998 but the CPChem JV formed in 2000; timeline of his Singapore assignment is not fully clear."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "dell-technologies",
+  "name": "Michael Dell",
+  "company_id": "dell-technologies",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Texas at Austin",
+      "degree": "Did not graduate",
+      "field": "Pre-med (biology)",
+      "year": null,
+      "source": "https://achievement.org/achiever/michael-dell/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "PC's Limited / Dell Computer Corporation",
+      "title": "Founder and CEO",
+      "start": "1984",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "organization": "MSD Capital (now DFO Management)",
+      "title": "Founder (family investment firm)",
+      "start": "1998",
+      "end": null,
+      "source": "https://www.dell.com/en-us/dt/corporate/about-us/leadership/michael-dell.htm"
+    },
+    {
+      "organization": "Dell Inc.",
+      "title": "Chairman (after stepping down as CEO)",
+      "start": "2004",
+      "end": "2007",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "organization": "Dell Inc.",
+      "title": "Chairman and CEO (returned as CEO)",
+      "start": "2007",
+      "end": "2016",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "organization": "Dell Technologies",
+      "title": "Chairman and CEO",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.dell.com/en-us/dt/corporate/about-us/leadership/michael-dell.htm"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "Started the company as a 19-year-old college freshman in 1984 and has led it as CEO for all but three of the years since.",
+  "tenure": {
+    "start": "2007-01",
+    "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+  },
+  "notable": [
+    {
+      "date": "2013-10",
+      "type": "decision",
+      "summary": "Took Dell private in a roughly $25 billion leveraged buyout with Silver Lake Partners and backing from Microsoft.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "date": "2016-09",
+      "type": "decision",
+      "summary": "Completed the acquisition of EMC Corporation, announced in October 2015 at about $67 billion, then the largest technology acquisition, forming Dell Technologies.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "date": "2024-05",
+      "type": "decision",
+      "summary": "Dell announced partnerships with Nvidia and ServiceNow to build 'AI factories' for enterprise customers, part of a shift toward AI infrastructure.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Michael and Susan Dell pledged $6.25 billion to seed federal 'Trump accounts' investment accounts for about 25 million children in lower-income ZIP codes.",
+      "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+    }
+  ],
+  "personal_story": {
+    "hook": "Michael Dell started his company from a University of Texas dorm room with $1,000 at age 19.",
+    "summary": "Dell grew up in Houston, the son of an orthodontist and a stockbroker, and as a teenager bought an early Apple computer and took it apart to see how it worked. In high school he sold Houston Post subscriptions by targeting newlyweds and families who had just moved, earning about $18,000 in a year. His parents expected him to become a doctor, and he enrolled at the University of Texas as a pre-med student in 1983 while secretly selling computer upgrades from his dorm. When his parents made him promise to stop around Thanksgiving 1983, he says that was when he decided to start a company; he registered PC's Limited in January 1984 and soon left school. By 1992, at 27, he was the youngest CEO of a Fortune 500 company.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1965 in Houston, Texas",
+        "source": "https://en.wikipedia.org/wiki/Michael_Dell"
+      },
+      {
+        "label": "Family background",
+        "value": "Father an orthodontist, mother a stockbroker; parents expected him to study medicine",
+        "source": "https://achievement.org/achiever/michael-dell/"
+      },
+      {
+        "label": "Early ambition",
+        "value": "At 15 bought an early Apple computer and took it apart to understand it",
+        "source": "https://achievement.org/achiever/michael-dell/"
+      },
+      {
+        "label": "First job",
+        "value": "High-school job selling Houston Post subscriptions; earned about $18,000 in a year",
+        "source": "https://achievement.org/achiever/michael-dell/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Parents told him to quit his dorm-room computer business in late 1983; he started the company instead",
+        "source": "https://achievement.org/achiever/michael-dell/"
+      }
+    ],
+    "quote": {
+      "text": "So actually, my parents telling me to stop doing it is probably what caused the company to get created. If they hadn't done that it might've just been a hobby.",
+      "context": "Interview with the Academy of Achievement, July 3, 2008, Kailua-Kona, Hawaii",
+      "source": "https://achievement.org/achiever/michael-dell/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://achievement.org/achiever/michael-dell/",
+      "https://en.wikipedia.org/wiki/Michael_Dell",
+      "https://www.dell.com/en-us/dt/corporate/about-us/leadership/michael-dell.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education: attended UT Austin (pre-med) but left without a degree; degree set to null. Year he left (1984) not recorded as a graduation year.",
+    "Notable items are sourced to Wikipedia only; primary sources (NYT/WSJ on the Dec 2025 Trump-accounts pledge, Bloomberg/BBC on EMC) could not be opened - WebFetch was rate-limited (HTTP 429) on bbc.com, nytimes.com and dell.org.",
+    "Tenure start: seed '2007-01' matches Wikipedia (returned as CEO January 31, 2007)."
+  ],
+  "needs_enrichment": false
+}

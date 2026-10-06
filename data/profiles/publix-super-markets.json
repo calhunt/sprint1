@@ -1,0 +1,126 @@
+{
+  "id": "publix-super-markets",
+  "name": "Kevin S. Murphy",
+  "company_id": "publix-super-markets",
+  "role": "CEO",
+  "education": [],
+  "career": [
+    {
+      "organization": "Publix Super Markets",
+      "title": "Front service clerk (Margate, Fla.)",
+      "start": "1984",
+      "end": "1995",
+      "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "Store manager",
+      "start": "1995",
+      "end": "2003",
+      "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "District manager, then regional director",
+      "start": "2003",
+      "end": "2014",
+      "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "Vice President, Miami Division",
+      "start": "2014",
+      "end": "2016",
+      "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "Senior Vice President, Retail Operations",
+      "start": "2016",
+      "end": "2019",
+      "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "President",
+      "start": "2019",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000041/ck0000081061-20260304.htm"
+    },
+    {
+      "organization": "Publix Super Markets",
+      "title": "Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000041/ck0000081061-20260304.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Spent his entire 40-year career at Publix, rising from front service clerk through store, district, regional and division management to retail operations, president and CEO.",
+  "tenure": {
+    "start": "2024-01-01",
+    "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+  },
+  "notable": [
+    {
+      "date": "2024-01",
+      "type": "decision",
+      "summary": "In his first month as CEO, Publix opened its first Kentucky store, in Louisville, extending its operating region to an eighth state.",
+      "source": "https://en.wikipedia.org/wiki/Publix"
+    },
+    {
+      "date": "2025",
+      "type": "decision",
+      "summary": "Publix dropped chicken supplier Farmers Focus after witnesses raised concerns about animal cruelty and unsanitary conditions at its facilities.",
+      "source": "https://en.wikipedia.org/wiki/Publix"
+    },
+    {
+      "date": "2026-03",
+      "type": "statement",
+      "summary": "Publix's 2026 proxy statement reported 2025 sales of about $62.7 billion and net earnings of about $4.7 billion across 1,432 stores and 260,000 associates, with Murphy's total pay about 145 times the median employee's.",
+      "source": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000041/ck0000081061-20260304.htm"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Publix Charities announced a $25 million donation to food banks and hunger-relief nonprofits, $10 million more than the prior year, with Murphy saying helping feed neighbors in need is a responsibility the company takes to heart.",
+      "source": "https://corporate.publix.com/newsroom/news-stories/09222026---publix-charities-furthers-commitment-to-help-feed-neighbors-in-need"
+    }
+  ],
+  "personal_story": {
+    "hook": "Kevin Murphy started at Publix as a front service clerk and rose through its stores to become CEO.",
+    "summary": "Murphy started at Publix in 1984 as a front service clerk in Margate, Florida, and has never worked anywhere else in his reported career. He became a store manager in 1995, then moved up through district manager, regional director and head of the Miami division before taking over retail operations in 2016. He became president in 2019 and succeeded Todd Jones as CEO on January 1, 2024, at the employee-owned chain known for promoting from within.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "1984: front service clerk at a Publix in Margate, Fla.",
+        "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Promoted to store manager in 1995, about 11 years after starting as a clerk",
+        "source": "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html"
+      },
+      {
+        "label": "Other",
+        "value": "Named president in 2019 and CEO in 2024, succeeding Todd Jones, another career Publix employee",
+        "source": "https://www.sec.gov/Archives/edgar/data/81061/000008106126000041/ck0000081061-20260304.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://finance.yahoo.com/news/publix-ceo-todd-jones-stepping-210559212.html",
+      "https://www.sec.gov/Archives/edgar/data/81061/000008106126000041/ck0000081061-20260304.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Education not found: Wikipedia has no article on Murphy, Publix leadership pages returned 404, and The Ledger (via Yahoo) gives no education; education left empty.",
+    "Hometown/upbringing and any personal quotes about his path not found in reachable sources.",
+    "Statement 'never worked anywhere else' is inferred from the Ledger career timeline starting in 1984 (he would have been about 13-14 based on age 55 in the 2026 proxy); verify start year/age.",
+    "Farmers Focus decision dated only to 2025 by Wikipedia, which cites WJLA without a URL; month unknown.",
+    "2026 proxy states he has been an officer for 11 years (i.e., since ~2015), while The Ledger dates his Miami division VP role to 2014; minor discrepancy."
+  ],
+  "needs_enrichment": true
+}

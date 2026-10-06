@@ -1,0 +1,52 @@
+{
+  "id": "unitedhealth-group",
+  "name": "Stephen J. Hemsley",
+  "company_id": "unitedhealth-group",
+  "role": "CEO",
+  "education": [
+    {"institution": "Fordham University", "degree": "BS", "field": "Accounting", "year": 1974, "source": "https://www.beckerspayer.com/leadership/5-things-to-know-about-unitedhealth-groups-new-ceo/"}
+  ],
+  "career": [
+    {"organization": "Arthur Andersen", "title": "Rose to managing partner (strategy and planning) and chief financial officer", "start": null, "end": "1997", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+    {"organization": "UnitedHealth Group", "title": "Chief Operating Officer", "start": "1997", "end": "1999", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+    {"organization": "UnitedHealth Group", "title": "President (and COO)", "start": "1999", "end": "2006", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+    {"organization": "UnitedHealth Group", "title": "Chief Executive Officer", "start": "2006", "end": "2017", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+    {"organization": "UnitedHealth Group", "title": "Executive Chairman / Chairman of the Board", "start": "2017", "end": null, "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+    {"organization": "UnitedHealth Group", "title": "Chief Executive Officer (returned)", "start": "2025", "end": null, "source": "https://www.businesswire.com/news/home/20250513712025/en"}
+  ],
+  "background_category": "Finance",
+  "background_rationale": "An accountant by training who rose to CFO and managing partner at Arthur Andersen before joining UnitedHealth as an operating executive.",
+  "tenure": {"start": "2025-05-13", "source": "https://www.businesswire.com/news/home/20250513712025/en"},
+  "notable": [
+    {"date": "2025-05", "type": "decision", "summary": "Returned as CEO effective immediately upon Andrew Witty's departure, as UnitedHealth suspended its 2025 outlook citing higher-than-expected medical costs in Medicare Advantage.", "source": "https://www.businesswire.com/news/home/20250513712025/en"},
+    {"date": "2025-05", "type": "decision", "summary": "Days after returning, bought about $25 million of UnitedHealth stock at an average price of about $288.57 per share, according to a Form 4 filing.", "source": "https://finance.yahoo.com/news/unitedhealth-group-unh-ceo-buys-165417073.html"},
+    {"date": "2026-01", "type": "statement", "summary": "Testified alongside other health insurance CEOs at a January 22, 2026 congressional hearing on health care costs.", "source": "https://www.washingtonexaminer.com/news/4430381/unitedhealth-ceo-tribute-brian-thompson-congressional-hearing/"},
+    {"date": "2026-07", "type": "decision", "summary": "UnitedHealth raised its 2026 adjusted EPS outlook to $19.50-$20.00 after second-quarter results, while shedding Medicare Advantage members and exiting unprofitable Optum Health contracts.", "source": "https://www.healthcaredive.com/news/unitedhealth-q2-results-beat-2026-guidance-raise/825385/"}
+  ],
+  "personal_story": {
+    "hook": "An accountant from Arthur Andersen, Stephen Hemsley ran UnitedHealth for 11 years, stepped back, then returned at 72.",
+    "summary": "Hemsley earned an accounting degree from Fordham University in 1974 and built his early career at Arthur Andersen, rising to managing partner and chief financial officer. He joined UnitedHealth in 1997 as chief operating officer, became president in 1999 and CEO in 2006, and moved to the chairman's role in 2017. Fortune once described him as unusually publicity-averse, and he has shared little publicly about his personal life. In May 2025 he returned as CEO during a period of rising medical costs and a share-price collapse.",
+    "facts": [
+      {"label": "Other", "value": "Accounting degree, Fordham University, 1974", "source": "https://www.beckerspayer.com/leadership/5-things-to-know-about-unitedhealth-groups-new-ceo/"},
+      {"label": "First job", "value": "Career began at Arthur Andersen, where he rose to managing partner and CFO", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+      {"label": "Turning point", "value": "Joined UnitedHealth as COO in 1997; CEO by 2006", "source": "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf"},
+      {"label": "Other", "value": "Returned as CEO in May 2025, eight years after stepping down", "source": "https://www.businesswire.com/news/home/20250513712025/en"}
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.beckerspayer.com/leadership/5-things-to-know-about-unitedhealth-groups-new-ceo/",
+      "https://docs.house.gov/meetings/WM/WM00/20260122/118887/HHRG-119-WM00-Bio-HemsleyS-20260122.pdf",
+      "https://www.businesswire.com/news/home/20250513712025/en",
+      "https://en.wikipedia.org/wiki/Stephen_J._Hemsley"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "First UnitedHealth role conflicts: House testimony bio and Becker's say he joined as COO in 1997; Wikipedia says he joined in senior financial roles and became president/COO in 1999.",
+    "Start year at Arthur Andersen not published.",
+    "Little public information on his upbringing; personal story kept limited.",
+    "Age 72 at return derived from Wikipedia birth date (June 4, 1952) and Becker's (age 72 in May 2025).",
+    "Content of his January 2026 congressional testimony not captured verbatim; Washington Examiner gives only the date and context."
+  ]
+}

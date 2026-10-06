@@ -1,0 +1,136 @@
+{
+  "id": "procter-gamble",
+  "name": "Shailesh Jejurikar",
+  "company_id": "procter-gamble",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Mumbai",
+      "degree": "BA",
+      "field": "Economics",
+      "year": 1987,
+      "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+    },
+    {
+      "institution": "Indian Institute of Management Lucknow",
+      "degree": "MBA",
+      "field": null,
+      "year": 1989,
+      "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Procter & Gamble",
+      "title": "Assistant Brand Manager, then brand and general management roles across India, East Africa, ASEAN, Korea, Singapore and North America",
+      "start": "1989",
+      "end": "2014",
+      "source": "https://en.wikipedia.org/wiki/Shailesh_Jejurikar"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "President, North America Fabric Care",
+      "start": "2014",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Shailesh_Jejurikar"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "President, Global Fabric Care, later CEO of the Fabric & Home Care sector",
+      "start": "2015",
+      "end": "2021",
+      "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "Chief Operating Officer",
+      "start": "2021",
+      "end": "2025",
+      "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "President and CEO (Chairman of the Board from Aug. 1, 2026)",
+      "start": "2026",
+      "end": null,
+      "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Joined P&G as an assistant brand manager in 1989 and rose through brand and category management, leading Fabric Care and Fabric & Home Care before becoming COO.",
+  "tenure": {
+    "start": "2026-01-01",
+    "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/"
+  },
+  "notable": [
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "On his first earnings call as CEO, Jejurikar highlighted Pampers diapers made with silk fibers for China as part of a push toward premium products amid falling birth rates.",
+      "source": "https://www.fastcompany.com/91479470/silk-in-diapers-pgs-unusual-plan-to-boost-sales-in-china"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "P&G's board named Jejurikar chairman effective Aug. 1, 2026, with executive chairman Jon Moeller leaving the board on July 31 and the company in mid-August.",
+      "source": "https://www.nonwovens-industry.com/breaking-news/shailesh-jejurikar-named-chairman-of-pg-board/"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "Jejurikar said P&G would acquire the supplements brand Thorne.",
+      "source": "https://en.wikipedia.org/wiki/Shailesh_Jejurikar"
+    }
+  ],
+  "personal_story": {
+    "hook": "A competitive cricketer from India, Shailesh Jejurikar joined P&G as an assistant brand manager in 1989 and now runs it.",
+    "summary": "Jejurikar was born in Mumbai and started school in an area outside the city he has described as \"pretty much in the middle of nowhere.\" For eighth grade he moved to a boarding school in Hyderabad, where he discovered cricket, played competitively and was named head boy in his final year. When a chemistry teacher found his bed unmade and quietly made it for him, he took away a lesson he still cites. After an economics degree in Bombay and an MBA from IIM Lucknow, he joined P&G in 1989 as an assistant brand manager and spent more than three decades across Asia, Africa, Europe and North America, running Tide, Ariel and Downy before becoming COO and, in January 2026, CEO.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Mumbai; started school outside the city, then boarding school in Hyderabad from eighth grade",
+        "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Discovered cricket at boarding school and played competitively",
+        "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named head boy in his senior year at school",
+        "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/"
+      },
+      {
+        "label": "First job",
+        "value": "1989: assistant brand manager at P&G, straight out of IIM Lucknow",
+        "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+      },
+      {
+        "label": "Other",
+        "value": "Executive sponsor of P&G's global sustainability effort, 2016-2021",
+        "source": "https://us.pg.com/leadership-team/shailesh-jejurikar/"
+      }
+    ],
+    "quote": {
+      "text": "What I took away from that was never to ask anyone to do something I wouldn't do myself.",
+      "context": "Recalling a schoolteacher who quietly made his unmade bed, as quoted by Fortune, July 2025",
+      "source": "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://fortune.com/2025/07/28/procter-gamble-new-ceo-2/",
+      "https://us.pg.com/leadership-team/shailesh-jejurikar/",
+      "https://en.wikipedia.org/wiki/Shailesh_Jejurikar"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Thorne acquisition sourced only via Wikipedia (citing a CNBC video of Aug. 4, 2026 that could not be fetched); deal terms and closing status unverified.",
+    "Career years for North America Fabric Care (2014) and Global Fabric Care (2015) come from Wikipedia; P&G bio gives no dates. Year he became Fabric & Home Care sector CEO not confirmed.",
+    "Name of Hyderabad boarding school not confirmed (Economic Times reports he was a schoolmate of Satya Nadella, but that page was blocked); omitted.",
+    "Wikipedia lists the university as 'Mumbai University'; normalized to University of Mumbai."
+  ],
+  "needs_enrichment": true
+}

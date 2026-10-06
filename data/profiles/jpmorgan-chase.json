@@ -1,0 +1,154 @@
+{
+  "id": "jpmorgan-chase",
+  "name": "Jamie Dimon",
+  "company_id": "jpmorgan-chase",
+  "education": [
+    {
+      "institution": "Tufts University",
+      "degree": "BA",
+      "field": "Economics and Psychology",
+      "year": 1978,
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1982,
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    }
+  ],
+  "career": [
+    {
+      "organization": "American Express",
+      "title": "Assistant to Sanford Weill",
+      "start": "1982",
+      "end": "1985",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "Commercial Credit / Primerica",
+      "title": "Chief Financial Officer, later President",
+      "start": "1985",
+      "end": "1990",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "Travelers / Smith Barney",
+      "title": "Chief Operating Officer",
+      "start": "1990",
+      "end": "1998",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "Citigroup",
+      "title": "President",
+      "start": "1998",
+      "end": "1998",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "Bank One Corporation",
+      "title": "Chief Executive Officer",
+      "start": "2000",
+      "end": "2004",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "President and Chief Operating Officer",
+      "start": "2004",
+      "end": "2005",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "organization": "JPMorgan Chase",
+      "title": "Chief Executive Officer (Chairman since 2006)",
+      "start": "2005",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Dimon built his career in financial services management, including CFO and COO roles under Sanford Weill, before running Bank One and JPMorgan Chase.",
+  "tenure": {
+    "start": "2005-12-31",
+    "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+  },
+  "notable": [
+    {
+      "date": "2008-03",
+      "type": "decision",
+      "summary": "Led JPMorgan Chase's acquisition of Bear Stearns during the 2008 financial crisis, followed later that year by the purchase of Washington Mutual's banking operations.",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "date": "2012-05",
+      "type": "statement",
+      "summary": "Publicly described the trading strategy behind the 'London Whale' losses of at least $2 billion as flawed, complex, poorly reviewed, poorly executed and poorly monitored.",
+      "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+    },
+    {
+      "date": "2023-05",
+      "type": "decision",
+      "summary": "JPMorgan Chase acquired the substantial majority of First Republic Bank's assets from the FDIC after the bank's failure.",
+      "source": "https://www.jpmorganchase.com/ir/news/2023/jpmc-acquires-substantial-majority-of-assets-and-assumes-certain-liabilities-of-first-republic-bank"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "JPMorgan Chase named Doug Petno and Troy Rohrbaugh co-presidents as part of the board's CEO succession planning, without a stated departure date for Dimon.",
+      "source": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-shakes-succession-race-jamie-123500168.html"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Exact titles and dates at Commercial Credit/Primerica and Travelers/Smith Barney vary across sources (e.g., President vs. COO); condensed from Wikipedia only.",
+    "CEO start cited as 2005-12-31 (Wikipedia); some sources describe it as effective January 1, 2006.",
+    "No firm retirement/succession date for Dimon confirmed as of 2026-10-05."
+  ],
+  "personal_story": {
+    "hook": "His mother mailed his college paper to Sandy Weill; two decades later, Weill fired him.",
+    "summary": "Jamie Dimon grew up in Jackson Heights, Queens, the son and grandson of Shearson stockbrokers; his grandfather had emigrated from Greece and changed the family name from Papademetriou. At Tufts he wrote a paper on Shearson's mergers, and his mother sent it to Sandy Weill, which led to a summer job working on budgets. After Harvard Business School he turned down Goldman Sachs and other Wall Street offers to work as Weill's assistant at American Express, and spent the next 16 years helping him build what became Citigroup. In 1998 Weill asked him to resign; Dimon spent time out of work reading biographies of leaders and boxing, and in March 2000 became CEO of struggling Bank One, the path that led him to JPMorgan Chase.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Jackson Heights, Queens; father and grandfather were Shearson stockbrokers",
+        "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+      },
+      {
+        "label": "Turning point",
+        "value": "Mother sent his Tufts paper on Shearson's mergers to Sandy Weill, leading to a summer job",
+        "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Turned down Goldman Sachs, Morgan Stanley and Lehman offers after Harvard MBA to join Weill",
+        "source": "https://en.wikipedia.org/wiki/Jamie_Dimon"
+      },
+      {
+        "label": "Mentor",
+        "value": "Sandy Weill, his boss and mentor for 16 years, until asking him to resign in 1998",
+        "source": "https://www.foxbusiness.com/money/jamie-dimon-overcame-being-fired-citigroup-jpmorgan"
+      },
+      {
+        "label": "Other",
+        "value": "After the firing, read biographies of leaders and took up boxing before taking Bank One's CEO job",
+        "source": "https://www.cnbc.com/2020/07/21/jpmorgan-ceo-jamie-dimon-on-being-fired.html"
+      }
+    ],
+    "quote": {
+      "text": "it was my net worth, not my self worth, that was involved.",
+      "context": "On being fired from Citigroup in 1998, Coffee with The Greats podcast, July 2020 (as reported by CNBC)",
+      "source": "https://www.cnbc.com/2020/07/21/jpmorgan-ceo-jamie-dimon-on-being-fired.html",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jamie_Dimon",
+      "https://www.referenceforbusiness.com/biography/A-E/Dimon-Jamie-1956.html",
+      "https://www.cnbc.com/2020/07/21/jpmorgan-ceo-jamie-dimon-on-being-fired.html",
+      "https://www.foxbusiness.com/money/jamie-dimon-overcame-being-fired-citigroup-jpmorgan"
+    ]
+  }
+}

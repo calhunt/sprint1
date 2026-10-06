@@ -1,0 +1,161 @@
+{
+  "id": "american-express",
+  "name": "Stephen J. Squeri",
+  "company_id": "american-express",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Manhattan University",
+      "degree": "BS",
+      "field": "Accounting; Computer Science",
+      "year": 1981,
+      "source": "https://www.msgrmcclancy.org/stephen-squeri-77/"
+    },
+    {
+      "institution": "Manhattan University",
+      "degree": "MBA",
+      "field": "Finance",
+      "year": 1986,
+      "source": "https://www.msgrmcclancy.org/stephen-squeri-77/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Arthur Andersen & Co.",
+      "title": "Management consultant",
+      "start": "1981",
+      "end": "1985",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "Manager, Travelers Cheque Group; vice president from 1990",
+      "start": "1985",
+      "end": "2000",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "President, Establishment Services (U.S. & Canada), then President, Global Commercial Card",
+      "start": "2000",
+      "end": "2005",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "Executive Vice President and Chief Information Officer (also led Corporate Development)",
+      "start": "2005",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "Group President, Global Services, then Global Corporate Services",
+      "start": "2009",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "Vice Chairman",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+    },
+    {
+      "organization": "American Express",
+      "title": "Chairman and Chief Executive Officer",
+      "start": "2018",
+      "end": null,
+      "source": "https://amex2020ir.q4web.com/governance-and-corporate-responsibility/executive-committee-and-directors/"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "After four years as a consultant, he spent more than three decades inside American Express running merchant, commercial card, technology and corporate services businesses before becoming CEO.",
+  "tenure": {
+    "start": "2018-02-01",
+    "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+  },
+  "notable": [
+    {
+      "date": "2019-05",
+      "type": "decision",
+      "summary": "American Express agreed to acquire restaurant-reservation platform Resy, an early step in building its dining benefits for card members.",
+      "source": "https://en.wikipedia.org/wiki/Resy"
+    },
+    {
+      "date": "2022-03",
+      "type": "decision",
+      "summary": "American Express suspended its operations in Russia and Belarus following Russia's invasion of Ukraine.",
+      "source": "https://en.wikipedia.org/wiki/American_Express"
+    },
+    {
+      "date": "2025-01",
+      "type": "decision",
+      "summary": "American Express agreed to pay about $230 million to resolve U.S. investigations into deceptive sales practices involving small-business card products.",
+      "source": "https://en.wikipedia.org/wiki/American_Express"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "American Express raised the U.S. Platinum Card annual fee to $895 from $695, its first increase since 2021, while adding new card benefits.",
+      "source": "https://en.wikipedia.org/wiki/American_Express"
+    }
+  ],
+  "personal_story": {
+    "hook": "Stephen Squeri joined American Express as a manager in its traveler's cheque business in 1985 and became its CEO 33 years later.",
+    "summary": "Squeri, the grandchild of Italian and Irish immigrants, grew up in Astoria, Queens, where his father worked as an accountant for companies including Colgate, CBS and Bloomingdale's. At Monsignor McClancy High School he was in the National Honor Society and played on the basketball team, then followed his father to Manhattan College, studying accounting and computer science. After four years as a management consultant at Arthur Andersen, he joined American Express in 1985 as a manager in the Travelers Cheque Group. He worked his way through merchant services, commercial cards and the CIO job before succeeding Kenneth Chenault as chairman and CEO in February 2018.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Astoria, Queens; grandchild of Italian and Irish immigrants",
+        "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a Manhattan College alumnus and Marine veteran who worked as an accountant at Colgate, CBS and Bloomingdale's",
+        "source": "https://manhattan.edu/news/archive/2021/12/stephen-squeri-donates-10-million-to-manhattan-college.php"
+      },
+      {
+        "label": "First job",
+        "value": "Management consultant at Arthur Andersen for four years after college",
+        "source": "https://manhattan.edu/news/archive/2016/12/de-la-salle-dinner-honors-stephen-squeri.php"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined American Express in 1985 as a manager in the Travelers Cheque Group",
+        "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+      },
+      {
+        "label": "Other",
+        "value": "Served as the company's chief information officer (2005-2009) on his way to the top job",
+        "source": "https://en.wikipedia.org/wiki/Stephen_Squeri"
+      }
+    ],
+    "quote": {
+      "text": "The core principles reinforced throughout my time there are all about leading a purpose-driven life by empowering others to reach their full potential and giving back to our communities.",
+      "context": "Manhattan College announcement of his $10 million gift to the college, December 2021",
+      "source": "https://manhattan.edu/news/archive/2021/12/stephen-squeri-donates-10-million-to-manhattan-college.php",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stephen_Squeri",
+      "https://manhattan.edu/news/archive/2021/12/stephen-squeri-donates-10-million-to-manhattan-college.php",
+      "https://manhattan.edu/news/archive/2016/12/de-la-salle-dinner-honors-stephen-squeri.php",
+      "https://www.msgrmcclancy.org/stephen-squeri-77/",
+      "https://www.bloomberg.com/news/articles/2017-10-19/amex-picks-squeri-32-year-insider-to-remake-credit-card-giant",
+      "https://amex2020ir.q4web.com/governance-and-corporate-responsibility/executive-committee-and-directors/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Institution recorded as 'Manhattan University' (the school's current name, per the Amex IR bio); he graduated when it was Manhattan College. Confirm which name the site's convention prefers.",
+    "Majors (Accounting and Computer Science; MBA in Finance) come only from an older McClancy High School alumni page; Wikipedia and Manhattan College give only 'BS' and 'MBA'.",
+    "McClancy page says he began at Arthur Andersen in 1985, which conflicts with joining Amex in 1985; Wikipedia gives 1981-1985 at Arthur Andersen, which is used here.",
+    "Notable items are sourced to Wikipedia because Amex newsroom/IR news pages load via JavaScript and could not be read; replace with primary sources (Amex/DOJ releases, news coverage). Resy deal agreed May 2019 per WSJ citation, completed Aug 2019 per Wikipedia.",
+    "Quote dated December 2021 from the article's URL path; the page itself showed no date.",
+    "Could not read TIME 100 (2025), NYT (Oct 2017) and Chief Executive interview pages due to rate limiting; these may enrich the personal story."
+  ],
+  "needs_enrichment": true
+}

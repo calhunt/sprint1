@@ -1,0 +1,119 @@
+{
+  "id": "oracle--magouyrk",
+  "name": "Clay Magouyrk",
+  "company_id": "oracle",
+  "role": "Co-CEO",
+  "education": [
+    {
+      "institution": "University of Memphis",
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "year": null,
+      "source": "https://www.oracle.com/corporate/executives/clay-magouyrk/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Amazon / Amazon Web Services",
+      "title": "Senior engineer",
+      "start": "2008",
+      "end": "2014",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Founding member of the Oracle Cloud Infrastructure engineering team; various roles",
+      "start": "2014",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Executive Vice President, Oracle Cloud Infrastructure Engineering / Cloud Infrastructure",
+      "start": "2019",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "President, Oracle Cloud Infrastructure",
+      "start": "2025",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Chief Executive Officer (co-CEO with Mike Sicilia)",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An electrical engineer who worked as a senior engineer at AWS and then helped build and lead Oracle Cloud Infrastructure's engineering team before becoming co-CEO.",
+  "tenure": {
+    "start": "2025-09-22",
+    "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-09",
+      "type": "statement",
+      "summary": "On being named co-CEO alongside Mike Sicilia, succeeding Safra Catz, the pair said they were \"excited to lead Oracle into the AI era.\"",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500dex991.htm"
+    },
+    {
+      "date": "2025-12",
+      "type": "statement",
+      "summary": "Reporting quarterly results with remaining performance obligations of $523 billion, Magouyrk said Oracle had 211 live and planned cloud regions and that its multicloud database business grew 817% in the quarter.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm"
+    },
+    {
+      "date": "2026-04",
+      "type": "decision",
+      "summary": "Oracle named Hilary Maxson as chief financial officer, with Magouyrk citing a fit with Oracle's \"culture of strong financial and operational discipline.\"",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526142939/d132760dex991.htm"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "Oracle reported first-quarter fiscal 2027 revenue of $19.3 billion, up 30%, with cloud infrastructure revenue up 121% and remaining performance obligations of $664 billion.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Clay Magouyrk left a senior engineering job at AWS for Oracle in 2014; eleven years later, at 39, he became co-CEO.",
+    "summary": "Magouyrk studied electrical engineering at the University of Memphis and spent six years at Amazon and Amazon Web Services as an engineer. He joined Oracle in 2014 as a founding member of the team that built Oracle Cloud Infrastructure, overseeing the design and rollout of its second-generation cloud. He became president of OCI in June 2025 and three months later, at 39, was named co-CEO of Oracle alongside Mike Sicilia.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "BS in electrical engineering, University of Memphis",
+        "source": "https://www.oracle.com/corporate/executives/clay-magouyrk/"
+      },
+      {
+        "label": "First job",
+        "value": "Senior engineer at Amazon/AWS, 2008-2014 (earliest role found in public sources)",
+        "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Oracle in 2014 as a founding member of its cloud infrastructure engineering team",
+        "source": "https://www.oracle.com/corporate/executives/clay-magouyrk/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.oracle.com/corporate/executives/clay-magouyrk/",
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "No public information found (with available sources) on upbringing, hometown or family; Wikipedia page could not be fetched.",
+    "University of Memphis graduation year not stated in sources.",
+    "Oracle bio says 'six years at Amazon and AWS'; 8-K gives 2008-2014 as a senior engineer; earlier roles, if any, unknown."
+  ],
+  "needs_enrichment": true
+}

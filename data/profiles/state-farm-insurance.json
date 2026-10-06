@@ -1,0 +1,123 @@
+{
+  "id": "state-farm-insurance",
+  "name": "Jon Farney",
+  "company_id": "state-farm-insurance",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Illinois State University",
+      "degree": "BS",
+      "field": "Accounting",
+      "year": 1993,
+      "source": "https://business.illinoisstate.edu/alumni/hall-of-fame/hof2025/index.php"
+    },
+    {
+      "institution": "University of Michigan",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://newsroom.statefarm.com/state-farm-new-ceo/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "State Farm",
+      "title": "Intern, then roles incl. Assistant Vice President of Securities Products and of Planning & Analysis",
+      "start": "1993",
+      "end": null,
+      "source": "https://business.illinoisstate.edu/alumni/hall-of-fame/hof2025/index.php"
+    },
+    {
+      "organization": "State Farm",
+      "title": "Vice President of Financial Operations; Operations Vice President of Underwriting",
+      "start": null,
+      "end": "2016",
+      "source": "https://business.illinoisstate.edu/alumni/hall-of-fame/hof2025/index.php"
+    },
+    {
+      "organization": "State Farm",
+      "title": "Senior Vice President, Treasurer and Chief Financial Officer",
+      "start": "2016",
+      "end": "2023",
+      "source": "https://newsroom.statefarm.com/state-farm-new-ceo/"
+    },
+    {
+      "organization": "State Farm Mutual Automobile Insurance Company",
+      "title": "President",
+      "start": "2024",
+      "end": null,
+      "source": "https://newsroom.statefarm.com/state-farm-new-ceo/"
+    },
+    {
+      "organization": "State Farm",
+      "title": "President and Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.wglt.org/local-news/2024-03-14/jon-farney-named-new-state-farm-ceo"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "A CPA who rose through State Farm's securities, planning, financial operations and underwriting roles and served eight years as CFO and treasurer before becoming CEO.",
+  "tenure": {
+    "start": "2024-06-01",
+    "source": "https://newsroom.statefarm.com/state-farm-new-ceo/"
+  },
+  "notable": [
+    {
+      "date": "2026-02",
+      "type": "decision",
+      "summary": "State Farm Mutual declared a $5 billion dividend for auto policyholders, the largest in company history, averaging about $100 per insured vehicle, following rate cuts in 40 states.",
+      "source": "https://www.insurancebusinessmag.com/us/news/auto-motor/state-farm-declares-record-5-billion-dividend-for-auto-policyholders-566745.aspx"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "Farney described a \"Human + Digital\" strategy including an OpenAI partnership to speed claims and improve underwriting, saying State Farm wants the right combination of people and technology.",
+      "source": "https://fortune.com/2026/05/15/state-farm-ceo-ai-california/"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "Discussing California, where State Farm paid over $5.7 billion in wildfire claims and raised homeowner rates, Farney said its California homeowners company was worth far less than its $4 billion value in 2017.",
+      "source": "https://fortune.com/2026/05/15/state-farm-ceo-ai-california/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Jon Farney joined State Farm as an intern in his Illinois hometown in 1993; 31 years later he became its CEO.",
+    "summary": "Farney is a native of Bloomington-Normal, Illinois, home to State Farm's headquarters. He earned an accounting degree from Illinois State University in 1993 and joined State Farm that year as an intern. He spent his entire career at the company, working through securities, planning, financial operations and underwriting roles, and became a CPA along the way. After eight years as CFO, he became president in January 2024 and CEO that June. Little else about his early life has been published.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Bloomington-Normal, Illinois, State Farm's hometown",
+        "source": "https://www.25newsnow.com/2023/12/29/state-farm-executive-promoted-president-ceo-plans-2024-retirement/"
+      },
+      {
+        "label": "First job",
+        "value": "1993: intern at State Farm",
+        "source": "https://www.25newsnow.com/2023/12/29/state-farm-executive-promoted-president-ceo-plans-2024-retirement/"
+      },
+      {
+        "label": "Other",
+        "value": "Certified Public Accountant; inducted into Illinois State's College of Business Hall of Fame in 2025",
+        "source": "https://business.illinoisstate.edu/alumni/hall-of-fame/hof2025/index.php"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.25newsnow.com/2023/12/29/state-farm-executive-promoted-president-ceo-plans-2024-retirement/",
+      "https://business.illinoisstate.edu/alumni/hall-of-fame/hof2025/index.php",
+      "https://newsroom.statefarm.com/state-farm-new-ceo/",
+      "https://www.wglt.org/local-news/2024-03-14/jon-farney-named-new-state-farm-ceo"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Seed 'since' was null; tenure start June 1, 2024 taken from State Farm's March 14, 2024 announcement and WGLT.",
+    "Bachelor's degree type recorded as BS; sources say only 'bachelor's degree in accounting'.",
+    "MBA year from University of Michigan not found; left null.",
+    "Start/end years of mid-career roles (securities, planning, financial operations, underwriting) not found.",
+    "Whether Farney also became board chairman after Michael Tipsord not confirmed.",
+    "Hook's '31 years' computed from 1993 internship to June 2024 CEO start."
+  ]
+}

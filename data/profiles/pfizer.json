@@ -1,0 +1,145 @@
+{
+  "id": "pfizer",
+  "name": "Albert Bourla",
+  "company_id": "pfizer",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Aristotle University of Thessaloniki",
+      "degree": "DVM",
+      "field": "Veterinary Medicine",
+      "year": 1985,
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "institution": "Aristotle University of Thessaloniki",
+      "degree": "PhD",
+      "field": "Biotechnology of Reproduction",
+      "year": 1991,
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Pfizer Animal Health (Greece)",
+      "title": "Technical Director",
+      "start": "1993",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer Animal Health",
+      "title": "Area President, Europe, Africa and Middle East",
+      "start": "2005",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer",
+      "title": "President and General Manager, Established Products Business Unit",
+      "start": "2010",
+      "end": "2013",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer",
+      "title": "Group President, Global Vaccines, Oncology and Consumer Healthcare",
+      "start": "2014",
+      "end": "2016",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer",
+      "title": "Group President, Pfizer Innovative Health",
+      "start": "2016",
+      "end": "2017",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer",
+      "title": "Chief Operating Officer",
+      "start": "2018",
+      "end": "2018",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "organization": "Pfizer",
+      "title": "Chief Executive Officer (Chairman from 2020)",
+      "start": "2019",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    }
+  ],
+  "background_category": "Science/Medical",
+  "background_rationale": "A veterinarian with a PhD in reproductive biotechnology, he joined Pfizer's animal health unit as a technical director and rose through commercial leadership roles to CEO.",
+  "tenure": {
+    "start": "2019-01-01",
+    "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+  },
+  "notable": [
+    {
+      "date": "2020",
+      "type": "decision",
+      "summary": "Directed the fast-tracked development of the Pfizer-BioNTech COVID-19 vaccine, saying financial returns should not drive decisions on the program.",
+      "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+    },
+    {
+      "date": "2023-03",
+      "type": "decision",
+      "summary": "Announced Pfizer's $43 billion acquisition of cancer-drug maker Seagen, saying Pfizer's scale could expand access to Seagen's antibody-drug conjugates as it had done with mRNA.",
+      "source": "https://www.cnbc.com/2023/03/13/pfizer-will-bring-seagens-cancer-drugs-to-the-world-at-a-scale-not-seen-before-ceo-says.html"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "Reached an agreement with the U.S. government to offer medicines through TrumpRx.gov at discounts averaging 50%, align U.S. prices with other developed markets and invest $70 billion more in the U.S., in exchange for a three-year tariff grace period.",
+      "source": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-reaches-landmark-agreement-us-government-lower-drug"
+    },
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "Completed the acquisition of obesity-drug developer Metsera for $65.60 per share in cash plus contingent payments, adding injectable and oral GLP-1 candidates to Pfizer's pipeline.",
+      "source": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera"
+    }
+  ],
+  "personal_story": {
+    "hook": "The son of two Holocaust survivors, veterinarian Albert Bourla went on to lead Pfizer's COVID-19 vaccine effort.",
+    "summary": "Bourla was born in 1961 in Thessaloniki, Greece, to Sephardic Jewish parents who both survived the Holocaust: his mother escaped execution by firing squad after a ransom was paid, and his father survived in hiding after being away from the ghetto when its residents were deported to Auschwitz. He trained as a veterinarian at Aristotle University of Thessaloniki, earning his DVM in 1985 and a PhD in reproductive biotechnology in 1991. In 1993 he joined Pfizer's animal health business in Greece as a technical director, and spent the next 25 years moving across countries and divisions, from animal health to vaccines, oncology and consumer health. He became CEO in January 2019, months before the pandemic, and later wrote the book Moonshot about Pfizer's nine-month race to a vaccine.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1961 in Thessaloniki, Greece",
+        "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+      },
+      {
+        "label": "Family background",
+        "value": "Both parents were Sephardic Jews who survived the Holocaust in Thessaloniki",
+        "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+      },
+      {
+        "label": "First job",
+        "value": "1993: technical director, Pfizer Animal Health, Greece",
+        "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+      },
+      {
+        "label": "Other",
+        "value": "Wrote 'Moonshot' (2022) and directed his $1 million Genesis Prize to Holocaust education",
+        "source": "https://en.wikipedia.org/wiki/Albert_Bourla"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Albert_Bourla"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Personal story sourced only via Wikipedia; Jerusalem Post, Times of Israel and Genesis Prize pages returned 404 and CNN (2026 interview) is blocked by robots.txt, so no verbatim quote could be confirmed.",
+    "End year of the 1993 Greece technical director role and intermediate roles 1993-2005 not detailed; 2009-2010 divisional role (Europe, Africa, Asia Pacific; Wyeth integration) omitted for brevity.",
+    "Wikipedia says Bourla was named Pfizer chairman in January 2020; career entry notes this but no separate source fetched.",
+    "Metsera: European Pharmaceutical Review headline cites $4.9bn; Pfizer's completion release gives $65.60/share and ~$7.0bn enterprise value plus CVR; Wikipedia says $10bn (likely including contingent payments). Notable uses Pfizer's per-share terms.",
+    "COVID vaccine notable cites Wikipedia; Time source referenced there was not fetched."
+  ],
+  "needs_enrichment": true
+}

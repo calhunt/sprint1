@@ -1,0 +1,161 @@
+{
+  "id": "allstate",
+  "name": "Thomas J. Wilson",
+  "company_id": "allstate",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "degree": "BS",
+      "field": "Business Administration",
+      "year": null,
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "institution": "Northwestern University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1980,
+      "source": "http://www.kellogg.northwestern.edu/news_articles/2009/leadership.aspx"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Amoco Corporation",
+      "title": "Various financial positions",
+      "start": "1980",
+      "end": "1986",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Dean Witter Reynolds",
+      "title": "Managing Director, Mergers and Acquisitions",
+      "start": "1986",
+      "end": "1993",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Sears, Roebuck and Co.",
+      "title": "Vice President, Strategy and Analysis",
+      "start": "1993",
+      "end": "1995",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Allstate",
+      "title": "Chief Financial Officer",
+      "start": "1995",
+      "end": "1998",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Allstate Financial",
+      "title": "Chairman and President",
+      "start": "1999",
+      "end": "2002",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Allstate Protection",
+      "title": "President",
+      "start": "2002",
+      "end": "2006",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Allstate",
+      "title": "President and Chief Operating Officer",
+      "start": "2005",
+      "end": "2006",
+      "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+    },
+    {
+      "organization": "Allstate",
+      "title": "President and CEO; Chair since 2008",
+      "start": "2007",
+      "end": null,
+      "source": "https://www.allstatecorporation.com/about/leadership/tom-wilson.aspx"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Built his early career in corporate finance at Amoco and M&A at Dean Witter, then joined Allstate as CFO before running its financial and protection businesses.",
+  "tenure": {
+    "start": "2007-01",
+    "source": "https://www.allstatecorporation.com/about/leadership/tom-wilson.aspx"
+  },
+  "notable": [
+    {
+      "date": "2011-05",
+      "type": "decision",
+      "summary": "Agreed to buy online insurer Esurance and rate-comparison site Answer Financial for about $1 billion to target consumers who want to buy insurance online.",
+      "source": "http://www.insurancejournal.com/news/national/2011/05/18/199061.htm"
+    },
+    {
+      "date": "2016-11",
+      "type": "decision",
+      "summary": "Agreed to acquire consumer electronics and appliance protection plan provider SquareTrade for $1.4 billion.",
+      "source": "https://www.insurancejournal.com/news/national/2016/11/28/433312.htm"
+    },
+    {
+      "date": "2020-07",
+      "type": "decision",
+      "summary": "Announced a roughly $4 billion acquisition of National General, which closed in January 2021 and expanded Allstate's independent-agent personal lines business.",
+      "source": "https://en.wikipedia.org/wiki/Allstate"
+    },
+    {
+      "date": "2021-11",
+      "type": "decision",
+      "summary": "Allstate completed the sale of its life insurance and annuity businesses, narrowing its focus to property-liability and protection products.",
+      "source": "https://en.wikipedia.org/wiki/Allstate"
+    }
+  ],
+  "personal_story": {
+    "hook": "Before running Allstate, Tom Wilson spent 15 years in oil-company finance, Wall Street M&A and strategy at Sears.",
+    "summary": "Wilson grew up in St. Clair Shores, Michigan, and graduated from Lake Shore High School in 1975. He earned a business degree at the University of Michigan and an MBA from Northwestern's Kellogg School in 1980. He worked in finance at Amoco, then ran mergers and acquisitions at Dean Witter Reynolds, before moving to Sears as head of strategy. He has said he found his personal purpose, helping others achieve meaning and success, early in his career at Sears. He joined Allstate, then a Sears subsidiary, as CFO in 1995 and rose through its life and property businesses to CEO in 2007.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "St. Clair Shores, Michigan; Lake Shore High School class of 1975",
+        "source": "https://en.wikipedia.org/wiki/Thomas_J._Wilson"
+      },
+      {
+        "label": "First job",
+        "value": "Financial roles at Amoco after his 1980 MBA",
+        "source": "https://www.chicagofed.org/Home/people/w/wilson-thomas"
+      },
+      {
+        "label": "Turning point",
+        "value": "Found his sense of purpose while VP of strategy at Sears, Allstate's then-parent",
+        "source": "http://www.kellogg.northwestern.edu/news_articles/2009/leadership.aspx"
+      },
+      {
+        "label": "Other",
+        "value": "Co-founded the Get IN Chicago Foundation to reduce youth violence; former chair of the U.S. Chamber of Commerce",
+        "source": "https://en.wikipedia.org/wiki/Thomas_J._Wilson"
+      }
+    ],
+    "quote": {
+      "text": "Leading is knowing what your purpose is. If you choose to lead, you can make a difference.",
+      "context": "Talk to Kellogg School of Management students, 2009",
+      "source": "http://www.kellogg.northwestern.edu/news_articles/2009/leadership.aspx",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thomas_J._Wilson",
+      "https://www.chicagofed.org/Home/people/w/wilson-thomas",
+      "http://www.kellogg.northwestern.edu/news_articles/2009/leadership.aspx",
+      "https://www.allstatecorporation.com/about/leadership/tom-wilson.aspx"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Sears role dates (1993-1995) are inferred from the gap between Dean Witter (to 1993) and Allstate (from 1995); the Chicago Fed bio does not date it.",
+    "University of Michigan graduation year is not stated in the sources opened.",
+    "Kellogg degree was historically called a 'Master of Management' (per Chicago Fed); recorded as MBA.",
+    "Tenure month (January 2007) comes from the seed list; Allstate bio confirms only the year 2007.",
+    "National General and life/annuity sale items cite Wikipedia only; MarketWatch and Allstate newsroom press releases could not be fetched (HTTP 429 rate limiting). Month of life/annuity sale completion is approximate.",
+    "No recent (2024-2026) notable items could be sourced because of fetch rate limiting; consider adding Transformative Growth strategy or 2025 divestitures of employer voluntary benefits and group health."
+  ],
+  "needs_enrichment": true
+}

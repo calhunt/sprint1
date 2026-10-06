@@ -1,0 +1,157 @@
+{
+  "id": "exxon-mobil",
+  "name": "Darren W. Woods",
+  "company_id": "exxon-mobil",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "year": null,
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "institution": "Northwestern University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Exxon Company International",
+      "title": "Planning analyst, then domestic and international roles",
+      "start": "1992",
+      "end": "2005",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "ExxonMobil Chemical Company",
+      "title": "Vice President, Specialty Chemicals",
+      "start": "2005",
+      "end": "2008",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "ExxonMobil Refining and Supply Company",
+      "title": "Director of Refining, Europe, Africa and Middle East (Brussels), then Vice President of Supply and Transportation",
+      "start": "2008",
+      "end": "2012",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "ExxonMobil Refining and Supply Company",
+      "title": "President; Vice President of Exxon Mobil Corporation",
+      "start": "2012",
+      "end": "2014",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "Exxon Mobil Corporation",
+      "title": "Senior Vice President",
+      "start": "2014",
+      "end": "2016",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "Exxon Mobil Corporation",
+      "title": "President and board member",
+      "start": "2016",
+      "end": "2016",
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    },
+    {
+      "organization": "Exxon Mobil Corporation",
+      "title": "Chairman and CEO",
+      "start": "2017",
+      "end": null,
+      "source": "https://lng2026.com/speakers/darren-woods-1"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An electrical engineer by training who rose through Exxon's chemicals, refining and supply businesses before leading the company.",
+  "tenure": {
+    "start": "2017-01-01",
+    "source": "https://en.wikipedia.org/wiki/ExxonMobil"
+  },
+  "notable": [
+    {
+      "date": "2021-05",
+      "type": "decision",
+      "summary": "Exxon lost a proxy fight to activist investor Engine No. 1, which won three seats on the company's board after campaigning over its climate and capital-spending strategy.",
+      "source": "https://en.wikipedia.org/wiki/Engine_No._1"
+    },
+    {
+      "date": "2024-05",
+      "type": "decision",
+      "summary": "ExxonMobil completed its roughly $60 billion all-stock acquisition of Pioneer Natural Resources, more than doubling its Permian Basin production.",
+      "source": "https://www.businesswire.com/news/home/20240502661359/en/ExxonMobil-Completes-Acquisition-of-Pioneer-Natural-Resources"
+    },
+    {
+      "date": "2024-11",
+      "type": "statement",
+      "summary": "Woods said the incoming Trump administration should keep the United States in the Paris climate agreement.",
+      "source": "https://en.wikipedia.org/wiki/Darren_Woods"
+    },
+    {
+      "date": "2025-09",
+      "type": "decision",
+      "summary": "ExxonMobil announced it would cut about 2,000 jobs globally as part of a restructuring plan.",
+      "source": "https://en.wikipedia.org/wiki/ExxonMobil"
+    }
+  ],
+  "personal_story": {
+    "hook": "At 16, Darren Woods unloaded overseas containers at a Navy warehouse in Hawaii; he now runs ExxonMobil.",
+    "summary": "Woods was born in Wichita, Kansas, in 1965, and because of his father's work as a military supplier he spent much of his youth near U.S. military bases around the world. At 16 he worked at a Navy warehouse in Hawaii unloading overseas containers, which he has described as hard, hot and very dirty work alongside people from different backgrounds. He studied electrical engineering at Texas A&M University and later earned an MBA from Northwestern's Kellogg School of Management. He joined Exxon in 1992 as a planning analyst in New Jersey and, moving roughly every three years across the U.S., Europe and Asia, rose through chemicals and refining to become chairman and CEO in 2017.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born 1965 in Wichita, Kansas; spent much of his youth near military bases worldwide",
+        "source": "https://en.wikipedia.org/wiki/Darren_Woods"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked as a military supplier",
+        "source": "https://en.wikipedia.org/wiki/Darren_Woods"
+      },
+      {
+        "label": "First job",
+        "value": "At 16, unloaded overseas containers at a Navy warehouse in Hawaii",
+        "source": "https://www.dmagazine.com/publications/d-ceo/2018/december/meet-the-dallas-500-darren-woods/"
+      },
+      {
+        "label": "Other",
+        "value": "Says he has moved on average every three years of his life, across the U.S., Europe and Asia",
+        "source": "https://www.dmagazine.com/publications/d-ceo/2018/december/meet-the-dallas-500-darren-woods/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Exxon in 1992 as a planning analyst in New Jersey",
+        "source": "https://lng2026.com/speakers/darren-woods-1"
+      }
+    ],
+    "quote": {
+      "text": "First, there is dignity in hard work, irrespective of what it is; and second, if you respect differences, you'll find more things in common.",
+      "context": "On lessons from his first job at a Navy warehouse, D CEO magazine 'Dallas 500' profile, December 2018",
+      "source": "https://www.dmagazine.com/publications/d-ceo/2018/december/meet-the-dallas-500-darren-woods/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.dmagazine.com/publications/d-ceo/2018/december/meet-the-dallas-500-darren-woods/",
+      "https://en.wikipedia.org/wiki/Darren_Woods",
+      "https://lng2026.com/speakers/darren-woods-1"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for the Texas A&M BS and Northwestern MBA not found; left null.",
+    "Official ExxonMobil leadership bio page could not be fetched (404); career details come from the LNG2026 conference speaker bio. Some years in the 2008-2012 entry are combined (Director of Refining 2008, VP Supply and Transportation 2010).",
+    "Wikipedia's Darren Woods summary inconsistently gave a 2016 CEO start; ExxonMobil Wikipedia page, LNG2026 bio and seed list agree on Jan 1, 2017 for chairman and CEO.",
+    "Notable items for Nov 2024 (Paris statement) and Sept 2025 (2,000 job cuts) are sourced to Wikipedia only; primary news sources should be added (web search budget was exhausted).",
+    "2026 redomicile to Texas / ExxonMobil Holdings Corporation (from seed notes) not independently sourced; not included in notable.",
+    "Wikipedia says his father's work as a military supplier took the family near bases; the Hawaii connection is only via his first job, and no hometown beyond birthplace is confirmed."
+  ]
+}

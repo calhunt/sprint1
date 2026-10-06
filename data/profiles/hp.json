@@ -1,0 +1,157 @@
+{
+  "id": "hp",
+  "name": "Bruce D. Broussard",
+  "company_id": "hp",
+  "role": "Interim CEO",
+  "education": [
+    {
+      "institution": "Texas A&M University",
+      "degree": "BBA",
+      "field": "Accounting and Finance",
+      "year": null,
+      "source": "https://nationalmall.org/people/bruce-broussard"
+    },
+    {
+      "institution": "University of Houston",
+      "degree": "MBA",
+      "field": "Finance",
+      "year": null,
+      "source": "https://nationalmall.org/people/bruce-broussard"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Continental Medical Systems; Sun Healthcare Group; Regency Health Services",
+      "title": "Treasurer, then CFO roles at health care services companies",
+      "start": "1990",
+      "end": "1995",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+    },
+    {
+      "organization": "Harbor Dental",
+      "title": "Chief Executive Officer",
+      "start": "1997",
+      "end": "2000",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+    },
+    {
+      "organization": "US Oncology",
+      "title": "CFO, then President, then CEO and Chairman",
+      "start": "2000",
+      "end": "2010",
+      "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+    },
+    {
+      "organization": "McKesson",
+      "title": "President, McKesson Specialty / US Oncology (after acquisition)",
+      "start": "2010",
+      "end": "2011",
+      "source": "https://nationalmall.org/people/bruce-broussard"
+    },
+    {
+      "organization": "Humana",
+      "title": "President",
+      "start": "2011",
+      "end": "2013",
+      "source": "https://www.fiercehealthcare.com/payers/humana-ceo-bruce-broussard-step-down-next-year"
+    },
+    {
+      "organization": "Humana",
+      "title": "President and CEO",
+      "start": "2013",
+      "end": "2024",
+      "source": "https://www.fiercehealthcare.com/payers/humana-ceo-bruce-broussard-step-down-next-year"
+    },
+    {
+      "organization": "HP Inc.",
+      "title": "Board member",
+      "start": "2021",
+      "end": null,
+      "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Announces-Leadership-Transition/default.aspx"
+    },
+    {
+      "organization": "HP Inc.",
+      "title": "Interim Chief Executive Officer",
+      "start": "2026",
+      "end": null,
+      "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Announces-Leadership-Transition/default.aspx"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "A CPA who built his early career as a treasurer and chief financial officer of health care companies, including six years as CFO of US Oncology, before moving into CEO roles.",
+  "tenure": {
+    "start": "2026-02-03",
+    "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Announces-Leadership-Transition/default.aspx"
+  },
+  "notable": [
+    {
+      "date": "2026-02",
+      "type": "decision",
+      "summary": "Took over as HP's interim CEO effective immediately after Enrique Lores resigned; the board formed a search committee and hired an executive search firm to find a permanent CEO.",
+      "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Announces-Leadership-Transition/default.aspx"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "Reporting fiscal second-quarter revenue of $14.4 billion, up 9%, Broussard pointed to new AI PCs, Z workstations, AI-powered print and HP IQ as HP managed rising commodity costs.",
+      "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Second-Quarter-Results/default.aspx"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "HP raised its fiscal 2026 EPS and free cash flow guidance after third-quarter revenue rose 12.5% to $15.7 billion, with Broussard describing HP as a trusted edge platform for AI.",
+      "source": "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Reports-Fiscal-2026-Third-Quarter-Results/default.aspx"
+    }
+  ],
+  "personal_story": {
+    "hook": "Bruce Broussard ran health insurer Humana for over a decade before stepping in as HP's interim CEO in 2026.",
+    "summary": "Broussard was born in Hamilton, New York; his father served in the U.S. Air Force and later worked in telecommunications, and after several moves the family settled in Houston. He studied accounting and finance at Texas A&M, earned an MBA in finance at the University of Houston and became a CPA. He spent his early career in health care finance roles, then rose from CFO to CEO and chairman at US Oncology and led Humana from 2013 to 2024. A member of HP's board since 2021, he was named interim CEO in February 2026 when Enrique Lores left.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Hamilton, N.Y.; family moved several times before settling in Houston",
+        "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+      },
+      {
+        "label": "Family background",
+        "value": "Father served in the U.S. Air Force, then worked in telecommunications",
+        "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Trained in accounting and finance and became a certified public accountant",
+        "source": "https://en.wikipedia.org/wiki/Bruce_Broussard"
+      },
+      {
+        "label": "Turning point",
+        "value": "Rose from CFO to CEO and chairman of US Oncology before its sale to McKesson",
+        "source": "https://nationalmall.org/people/bruce-broussard"
+      },
+      {
+        "label": "Other",
+        "value": "Ranked No. 19 on Fortune's 2020 Businessperson of the Year list while at Humana",
+        "source": "https://fortune.com/ranking/businessperson-of-the-year/2020/bruce-broussard/"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bruce_Broussard",
+      "https://nationalmall.org/people/bruce-broussard",
+      "https://www.fiercehealthcare.com/payers/humana-ceo-bruce-broussard-step-down-next-year",
+      "https://fortune.com/ranking/businessperson-of-the-year/2020/bruce-broussard/",
+      "https://investor.hp.com/news-events/news/news-details/2026/HP-Inc--Announces-Leadership-Transition/default.aspx"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for BBA and MBA not found.",
+    "Pre-2000 career dates (Continental Medical Systems, Sun Healthcare, Regency, Harbor Dental) sourced only from Wikipedia.",
+    "Exact end of McKesson role (assumed 2011, when he joined Humana) not confirmed.",
+    "Humana CEO succession: Fierce Healthcare says he stepped down in the latter part of 2024 and stayed as strategic adviser through 2025; exact date not confirmed.",
+    "Interim role: as of Oct 2026 no permanent HP CEO has been named per seed notes; not independently verified.",
+    "No verbatim first-person quote about his path found in reachable sources; quote set to null.",
+    "Personal story relies on Wikipedia and bios; Houston Business Journal and Courier-Journal profiles were blocked."
+  ],
+  "needs_enrichment": true
+}

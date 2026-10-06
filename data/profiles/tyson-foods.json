@@ -1,0 +1,127 @@
+{
+  "id": "tyson-foods",
+  "name": "Jeff Schomburger",
+  "company_id": "tyson-foods",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "degree": "BA",
+      "field": "Economics",
+      "year": null,
+      "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Procter & Gamble",
+      "title": "Sales, customer marketing and paper products leadership roles, incl. international assignments",
+      "start": null,
+      "end": null,
+      "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "President, Global Walmart Team",
+      "start": null,
+      "end": null,
+      "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+    },
+    {
+      "organization": "Procter & Gamble",
+      "title": "Global Sales Officer",
+      "start": null,
+      "end": "2019",
+      "source": "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO"
+    },
+    {
+      "organization": "Tyson Foods",
+      "title": "Member, Board of Directors (Lead Independent Director from Nov. 2025; former Chair, Strategy and Acquisitions Committee)",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+    },
+    {
+      "organization": "Tyson Foods",
+      "title": "CEO-designate (joined as employee for transition)",
+      "start": "2026",
+      "end": "2026",
+      "source": "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+    },
+    {
+      "organization": "Tyson Foods",
+      "title": "President and CEO",
+      "start": "2026",
+      "end": null,
+      "source": "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Spent about 35 years at Procter & Gamble in sales and customer marketing leadership, retiring as Global Sales Officer, before moving from Tyson's board into the CEO role.",
+  "tenure": {
+    "start": "2026-10-04",
+    "source": "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO"
+  },
+  "notable": [
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Tyson's board named Schomburger, a director since 2016 and lead independent director, to succeed Donnie King as president and CEO effective Oct. 4, 2026; the stock fell more than 4.5% in early trading on the news.",
+      "source": "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "In announcing his appointment, Schomburger said he aimed to strengthen Tyson's brands with superior products and capitalize on emerging opportunities through AI acceleration.",
+      "source": "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "Joined Tyson as an employee on July 1, 2026, for a three-month transition period working alongside King before taking over at the end of the fiscal year.",
+      "source": "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+    }
+  ],
+  "personal_story": {
+    "hook": "After 35 years selling for Procter & Gamble, Jeff Schomburger moved from Tyson's boardroom to its CEO chair.",
+    "summary": "Schomburger is a Florida native who graduated with honors in economics from the University of North Carolina at Chapel Hill. He built his career at Procter & Gamble in sales and customer marketing, including international assignments and leading P&G's global team serving Walmart, and retired in 2019 as Global Sales Officer. He joined Tyson Foods' board in 2016 and became its lead independent director before being named CEO, a move local press noted brought in a leader with no prior operating experience in food processing.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Native of Florida",
+        "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+      },
+      {
+        "label": "Other",
+        "value": "Graduated with honors in economics from UNC-Chapel Hill",
+        "source": "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger"
+      },
+      {
+        "label": "Turning point",
+        "value": "Led P&G's global Walmart team, then retired in 2019 as Global Sales Officer",
+        "source": "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO"
+      },
+      {
+        "label": "Other",
+        "value": "Went from Tyson board member (since 2016) to CEO at age 64",
+        "source": "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.tysonfoods.com/who-we-are/our-people/leadership/jeff-schomburger",
+      "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO",
+      "https://talkbusiness.net/2026/05/tyson-foods-announces-planned-ceo-change/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Effective date conflict: Tyson press release (May 28, 2026) says Oct. 4, 2026; Wikipedia's Tyson Foods article says Oct. 5, 2026. Kept seed/press-release date 2026-10-04. No post-effective confirmation found, though Tyson's leadership page now lists him as President & CEO.",
+    "P&G tenure length differs: press release says 35 years; Tyson bio says 'more than 30 years'. P&G start year and dates of individual P&G roles not found; left null.",
+    "Degree type at UNC-Chapel Hill stated only as 'bachelor's degree in economics'; recorded as BA (UNC economics is a BA program) but not explicitly confirmed. Graduation year unknown.",
+    "Talk Business describes him as 'global sales officer for P&G's Walmart business in his final decade', while Tyson describes Global Sales Officer and President of the Global Walmart team as separate roles.",
+    "No Wikipedia article or long-form interview reachable; personal story thin."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,156 @@
+{
+  "id": "general-motors",
+  "name": "Mary Barra",
+  "company_id": "general-motors",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Kettering University",
+      "degree": "BS",
+      "field": "Electrical Engineering",
+      "year": 1985,
+      "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+    },
+    {
+      "institution": "Stanford University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1990,
+      "source": "https://www.britannica.com/money/Mary-Barra"
+    }
+  ],
+  "career": [
+    {
+      "organization": "General Motors (Pontiac Motor Division)",
+      "title": "Co-op student and quality inspector, inspecting fender panels and hoods",
+      "start": "1980",
+      "end": "1985",
+      "source": "https://today.duke.edu/2022/05/mary-barra-five-lessons-kitchen-table"
+    },
+    {
+      "organization": "General Motors",
+      "title": "Engineering and staff roles, incl. head of internal communications",
+      "start": "1985",
+      "end": "2003",
+      "source": "https://www.britannica.com/money/Mary-Barra"
+    },
+    {
+      "organization": "General Motors",
+      "title": "Plant Manager, Detroit-Hamtramck Assembly",
+      "start": "2003",
+      "end": "2008",
+      "source": "https://www.britannica.com/money/Mary-Barra"
+    },
+    {
+      "organization": "General Motors",
+      "title": "Vice President, Global Manufacturing Engineering",
+      "start": "2008",
+      "end": "2009",
+      "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+    },
+    {
+      "organization": "General Motors",
+      "title": "Vice President, Global Human Resources",
+      "start": "2009",
+      "end": "2011",
+      "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+    },
+    {
+      "organization": "General Motors",
+      "title": "Head of Global Product Development (adding Global Purchasing and Supply Chain in 2013)",
+      "start": "2011",
+      "end": "2014",
+      "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+    },
+    {
+      "organization": "General Motors",
+      "title": "CEO (Chair since January 2016)",
+      "start": "2014",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "An electrical engineer who started at GM as an 18-year-old co-op student and rose through manufacturing engineering, plant management and product development before becoming CEO.",
+  "tenure": {
+    "start": "2014-01-15",
+    "source": "https://www.britannica.com/money/Mary-Barra"
+  },
+  "notable": [
+    {
+      "date": "2014-06",
+      "type": "decision",
+      "summary": "After an internal investigation by attorney Anton Valukas into GM's delayed ignition-switch recall, Barra dismissed 15 employees, disciplined five others and set up a victim compensation program run by Kenneth Feinberg.",
+      "source": "https://en.wikipedia.org/wiki/General_Motors_ignition_switch_recalls"
+    },
+    {
+      "date": "2021-01",
+      "type": "decision",
+      "summary": "GM announced a goal to end production and sales of fossil-fuel light vehicles by 2035 and become carbon neutral by 2040; those EV plans were largely scaled back in 2025.",
+      "source": "https://en.wikipedia.org/wiki/General_Motors"
+    },
+    {
+      "date": "2024-12",
+      "type": "decision",
+      "summary": "GM stopped funding Cruise's robotaxi business and folded its autonomous-driving work into driver-assistance systems for personal vehicles, taking full ownership of Cruise in early 2025.",
+      "source": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)"
+    }
+  ],
+  "personal_story": {
+    "hook": "Mary Barra's first GM job, at 18, was inspecting fenders and hood panels on an assembly line.",
+    "summary": "Barra grew up near Detroit, the daughter of a die maker who worked 39 years at GM's Pontiac division and a mother raised in poverty on a Michigan farm during the Great Depression; she says both believed hard work and education could take you anywhere. A cousin's Chevrolet Camaro helped spark her interest in engineering. At 18 she entered GM's co-op program through General Motors Institute, starting as a quality inspector checking fenders and hood panels at the Pontiac plant. GM later sponsored her MBA at Stanford, and she worked through communications, plant management, manufacturing engineering, human resources and product development roles. In January 2014 she became the first woman to lead a global automaker.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in Royal Oak, Michigan; raised near Detroit in a family of Finnish descent",
+        "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a die maker at GM's Pontiac division for 39 years; mother grew up on a Michigan farm during the Depression",
+        "source": "https://today.duke.edu/2022/05/mary-barra-five-lessons-kitchen-table"
+      },
+      {
+        "label": "Early ambition",
+        "value": "A cousin's vintage Chevrolet Camaro sparked her interest in engineering",
+        "source": "https://www.britannica.com/money/Mary-Barra"
+      },
+      {
+        "label": "First job",
+        "value": "1980, age 18: GM co-op student and quality inspector on the Pontiac assembly line",
+        "source": "https://today.duke.edu/2022/05/mary-barra-five-lessons-kitchen-table"
+      },
+      {
+        "label": "Turning point",
+        "value": "Completed a Stanford MBA in 1990 on a GM fellowship",
+        "source": "https://en.wikipedia.org/wiki/Mary_Barra"
+      },
+      {
+        "label": "Other",
+        "value": "First woman to lead a global automaker",
+        "source": "https://www.britannica.com/money/Mary-Barra"
+      }
+    ],
+    "quote": {
+      "text": "They both believed in the American dream, if you worked hard enough, got yourself an education, and believed in yourself, you could achieve anything.",
+      "context": "On her parents, Duke University commencement address, May 2022",
+      "source": "https://today.duke.edu/2022/05/mary-barra-five-lessons-kitchen-table",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://today.duke.edu/2022/05/mary-barra-five-lessons-kitchen-table",
+      "https://www.britannica.com/money/Mary-Barra",
+      "https://en.wikipedia.org/wiki/Mary_Barra"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "CEO start date: Britannica says officially began January 15, 2014 (matches seed); Wikipedia summary gave January 14, 2014.",
+    "2011 product development title: Wikipedia says Executive Vice President, Britannica says Senior Vice President; title condensed to 'Head of Global Product Development'.",
+    "Years for engineering/staff roles 1985-2003 (incl. internal communications, 1999-2001 per Britannica) condensed; executive assistant role to former CEO Jack Smith not verified and omitted.",
+    "Duke summary described her father's WWII honors oddly ('gold star and purple heart'); omitted pending verification.",
+    "No 2025-2026 notable item verified (web search budget exhausted during this batch); 2025 EV write-downs, tariffs and HQ move to Hudson's Detroit (occupancy Jan 2026) could be added with primary sources.",
+    "Succession speculation (Sterling Anderson) noted in seed list; nothing announced and not included."
+  ]
+}

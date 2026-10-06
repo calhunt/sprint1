@@ -1,0 +1,127 @@
+{
+  "id": "marathon-petroleum",
+  "name": "Maryann T. Mannen",
+  "company_id": "marathon-petroleum",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Rider University",
+      "degree": "BS",
+      "field": "Accounting",
+      "year": null,
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    },
+    {
+      "institution": "Rider University",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Sheller-Globe Corporation",
+      "title": "Finance Manager",
+      "start": null,
+      "end": "1986",
+      "source": "https://business.rice.edu/person/maryann-mannen"
+    },
+    {
+      "organization": "FMC Corporation / FMC Technologies",
+      "title": "Finance roles rising to Treasurer and Vice President of Administration",
+      "start": "1986",
+      "end": "2011",
+      "source": "https://business.rice.edu/person/maryann-mannen"
+    },
+    {
+      "organization": "FMC Technologies",
+      "title": "Chief Financial Officer",
+      "start": "2011",
+      "end": "2017",
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    },
+    {
+      "organization": "TechnipFMC",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "start": "2017",
+      "end": "2021",
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    },
+    {
+      "organization": "Marathon Petroleum Corporation",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "start": "2021",
+      "end": "2024",
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    },
+    {
+      "organization": "Marathon Petroleum Corporation",
+      "title": "President, then President and CEO (Chairman from 2026)",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "An accountant by training who spent most of her career in corporate finance, serving as CFO of FMC Technologies, TechnipFMC and Marathon Petroleum before becoming CEO.",
+  "tenure": {
+    "start": "2024-08-01",
+    "source": "https://www.tipranks.com/news/company-announcements/marathon-petroleum-announces-leadership-transition-and-new-ceo"
+  },
+  "notable": [
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "As MPLX president and CEO, Mannen announced MPLX's $2.375 billion cash acquisition of Northwind Midstream, adding sour gas gathering and processing in New Mexico's Delaware Basin.",
+      "source": "https://www.prnewswire.com/news-releases/mplx-lp-to-acquire-northwind-midstream-enhancing-permian-natural-gas-and-ngl-value-chains-302518468.html"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Mannen became chairman of the board on Jan. 1, 2026, succeeding retiring executive chairman Michael Hennigan while remaining president and CEO.",
+      "source": "https://www.investing.com/news/company-news/marathon-petroleum-elects-mannen-as-new-board-chairman-93CH-4329872"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Marathon Petroleum announced a new $5 billion share repurchase authorization and reported adding 30,000 barrels per day of jet fuel capacity at its Garyville refinery.",
+      "source": "https://www.fool.com/earnings/call-transcripts/2026/05/05/marathon-mpc-q1-2026-earnings-call-transcript/"
+    }
+  ],
+  "personal_story": {
+    "hook": "Maryann Mannen joined FMC in 1986 and spent decades in finance before becoming Marathon Petroleum's first female CEO.",
+    "summary": "Mannen studied accounting and later earned an MBA at Rider University in New Jersey, and began her career as a finance manager at Sheller-Globe Corporation. In 1986 she joined FMC, where she worked through treasury and administration roles for about 25 years before becoming CFO of FMC Technologies in 2011 and helping negotiate its 2017 merger with Technip. She joined Marathon Petroleum as CFO in 2021 and in August 2024 became its first female CEO. Little has been published about her upbringing or personal life.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Finance manager at Sheller-Globe Corporation",
+        "source": "https://business.rice.edu/person/maryann-mannen"
+      },
+      {
+        "label": "Turning point",
+        "value": "Helped negotiate and execute the 2017 merger of FMC Technologies and Technip",
+        "source": "https://business.rice.edu/person/maryann-mannen"
+      },
+      {
+        "label": "Other",
+        "value": "Marathon Petroleum's first female CFO (2021) and first female CEO (2024)",
+        "source": "https://fortune.com/2024/05/14/marathon-petroleum-first-female-ceo-maryann-mannen-cfo"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://business.rice.edu/person/maryann-mannen",
+      "https://www.marathonpetroleum.com/content/documents/About/MPC_BOD_Bio_Mannen.pdf",
+      "https://fortune.com/2024/05/14/marathon-petroleum-first-female-ceo-maryann-mannen-cfo"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Rider University degree years not found; left null. Bachelor's degree type (BS vs BSBA) assumed BS from 'Bachelor's degree in Accounting'.",
+    "Sources refer to joining 'FMC Technologies' in 1986, but FMC Technologies was spun off from FMC Corporation in 2001; employer in 1986 was presumably FMC Corporation.",
+    "Whether Mannen still holds the MPLX CEO title in 2026 not confirmed.",
+    "No interviews found describing her upbringing or early life; personal story kept limited."
+  ]
+}

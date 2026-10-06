@@ -1,0 +1,148 @@
+{
+  "id": "delta-air-lines",
+  "name": "Edward H. Bastian",
+  "company_id": "delta-air-lines",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "St. Bonaventure University",
+      "degree": "BBA",
+      "field": "Accounting",
+      "year": 1979,
+      "source": "https://en.wikipedia.org/wiki/Ed_Bastian"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Price Waterhouse",
+      "title": "Auditor, rising to partner at 31",
+      "start": null,
+      "end": null,
+      "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+    },
+    {
+      "organization": "PepsiCo (Pepsi-Cola International; Frito-Lay)",
+      "title": "Finance roles, including vice president overseeing Frito-Lay's international finances",
+      "start": null,
+      "end": "1998",
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    },
+    {
+      "organization": "Delta Air Lines",
+      "title": "Vice President – Finance and Controller; Senior Vice President from 2000",
+      "start": "1998",
+      "end": "2004",
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    },
+    {
+      "organization": "Acuity Brands",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "start": "2004",
+      "end": null,
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    },
+    {
+      "organization": "Delta Air Lines",
+      "title": "Chief Financial Officer (also Chief Restructuring Officer, 2005-2007)",
+      "start": null,
+      "end": "2007",
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    },
+    {
+      "organization": "Delta Air Lines",
+      "title": "President",
+      "start": "2007",
+      "end": "2016",
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    },
+    {
+      "organization": "Delta Air Lines",
+      "title": "Chief Executive Officer",
+      "start": "2016",
+      "end": null,
+      "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Trained as an auditor and partner at Price Waterhouse, he held finance roles at PepsiCo and served as Delta's controller and CFO before becoming president and CEO.",
+  "tenure": {
+    "start": "2016-05-02",
+    "source": "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0"
+  },
+  "notable": [
+    {
+      "date": "2024-07",
+      "type": "statement",
+      "summary": "After the CrowdStrike software outage triggered days of mass cancellations at Delta, which the airline put at about $500 million in losses, Bastian drew criticism for traveling to the Paris Olympics during the disruption.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Bastian"
+    },
+    {
+      "date": "2025-02",
+      "type": "decision",
+      "summary": "After a Delta aircraft crashed at Toronto Pearson International Airport, Bastian announced $30,000 in compensation for each passenger plus coverage of medical expenses.",
+      "source": "https://en.wikipedia.org/wiki/Ed_Bastian"
+    },
+    {
+      "date": "2025-04",
+      "type": "statement",
+      "summary": "On Delta's first-quarter earnings call, Bastian said the airline would defer any aircraft deliveries subject to tariffs rather than pay them.",
+      "source": "https://onemileatatime.com/news/delta-tariffs-airbus-airplanes/"
+    }
+  ],
+  "personal_story": {
+    "hook": "The oldest of nine kids, Ed Bastian didn't fly until 25; he now runs Delta.",
+    "summary": "Bastian grew up in Poughkeepsie, New York, the oldest of nine children of a dentist who practiced from the family home, with his mother as the dental assistant. He worked blue-collar jobs, earned an accounting degree from St. Bonaventure, and as a young Price Waterhouse auditor uncovered $50 million in phony revenue at J. Walter Thompson, helping him make partner at 31. After years in finance at PepsiCo, he joined Delta as controller in 1998, then quit in protest during the post-9/11 crisis, saying management decisions did not match the company's values or his own. About six months later he returned as CFO at half the salary to steer Delta through bankruptcy, then rose to president in 2007 and CEO in 2016.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Poughkeepsie, N.Y.; oldest of nine children",
+        "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+      },
+      {
+        "label": "Family background",
+        "value": "Father was a dentist who worked from a home office, with his mother as dental assistant",
+        "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+      },
+      {
+        "label": "Other",
+        "value": "Did not fly on a plane until age 25",
+        "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+      },
+      {
+        "label": "First job",
+        "value": "Auditor at Price Waterhouse, where he uncovered $50 million in phony revenue at J. Walter Thompson",
+        "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Quit Delta in protest over its decisions, then was lured back as CFO for half his salary to help save the airline",
+        "source": "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/"
+      }
+    ],
+    "quote": {
+      "text": "The decisions, candidly, were not aligned with the values that this company stood for, and I personally stood for.",
+      "context": "Explaining why he quit Delta in protest after 9/11; Atlanta Magazine profile, May 2016",
+      "source": "https://www.atlantamagazine.com/news-culture-articles/can-new-delta-ceo-ed-bastian-continue-the-airlines-success/",
+      "verified": "2026-10-05"
+    },
+    "depth": "rich",
+    "sources": [
+      "https://fortune.com/longform/delta-airlines-ceo-ed-bastian/",
+      "https://www.atlantamagazine.com/news-culture-articles/can-new-delta-ceo-ed-bastian-continue-the-airlines-success/",
+      "https://ir.delta.com/governance/person-details/default.aspx?ItemId=ebbc948f-8aa5-4994-bff5-9c004aaab4d0",
+      "https://www.georgiatrend.com/2023/12/30/2024-georgian-of-the-year-ed-bastian-ceo-delta-air-lines-with-flying-colors/",
+      "https://en.wikipedia.org/wiki/Ed_Bastian"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Departure/return dates conflict: Delta's official bio and Fortune (2018) say he left in early 2004 for Acuity Brands and returned six months later; Wikipedia says he left in 2005 and returned as CFO in July 2005. Acuity start recorded as 2004 per Delta; CFO start and Acuity end left null.",
+    "Reason for leaving framed differently: Fortune cites wage cuts for employees while executives kept protected pensions/bonuses; Atlanta Magazine cites leadership refusing his urging to file for bankruptcy. Story says only that he quit in protest over decisions.",
+    "Price Waterhouse and PepsiCo start/end years not confirmed (Fortune: eight years at Frito-Lay before 1998; Wikipedia dates the JWT fraud discovery to 1981).",
+    "Graduation year 1979 sourced only from Wikipedia.",
+    "No 2026 notable item sourced: Delta newsroom search is robots-blocked; Wikipedia mentions a May 18, 2026 Today show interview on rising airline costs (YouTube source not opened). March 2026 naming of Peter Carter as president not verified here.",
+    "CrowdStrike and Toronto items sourced to Wikipedia only (CNBC/CNN originals blocked); Wikipedia's Toronto sentence does not explicitly identify the aircraft as Delta Connection/Endeavor.",
+    "Quote obtained via a summarizing fetch tool though confirmed twice; verify against the Atlanta Magazine article before publishing."
+  ],
+  "needs_enrichment": false
+}

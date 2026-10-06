@@ -1,0 +1,122 @@
+{
+  "id": "td-synnex",
+  "name": "Patrick Zammit",
+  "company_id": "td-synnex",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "ESLSCA Business School",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026007901/snx-20260212.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Arthur Andersen",
+      "title": "Senior Consultant",
+      "start": null,
+      "end": "1993",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026007901/snx-20260212.htm"
+    },
+    {
+      "organization": "Avnet",
+      "title": "Management roles incl. European CFO and President, EMEA Electronic Marketing",
+      "start": "1993",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+    },
+    {
+      "organization": "Avnet Technology Solutions",
+      "title": "Global President",
+      "start": null,
+      "end": "2017",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+    },
+    {
+      "organization": "Tech Data (TD SYNNEX from 2021)",
+      "title": "President, Europe (expanded to Europe and APJ in 2021)",
+      "start": "2017",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+    },
+    {
+      "organization": "TD SYNNEX",
+      "title": "Chief Operating Officer",
+      "start": "2024",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+    },
+    {
+      "organization": "TD SYNNEX",
+      "title": "President and Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "After starting as a consultant and serving as a European CFO, he spent most of his career running regional and global distribution businesses at Avnet and Tech Data before becoming COO and then CEO.",
+  "tenure": {
+    "start": "2024-09-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-04",
+      "type": "decision",
+      "summary": "At TD SYNNEX's 2025 Investor Day, set medium-term targets including 10-12%+ annual non-GAAP EPS growth and returning 50-75% of free cash flow to shareholders.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000117739425000033/ex991tdsynnexhosts2025inve.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "Reporting fiscal 2025 revenue of $62.5 billion and $777.5 million returned to shareholders, Zammit said the company had substantially surpassed the initial medium-term targets set at its Investor Day.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026001271/ex991-fy25q4pressrelease.htm"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "Reporting fiscal third-quarter revenue of $21.6 billion, up 37.7% year over year, and a 9% dividend increase, Zammit said enterprise AI adoption was moving toward broader production deployments.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026063314/ex991-fy26q3pressrelease.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Patrick Zammit joined Avnet in 1993 after working as an Arthur Andersen consultant; 31 years later he became TD SYNNEX's CEO.",
+    "summary": "Zammit earned a French master's-level business degree from ESLSCA Business School and began his career as a senior consultant at Arthur Andersen. In 1993 he joined electronics distributor Avnet, where he served as European CFO and president of its EMEA Electronic Marketing division before becoming global president of its Technology Solutions division. When Tech Data bought that business in 2017 he became Tech Data's president for Europe, a role that expanded in 2021, the year Tech Data merged with SYNNEX, to include Asia-Pacific and Japan. He became chief operating officer in 2024 and succeeded Rich Hume as CEO that September.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Senior consultant at Arthur Andersen",
+        "source": "https://www.sec.gov/Archives/edgar/data/1177394/000162828026007901/snx-20260212.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Moved with Avnet Technology Solutions to Tech Data when it acquired the business in 2017",
+        "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+      },
+      {
+        "label": "Other",
+        "value": "Served as Avnet's European CFO before moving into general management",
+        "source": "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/1177394/000162828026007901/snx-20260212.htm",
+      "https://www.sec.gov/Archives/edgar/data/1177394/000119312524163999/d773671dex991.htm",
+      "https://en.wikipedia.org/wiki/TD_Synnex"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree: the 2026 proxy says he holds 'the French equivalent of a master's degree in business administration' from ESLSCA Business School; recorded as MBA, which may not be the exact French title. Graduation year unknown.",
+    "COO start date conflicts: Wikipedia says November 2023 (announcement); the June 2024 press release and 2026 proxy say January 2024. Career uses 2024.",
+    "Exact years of Avnet roles (European CFO, EMEA president, global president of Technology Solutions) not given in sources.",
+    "No personal background (hometown, upbringing) or interview quotes about his path found in reachable sources; the TD SYNNEX leadership page returned 404.",
+    "Wikipedia mentions 2025 AWS collaboration, Microsoft distributor consolidation and acquisitions (Apptium, Gateway Computer) without URLs fetched; not used."
+  ],
+  "needs_enrichment": true
+}

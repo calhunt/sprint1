@@ -1,0 +1,134 @@
+{
+  "id": "abbvie",
+  "name": "Robert A. Michael",
+  "company_id": "abbvie",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Indiana University",
+      "degree": "BS",
+      "field": "Accounting",
+      "year": null,
+      "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Abbott Laboratories",
+      "title": "Financial development program, then finance and operations roles across diagnostics, diabetes care and nutrition",
+      "start": null,
+      "end": "2013",
+      "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+    },
+    {
+      "organization": "AbbVie",
+      "title": "Senior finance roles, incl. building AbbVie's first financial planning organization",
+      "start": "2013",
+      "end": "2018",
+      "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+    },
+    {
+      "organization": "AbbVie",
+      "title": "Chief Financial Officer",
+      "start": "2018",
+      "end": "2021",
+      "source": "https://news.abbvie.com/2024-07-01-Robert-A-Michael-Assumes-Role-as-AbbVie-Chief-Executive-Officer"
+    },
+    {
+      "organization": "AbbVie",
+      "title": "Vice Chairman, Finance and Commercial Operations",
+      "start": "2021",
+      "end": "2022",
+      "source": "https://news.abbvie.com/2024-07-01-Robert-A-Michael-Assumes-Role-as-AbbVie-Chief-Executive-Officer"
+    },
+    {
+      "organization": "AbbVie",
+      "title": "Vice Chairman and President, later President and Chief Operating Officer",
+      "start": "2022",
+      "end": "2024",
+      "source": "https://news.abbvie.com/2024-07-01-Robert-A-Michael-Assumes-Role-as-AbbVie-Chief-Executive-Officer"
+    },
+    {
+      "organization": "AbbVie",
+      "title": "Chief Executive Officer (Chairman from July 2025)",
+      "start": "2024",
+      "end": null,
+      "source": "https://news.abbvie.com/2025-02-14-AbbVie-Appoints-CEO-Robert-A-Michael-as-Chairman-of-the-Board-of-Directors"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "Began in Abbott's financial development program and rose through finance to become AbbVie's CFO before moving into commercial and operating leadership.",
+  "tenure": {
+    "start": "2024-07-01",
+    "source": "https://news.abbvie.com/2024-07-01-Robert-A-Michael-Assumes-Role-as-AbbVie-Chief-Executive-Officer"
+  },
+  "notable": [
+    {
+      "date": "2025-02",
+      "type": "decision",
+      "summary": "AbbVie's board named Michael chairman effective July 1, 2025, succeeding founding CEO Richard Gonzalez, who retired from the board.",
+      "source": "https://news.abbvie.com/2025-02-14-AbbVie-Appoints-CEO-Robert-A-Michael-as-Chairman-of-the-Board-of-Directors"
+    },
+    {
+      "date": "2025-06",
+      "type": "decision",
+      "summary": "AbbVie agreed to acquire Capstan Therapeutics, a developer of in vivo CAR-T therapies for autoimmune diseases, for up to $2.1 billion.",
+      "source": "https://news.abbvie.com/2025-06-30-AbbVie-to-Acquire-Capstan-Therapeutics,-Further-Strengthening-Commitment-to-Transforming-Patient-Care-in-Immunology"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "AbbVie reached an agreement with the Trump administration to invest $100 billion in U.S. R&D and capital over a decade, lower Medicaid prices and offer drugs via TrumpRx, in exchange for tariff and pricing-mandate exemptions.",
+      "source": "https://news.abbvie.com/2026-01-12-AbbVie-and-Trump-Administration-Reach-Agreement-to-Improve-Access-and-Affordability-for-Americans"
+    },
+    {
+      "date": "2026-04",
+      "type": "decision",
+      "summary": "AbbVie selected North Carolina for a new $1.4 billion U.S. manufacturing campus.",
+      "source": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Graduation years for Indiana University (Kelley) and UCLA (Anderson) not found; degree type for the accounting bachelor's assumed BS (company bio says 'bachelor's degree in accounting').",
+    "Abbott start year not stated; company releases cite 'over 31 years' (July 2024) and 'over 32 years' (Feb 2025) of experience, implying a start around 1992-93. CNBC says nearly 20 years at Abbott.",
+    "Exact date he became President and COO not confirmed; combined with Vice Chairman and President (2022) in career.",
+    "No Wikipedia article and no long-form interview reachable; personal story limited to company bio."
+  ],
+  "personal_story": {
+    "hook": "Rob Michael started in Abbott's financial development program and spent three decades in finance and operations before becoming CEO.",
+    "summary": "Michael studied accounting at Indiana University's Kelley School of Business and later earned an MBA at UCLA Anderson. He began his career in Abbott's financial development program and worked across its diagnostics, diabetes care and nutrition businesses before the 2013 spin-off of AbbVie, where he built the company's first financial planning organization. He became CFO in 2018 and then took on commercial and operating roles before succeeding Richard Gonzalez as CEO in July 2024.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Member of Abbott's financial development program",
+        "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named AbbVie CFO in 2018, after building its first financial planning organization",
+        "source": "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html"
+      },
+      {
+        "label": "Other",
+        "value": "Nearly 20 years at Abbott, including oversight of molecular diagnostics and nutrition supply chain",
+        "source": "https://www.cnbc.com/2024/02/20/abbvie-taps-robert-michael-as-ceo-succeeding-richard-gonzalez.html"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.abbvie.com/who-we-are/our-leaders/robert-michael.html",
+      "https://news.abbvie.com/2024-07-01-Robert-A-Michael-Assumes-Role-as-AbbVie-Chief-Executive-Officer",
+      "https://www.cnbc.com/2024/02/20/abbvie-taps-robert-michael-as-ceo-succeeding-richard-gonzalez.html"
+    ]
+  },
+  "needs_enrichment": true
+}

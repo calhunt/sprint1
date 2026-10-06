@@ -1,0 +1,2710 @@
+{
+  "list": "2026 Fortune 500, ranks 1-100",
+  "generated": "2026-10-05",
+  "count": 100,
+  "companies": [
+    {
+      "id": "amazon",
+      "rank": 1,
+      "company": "Amazon",
+      "ticker": "AMZN",
+      "sector": "Retailing",
+      "industry": "Internet Services and Retailing",
+      "ceo": {
+        "names": [
+          "Andrew R. Jassy"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2021-07-05"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/amazon-com/fortune500/",
+        "https://www.fool.com/investing/2026/09/17/amazon-s-andy-jassy-just-made-a-startling-prediction/"
+      ]
+    },
+    {
+      "id": "walmart",
+      "rank": 2,
+      "company": "Walmart",
+      "ticker": "WMT",
+      "sector": "Retailing",
+      "industry": "General Merchandisers",
+      "ceo": {
+        "names": [
+          "John R. Furner"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-02-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Furner succeeded Doug McMillon Feb 1, 2026.",
+      "sources": [
+        "https://fortune.com/company/walmart/fortune500/",
+        "https://en.wikipedia.org/wiki/John_Furner",
+        "https://corporate.walmart.com/leadership/john-furner"
+      ]
+    },
+    {
+      "id": "unitedhealth-group",
+      "rank": 3,
+      "company": "UnitedHealth Group",
+      "ticker": "UNH",
+      "sector": "Health Care",
+      "industry": "Health Care: Insurance and Managed Care",
+      "ceo": {
+        "names": [
+          "Stephen J. Hemsley"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-05-13"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Hemsley returned as CEO May 2025 replacing Andrew Witty.",
+      "sources": [
+        "https://fortune.com/company/unitedhealth-group/fortune500/",
+        "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-22-uhg-provides-testimony-for-house-energy-commerce-ways-means-committee-hearings.html"
+      ]
+    },
+    {
+      "id": "apple",
+      "rank": 4,
+      "company": "Apple",
+      "ticker": "AAPL",
+      "sector": "Technology",
+      "industry": "Computers, Office Equipment",
+      "ceo": {
+        "names": [
+          "John Ternus"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-09-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: John Ternus succeeded Tim Cook as CEO effective Sept 1, 2026 (announced Apr 2026); Cook became executive chairman. Fortune page still lists Timothy D. Cook.",
+      "sources": [
+        "https://fortune.com/company/apple/fortune500/",
+        "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years",
+        "https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html"
+      ]
+    },
+    {
+      "id": "alphabet",
+      "rank": 5,
+      "company": "Alphabet",
+      "ticker": "GOOGL",
+      "sector": "Technology",
+      "industry": "Internet Services and Retailing",
+      "ceo": {
+        "names": [
+          "Sundar Pichai"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-12-03"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Also trades as GOOG.",
+      "sources": [
+        "https://fortune.com/company/alphabet/fortune500/",
+        "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/"
+      ]
+    },
+    {
+      "id": "cvs-health",
+      "rank": 6,
+      "company": "CVS Health",
+      "ticker": "CVS",
+      "sector": "Health Care",
+      "industry": "Health Care: Pharmacy and Other Services",
+      "ceo": {
+        "names": [
+          "J. David Joyner"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-10-17"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Joyner also became board chair Jan 2026.",
+      "sources": [
+        "https://fortune.com/company/cvs-health/fortune500/",
+        "https://www.cnbc.com/video/2026/05/06/cvs-health-ceo-david-joyner-our-aetna-business-got-off-track-but-weve-had-five-quarters-of-improvement.html"
+      ]
+    },
+    {
+      "id": "berkshire-hathaway",
+      "rank": 7,
+      "company": "Berkshire Hathaway",
+      "ticker": "BRK.A",
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Gregory E. Abel"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Abel succeeded Warren Buffett Jan 1, 2026 (Buffett remains chairman). Class B ticker BRK.B.",
+      "sources": [
+        "https://fortune.com/company/berkshire-hathaway/fortune500/",
+        "https://www.fool.com/investing/2026/01/02/with-warren-buffett-no-longer-ceo-at-berkshire-hat/"
+      ]
+    },
+    {
+      "id": "mckesson",
+      "rank": 8,
+      "company": "McKesson",
+      "ticker": "MCK",
+      "sector": "Health Care",
+      "industry": "Wholesalers: Health Care",
+      "ceo": {
+        "names": [
+          "Brian S. Tyler"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-04-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector mapped from Fortune 500 taxonomy (company page info block shows industry only; 'Sector' labels on page belong to Most Admired/Innovative lists).",
+      "sources": [
+        "https://fortune.com/company/mckesson/fortune500/",
+        "https://www.quiverquant.com/news/MCKESSON+CORP+($MCK)+CEO+2026+Pay+Revealed"
+      ]
+    },
+    {
+      "id": "exxon-mobil",
+      "rank": 9,
+      "company": "Exxon Mobil",
+      "ticker": "XOM",
+      "sector": "Energy",
+      "industry": "Petroleum Refining",
+      "ceo": {
+        "names": [
+          "Darren W. Woods"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2017-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No CEO change. Company redomiciled to Texas in 2026 and is now ExxonMobil Holdings Corporation (Fortune lists 'Exxon Mobil Holdings'); ticker remains XOM.",
+      "sources": [
+        "https://fortune.com/company/exxon-mobil/fortune500/",
+        "https://www.bloomberg.com/news/articles/2026-07-01/exxon-to-change-name-for-first-time-in-decades-after-redomicile",
+        "https://lng2026.com/speakers/darren-woods-1"
+      ]
+    },
+    {
+      "id": "cencora",
+      "rank": 10,
+      "company": "Cencora",
+      "ticker": "COR",
+      "sector": "Health Care",
+      "industry": "Wholesalers: Health Care",
+      "ceo": {
+        "names": [
+          "Robert P. Mauch"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-10-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector mapped from Fortune 500 taxonomy (company page info block shows industry only; 'Sector' labels on page belong to Most Admired/Innovative lists). Some summaries placed Cencora in 'Wholesalers'; medium certainty on sector.",
+      "sources": [
+        "https://fortune.com/company/amerisourcebergen/fortune500/",
+        "https://biospace.com/press-releases/cencora-announces-date-and-time-for-fourth-quarter-fiscal-2026-earnings-release"
+      ]
+    },
+    {
+      "id": "microsoft",
+      "rank": 11,
+      "company": "Microsoft",
+      "ticker": "MSFT",
+      "sector": "Technology",
+      "industry": "Computer Software",
+      "ceo": {
+        "names": [
+          "Satya Nadella"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2014-02-04"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/microsoft/fortune500/",
+        "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html"
+      ]
+    },
+    {
+      "id": "jpmorgan-chase",
+      "rank": 12,
+      "company": "JPMorgan Chase",
+      "ticker": "JPM",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "James Dimon"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2005-12-31"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; succession discussed but no transition announced.",
+      "sources": [
+        "https://fortune.com/company/jpmorgan-chase/fortune500/",
+        "https://www.bloomberg.com/news/articles/2026-09-09/jpmorgan-s-dimon-to-meet-with-uk-chancellor-as-bank-taxes-loom"
+      ]
+    },
+    {
+      "id": "costco-wholesale",
+      "rank": 13,
+      "company": "Costco Wholesale",
+      "ticker": "COST",
+      "sector": "Retailing",
+      "industry": "General Merchandisers",
+      "ceo": {
+        "names": [
+          "Ron M. Vachris"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/costco/fortune500/",
+        "https://fool.com/earnings/call-transcripts/2026/09/29/costco-cost-q4-2026-earnings-call-transcript"
+      ]
+    },
+    {
+      "id": "cigna-group",
+      "rank": 14,
+      "company": "Cigna Group",
+      "ticker": "CI",
+      "sector": "Health Care",
+      "industry": "Health Care: Pharmacy and Other Services",
+      "ceo": {
+        "names": [
+          "Brian Evanko"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Brian Evanko succeeded David Cordani as CEO effective July 1, 2026 (announced Mar 3, 2026); Cordani is executive chair.",
+      "sources": [
+        "https://fortune.com/company/cigna/fortune500/",
+        "https://newsroom.thecignagroup.com/2026-03-03-The-Cigna-Group-Announces-President-COO-Brian-Evanko-to-Succeed-David-M-Cordani-as-Chief-Executive-Officer"
+      ]
+    },
+    {
+      "id": "cardinal-health",
+      "rank": 15,
+      "company": "Cardinal Health",
+      "ticker": "CAH",
+      "sector": "Health Care",
+      "industry": "Wholesalers: Health Care",
+      "ceo": {
+        "names": [
+          "Jason M. Hollar"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-09-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector mapped from Fortune 500 taxonomy (company page info block shows industry only; 'Sector' labels on page belong to Most Admired/Innovative lists).",
+      "sources": [
+        "https://fortune.com/company/cardinal-health/fortune500/",
+        "https://kalkinemedia.com/us/news/announcements/cardinal-health-ceo-jason-hollar-discloses-sale-of-124529-shares-in-august-2026"
+      ]
+    },
+    {
+      "id": "nvidia",
+      "rank": 16,
+      "company": "Nvidia",
+      "ticker": "NVDA",
+      "sector": "Technology",
+      "industry": "Semiconductors and Other Electronic Components",
+      "ceo": {
+        "names": [
+          "Jensen Huang"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "1993-04"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; co-founder CEO since founding.",
+      "sources": [
+        "https://fortune.com/company/nvidia/fortune500/",
+        "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
+      ]
+    },
+    {
+      "id": "meta-platforms",
+      "rank": 17,
+      "company": "Meta Platforms",
+      "ticker": "META",
+      "sector": "Technology",
+      "industry": "Internet Services and Retailing",
+      "ceo": {
+        "names": [
+          "Mark Zuckerberg"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2004-07"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; founder CEO since 2004.",
+      "sources": [
+        "https://fortune.com/company/facebook/fortune500/",
+        "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
+      ]
+    },
+    {
+      "id": "elevance-health",
+      "rank": 18,
+      "company": "Elevance Health",
+      "ticker": "ELV",
+      "sector": "Health Care",
+      "industry": "Health Care: Insurance and Managed Care",
+      "ceo": {
+        "names": [
+          "Gail K. Boudreaux"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2017-11-06"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; CEO since Nov 2017 (then Anthem).",
+      "sources": [
+        "https://fortune.com/company/elevance-health/fortune500/",
+        "https://fortune.com/2026/07/31/elevance-healths-ceo-started-her-career-as-a-pro-basketball-player-now-shes-the-highest-ranking-woman-on-the-global-500-leading-a-199b-giant/"
+      ]
+    },
+    {
+      "id": "centene",
+      "rank": 19,
+      "company": "Centene",
+      "ticker": "CNC",
+      "sector": "Health Care",
+      "industry": "Health Care: Insurance and Managed Care",
+      "ceo": {
+        "names": [
+          "Sarah M. London"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-03-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/centene/fortune500/",
+        "https://fortune.com/2026/03/25/centene-ceo-sarah-london-medicaid-funding-cuts-rising-costs/"
+      ]
+    },
+    {
+      "id": "bank-of-america",
+      "rank": 20,
+      "company": "Bank of America",
+      "ticker": "BAC",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "Brian T. Moynihan"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2010-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; co-presidents named but Moynihan has said he will serve through the decade.",
+      "sources": [
+        "https://fortune.com/company/bank-of-america-corp/fortune500/",
+        "https://www.unifygtm.com/insights/executives/bank-of-america-ceo"
+      ]
+    },
+    {
+      "id": "chevron",
+      "rank": 21,
+      "company": "Chevron",
+      "ticker": "CVX",
+      "sector": "Energy",
+      "industry": "Petroleum Refining",
+      "ceo": {
+        "names": [
+          "Michael K. Wirth"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018-02-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; board waived mandatory retirement age; Oct 2026 exec reshuffle did not change CEO.",
+      "sources": [
+        "https://fortune.com/company/chevron/fortune500/",
+        "https://www.bnnbloomberg.ca/markets/oil/2026/10/05/chevron-names-jeff-gustavson-as-next-cfo/"
+      ]
+    },
+    {
+      "id": "ford-motor",
+      "rank": 22,
+      "company": "Ford Motor",
+      "ticker": "F",
+      "sector": "Motor Vehicles & Parts",
+      "industry": "Motor Vehicles & Parts",
+      "ceo": {
+        "names": [
+          "James D. Farley Jr."
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-10-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/ford-motor/fortune500/",
+        "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html"
+      ]
+    },
+    {
+      "id": "general-motors",
+      "rank": 23,
+      "company": "General Motors",
+      "ticker": "GM",
+      "sector": "Motor Vehicles & Parts",
+      "industry": "Motor Vehicles & Parts",
+      "ceo": {
+        "names": [
+          "Mary T. Barra"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2014-01-15"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; succession speculation (Sterling Anderson) but nothing announced.",
+      "sources": [
+        "https://fortune.com/company/general-motors/fortune500/",
+        "https://gmauthority.com/blog/2026/09/gm-ceo-mary-barra-still-has-more-to-give-before-retiring-video/"
+      ]
+    },
+    {
+      "id": "citigroup",
+      "rank": 24,
+      "company": "Citigroup",
+      "ticker": "C",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "Jane Fraser"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2021-03-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/citigroup/fortune500/",
+        "https://www.citigroup.com/global/news/press-release/2026/chair-and-ceo-jane-fraser-meets-with-senior-leadership-of-the-united-arab-emirates-to-reaffirm-citis-commitment-to-the-region"
+      ]
+    },
+    {
+      "id": "home-depot",
+      "rank": 25,
+      "company": "Home Depot",
+      "ticker": "HD",
+      "sector": "Retailing",
+      "industry": "Specialty Retailers",
+      "ceo": {
+        "names": [
+          "Edward P. (Ted) Decker"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-03-01"
+      },
+      "review": {
+        "ceo_confidence": "medium",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "Decker on temporary medical leave since Aug 12, 2026 (expected return 'within the next few months'); Ann-Marie Campbell (ops) and Richard McPhail (finance) providing interim oversight. No return or replacement found as of Oct 5, 2026; retains CEO title.",
+      "sources": [
+        "https://fortune.com/company/home-depot/fortune500/",
+        "https://ir.homedepot.com/news-releases/2026/08-12-2026-140442024"
+      ]
+    },
+    {
+      "id": "fannie-mae",
+      "rank": 26,
+      "company": "Fannie Mae",
+      "ticker": "FNMA",
+      "sector": "Financials",
+      "industry": "Diversified Financials",
+      "ceo": {
+        "names": [
+          "Peter Akwaboah"
+        ],
+        "co_ceo": false,
+        "interim": true,
+        "since": "2025-10-22"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Almodovar stepped down Oct 22, 2025; COO Peter Akwaboah is ACTING CEO (still acting per Aug 21, 2026 report; no permanent CEO found). Fortune page lists Akwaboah. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/fannie-mae/fortune500/",
+        "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes",
+        "https://www.scotsmanguide.com/news/fannie-mae-dismisses-senior-staff-in-another-leadership-purge/"
+      ]
+    },
+    {
+      "id": "kroger",
+      "rank": 27,
+      "company": "Kroger",
+      "ticker": "KR",
+      "sector": "Food & Drug Stores",
+      "industry": "Food & Drug Stores",
+      "ceo": {
+        "names": [
+          "Greg Foran"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-02-09"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Greg Foran (ex-Walmart US) named CEO Feb 9, 2026, replacing interim CEO Ron Sargent, who remains chairman. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/kroger/fortune500/",
+        "https://ir.kroger.com/news/news-details/2026/Kroger-Appoints-Greg-Foran-as-Chief-Executive-Officer/default.aspx"
+      ]
+    },
+    {
+      "id": "verizon-communications",
+      "rank": 28,
+      "company": "Verizon Communications",
+      "ticker": "VZ",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications",
+      "ceo": {
+        "names": [
+          "Dan Schulman"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-10-06"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Dan Schulman replaced Hans Vestberg Oct 6, 2025. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/verizon/fortune500/",
+        "https://www.verizon.com/about/news/verizon-announces-ceo-transition",
+        "https://www.semafor.com/article/04/30/2026/dan-schulman-verizon-ceo-on-ai-layoffs-and-punching-back"
+      ]
+    },
+    {
+      "id": "phillips-66",
+      "rank": 29,
+      "company": "Phillips 66",
+      "ticker": "PSX",
+      "sector": "Energy",
+      "industry": "Petroleum Refining",
+      "ceo": {
+        "names": [
+          "Mark Lashier"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune slug is 'phillips'. Oct 5, 2026 announcement concerns refining leadership only, not CEO. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/phillips/fortune500/",
+        "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000010/psx-20260401.htm"
+      ]
+    },
+    {
+      "id": "marathon-petroleum",
+      "rank": 30,
+      "company": "Marathon Petroleum",
+      "ticker": "MPC",
+      "sector": "Energy",
+      "industry": "Petroleum Refining",
+      "ceo": {
+        "names": [
+          "Maryann Mannen"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-08-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page (updated 7/28/26) lists Maryann T. Mannen. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/marathon-petroleum/fortune500/"
+      ]
+    },
+    {
+      "id": "stonex-group",
+      "rank": 31,
+      "company": "StoneX Group",
+      "ticker": "SNEX",
+      "sector": "Financials",
+      "industry": "Diversified Financials",
+      "ceo": {
+        "names": [
+          "Philip Smith"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": null
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page (updated 7/28/26) and 2026 insider filings name him CEO. Start date not confirmed. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/stonex-group/fortune500/",
+        "https://www.gurufocus.com/news/9102563/stonex-group-snex-ceo-philip-smith-sells-56250-shares"
+      ]
+    },
+    {
+      "id": "state-farm-insurance",
+      "rank": 32,
+      "company": "State Farm Insurance",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Mutual)",
+      "ceo": {
+        "names": [
+          "Jon Farney"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": null
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Mutual insurer, no ticker. Start date not confirmed. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/state-farm-insurance-cos/fortune500/",
+        "https://fortune.com/2026/05/15/state-farm-ceo-ai-california/"
+      ]
+    },
+    {
+      "id": "freddie-mac",
+      "rank": 33,
+      "company": "Freddie Mac",
+      "ticker": "FMCC",
+      "sector": "Financials",
+      "industry": "Diversified Financials",
+      "ceo": {
+        "names": [
+          "Kenny Smith"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-12-17"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Kenny M. Smith named CEO effective Dec 17, 2025; Hutchins (former interim CEO) remains president. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/freddie-mac/fortune500/",
+        "https://www.housingwire.com/articles/kenny-smith-freddie-mac-ceo/"
+      ]
+    },
+    {
+      "id": "humana",
+      "rank": 34,
+      "company": "Humana",
+      "ticker": "HUM",
+      "sector": "Health Care",
+      "industry": "Health Care: Insurance and Managed Care",
+      "ceo": {
+        "names": [
+          "Jim Rechtin"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/humana/fortune500/",
+        "https://www.ahip.org/news/articles/jim-rechtin-president-and-ceo-of-humana-elected-ahip-board-chair-for-2026"
+      ]
+    },
+    {
+      "id": "at-t",
+      "rank": 35,
+      "company": "AT&T",
+      "ticker": "T",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications",
+      "ceo": {
+        "names": [
+          "John Stankey"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page (updated 7/28/26) lists him. Also board chair. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/att/fortune500/"
+      ]
+    },
+    {
+      "id": "goldman-sachs-group",
+      "rank": 36,
+      "company": "Goldman Sachs Group",
+      "ticker": "GS",
+      "sector": "Financials",
+      "industry": "Banks: Commercial and Savings",
+      "ceo": {
+        "names": [
+          "David Solomon"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018-10-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Late Sept 2026 reports say board is discussing succession to COO John Waldron (possibly 2027-2028); not officially announced. Fortune industry label differs from Wells/MS ('Commercial Banks'). Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/goldman-sachs-group/fortune500/",
+        "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html"
+      ]
+    },
+    {
+      "id": "comcast",
+      "rank": 37,
+      "company": "Comcast",
+      "ticker": "CMCSA",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications",
+      "ceo": {
+        "names": [
+          "Brian Roberts",
+          "Mike Cavanagh"
+        ],
+        "co_ceo": true,
+        "interim": false,
+        "since": "2026-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Mike Cavanagh became co-CEO alongside Roberts in January 2026 (announced Sep 29, 2025). Roberts has been CEO since 2002; date is for the co-CEO arrangement. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/comcast/fortune500/",
+        "https://www.cmcsa.com/news-releases/news-release-details/comcast-corporations-mike-cavanagh-join-brian-roberts-co-chief"
+      ]
+    },
+    {
+      "id": "wells-fargo",
+      "rank": 38,
+      "company": "Wells Fargo",
+      "ticker": "WFC",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "Charles Scharf"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-10-21"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; also chairman. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/wells-fargo/fortune500/",
+        "https://www.cnbc.com/video/2026/09/09/wells-fargo-ceo-charlie-scharf-on-dealmaking-now-is-the-time-to-get-it-done.html"
+      ]
+    },
+    {
+      "id": "morgan-stanley",
+      "rank": 39,
+      "company": "Morgan Stanley",
+      "ticker": "MS",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "Edward Pick"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change (Ted Pick). Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/morgan-stanley/fortune500/",
+        "https://www.morganstanley.com/insights/articles/ted-pick-q1-2026-earnings-bloomberg"
+      ]
+    },
+    {
+      "id": "valero-energy",
+      "rank": 40,
+      "company": "Valero Energy",
+      "ticker": "VLO",
+      "sector": "Energy",
+      "industry": "Petroleum Refining",
+      "ceo": {
+        "names": [
+          "Lane Riggs"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2023-06-30"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Jan 27, 2026 letter signed as Chairman, President and CEO. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/valero-energy/fortune500/",
+        "https://casten.house.gov/imo/media/doc/Valero_%20Congressional%20Letter%20Regarding%20Potential%20Operations%20in%20Venezuela.pdf"
+      ]
+    },
+    {
+      "id": "dell-technologies",
+      "rank": 41,
+      "company": "Dell Technologies",
+      "ticker": "DELL",
+      "sector": "Technology",
+      "industry": "Computers, Office Equipment",
+      "ceo": {
+        "names": [
+          "Michael Dell"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2007-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. ceo_since is his return as CEO (founder; earlier stint 1984-2004). Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/dell-technologies/fortune500/",
+        "https://siliconangle.com/2026/05/19/five-takeaways-michael-dells-keynote-dell-technologies-world-2026/"
+      ]
+    },
+    {
+      "id": "target",
+      "rank": 42,
+      "company": "Target",
+      "ticker": "TGT",
+      "sector": "Retailing",
+      "industry": "General Merchandisers",
+      "ceo": {
+        "names": [
+          "Michael Fiddelke"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-02-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change vs listed; he succeeded Brian Cornell Feb 1, 2026. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/target/fortune500/",
+        "https://fashionunited.com/news/people/michael-fiddelke-to-lead-target-as-new-ceo-starting-february-2026/2025082067805"
+      ]
+    },
+    {
+      "id": "tesla",
+      "rank": 43,
+      "company": "Tesla",
+      "ticker": "TSLA",
+      "sector": "Motor Vehicles & Parts",
+      "industry": "Motor Vehicles & Parts",
+      "ceo": {
+        "names": [
+          "Elon Musk"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2008-10"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/tesla/fortune500/",
+        "https://www.bloomberg.com/news/articles/2026-09-12/tesla-teases-oct-1-event-to-showcase-next-generation-roadster"
+      ]
+    },
+    {
+      "id": "walt-disney",
+      "rank": 44,
+      "company": "Walt Disney",
+      "ticker": "DIS",
+      "sector": "Media",
+      "industry": "Entertainment",
+      "ceo": {
+        "names": [
+          "Josh D'Amaro"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-03-18"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGED: Josh D'Amaro (ex-parks chief) succeeded Bob Iger in March 2026 (named Feb 3, 2026; took over at the March 18 annual meeting per CNBC). Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/disney/fortune500/",
+        "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
+        "https://variety.com/2026/tv/news/bob-iger-disney-ceo-exit-josh-damaro-shareholder-meeting-1236692268/"
+      ]
+    },
+    {
+      "id": "johnson-johnson",
+      "rank": 45,
+      "company": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "Joaquin Duato"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-01-03"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Sept 2026 PepsiCo release still names him J&J CEO. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/johnson-johnson/fortune500/",
+        "https://www.pepsico.com/en/newsroom/press-releases/2026/pepsico-elects-joaquin-duato-to-board-of-directors"
+      ]
+    },
+    {
+      "id": "pepsico",
+      "rank": 46,
+      "company": "PepsiCo",
+      "ticker": "PEP",
+      "sector": "Food, Beverages & Tobacco",
+      "industry": "Food Consumer Products",
+      "ceo": {
+        "names": [
+          "Ramon Laguarta"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018-10-03"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page (updated 7/28/26) lists him. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/pepsico/fortune500/",
+        "https://www.unifygtm.com/insights/executives/pepsico-ceo"
+      ]
+    },
+    {
+      "id": "boeing",
+      "rank": 47,
+      "company": "Boeing",
+      "ticker": "BA",
+      "sector": "Aerospace & Defense",
+      "industry": "Aerospace & Defense",
+      "ceo": {
+        "names": [
+          "Kelly Ortberg"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-08-08"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change (Robert K. Ortberg). Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/boeing/fortune500/",
+        "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html"
+      ]
+    },
+    {
+      "id": "ups",
+      "rank": 48,
+      "company": "UPS",
+      "ticker": "UPS",
+      "sector": "Transportation",
+      "industry": "Mail, Package, and Freight Delivery",
+      "ceo": {
+        "names": [
+          "Carol Tome"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-06-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Aug 31, 2026 exec reshuffle kept Tome as CEO. Fortune slug 'ups'. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/ups/fortune500/",
+        "https://about.ups.com/us/en/newsroom/press-releases/our-strategy/ups-announces-executive-leadership-changes-and-new-global-operat.html"
+      ]
+    },
+    {
+      "id": "rtx",
+      "rank": 49,
+      "company": "RTX",
+      "ticker": "RTX",
+      "sector": "Aerospace & Defense",
+      "industry": "Aerospace & Defense",
+      "ceo": {
+        "names": [
+          "Christopher Calio"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-05-02"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune slug 'raytheon-technologies'. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/raytheon-technologies/fortune500/",
+        "https://www.rtx.com/news/news-center/2026/09/01/rtx-chairman-and-ceo-to-present-at-the-morgan-stanley-14th-annual-laguna-conferen"
+      ]
+    },
+    {
+      "id": "fedex",
+      "rank": 50,
+      "company": "FedEx",
+      "ticker": "FDX",
+      "sector": "Transportation",
+      "industry": "Mail, Package, and Freight Delivery",
+      "ceo": {
+        "names": [
+          "Rajesh Subramaniam"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-06-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Sector inferred from Fortune's standard 500 sector for this industry (company page shows no Fortune 500 sector field).",
+      "sources": [
+        "https://fortune.com/company/fedex/fortune500/",
+        "https://fortune.com/2026/08/27/fedex-ceo-raj-subramaniam-supply-chain-reglobalization-tariffs-iran/"
+      ]
+    },
+    {
+      "id": "progressive",
+      "rank": 51,
+      "company": "Progressive",
+      "ticker": "PGR",
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Susan Patricia (Tricia) Griffith"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2016-07"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; on Fortune Most Powerful Women 2026.",
+      "sources": [
+        "https://fortune.com/company/progressive/fortune500/",
+        "https://fortune.com/ranking/most-powerful-women/2026/tricia-griffith/"
+      ]
+    },
+    {
+      "id": "lowe-s",
+      "rank": 52,
+      "company": "Lowe's",
+      "ticker": "LOW",
+      "sector": "Retailing",
+      "industry": "Specialty Retailers",
+      "ceo": {
+        "names": [
+          "Marvin R. Ellison"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018-07"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune page shows industry as 'Specialty Retailers'.",
+      "sources": [
+        "https://fortune.com/company/lowes/fortune500/",
+        "https://www.cnbc.com/video/2026/04/14/watch-cnbcs-full-interview-with-lowes-ceo-marvin-ellison.html"
+      ]
+    },
+    {
+      "id": "energy-transfer",
+      "rank": 53,
+      "company": "Energy Transfer",
+      "ticker": "ET",
+      "sector": "Energy",
+      "industry": "Pipelines",
+      "ceo": {
+        "names": [
+          "Thomas E. Long",
+          "Marshall S. McCrea III"
+        ],
+        "co_ceo": true,
+        "interim": false,
+        "since": "2021-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "Listed name omitted co-CEO McCrea. Announced (June 2026): McCrea retires Dec 31, 2026, Long becomes sole CEO; not yet effective. Fortune slug is energy-transfer-equity.",
+      "sources": [
+        "https://fortune.com/company/energy-transfer-equity/fortune500/",
+        "https://www.tradingview.com/news/tradingview:9e54249d18621:0-marshall-mccrea-to-retire-from-energy-transfer-thomas-long-to-become-sole-ceo/",
+        "https://marcellusdrilling.com/2026/06/energy-transfer-announces-dec-31-retirement-of-co-ceo-mccrea/"
+      ]
+    },
+    {
+      "id": "procter-gamble",
+      "rank": 54,
+      "company": "Procter & Gamble",
+      "ticker": "PG",
+      "sector": "Household Products",
+      "industry": "Household and Personal Products",
+      "ceo": {
+        "names": [
+          "Shailesh Jejurikar"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: Jejurikar succeeded Jon Moeller as CEO effective Jan 1, 2026; Moeller became executive chairman. Listed name stale.",
+      "sources": [
+        "https://fortune.com/company/procter-gamble/fortune500/",
+        "https://www.globalcosmeticsnews.com/pg-names-shailesh-jejurikar-as-next-ceo-effective-january-2026/"
+      ]
+    },
+    {
+      "id": "sysco",
+      "rank": 55,
+      "company": "Sysco",
+      "ticker": "SYY",
+      "sector": "Wholesalers",
+      "industry": "Wholesalers: Food and Grocery",
+      "ceo": {
+        "names": [
+          "Kevin P. Hourican"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-02"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/sysco/fortune500/",
+        "https://www.cnbc.com/2026/08/11/sysco-ceo-confident-restaurant-depot-takeover-approved.html"
+      ]
+    },
+    {
+      "id": "american-express",
+      "rank": 56,
+      "company": "American Express",
+      "ticker": "AXP",
+      "sector": "Financials",
+      "industry": "Diversified Financials",
+      "ceo": {
+        "names": [
+          "Stephen J. Squeri"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018-02"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/american-express/fortune500/",
+        "https://fortune.com/2026/05/11/american-express-amex-stephen-squeri-bonus-incentives/"
+      ]
+    },
+    {
+      "id": "albertsons",
+      "rank": 57,
+      "company": "Albertsons",
+      "ticker": "ACI",
+      "sector": "Food & Drug Stores",
+      "industry": "Food & Drug Stores",
+      "ceo": {
+        "names": [
+          "Susan D. Morris"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-05"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune slug is albertsons-cos; sector inferred from Fortune 500 taxonomy (page showed no sector line).",
+      "sources": [
+        "https://fortune.com/company/albertsons-cos/fortune500/",
+        "https://www.grocerydive.com/news/albertsons-ceo-susan-morris-one-year-grocery-supermarkets/818900/"
+      ]
+    },
+    {
+      "id": "archer-daniels-midland",
+      "rank": 58,
+      "company": "Archer Daniels Midland",
+      "ticker": "ADM",
+      "sector": "Food, Beverages & Tobacco",
+      "industry": "Food Production",
+      "ceo": {
+        "names": [
+          "Juan R. Luciano"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2015-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; described as Chair & CEO on Oct 3, 2026.",
+      "sources": [
+        "https://fortune.com/company/archer-daniels-midland/fortune500/",
+        "https://therightnews.in/2026/10/03/union-minister-piyush-goyal-meets-chair-of-board-ceo-of-adm-juan-ricardo-luciano-in-chicago"
+      ]
+    },
+    {
+      "id": "metlife",
+      "rank": 59,
+      "company": "MetLife",
+      "ticker": "MET",
+      "sector": "Financials",
+      "industry": "Insurance: Life, Health (stock)",
+      "ceo": {
+        "names": [
+          "Michel A. Khalaf"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-05"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/metlife/fortune500/",
+        "https://www.metlife.com/about-us/corporate-governance/our-executive-leadership-team/michel-a-khalaf/"
+      ]
+    },
+    {
+      "id": "hca-healthcare",
+      "rank": 60,
+      "company": "HCA Healthcare",
+      "ticker": "HCA",
+      "sector": "Health Care",
+      "industry": "Health Care: Medical Facilities",
+      "ceo": {
+        "names": [
+          "Samuel N. Hazen"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune slug is hca-holdings.",
+      "sources": [
+        "https://fortune.com/company/hca-holdings/fortune500/",
+        "https://magazine.hcahealthcare.com/messages-from-the-ceo/a-conversation-with-the-ceo-2026/"
+      ]
+    },
+    {
+      "id": "lockheed-martin",
+      "rank": 61,
+      "company": "Lockheed Martin",
+      "ticker": "LMT",
+      "sector": "Aerospace & Defense",
+      "industry": "Aerospace & Defense",
+      "ceo": {
+        "names": [
+          "James D. Taiclet"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-06"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/lockheed-martin/fortune500/",
+        "https://www.foxbusiness.com/media/lockheed-martin-ceo-company-pouring-billion-missile-output-after-trump-defense-push"
+      ]
+    },
+    {
+      "id": "new-york-life-insurance",
+      "rank": 62,
+      "company": "New York Life Insurance",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Life, Health (Mutual)",
+      "ceo": {
+        "names": [
+          "Craig L. DeSanto"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-04"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; mutual insurer, no ticker. CEO confirmed via 2026 Fortune 500 page.",
+      "sources": [
+        "https://fortune.com/company/new-york-life-insurance/fortune500/",
+        "https://www.linkedin.com/posts/newyorklife_craig-desanto-assumes-new-york-life-chief-activity-6921910015414964224-PyT1"
+      ]
+    },
+    {
+      "id": "capital-one-financial",
+      "rank": 63,
+      "company": "Capital One Financial",
+      "ticker": "COF",
+      "sector": "Financials",
+      "industry": "Commercial Banks",
+      "ceo": {
+        "names": [
+          "Richard D. Fairbank"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "1994-11"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Founder; ceo_since is spin-off from Signet (1994), from memory.",
+      "sources": [
+        "https://fortune.com/company/capital-one-financial/fortune500/",
+        "https://www.bankingdive.com/news/capital-one-ceo-fairbank-pay-compensation/811709/"
+      ]
+    },
+    {
+      "id": "allstate",
+      "rank": 64,
+      "company": "Allstate",
+      "ticker": "ALL",
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Thomas J. Wilson"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2007-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/allstate/fortune500/",
+        "https://www.insurancejournal.com/news/national/2026/02/06/857245.htm"
+      ]
+    },
+    {
+      "id": "caterpillar",
+      "rank": 65,
+      "company": "Caterpillar",
+      "ticker": "CAT",
+      "sector": "Industrials",
+      "industry": "Construction and Farm Machinery",
+      "ceo": {
+        "names": [
+          "Joseph E. Creed"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-05"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; also elected chairman in 2026.",
+      "sources": [
+        "https://fortune.com/company/caterpillar/fortune500/",
+        "https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Chief-Executive-Officer-Joe-Creed-Elected-Chairman-of-the-Board/default.aspx"
+      ]
+    },
+    {
+      "id": "ibm",
+      "rank": 66,
+      "company": "IBM",
+      "ticker": "IBM",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "ceo": {
+        "names": [
+          "Arvind Krishna"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-04-06"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/ibm/fortune500/",
+        "https://newsroom.ibm.com/2026-05-04-media-alert-ibm-ceo-arvind-krishna-to-open-ibm-think-2026,-outlining-how-ai-and-quantum-will-define-the-enterprise"
+      ]
+    },
+    {
+      "id": "eli-lilly",
+      "rank": 67,
+      "company": "Eli Lilly",
+      "ticker": "LLY",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "David A. Ricks"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2017-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/eli-lilly/fortune500/",
+        "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-offers-investors-3-more-reasons-to-stick-with-the-stock.html"
+      ]
+    },
+    {
+      "id": "merck",
+      "rank": 68,
+      "company": "Merck",
+      "ticker": "MRK",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "Robert M. Davis"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2021-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/merck/fortune500/",
+        "https://www.cnbc.com/2026/08/04/merck-ceo-pipeline-built-offset-keytruda-patent-expiration.html"
+      ]
+    },
+    {
+      "id": "nationwide",
+      "rank": 69,
+      "company": "Nationwide",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Mutual)",
+      "ceo": {
+        "names": [
+          "Kirt A. Walker"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-10"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; mutual, no ticker. CEO confirmed via 2026 Fortune 500 page; Nationwide 2026 newsroom items still tag him (no title shown).",
+      "sources": [
+        "https://fortune.com/company/nationwide/fortune500/",
+        "https://www.carriermanagement.com/news/2019/06/05/194172.htm"
+      ]
+    },
+    {
+      "id": "broadcom",
+      "rank": 70,
+      "company": "Broadcom",
+      "ticker": "AVGO",
+      "sector": "Technology",
+      "industry": "Semiconductors and Other Electronic Components",
+      "ceo": {
+        "names": [
+          "Hock E. Tan"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2006-03"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/broadcom/fortune500/",
+        "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html"
+      ]
+    },
+    {
+      "id": "delta-air-lines",
+      "rank": 71,
+      "company": "Delta Air Lines",
+      "ticker": "DAL",
+      "sector": "Transportation",
+      "industry": "Airlines",
+      "ceo": {
+        "names": [
+          "Edward H. Bastian"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2016-05"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. March 2026 reshuffle named Peter Carter president (reports to Bastian); no CEO succession announced.",
+      "sources": [
+        "https://fortune.com/company/delta-air-lines/fortune500/",
+        "https://www.wsbtv.com/news/local/delta-air-lines-shakes-up-executive-leadership/IWUPXDDQCBDUVEXPLNYTMWUMMM/"
+      ]
+    },
+    {
+      "id": "publix-super-markets",
+      "rank": 72,
+      "company": "Publix Super Markets",
+      "ticker": null,
+      "sector": "Food & Drug Stores",
+      "industry": "Food & Drug Stores",
+      "ceo": {
+        "names": [
+          "Kevin S. Murphy"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Employee-owned; stock not exchange-traded, so ticker null.",
+      "sources": [
+        "https://fortune.com/company/publix-super-markets/fortune500/",
+        "https://corporate.publix.com/newsroom/news-stories/11172023---publix-announces-executive-chairman-ceo-and-president",
+        "https://www.andnowuknow.com/quick-dish/publix-reports-second-quarter-2026-results-and-stock-price-kevin-murphy/anuk-staff/106058"
+      ]
+    },
+    {
+      "id": "pfizer",
+      "rank": 73,
+      "company": "Pfizer",
+      "ticker": "PFE",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "Albert Bourla"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2019-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; no succession announcement found.",
+      "sources": [
+        "https://fortune.com/company/pfizer/fortune500/",
+        "https://www.fiercepharma.com/pharma/pfizer-ceo-bourla-collects-275m-25-pay-after-spearheading-mfn-deal-metsera-buy"
+      ]
+    },
+    {
+      "id": "td-synnex",
+      "rank": 74,
+      "company": "TD Synnex",
+      "ticker": "SNX",
+      "sector": "Wholesalers",
+      "industry": "Wholesalers: Electronics and Office Equipment",
+      "ceo": {
+        "names": [
+          "Patrick Zammit"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-09-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune slug is synnex.",
+      "sources": [
+        "https://fortune.com/company/synnex/fortune500/",
+        "https://digitalcommerce360.com/2026/09/28/td-synnex-posts-record-q3-revenue-of-21-6-billion-as-hyve-more-than-doubles"
+      ]
+    },
+    {
+      "id": "conocophillips",
+      "rank": 75,
+      "company": "ConocoPhillips",
+      "ticker": "COP",
+      "sector": "Energy",
+      "industry": "Mining, Crude-Oil Production",
+      "ceo": {
+        "names": [
+          "Andy O'Brien"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-09-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: Andy O'Brien (ex-CFO/EVP strategy & commercial) became president & CEO effective Sept 1, 2026; Lance is now transitional executive chair. Fortune company page still lists Lance.",
+      "sources": [
+        "https://fortune.com/company/conocophillips/fortune500/",
+        "https://fortune.com/2026/08/06/conocophillips-ceo-ryan-lance-steps-down/",
+        "https://worldoil.com/news/2026/8/6/conocophillips-announces-ceo-succession-lance-to-retire-after-14-years/"
+      ]
+    },
+    {
+      "id": "galaxy-digital",
+      "rank": 76,
+      "company": "Galaxy Digital",
+      "ticker": "GLXY",
+      "sector": "Financials",
+      "industry": "Diversified Financials",
+      "ceo": {
+        "names": [
+          "Michael Novogratz"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2018"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune page shows industry only; sector 'Financials' inferred from industry. ceo_since = founding year (approx).",
+      "sources": [
+        "https://fortune.com/company/galaxy-digital/fortune500/",
+        "https://dailyhodl.com/2026/08/15/u-s-fiscal-deficits-keep-galaxy-digital-ceo-mike-novogratz-bullish-on-bitcoin/amp/"
+      ]
+    },
+    {
+      "id": "abbvie",
+      "rank": 77,
+      "company": "AbbVie",
+      "ticker": "ABBV",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "Robert A. Michael"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-07-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; confirmed on Fortune page (2026 data).",
+      "sources": [
+        "https://fortune.com/company/abbvie/fortune500/"
+      ]
+    },
+    {
+      "id": "prudential-financial",
+      "rank": 78,
+      "company": "Prudential Financial",
+      "ticker": "PRU",
+      "sector": "Financials",
+      "industry": "Insurance: Life, Health (stock)",
+      "ceo": {
+        "names": [
+          "Andrew F. Sullivan"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-03-31"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; also named chairman in March 2026.",
+      "sources": [
+        "https://fortune.com/company/prudential-financial/fortune500/",
+        "https://investor.prudential.com/news/news-details/2026/Prudential-Financial-Board-of-Directors-Appoints-Chief-Executive-Officer-Andrew-Sullivan-as-Chairman/default.aspx"
+      ]
+    },
+    {
+      "id": "tjx",
+      "rank": 79,
+      "company": "TJX",
+      "ticker": "TJX",
+      "sector": "Retailing",
+      "industry": "Specialty Retailers",
+      "ceo": {
+        "names": [
+          "Ernie L. Herrman"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2016-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Fortune page industry reads 'Specialty Retailers' (page's 'Stores and Distributors' sector label is from the Most Admired block; F500 sector assumed Retailing).",
+      "sources": [
+        "https://fortune.com/company/tjx/fortune500/"
+      ]
+    },
+    {
+      "id": "performance-food-group",
+      "rank": 80,
+      "company": "Performance Food Group",
+      "ticker": "PFGC",
+      "sector": "Wholesalers",
+      "industry": "Wholesalers: Food and Grocery",
+      "ceo": {
+        "names": [
+          "Scott E. McPherson"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: McPherson succeeded George Holm (now executive chairman) effective Jan 1, 2026. Fortune page sector extraction said 'Retailing', which conflicts with the industry; sector set to Wholesalers, verify.",
+      "sources": [
+        "https://fortune.com/company/performance-food-group/fortune500/",
+        "https://virginiabusiness.com/performance-food-group-scott-mcpherson-ceo-succession/"
+      ]
+    },
+    {
+      "id": "united-airlines-holdings",
+      "rank": 81,
+      "company": "United Airlines Holdings",
+      "ticker": "UAL",
+      "sector": "Transportation",
+      "industry": "Airlines",
+      "ceo": {
+        "names": [
+          "J. Scott Kirby"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2020-05-20"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page updated 7/28/26.",
+      "sources": [
+        "https://fortune.com/company/united-continental-holdings/fortune500/"
+      ]
+    },
+    {
+      "id": "oracle",
+      "rank": 82,
+      "company": "Oracle",
+      "ticker": "ORCL",
+      "sector": "Technology",
+      "industry": "Computer Software",
+      "ceo": {
+        "names": [
+          "Clay Magouyrk",
+          "Mike Sicilia"
+        ],
+        "co_ceo": true,
+        "interim": false,
+        "since": "2025-09-22"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: co-CEOs Magouyrk and Sicilia replaced Safra Catz (now executive vice chair), announced Sept 22, 2025. Fortune page lists both.",
+      "sources": [
+        "https://fortune.com/company/oracle/fortune500/",
+        "https://techcrunch.com/2025/09/22/oracle-promotes-two-presidents-to-co-ceo-role"
+      ]
+    },
+    {
+      "id": "cisco-systems",
+      "rank": 83,
+      "company": "Cisco Systems",
+      "ticker": "CSCO",
+      "sector": "Technology",
+      "industry": "Network and Other Communications Equipment",
+      "ceo": {
+        "names": [
+          "Charles H. Robbins"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2015-07-26"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/cisco-systems/fortune500/"
+      ]
+    },
+    {
+      "id": "hp",
+      "rank": 84,
+      "company": "HP",
+      "ticker": "HPQ",
+      "sector": "Technology",
+      "industry": "Computers, Office Equipment",
+      "ceo": {
+        "names": [
+          "Bruce Broussard"
+        ],
+        "co_ceo": false,
+        "interim": true,
+        "since": "2026-02-03"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: Lores left Feb 3, 2026 (to become PayPal CEO); board member Bruce Broussard is INTERIM CEO. CEO search ongoing; no permanent CEO found as of Oct 2026.",
+      "sources": [
+        "https://fortune.com/company/hp/fortune500/",
+        "https://www.nasdaq.com/articles/hp-names-bruce-broussard-interim-ceo-enrique-lores-steps-down-reaffirms-q1-fy26-outlook"
+      ]
+    },
+    {
+      "id": "charter-communications",
+      "rank": 85,
+      "company": "Charter Communications",
+      "ticker": "CHTR",
+      "sector": "Telecommunications",
+      "industry": "Telecommunications",
+      "ceo": {
+        "names": [
+          "Christopher L. Winfrey"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-12-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No CEO change. Charter closed Cox merger Aug 20, 2026; parent to be renamed Cox Communications within a year; ticker CHTR unchanged for now.",
+      "sources": [
+        "https://fortune.com/company/charter-communications/fortune500/",
+        "https://www.prnewswire.com/news-releases/charter-and-cox-communications-complete-transaction-benefiting-customers-local-communities-employees-and-shareholders-302855936.html"
+      ]
+    },
+    {
+      "id": "american-airlines-group",
+      "rank": 86,
+      "company": "American Airlines Group",
+      "ticker": "AAL",
+      "sector": "Transportation",
+      "industry": "Airlines",
+      "ceo": {
+        "names": [
+          "Robert D. Isom"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2022-03-31"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; still CEO Sept 2026 amid pilot-union pressure.",
+      "sources": [
+        "https://fortune.com/company/american-airlines-group/fortune500/",
+        "https://www.forbes.com/sites/tedreed/2026/09/16/american-airlines-is-upgrading-but-pilots-say-it-needs-a-new-ceo/"
+      ]
+    },
+    {
+      "id": "tyson-foods",
+      "rank": 87,
+      "company": "Tyson Foods",
+      "ticker": "TSN",
+      "sector": "Food, Beverages & Tobacco",
+      "industry": "Food Production",
+      "ceo": {
+        "names": [
+          "Jeff Schomburger"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-10-04"
+      },
+      "review": {
+        "ceo_confidence": "medium",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "CHANGE: Schomburger succeeded Donnie King effective Oct 4, 2026 (announced May 28, 2026). Effective date was yesterday; no post-effective confirmation found yet, though Fortune page already lists him.",
+      "sources": [
+        "https://fortune.com/company/tyson-foods/fortune500/",
+        "https://www.tysonfoods.com/news/news-releases/2026/5/jeff-schomburger-succeeding-donnie-king-CEO"
+      ]
+    },
+    {
+      "id": "intel",
+      "rank": 88,
+      "company": "Intel",
+      "ticker": "INTC",
+      "sector": "Technology",
+      "industry": "Semiconductors and Other Electronic Components",
+      "ceo": {
+        "names": [
+          "Lip-Bu Tan"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-03-18"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/intel/fortune500/",
+        "https://www.fool.com/investing/2026/09/27/intel-ceo-lip-bu-tan-has-incredible-news-for-amd-stock-investors/"
+      ]
+    },
+    {
+      "id": "enterprise-products-partners",
+      "rank": 89,
+      "company": "Enterprise Products Partners",
+      "ticker": "EPD",
+      "sector": "Energy",
+      "industry": "Pipelines",
+      "ceo": {
+        "names": [
+          "A. James Teague",
+          "W. Randall Fowler"
+        ],
+        "co_ceo": true,
+        "interim": false,
+        "since": "2020-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "Listed name incomplete: co-CEOs Teague and Fowler. ANNOUNCED: Teague retires Jan 4, 2027, when Fowler becomes sole CEO.",
+      "sources": [
+        "https://fortune.com/company/enterprise-products-partners/fortune500/",
+        "https://www.lpgasmagazine.com/enterprise-products-names-fowler-sole-ceo-as-teague-retires/"
+      ]
+    },
+    {
+      "id": "ingram-micro-holding",
+      "rank": 90,
+      "company": "Ingram Micro Holding",
+      "ticker": "INGM",
+      "sector": "Wholesalers",
+      "industry": "Wholesalers: Electronics and Office Equipment",
+      "ceo": {
+        "names": [
+          "Paul D. Bay"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": null
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. ceo_since not confirmed.",
+      "sources": [
+        "https://fortune.com/company/ingram-micro/fortune500/",
+        "https://telecomreseller.com/2026/09/30/ingram-micro-adds-msp-501-recognition-to-its-2026-channel-awards"
+      ]
+    },
+    {
+      "id": "general-dynamics",
+      "rank": 91,
+      "company": "General Dynamics",
+      "ticker": "GD",
+      "sector": "Aerospace & Defense",
+      "industry": "Aerospace and Defense",
+      "ceo": {
+        "names": [
+          "Phebe N. Novakovic"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2013-01-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page updated 9/29/26. (Oct 2026 GDIT president change is a unit-level move, not CEO.)",
+      "sources": [
+        "https://fortune.com/company/general-dynamics/fortune500/"
+      ]
+    },
+    {
+      "id": "uber-technologies",
+      "rank": 92,
+      "company": "Uber Technologies",
+      "ticker": "UBER",
+      "sector": "Technology",
+      "industry": "Internet Services and Retailing",
+      "ceo": {
+        "names": [
+          "Dara Khosrowshahi"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2017-09"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/uber-technologies/fortune500/"
+      ]
+    },
+    {
+      "id": "usaa",
+      "rank": 93,
+      "company": "USAA",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Juan C. Andrade"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2025-04-02"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Member-owned; no public ticker.",
+      "sources": [
+        "https://fortune.com/company/usaa/fortune500/",
+        "https://fortune.com/2026/03/01/usaa-ceo-juan-andrade-gen-z-not-as-well-off-as-boomers-gen-x-take-ownership-success/"
+      ]
+    },
+    {
+      "id": "tiaa",
+      "rank": 94,
+      "company": "TIAA",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Life, Health (Mutual)",
+      "ceo": {
+        "names": [
+          "Thasunda Brown Duckett"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2021-05-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. No public ticker.",
+      "sources": [
+        "https://fortune.com/company/tiaa/fortune500/",
+        "https://fortune.com/2026/06/19/work-life-balance-lie-tiaa-ceo-thasunda-brown-duckett-broke-down-long-day-found-better-way-think-about-it/"
+      ]
+    },
+    {
+      "id": "liberty-mutual-insurance-group",
+      "rank": 95,
+      "company": "Liberty Mutual Insurance Group",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Timothy M. Sweeney"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": null
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change. Mutual holding company; no public ticker. ceo_since not confirmed.",
+      "sources": [
+        "https://fortune.com/company/liberty-mutual-insurance-group/fortune500/",
+        "https://www.carriermanagement.com/news/2026/03/06/285350.htm"
+      ]
+    },
+    {
+      "id": "travelers",
+      "rank": 96,
+      "company": "Travelers",
+      "ticker": "TRV",
+      "sector": "Financials",
+      "industry": "Insurance: Property and Casualty (Stock)",
+      "ceo": {
+        "names": [
+          "Alan D. Schnitzer"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2015-12-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change; Fortune page updated 7/28/26.",
+      "sources": [
+        "https://fortune.com/company/travelers-cos/fortune500/"
+      ]
+    },
+    {
+      "id": "bristol-myers-squibb",
+      "rank": 97,
+      "company": "Bristol-Myers Squibb",
+      "ticker": "BMY",
+      "sector": "Health Care",
+      "industry": "Pharmaceuticals",
+      "ceo": {
+        "names": [
+          "Christopher S. Boerner"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2023-11-01"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/bristol-myers-squibb/fortune500/",
+        "https://www.cnbc.com/video/2026/06/01/bristol-myers-squibb-ceo-on-15b-deal-with-chinas-hengrui-pharma.html"
+      ]
+    },
+    {
+      "id": "coca-cola",
+      "rank": 98,
+      "company": "Coca-Cola",
+      "ticker": "KO",
+      "sector": "Food, Beverages & Tobacco",
+      "industry": "Beverages",
+      "ceo": {
+        "names": [
+          "Henrique Braun"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2026-03-31"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change vs listed; Braun succeeded James Quincey effective Mar 31, 2026.",
+      "sources": [
+        "https://fortune.com/company/coca-cola/fortune500/",
+        "https://www.marketscreener.com/news/the-coca-cola-company-announces-ceo-changes-effective-march-31-2026-ce7d50dadc88f624"
+      ]
+    },
+    {
+      "id": "nike",
+      "rank": 99,
+      "company": "Nike",
+      "ticker": "NKE",
+      "sector": "Apparel",
+      "industry": "Apparel",
+      "ceo": {
+        "names": [
+          "Elliott Hill"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2024-10-14"
+      },
+      "review": {
+        "ceo_confidence": "high",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change.",
+      "sources": [
+        "https://fortune.com/company/nike/fortune500/",
+        "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html"
+      ]
+    },
+    {
+      "id": "massachusetts-mutual-life",
+      "rank": 100,
+      "company": "Massachusetts Mutual Life",
+      "ticker": null,
+      "sector": "Financials",
+      "industry": "Insurance: Life, Health (Mutual)",
+      "ceo": {
+        "names": [
+          "Roger W. Crandall"
+        ],
+        "co_ceo": false,
+        "interim": false,
+        "since": "2010"
+      },
+      "review": {
+        "ceo_confidence": "medium",
+        "sector_verified": false,
+        "since_verified": false,
+        "checked_on": "2026-10-05"
+      },
+      "notes": "No change found; confirmed only by Fortune page (updated 7/28/26), no recent news found. Mutual; no ticker.",
+      "sources": [
+        "https://fortune.com/company/massachusetts-mutual-life-insurance/fortune500/"
+      ]
+    }
+  ]
+}

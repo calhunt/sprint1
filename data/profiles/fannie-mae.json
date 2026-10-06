@@ -1,0 +1,122 @@
+{
+  "id": "fannie-mae",
+  "name": "Peter Akwaboah",
+  "company_id": "fannie-mae",
+  "role": "Acting CEO",
+  "education": [
+    {
+      "institution": "University of Birmingham",
+      "degree": "BEng",
+      "field": "Civil Engineering",
+      "year": null,
+      "source": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanaian-appointed-coo-of-fannie-mae.html"
+    }
+  ],
+  "career": [
+    {
+      "organization": "IBM, KPMG and Deutsche Bank",
+      "title": "Engineering, operations and technology roles",
+      "start": null,
+      "end": "2005",
+      "source": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes"
+    },
+    {
+      "organization": "Royal Bank of Scotland",
+      "title": "Operations and technology leadership roles, incl. Asia Pacific COO for Operations, Technology and Corporate Services",
+      "start": "2005",
+      "end": "2015",
+      "source": "https://www.housingwire.com/articles/fannie-mae-appoints-peter-akwaboah-as-coo/"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Managing Director; COO for Operations, then COO for Technology and Head of Innovation",
+      "start": "2015",
+      "end": "2024",
+      "source": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanaian-appointed-coo-of-fannie-mae.html"
+    },
+    {
+      "organization": "Fannie Mae",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.housingwire.com/articles/fannie-mae-appoints-peter-akwaboah-as-coo/"
+    },
+    {
+      "organization": "Fannie Mae",
+      "title": "Acting CEO (while remaining COO)",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "Trained as a civil engineer and spent three decades in operations and technology roles at IBM, KPMG, Deutsche Bank, RBS and Morgan Stanley before becoming Fannie Mae's COO.",
+  "tenure": {
+    "start": "2025-10-22",
+    "source": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes"
+  },
+  "notable": [
+    {
+      "date": "2025-10",
+      "type": "decision",
+      "summary": "Was named acting CEO after Priscilla Almodovar's departure, while keeping his COO role, as the board began a search for a permanent CEO and promoted John Roscoe and Brandon Hamara to co-presidents.",
+      "source": "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes"
+    },
+    {
+      "date": "2026-02",
+      "type": "statement",
+      "summary": "Reporting 2025 net income of $14.4 billion and a record net worth of $109 billion, Akwaboah said the company had strong momentum going into 2026.",
+      "source": "https://themortgagepoint.com/2026/02/11/fannie-mae-earns-3-5b-in-fourth-quarter-14-4b-in-2025/"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Hosting the second-quarter 2026 results webcast, Akwaboah reported $4 billion in quarterly net income and said Fannie Mae provided $125 billion in liquidity to the mortgage market, helping about 417,000 households.",
+      "source": "https://www.fanniemae.com/newsroom/fannie-mae-news/second-quarter-2026-financial-results-webcast"
+    }
+  ],
+  "personal_story": {
+    "hook": "Born in the UK and raised in Ghana, a civil engineering graduate rose through bank operations to lead Fannie Mae.",
+    "summary": "Akwaboah was born in the United Kingdom, brought to Ghana at a young age, and completed secondary school there, where he was a standout student athlete, before rejoining his family in the UK as a teenager. He studied civil engineering at the University of Birmingham and began his career in engineering and technology at IBM before moving into financial services. Over three decades he held operations and technology roles at KPMG, Deutsche Bank, Royal Bank of Scotland and Morgan Stanley, where he became COO for technology and head of innovation and helped the firm co-lead a bond sale for Ghana's government. He joined Fannie Mae as COO in May 2024 and was named acting CEO in October 2025.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in the UK, raised in Ghana from a young age, rejoined his family in the UK as a teenager",
+        "source": "https://face2faceafrica.com/article/meet-ghanas-peter-akwaboah-morgan-stanleys-new-operating-chief-for-its-tech-and-operations-division12"
+      },
+      {
+        "label": "Other",
+        "value": "Top student athlete in Ghana's school system",
+        "source": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Peter-Akwaboah-Ghanaian-set-to-lead-America-s-biggest-company-Fannie-Mae-1919354"
+      },
+      {
+        "label": "First job",
+        "value": "Engineer at IBM before moving into financial services",
+        "source": "https://podcasts.apple.com/us/podcast/32-reflection-and-resilience-feat-peter-akwaboah-coo/id1534855787?i=1000591581764"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Fannie Mae as COO in May 2024 after nearly a decade at Morgan Stanley",
+        "source": "https://www.housingwire.com/articles/fannie-mae-appoints-peter-akwaboah-as-coo/"
+      }
+    ],
+    "quote": null,
+    "depth": "moderate",
+    "sources": [
+      "https://face2faceafrica.com/article/meet-ghanas-peter-akwaboah-morgan-stanleys-new-operating-chief-for-its-tech-and-operations-division12",
+      "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Peter-Akwaboah-Ghanaian-set-to-lead-America-s-biggest-company-Fannie-Mae-1919354",
+      "https://www.housingwire.com/articles/fannie-mae-appoints-peter-akwaboah-as-coo/",
+      "https://podcasts.apple.com/us/podcast/32-reflection-and-resilience-feat-peter-akwaboah-coo/id1534855787?i=1000591581764",
+      "https://www.graphic.com.gh/news/general-news/ghana-news-ghanaian-appointed-coo-of-fannie-mae.html",
+      "https://www.fanniemae.com/newsroom/fannie-mae-news/fannie-mae-leadership-changes"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Still acting CEO as of last check; no permanent CEO named. Fannie Mae remains in conservatorship with FHFA Director Bill Pulte as board chair, so major decisions are often announced by Pulte rather than the CEO; notable list is thin for that reason.",
+    "Face2Face Africa says he also holds a master's degree in engineering from Birmingham; not confirmed elsewhere, so omitted. Graduation year unknown.",
+    "Athletics details conflict: Face2Face says he set a school high-jump record in the UK and competed internationally; a YouTube title calls him a triple jumper. Story says only 'standout student athlete'.",
+    "Dates for IBM, KPMG and Deutsche Bank roles not found; RBS start of 2005 from HousingWire.",
+    "No verbatim quote about his path could be confirmed; quote set to null."
+  ]
+}

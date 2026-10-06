@@ -1,0 +1,120 @@
+{
+  "id": "oracle--sicilia",
+  "name": "Mike Sicilia",
+  "company_id": "oracle",
+  "role": "Co-CEO",
+  "education": [
+    {
+      "institution": "Saint Joseph's University",
+      "degree": "BS",
+      "field": "Computer Science",
+      "year": null,
+      "source": "https://www.oracle.com/corporate/executives/mike-sicilia/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Primavera Systems",
+      "title": "Various positions, rising to Chief Technology Officer",
+      "start": "1993",
+      "end": "2008",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Leadership roles after Oracle's acquisition of Primavera",
+      "start": "2009",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Executive Vice President, Global Business Units / Industries",
+      "start": "2019",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "President, Industries",
+      "start": "2025",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    },
+    {
+      "organization": "Oracle",
+      "title": "Chief Executive Officer (co-CEO with Clay Magouyrk)",
+      "start": "2025",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A computer science graduate who rose to chief technology officer of Primavera Systems and then ran Oracle's industry-specific applications businesses before becoming co-CEO.",
+  "tenure": {
+    "start": "2025-09-22",
+    "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-09",
+      "type": "statement",
+      "summary": "On being named co-CEO alongside Clay Magouyrk, succeeding Safra Catz, the pair said they were \"excited to lead Oracle into the AI era.\"",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500dex991.htm"
+    },
+    {
+      "date": "2025-12",
+      "type": "statement",
+      "summary": "In Oracle's quarterly results, Sicilia said that beyond AI training and selling AI models, \"there is an even larger opportunity—embedding AI\" across Oracle's software layers.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm"
+    },
+    {
+      "date": "2026-05",
+      "type": "decision",
+      "summary": "Oracle elected healthcare executive Dr. Tomislav Mihaljevic to its board, with Sicilia citing his experience managing complex clinical organizations.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526219708/d76569dex991.htm"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Oracle reported fiscal 2026 revenue of $67.4 billion, up 17%, with cloud revenue of $34.0 billion and remaining performance obligations of $638 billion.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526265848/orcl-ex99_1.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Mike Sicilia spent 15 years at Primavera Systems, became its CTO, and joined Oracle through an acquisition; he is now co-CEO.",
+    "summary": "Sicilia earned a computer science degree from Saint Joseph's University and joined project-management software maker Primavera Systems in 1993, eventually becoming its chief technology officer. He came to Oracle in 2009 after Oracle acquired Primavera, and went on to lead its global business units and industry applications, managing some of Oracle's most strategic acquisitions. He was named president of Industries in June 2025 and co-CEO that September.",
+    "facts": [
+      {
+        "label": "Other",
+        "value": "BS in computer science, Saint Joseph's University",
+        "source": "https://www.oracle.com/corporate/executives/mike-sicilia/"
+      },
+      {
+        "label": "First job",
+        "value": "Joined Primavera Systems in 1993 (earliest role found in public sources)",
+        "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Oracle in 2009 through its acquisition of Primavera, where he was CTO",
+        "source": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://www.oracle.com/corporate/executives/mike-sicilia/",
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312525210089/d921500d8k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Oracle's bio page says he joined Oracle in 2008 from Primavera; the Sept. 2025 8-K and 2025 proxy say 2009. Career uses 2009.",
+    "No public information found (with available sources) on upbringing, hometown or family; Wikipedia page could not be fetched.",
+    "Saint Joseph's University graduation year not stated in sources.",
+    "Age differs by filing (54 in Sept. 2025 8-K/proxy, 55 in June 2026 10-K) - consistent with a birthday in between; birth date not recorded."
+  ],
+  "needs_enrichment": true
+}

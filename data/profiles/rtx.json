@@ -1,0 +1,139 @@
+{
+  "id": "rtx",
+  "name": "Christopher T. Calio",
+  "company_id": "rtx",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Trinity College",
+      "degree": "BA",
+      "field": "Political Science",
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Christopher_Calio"
+    },
+    {
+      "institution": "University of Connecticut",
+      "degree": "JD",
+      "field": null,
+      "year": null,
+      "source": "https://www.rtx.com/who-we-are/our-leadership/christopher-calio"
+    },
+    {
+      "institution": "University of Connecticut",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.rtx.com/who-we-are/our-leadership/christopher-calio"
+    }
+  ],
+  "career": [
+    {
+      "organization": "United Technologies Corporation (UTC)",
+      "title": "Legal and senior roles, incl. VP and Counsel, Pratt & Whitney Commercial Engines, and VP and General Counsel, UTC Aerospace Systems",
+      "start": "2005",
+      "end": "2015",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    },
+    {
+      "organization": "United Technologies Corporation (UTC)",
+      "title": "Chief of Staff to the Chairman and CEO",
+      "start": "2015",
+      "end": "2017",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    },
+    {
+      "organization": "Pratt & Whitney",
+      "title": "President, Commercial Engines",
+      "start": "2017",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    },
+    {
+      "organization": "Pratt & Whitney",
+      "title": "President",
+      "start": "2020",
+      "end": "2022",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    },
+    {
+      "organization": "Raytheon Technologies / RTX",
+      "title": "Chief Operating Officer, then President and COO",
+      "start": "2022",
+      "end": "2024",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    },
+    {
+      "organization": "RTX",
+      "title": "President and Chief Executive Officer (Chairman from April 2025)",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    }
+  ],
+  "background_category": "Law",
+  "background_rationale": "Trained as a lawyer (JD, University of Connecticut) and spent his first decade at UTC in counsel and general counsel roles before moving into strategy and operating leadership at Pratt & Whitney and RTX.",
+  "tenure": {
+    "start": "2024-05-02",
+    "source": "https://en.wikipedia.org/wiki/RTX_Corporation"
+  },
+  "notable": [
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "RTX agreed to pay more than $950 million to resolve federal investigations involving bribery of Qatari officials, defective pricing on U.S. Defense Department contracts and export-control violations.",
+      "source": "https://en.wikipedia.org/wiki/RTX_Corporation"
+    },
+    {
+      "date": "2025-02",
+      "type": "decision",
+      "summary": "RTX's board elected Calio as chairman, effective April 30, 2025, as Gregory Hayes stepped down as executive chairman.",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000114036125002798/ef20042756_ex99-1.htm"
+    },
+    {
+      "date": "2026-01",
+      "type": "statement",
+      "summary": "Reporting 2025 sales of $88.6 billion and a record $268 billion backlog, Calio attributed the results to RTX's continued focus on operational performance and execution.",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000003/a2026-01x278xkerexhibit99.htm"
+    },
+    {
+      "date": "2026-09",
+      "type": "decision",
+      "summary": "RTX named Jill Albertelli president of Pratt & Whitney effective Jan. 1, 2027, succeeding the retiring Shane Eddy.",
+      "source": "https://www.sec.gov/Archives/edgar/data/101829/000114036126036662/ef20082011_ex99-1.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Connecticut-raised lawyer, Chris Calio worked his way from in-house counsel to running RTX within two decades.",
+    "summary": "Calio graduated from South Windsor High School in Connecticut in 1992, studied political science at Trinity College, and earned both a law degree and an MBA at the University of Connecticut. He joined United Technologies in 2005 in legal roles, later serving as chief of staff to the chairman and CEO. From there he moved into operating roles, running Pratt & Whitney's commercial engines business and then Pratt & Whitney itself, before becoming chief operating officer and, in May 2024, CEO of RTX. Little else about his upbringing or formative experiences has been publicly documented.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Graduated from South Windsor High School, Connecticut, in 1992",
+        "source": "https://en.wikipedia.org/wiki/Christopher_Calio"
+      },
+      {
+        "label": "Turning point",
+        "value": "Moved from legal roles to chief of staff to UTC's chairman and CEO (2015-2017), then into operating leadership at Pratt & Whitney",
+        "source": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Christopher_Calio",
+      "https://www.rtx.com/who-we-are/our-leadership/christopher-calio",
+      "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Hometown taken from his high school (South Windsor, Conn.); birthplace not documented.",
+    "Degree type at Trinity assumed BA (political science); RTX bio says only 'bachelor's degree'. Graduation years for all degrees not found.",
+    "Career before joining UTC in 2005 (e.g., any law-firm practice) not documented in the sources reached.",
+    "Background category is a judgment call: Law (first ~10 years in legal roles) vs. Operations (Pratt & Whitney president, RTX COO).",
+    "Exact dates of legal roles at UTC within 2005-2015 not itemized in proxy.",
+    "Tenure start day (May 2, 2024, the 2024 annual meeting) comes from the seed list; sources reached confirm only 'May 2024'.",
+    "Several pages were rate-limited and unreadable (RTX chairman release on rtx.com, AIA bio, South Windsor HS Hall of Fame page) - the Hall of Fame page may hold personal-story material."
+  ],
+  "needs_enrichment": true
+}

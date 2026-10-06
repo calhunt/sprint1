@@ -1,0 +1,132 @@
+{
+  "id": "galaxy-digital",
+  "name": "Michael Novogratz",
+  "company_id": "galaxy-digital",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Princeton University",
+      "degree": "AB",
+      "field": "Economics",
+      "year": null,
+      "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+    }
+  ],
+  "career": [
+    {
+      "organization": "New Jersey National Guard",
+      "title": "Helicopter pilot",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+    },
+    {
+      "organization": "Goldman Sachs",
+      "title": "Money market salesman, then sales and trading roles in Tokyo and Hong Kong; partner from 1998",
+      "start": "1989",
+      "end": "1999",
+      "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+    },
+    {
+      "organization": "Fortress Investment Group",
+      "title": "Principal; co-chief investment officer of macro funds and director",
+      "start": "2002",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+    },
+    {
+      "organization": "Galaxy Digital",
+      "title": "Founder and CEO",
+      "start": "2018",
+      "end": null,
+      "source": "https://www.galaxy.com/about"
+    }
+  ],
+  "background_category": "Founder",
+  "background_rationale": "Founded Galaxy Digital in 2018 after a long career as a macro trader and partner at Goldman Sachs and Fortress Investment Group.",
+  "tenure": {
+    "start": "2018",
+    "source": "https://www.galaxy.com/about"
+  },
+  "notable": [
+    {
+      "date": "2025-05",
+      "type": "decision",
+      "summary": "Galaxy completed a corporate reorganization and its Class A common stock began trading on the Nasdaq Global Select Market under the ticker GLXY.",
+      "source": "https://en.wikipedia.org/wiki/Galaxy_Digital_(company)"
+    },
+    {
+      "date": "2025-08",
+      "type": "decision",
+      "summary": "Galaxy closed a $1.4 billion project financing to convert its Helios campus in West Texas into an AI and high-performance computing data center leased to CoreWeave.",
+      "source": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing"
+    },
+    {
+      "date": "2026-03",
+      "type": "decision",
+      "summary": "Galaxy completed its voluntary delisting from the Toronto Stock Exchange, leaving Nasdaq as its sole listing.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000047/glxy-2026331xpressrelease.htm"
+    },
+    {
+      "date": "2026-04",
+      "type": "statement",
+      "summary": "In his 2025 annual letter, Novogratz wrote that Galaxy had spent eight years building around the conviction that digital assets and blockchain will reshape global finance, and described the Nasdaq listing as a beginning rather than a destination.",
+      "source": "https://www.galaxy.com/newsroom/2025-annual-report-and-ceo-letter"
+    }
+  ],
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Princeton graduation year not confirmed (wrestling honors in 1986-87 suggest class of 1987); left null.",
+    "Goldman Sachs exit: Wikipedia says he left after the 1999 IPO; TechCrunch (2019) says he was removed as partner in 2000. End year recorded as 1999.",
+    "Military service: Wikipedia says New Jersey National Guard; amNY/The Villager (2010) says Army helicopter pilot. Years unknown.",
+    "Galaxy founding: TechCrunch says doors opened January 2018, Wikipedia (company article) says February 2018; tenure kept at seed '2018'.",
+    "Widely reported 2025 New York Attorney General settlement over Galaxy's promotion of the LUNA token could not be verified with an opened source (no web search); omitted from notable.",
+    "Reuters coverage of the May 2025 Nasdaq debut was blocked; Nasdaq listing sourced to Wikipedia."
+  ],
+  "personal_story": {
+    "hook": "A Princeton wrestling captain and former military helicopter pilot, he rebuilt his career on crypto after leaving Fortress.",
+    "summary": "Novogratz was raised in Alexandria, Virginia, the third of seven children of a West Point football lineman. He was a Virginia high school wrestling runner-up and went on to captain Princeton's wrestling team while earning an economics degree. After serving as a military helicopter pilot, he joined Goldman Sachs in 1989 as a money market salesman, spent most of the 1990s in Tokyo and Hong Kong, and made partner in 1998. He later became a principal at Fortress Investment Group, where his macro funds suffered heavy losses before he retired in 2015. His crypto journey began in 2013, and in 2018 he launched Galaxy to bring institutions into blockchain.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Alexandria, Virginia; third of seven children of a West Point football lineman",
+        "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+      },
+      {
+        "label": "Other",
+        "value": "Princeton wrestling captain and two-time NCAA championships qualifier",
+        "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+      },
+      {
+        "label": "First job",
+        "value": "1989: short-term bond (money market) salesman at Goldman Sachs",
+        "source": "https://en.wikipedia.org/wiki/Michael_Novogratz"
+      },
+      {
+        "label": "Turning point",
+        "value": "Began his crypto journey in 2013, two years before leaving Fortress",
+        "source": "https://www.galaxy.com/about"
+      },
+      {
+        "label": "Family background",
+        "value": "Sister Jacqueline Novogratz founded the Acumen Fund",
+        "source": "https://www.amny.com/news/a-master-of-the-universe-will-wrestle-with-pier-40-and-park/"
+      }
+    ],
+    "quote": {
+      "text": "Real builders have always done their best work when the market was forcing everyone else to the sidelines.",
+      "context": "Galaxy 2025 annual report CEO letter, April 2026",
+      "source": "https://www.galaxy.com/newsroom/2025-annual-report-and-ceo-letter",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Michael_Novogratz",
+      "https://www.galaxy.com/about",
+      "https://www.amny.com/news/a-master-of-the-universe-will-wrestle-with-pier-40-and-park/",
+      "https://techcrunch.com/2019/03/25/a-look-inside-crypto-firm-digital-galaxy-founded-by-sidelined-wall-street-legend-mike-novogratz/",
+      "https://www.galaxy.com/newsroom/2025-annual-report-and-ceo-letter"
+    ]
+  },
+  "needs_enrichment": true
+}

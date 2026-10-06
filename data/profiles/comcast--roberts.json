@@ -1,0 +1,136 @@
+{
+  "id": "comcast--roberts",
+  "name": "Brian L. Roberts",
+  "company_id": "comcast",
+  "role": "Co-CEO",
+  "education": [
+    {
+      "institution": "University of Pennsylvania",
+      "degree": "BS",
+      "field": "Finance",
+      "year": 1981,
+      "source": "https://magazine.wharton.upenn.edu/issues/spring-2000/whartons-cable-guy/"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Comcast",
+      "title": "Trainee in the Trenton, N.J. cable system, then line installer and branch-office roles",
+      "start": "1981",
+      "end": null,
+      "source": "https://corporate.comcast.com/news-information/news-feed/a-succession-any-founder-would-envy"
+    },
+    {
+      "organization": "Comcast",
+      "title": "Head of operations / Executive Vice President",
+      "start": "1987",
+      "end": "1990",
+      "source": "https://en.wikipedia.org/wiki/Brian_L._Roberts"
+    },
+    {
+      "organization": "Comcast",
+      "title": "President",
+      "start": "1990",
+      "end": "2022",
+      "source": "https://www.nbcsports.com/pressbox/bios/brian-roberts"
+    },
+    {
+      "organization": "Comcast",
+      "title": "Chief Executive Officer (Chairman from 2004)",
+      "start": "2002",
+      "end": "2025",
+      "source": "https://en.wikipedia.org/wiki/Brian_L._Roberts"
+    },
+    {
+      "organization": "Comcast",
+      "title": "Chairman and Co-Chief Executive Officer (with Mike Cavanagh)",
+      "start": "2026",
+      "end": null,
+      "source": "https://corporate.comcast.com/press/releases/mike-cavanagh-brian-roberts-co-chief-executive-officer"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "The son of Comcast's founder, he joined the family company out of Wharton as a cable-system trainee and line installer and rose through branch and operations roles to become president at 31.",
+  "tenure": {
+    "start": "2026-01",
+    "source": "https://corporate.comcast.com/press/releases/mike-cavanagh-brian-roberts-co-chief-executive-officer"
+  },
+  "notable": [
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Comcast bid for Warner Bros. Discovery's studio and streaming assets but lost to Netflix, which reached a $72 billion agreement, and said it would not pursue the company further.",
+      "source": "https://philadelphia.today/2025/12/comcast-warner-bros-discovery-failed-bid/"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Comcast completed the spin-off of most of its cable networks, including CNBC, MS NOW and USA Network, into a separately traded company, Versant Media Group.",
+      "source": "https://www.cmcsa.com/news-releases/news-release-details/comcast-announces-completion-separation-versant-media-group-inc"
+    },
+    {
+      "date": "2026-06",
+      "type": "decision",
+      "summary": "Comcast announced plans to split into two public companies, spinning off NBCUniversal and Sky from its connectivity business within about a year, with Roberts to remain chairman and stay involved in leading both.",
+      "source": "https://www.sec.gov/Archives/edgar/data/1166691/000095010326009591/dp249094_ex9901.htm"
+    },
+    {
+      "date": "2026-06",
+      "type": "statement",
+      "summary": "Announcing the split, Roberts said the transaction \"will unlock a more entrepreneurial management approach and open up a multitude of new opportunities for each business.\"",
+      "source": "https://www.sec.gov/Archives/edgar/data/1166691/000095010326009591/dp249094_ex9901.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Comcast's founder sent his son to Trenton as a cable trainee; at 31, Brian Roberts was the company's president.",
+    "summary": "Roberts was born in Philadelphia in 1959, the son of Ralph Roberts, who founded Comcast, and as a boy sat in on his father's negotiations with banks and cable networks. At 15 he worked at one of his father's other businesses, where on his first day a supervisor told him she did not care whose son he was. He became an All-American squash player and graduated from Wharton in 1981 with a finance degree and investment banking offers. Instead he joined Comcast as a trainee in its Trenton, N.J. cable system, working as a line installer and in branch offices before running operations in his mid-20s. He was named president in 1990, CEO in 2002 and chairman in 2004, and has shared the CEO title with Mike Cavanagh since January 2026.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Son of Comcast founder Ralph J. Roberts; born 1959 in Philadelphia",
+        "source": "https://en.wikipedia.org/wiki/Brian_L._Roberts"
+      },
+      {
+        "label": "Mentor",
+        "value": "His father let him sit in on negotiations and answered his questions afterward",
+        "source": "https://corporate.comcast.com/news-information/news-feed/a-succession-any-founder-would-envy"
+      },
+      {
+        "label": "First job",
+        "value": "At 15, worked at his father's supermarket merchandising business in central New Jersey",
+        "source": "https://magazine.wharton.upenn.edu/issues/spring-2000/whartons-cable-guy/"
+      },
+      {
+        "label": "Other",
+        "value": "All-American squash player; competed six times in the Maccabiah Games",
+        "source": "https://www.nbcsports.com/pressbox/bios/brian-roberts"
+      },
+      {
+        "label": "Turning point",
+        "value": "Passed on investment banking offers to start as a trainee in Comcast's Trenton cable system",
+        "source": "https://magazine.wharton.upenn.edu/issues/spring-2000/whartons-cable-guy/"
+      }
+    ],
+    "quote": {
+      "text": "You'd better get comfortable with that, because it's always going to be there.",
+      "context": "On carrying the weight of being the founder's son, Wharton Magazine profile, Spring 2000",
+      "source": "https://magazine.wharton.upenn.edu/issues/spring-2000/whartons-cable-guy/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brian_L._Roberts",
+      "https://magazine.wharton.upenn.edu/issues/spring-2000/whartons-cable-guy/",
+      "https://corporate.comcast.com/news-information/news-feed/a-succession-any-founder-would-envy",
+      "https://www.nbcsports.com/pressbox/bios/brian-roberts"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Roberts has been CEO since 2002; tenure.start reflects the co-CEO arrangement per seed (TheWrap gives effective date Jan. 1, 2026).",
+    "Timing of operations leadership differs: NYT/Joe Nocera (2015) says head of operations at age 26 (~1985); Wikipedia says promoted to executive vice president in 1987. Career entry uses 1987.",
+    "Accounts of his entry differ slightly: NYT says his father resisted bringing him in immediately; Wharton Magazine says his father steered him away from corporate finance to Trenton. Story avoids attributing motive.",
+    "Degree field 'Finance' comes from Wharton Magazine ('finance major'); Wikipedia lists a BS without a major.",
+    "Notable items for Dec 2025 predate the co-CEO arrangement but fall within his CEO tenure."
+  ]
+}

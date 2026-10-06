@@ -1,0 +1,160 @@
+{
+  "id": "american-airlines-group",
+  "name": "Robert Isom",
+  "company_id": "american-airlines-group",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Notre Dame",
+      "degree": "BS",
+      "field": "Mechanical Engineering",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    },
+    {
+      "institution": "University of Notre Dame",
+      "degree": "BA",
+      "field": "English",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    },
+    {
+      "institution": "University of Michigan",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Procter & Gamble",
+      "title": "Early career role",
+      "start": null,
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm"
+    },
+    {
+      "organization": "America West Airlines",
+      "title": "Executive roles in revenue management, operations and finance",
+      "start": "1995",
+      "end": "2000",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm"
+    },
+    {
+      "organization": "Northwest Airlines",
+      "title": "VP Finance, VP International, then SVP Ground Operations and Airport Customer Service",
+      "start": null,
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm"
+    },
+    {
+      "organization": "GMAC, LLC",
+      "title": "Chief Restructuring Officer",
+      "start": null,
+      "end": "2007",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm"
+    },
+    {
+      "organization": "US Airways Group",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2007",
+      "end": "2013",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    },
+    {
+      "organization": "American Airlines Group",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2013",
+      "end": "2016",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    },
+    {
+      "organization": "American Airlines Group",
+      "title": "President",
+      "start": "2016",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    },
+    {
+      "organization": "American Airlines Group",
+      "title": "Chief Executive Officer",
+      "start": "2022",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/4515/000119312521349569/d243066dex991.htm"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "An engineer by training, he built his airline career in operations, revenue management and finance roles and was chief operating officer of US Airways and American for nearly a decade before becoming president and CEO.",
+  "tenure": {
+    "start": "2022-03-31",
+    "source": "https://www.sec.gov/Archives/edgar/data/4515/000119312521349569/d243066dex991.htm"
+  },
+  "notable": [
+    {
+      "date": "2025-01",
+      "type": "statement",
+      "summary": "After American Eagle Flight 5342 collided with an Army helicopter over the Potomac River near Washington, D.C., Isom issued a video statement and traveled to Washington for a press conference.",
+      "source": "https://en.wikipedia.org/wiki/Robert_Isom"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Reporting 2025 results, American said it had restored its historical share of revenue from indirect sales channels, moved to an exclusive expanded credit card partnership with Citi from January 2026, and cut total debt by $2.1 billion in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000008/a8kerexhibit991q4-25.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Isom said second-quarter revenue grew more than 16% year over year to a record $16.7 billion, though higher fuel costs held net income to $71 million.",
+      "source": "https://www.sec.gov/Archives/edgar/data/6201/000000620126000051/a8kerexhibit991q2-26.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Robert Isom earned degrees in both mechanical engineering and English before a three-decade climb through airline operations to CEO.",
+    "summary": "Isom grew up outside Detroit and studied at the University of Notre Dame, earning a BS in mechanical engineering and a BA in English. He started his career at Procter & Gamble, then in his late 20s left to get an MBA at the University of Michigan and moved into the airline industry. At America West in Phoenix, where Doug Parker was CFO, he worked in revenue management, operations and finance; he later ran ground operations at Northwest and served as chief restructuring officer at GMAC. In 2007 he rejoined Parker at US Airways as chief operating officer, stayed in that role through the 2013 merger with American, became president in 2016 and succeeded Parker as CEO in March 2022.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Outside Detroit, Michigan",
+        "source": "https://www.dallasnews.com/business/airlines/2021/12/08/who-is-robert-isom-american-airlines-next-ceo/"
+      },
+      {
+        "label": "First job",
+        "value": "Procter & Gamble, before leaving in his late 20s for an MBA",
+        "source": "https://www.dallasnews.com/business/airlines/2021/12/08/who-is-robert-isom-american-airlines-next-ceo/"
+      },
+      {
+        "label": "Mentor",
+        "value": "Colleague Derek Kerr urged him to get to know Doug Parker, his longtime boss and predecessor as CEO",
+        "source": "https://www.dallasnews.com/business/airlines/2021/12/08/who-is-robert-isom-american-airlines-next-ceo/"
+      },
+      {
+        "label": "Turning point",
+        "value": "Rejoined Parker at US Airways as COO in 2007 after serving as GMAC's chief restructuring officer",
+        "source": "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm"
+      }
+    ],
+    "quote": {
+      "text": "[Derek Kerr] was a big proponent of me getting to know Doug Parker, and that was pretty good advice.",
+      "context": "Interview with The Dallas Morning News after being named CEO-designate, Dec. 2021",
+      "source": "https://www.dallasnews.com/business/airlines/2021/12/08/who-is-robert-isom-american-airlines-next-ceo/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://www.dallasnews.com/business/airlines/2021/12/08/who-is-robert-isom-american-airlines-next-ceo/",
+      "https://en.wikipedia.org/wiki/Robert_Isom",
+      "https://www.sec.gov/Archives/edgar/data/6201/000119312521349569/d243066d8k.htm",
+      "https://www.sec.gov/Archives/edgar/data/6201/000119312526187096/d83928ddef14a.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "needs_enrichment": true,
+  "open_issues": [
+    "Order of Northwest vs. America West roles conflicts: the Dec 2021 8-K lists America West 1995-2000 then senior Northwest roles; Dallas News and Wikipedia say he began his airline career at Northwest after his MBA. Northwest years left null.",
+    "Graduation years for Notre Dame and Michigan MBA not found.",
+    "Seed notes mention 2026 pilot-union pressure; no reachable primary source found, so not included in notable.",
+    "Crash-response item sourced to Wikipedia only (The Hill article returned 403)."
+  ]
+}

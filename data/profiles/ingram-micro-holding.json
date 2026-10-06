@@ -1,0 +1,135 @@
+{
+  "id": "ingram-micro-holding",
+  "name": "Paul Bay",
+  "company_id": "ingram-micro-holding",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "California State University, Northridge",
+      "degree": "BA",
+      "field": "Speech Communication",
+      "year": null,
+      "source": "https://ir.ingrammicro.com/governance/management"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Ingram Micro",
+      "title": "Various roles of increasing responsibility (starting in sales; later senior vice president of vendor management)",
+      "start": "1995",
+      "end": "2006",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Punch! Software",
+      "title": "CEO",
+      "start": "2006",
+      "end": "2010",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Ingram Micro",
+      "title": "Rejoined; Sr. Executive Vice President and President, Ingram Micro North America (2013-2014)",
+      "start": "2010",
+      "end": "2014",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Ingram Micro",
+      "title": "Executive Vice President and Chief Executive, Ingram Micro U.S. and Miami Export",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Ingram Micro",
+      "title": "Executive Vice President and Group President, Americas",
+      "start": "2018",
+      "end": "2019",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Ingram Micro",
+      "title": "Executive Vice President and President, Global Technology Solutions",
+      "start": "2020",
+      "end": "2021",
+      "source": "https://ir.ingrammicro.com/governance/management"
+    },
+    {
+      "organization": "Ingram Micro",
+      "title": "Chief Executive Officer",
+      "start": "2022",
+      "end": null,
+      "source": "https://ir.ingrammicro.com/governance/management"
+    }
+  ],
+  "background_category": "Sales & Marketing",
+  "background_rationale": "Built his career in Ingram Micro's sales, vendor-management and regional commercial leadership roles, with a four-year stint as CEO of a software company, before becoming CEO.",
+  "tenure": {
+    "start": "2022-01-01",
+    "source": "https://ir.ingrammicro.com/governance/management"
+  },
+  "notable": [
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "Took Ingram Micro public again on the NYSE under the ticker INGM, pricing 18.6 million shares at $22 each, with trading beginning Oct. 24, 2024.",
+      "source": "https://ir.ingrammicro.com/press-releases/detail/925/ingram-micro-announces-pricing-of-its-initial-public-offering"
+    },
+    {
+      "date": "2024-12",
+      "type": "decision",
+      "summary": "Ingram Micro announced a restructuring to reduce headcount by about 850 associates by the end of the first quarter of 2025, citing organizational efficiency.",
+      "source": "https://ir.ingrammicro.com/press-releases/detail/928/ingram-micro-takes-strategic-action-to-position-company-for-long-term-growth"
+    },
+    {
+      "date": "2025-07",
+      "type": "decision",
+      "summary": "After identifying ransomware on internal systems that disrupted order processing and shipping, the company took systems offline, brought in cybersecurity experts and notified law enforcement.",
+      "source": "https://ir.ingrammicro.com/press-releases/detail/945/ingram-micro-issues-statement-regarding-cybersecurity-incident"
+    },
+    {
+      "date": "2026-09",
+      "type": "statement",
+      "summary": "At Ingram Micro's Capital Markets Day, Bay laid out a plan to reposition the distributor as an AI-driven operating platform built around its Xvantage platform, with a multi-year financial framework through 2029.",
+      "source": "https://ir.ingrammicro.com/press-releases/detail/973/ingram-micro-outlines-long-term-strategy-intelligence-led-transformation-and-multi-year-financial-framework-at-capital-markets-day"
+    }
+  ],
+  "personal_story": {
+    "hook": "Paul Bay left Ingram Micro after 11 years to run a software company, then returned and rose to CEO.",
+    "summary": "Little about Bay's early life is public. A speech communication graduate of California State University, Northridge, he joined Ingram Micro in 1995 and held roles of increasing responsibility until 2006. He then spent four years as CEO of Punch! Software before rejoining Ingram Micro in 2010, where he went on to lead its North America, U.S. and Americas businesses and its Global Technology Solutions unit. He became CEO on Jan. 1, 2022, and led the company's return to public markets in October 2024.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Earliest disclosed role: joined Ingram Micro in 1995",
+        "source": "https://ir.ingrammicro.com/governance/management"
+      },
+      {
+        "label": "Turning point",
+        "value": "Left Ingram Micro in 2006 to serve as CEO of Punch! Software, returning in 2010",
+        "source": "https://ir.ingrammicro.com/governance/management"
+      },
+      {
+        "label": "Other",
+        "value": "Studied speech communication at California State University, Northridge",
+        "source": "https://ir.ingrammicro.com/governance/management"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://ir.ingrammicro.com/governance/management",
+      "https://en.wikipedia.org/wiki/Ingram_Micro",
+      "https://ir.ingrammicro.com/press-releases/detail/925/ingram-micro-announces-pricing-of-its-initial-public-offering"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Degree type: company bio says only \"Bachelor's degree in speech communication\"; recorded as BA but BA vs BS not confirmed. Graduation year unknown.",
+    "Tenure start 2022-01-01 taken from the company governance bio (seed list had no date).",
+    "First role 'in sales' and 'senior vice president of vendor management' before 2006 come from the Wikipedia company article (summarized), not the official bio.",
+    "Exact years of roles between 2010 rejoining and 2013 not disclosed; condensed.",
+    "No verified verbatim quote about his personal path found; Wikipedia biography page for Bay not reachable."
+  ],
+  "needs_enrichment": true
+}

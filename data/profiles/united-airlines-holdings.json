@@ -1,0 +1,153 @@
+{
+  "id": "united-airlines-holdings",
+  "name": "J. Scott Kirby",
+  "company_id": "united-airlines-holdings",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "United States Air Force Academy",
+      "degree": "BS",
+      "field": "Computer Science; Operations Research",
+      "year": 1989,
+      "source": "https://www.usafa.org/content/long-blue-leadership-scott-kirby-89"
+    },
+    {
+      "institution": "George Washington University",
+      "degree": "MS",
+      "field": "Operations Research",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "U.S. Department of Defense (Pentagon)",
+      "title": "Budget analyst for the Secretary of Defense",
+      "start": null,
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+    },
+    {
+      "organization": "Sabre Decision Technologies",
+      "title": "Analyst/consultant (role not specified)",
+      "start": null,
+      "end": "1995",
+      "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+    },
+    {
+      "organization": "America West Airlines",
+      "title": "Various executive roles",
+      "start": "1995",
+      "end": "2006",
+      "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+    },
+    {
+      "organization": "US Airways",
+      "title": "President",
+      "start": "2006",
+      "end": "2013",
+      "source": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
+    },
+    {
+      "organization": "American Airlines",
+      "title": "President",
+      "start": "2013",
+      "end": "2016",
+      "source": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
+    },
+    {
+      "organization": "United Airlines Holdings",
+      "title": "President",
+      "start": "2016",
+      "end": "2020",
+      "source": "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm"
+    },
+    {
+      "organization": "United Airlines Holdings",
+      "title": "Chief Executive Officer",
+      "start": "2020",
+      "end": null,
+      "source": "https://united.mediaroom.com/2019-12-05-United-Airlines-Announces-Leadership-Transition"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "An operations-research-trained analyst who spent three decades as an airline executive running network, revenue and operations as president of America West/US Airways, American and United before becoming CEO.",
+  "tenure": {
+    "start": "2020-05-20",
+    "source": "https://united.mediaroom.com/2019-12-05-United-Airlines-Announces-Leadership-Transition"
+  },
+  "notable": [
+    {
+      "date": "2025-05",
+      "type": "statement",
+      "summary": "Kirby drew criticism for remarks describing the traditional low-cost carrier business model as \"dead,\" in a year when United also faced major operational disruptions at Newark.",
+      "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+    },
+    {
+      "date": "2026-05",
+      "type": "statement",
+      "summary": "Kirby said United would not pursue further merger deals, ruling out a consolidation push.",
+      "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "After oil prices spiked in March, United adjusted schedules to offset higher fuel costs and, reporting second-quarter revenue of $17.7 billion, raised its 2026 adjusted EPS guidance to $9.00-$11.00.",
+      "source": "https://united.mediaroom.com/2026-07-15-United-Posts-Q2-Results-Above-Wall-Street-Expectations-and-Raises-Full-Year-2026-Adjusted-EPS-Guidance1-Despite-a-Nearly-6-Billion-Increase-In-Anticipated-Fuel-Costs"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "United announced 10 new international cities for 2027, which it called the largest international expansion in its history, along with the debut of the Airbus A321XLR.",
+      "source": "https://united.mediaroom.com/2026-08-25-United-Adds-10-International-Cities-for-2027-Largest-Expansion-in-Airlines-History"
+    }
+  ],
+  "personal_story": {
+    "hook": "Scott Kirby entered the Air Force Academy hoping to be a fighter pilot; he ended up running United Airlines.",
+    "summary": "Kirby grew up in Rowlett, Texas, the oldest of six children, and played baseball and football in high school with hopes of becoming a professional athlete. He arrived at the U.S. Air Force Academy aspiring to be a fighter pilot and graduated in 1989 with degrees in computer science and operations research. He began his career at the Pentagon as a budget analyst working alongside experienced economists, which shaped his analytical approach to problems, and later earned a master's in operations research from George Washington University. After working at airline-technology firm Sabre, he joined America West in 1995 and spent the next 25 years as an airline executive before becoming United's CEO in 2020.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Rowlett, Texas; oldest of six children",
+        "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+      },
+      {
+        "label": "Early ambition",
+        "value": "Hoped to be a professional athlete in high school, then a fighter pilot at the Air Force Academy",
+        "source": "https://www.usafa.org/content/long-blue-leadership-scott-kirby-89"
+      },
+      {
+        "label": "First job",
+        "value": "Budget analyst at the Pentagon for the Secretary of Defense",
+        "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined America West Airlines in 1995 after working at Sabre Decision Technologies",
+        "source": "https://en.wikipedia.org/wiki/Scott_Kirby"
+      }
+    ],
+    "quote": {
+      "text": "When the facts change, I change.",
+      "context": "Long Blue Leadership podcast, U.S. Air Force Academy Association of Graduates, Sept. 2026",
+      "source": "https://www.usafa.org/content/long-blue-leadership-scott-kirby-89",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scott_Kirby",
+      "https://www.usafa.org/content/long-blue-leadership-scott-kirby-89",
+      "https://www.sec.gov/Archives/edgar/data/100517/000110465926040467/tmb-20260519xdef14a.htm",
+      "https://united.mediaroom.com/2019-12-05-United-Airlines-Announces-Leadership-Transition"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Pilot training conflict: Wikipedia says he 'trained to be a pilot' at the Academy; the USAFA podcast page says he aspired to be a fighter pilot but (per fetch summary) did not pursue pilot training. Story says only that he hoped to be a fighter pilot.",
+    "Years of Pentagon and Sabre roles and GWU MS graduation year not confirmed; left null.",
+    "2025-05 and 2026-05 notable items are sourced to Wikipedia (underlying Business Insider and Reuters articles could not be fetched); exact wording of the May 2026 merger comments unverified.",
+    "Wikipedia birth date (Aug. 13, 1967) not independently confirmed; omitted.",
+    "Early-life details (Rowlett, six siblings, athletics) sourced only to Wikipedia (citing East Valley Tribune 2007)."
+  ],
+  "needs_enrichment": true
+}

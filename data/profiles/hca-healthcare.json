@@ -1,0 +1,154 @@
+{
+  "id": "hca-healthcare",
+  "name": "Samuel N. Hazen",
+  "company_id": "hca-healthcare",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Kentucky",
+      "degree": "BBA",
+      "field": null,
+      "year": 1982,
+      "source": "https://gatton.uky.edu/people/samuel-hazen"
+    },
+    {
+      "institution": "University of Nevada, Las Vegas",
+      "degree": "MBA",
+      "field": null,
+      "year": null,
+      "source": "https://gatton.uky.edu/people/samuel-hazen"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Humana Inc. / Galen Health Care",
+      "title": "Financial Management Specialist Program trainee, then hospital and regional CFO roles",
+      "start": null,
+      "end": "1994",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000095012310031866/g22749def14c.htm"
+    },
+    {
+      "organization": "HCA (Columbia/HCA)",
+      "title": "Chief Financial Officer, North Texas Division",
+      "start": "1994",
+      "end": "1995",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000095012310031866/g22749def14c.htm"
+    },
+    {
+      "organization": "HCA",
+      "title": "Chief Financial Officer, Western Group",
+      "start": "1995",
+      "end": "2001",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000095012310031866/g22749def14c.htm"
+    },
+    {
+      "organization": "HCA",
+      "title": "President, Western Group",
+      "start": "2001",
+      "end": "2011",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000095012311012926/g26087e8vk.htm"
+    },
+    {
+      "organization": "HCA",
+      "title": "President of Operations",
+      "start": "2011",
+      "end": "2015",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312518271892/d604703d8k.htm"
+    },
+    {
+      "organization": "HCA Healthcare",
+      "title": "Chief Operating Officer; President and COO from November 2016",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312518271892/d604703d8k.htm"
+    },
+    {
+      "organization": "HCA Healthcare",
+      "title": "Chief Executive Officer",
+      "start": "2019",
+      "end": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312518356414/d677664d8k.htm"
+    }
+  ],
+  "background_category": "Finance",
+  "background_rationale": "He began in Humana's financial management training program and spent his first two decades in hospital, division and group CFO roles before moving into operations leadership at HCA.",
+  "tenure": {
+    "start": "2019-01-01",
+    "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312518271892/d604703d8k.htm"
+  },
+  "notable": [
+    {
+      "date": "2019-02",
+      "type": "decision",
+      "summary": "HCA completed its purchase of Mission Health, the Asheville, North Carolina-based hospital system.",
+      "source": "https://en.wikipedia.org/wiki/HCA_Healthcare"
+    },
+    {
+      "date": "2021-05",
+      "type": "decision",
+      "summary": "HCA finalized a partnership with Google to develop healthcare algorithms using patient records.",
+      "source": "https://en.wikipedia.org/wiki/HCA_Healthcare"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Reporting Q4 2025 results, HCA authorized an additional $10 billion share repurchase program and guided to 2026 revenue of $76.5-80.0 billion, with Hazen citing investments in network expansion and workforce development.",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312526023323/hca-ex99_1.htm"
+    },
+    {
+      "date": "2026-07",
+      "type": "decision",
+      "summary": "HCA lowered its full-year 2026 guidance after a shift in payer mix toward uninsured patients cost about $400 million in the second quarter.",
+      "source": "https://www.sec.gov/Archives/edgar/data/860730/000119312526302539/hca-ex99_1.htm"
+    }
+  ],
+  "personal_story": {
+    "hook": "Sam Hazen started in a Humana finance trainee program and rose through hospital CFO jobs to run HCA.",
+    "summary": "Hazen earned a business degree from the University of Kentucky in 1982 and began his healthcare career in Humana's Financial Management Specialist Program. He worked as a chief financial officer at hospitals, including in Georgia and Las Vegas, and also earned an MBA from the University of Nevada, Las Vegas. After joining HCA's North Texas division as CFO in 1994, he became CFO and then president of its Western Group, which he ran for a decade before moving up to run operations companywide. He became CEO in January 2019 and has said the lessons that guided him are hard work, continued learning and treating people right, which he credits to his parents.",
+    "facts": [
+      {
+        "label": "First job",
+        "value": "Humana's Financial Management Specialist Program",
+        "source": "https://gatton.uky.edu/people/samuel-hazen"
+      },
+      {
+        "label": "Turning point",
+        "value": "Named president of HCA's Western Group in 2001, overseeing roughly half the company's revenue",
+        "source": "https://gatton.uky.edu/people/samuel-hazen"
+      },
+      {
+        "label": "Family background",
+        "value": "Credits his parents with teaching him to treat people right",
+        "source": "https://hcahealthcaretoday.com/2024/12/02/3-takeaways-podcast-sam-hazen-shares-insights-on-technology-ai-and-healthcare-innovation/"
+      },
+      {
+        "label": "Other",
+        "value": "Inducted into the University of Kentucky Gatton College Alumni Hall of Fame in 2016",
+        "source": "https://gatton.uky.edu/hall-of-fame"
+      }
+    ],
+    "quote": {
+      "text": "The third thing my parents taught me — pretty basic stuff, but it has powerful implications — is just to treat people right.",
+      "context": "On the '3 Takeaways' podcast with Lynn Thoman, December 2024",
+      "source": "https://hcahealthcaretoday.com/2024/12/02/3-takeaways-podcast-sam-hazen-shares-insights-on-technology-ai-and-healthcare-innovation/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://gatton.uky.edu/people/samuel-hazen",
+      "https://gatton.uky.edu/hall-of-fame",
+      "https://hcahealthcaretoday.com/2024/12/02/3-takeaways-podcast-sam-hazen-shares-insights-on-technology-ai-and-healthcare-innovation/",
+      "https://www.sec.gov/Archives/edgar/data/860730/000095012310031866/g22749def14c.htm",
+      "https://www.sec.gov/Archives/edgar/data/860730/000119312518271892/d604703d8k.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "No Wikipedia article and no reachable HCA leadership bio page; profile built from SEC filings, University of Kentucky Gatton College and HCA's blog. hcahealthcare.com leadership pages were rate-limited (HTTP 429) during research.",
+    "BBA major not stated (often described elsewhere as finance, unconfirmed); MBA year unknown.",
+    "Start date of Humana career unknown; Gatton bio (2016) says he joined HCA '33 years ago' (~1983), which appears to count predecessor companies, while SEC filings place his first HCA role in Feb 1994.",
+    "Mission Health and Google items sourced to Wikipedia's HCA Healthcare article without fetching the primary citations.",
+    "Hook and story say 'hospital CFO jobs'; the Gatton bio says CFO positions at hospitals in Georgia and Las Vegas but does not name employers or dates."
+  ],
+  "needs_enrichment": true
+}

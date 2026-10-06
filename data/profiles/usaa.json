@@ -1,0 +1,145 @@
+{
+  "id": "usaa",
+  "name": "Juan C. Andrade",
+  "company_id": "usaa",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Florida",
+      "degree": "BS",
+      "field": "Journalism",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000018/eg-20240411.htm"
+    },
+    {
+      "institution": "Johns Hopkins University",
+      "degree": "MA",
+      "field": "International Economics and Latin American Studies",
+      "year": null,
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000018/eg-20240411.htm"
+    }
+  ],
+  "career": [
+    {
+      "organization": "U.S. Federal Government (Office of the Secretary of Defense, Drug Enforcement Administration, White House Office of National Drug Control Policy)",
+      "title": "National security and drug policy roles",
+      "start": null,
+      "end": null,
+      "source": "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer"
+    },
+    {
+      "organization": "The Progressive Corporation",
+      "title": "General Manager, Gulf Coast Region",
+      "start": "1996",
+      "end": "2005",
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm"
+    },
+    {
+      "organization": "The Hartford Financial Services Group",
+      "title": "President and Chief Operating Officer, P&C; President, Commercial Markets",
+      "start": "2006",
+      "end": "2010",
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm"
+    },
+    {
+      "organization": "ACE / Chubb",
+      "title": "EVP of ACE and COO, ACE Overseas General; later President, Chubb Overseas General Insurance",
+      "start": "2010",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm"
+    },
+    {
+      "organization": "Everest Re Group",
+      "title": "Chief Operating Officer",
+      "start": "2019",
+      "end": "2019",
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507319000039/andrade8k2019.htm"
+    },
+    {
+      "organization": "Everest Group, Ltd.",
+      "title": "President and CEO",
+      "start": "2020",
+      "end": "2025",
+      "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507325000002/everestre-20250103.htm"
+    },
+    {
+      "organization": "USAA",
+      "title": "President and CEO",
+      "start": "2025",
+      "end": null,
+      "source": "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "After early government service in national security and drug policy, he spent roughly three decades in insurance general management and operating roles at Progressive, The Hartford and Chubb before running Everest and USAA.",
+  "tenure": {
+    "start": "2025-04-02",
+    "source": "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer"
+  },
+  "notable": [
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "During the federal government shutdown, USAA extended relief totaling more than $411 million, including zero-interest loans and flexible payment arrangements, to more than 100,000 military and federal-employee members.",
+      "source": "https://newsroom.usaa360.com/news/usaa-extends-government-shutdown-relief-totaling-more-than-usd-411m-to-its-members"
+    },
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "USAA launched 'Honor Through Action,' committing $500 million over five years to veteran and military-family careers, financial security and well-being.",
+      "source": "https://newsroom.usaa360.com/news/usaa-launches-honor-through-action-committing-usd-500-million-over-five-years-to-champion-the-military-community"
+    },
+    {
+      "date": "2026-04",
+      "type": "statement",
+      "summary": "Presenting the 2025 annual report, which cited a record $3.8 billion returned to members, Andrade said USAA's responsibility is \"to deliver real value our members can see and feel every day.\"",
+      "source": "https://newsroom.usaa360.com/news/usaa-2025-annual-report-reflects-a-year-of-strength-service-and-commitment-to-members-1"
+    },
+    {
+      "date": "2026-08",
+      "type": "decision",
+      "summary": "USAA and Bank of America entered a patent cross-license agreement covering technologies including AI, machine learning, information security and banking capabilities.",
+      "source": "https://newsroom.usaa360.com/news/bofa-and-usaa-enter-patent-cross-license-agreement"
+    }
+  ],
+  "personal_story": {
+    "hook": "Before running insurers, Juan Andrade worked on countering international drug trafficking for the U.S. government.",
+    "summary": "Andrade studied journalism at the University of Florida and earned a master's in international economics and Latin American studies from Johns Hopkins SAIS. He began his career in national security and drug policy, with roles at the Office of the Secretary of Defense, the Drug Enforcement Administration and the White House Office of National Drug Control Policy, and received the Secretary of Defense Medal for Meritorious Civilian Service. He then moved into insurance, spending about a decade at Progressive before senior roles at The Hartford and Chubb, and led Everest Group for five years before joining USAA, of which he is a member, in April 2025.",
+    "facts": [
+      {
+        "label": "Early ambition",
+        "value": "Studied journalism (minor in political science) at the University of Florida",
+        "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000018/eg-20240411.htm"
+      },
+      {
+        "label": "First job",
+        "value": "National security and drug policy roles in the U.S. federal government, including at the DEA and White House drug policy office",
+        "source": "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer"
+      },
+      {
+        "label": "Other",
+        "value": "Received the Secretary of Defense Medal for Meritorious Civilian Service for countering international drug trafficking",
+        "source": "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer"
+      },
+      {
+        "label": "Turning point",
+        "value": "Moved from government into insurance, starting as a Progressive regional general manager (1996-2005)",
+        "source": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm"
+      }
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://newsroom.usaa360.com/news/usaa-announces-juan-c-andrade-as-president-and-chief-executive-officer",
+      "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000018/eg-20240411.htm",
+      "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "No Wikipedia article or long-form interview reachable without web search; birthplace, upbringing and family background not found.",
+    "Years of federal government service and graduation years not found in reachable sources.",
+    "Exact split of ACE vs. Chubb titles and their years is unclear from proxy text (proxy says President of Chubb Overseas General 2010-2019; ACE acquired Chubb in 2016)."
+  ],
+  "needs_enrichment": true
+}

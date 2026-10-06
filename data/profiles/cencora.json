@@ -1,0 +1,152 @@
+{
+  "id": "cencora",
+  "name": "Robert P. Mauch",
+  "company_id": "cencora",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Mercer University",
+      "degree": "PharmD",
+      "field": "Pharmacy",
+      "year": null,
+      "source": "https://www.cencora.com/about/leadership/robert-p-mauch"
+    },
+    {
+      "institution": "University of South Carolina",
+      "degree": "PhD",
+      "field": "Pharmaceutical Sciences",
+      "year": 1994,
+      "source": "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Xcenda (formerly Applied Health Outcomes)",
+      "title": "Founder of health economics and strategic consulting firm in Tampa, Florida",
+      "start": null,
+      "end": "2007",
+      "source": "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php"
+    },
+    {
+      "organization": "AmerisourceBergen",
+      "title": "Senior Vice President, Alternate Care Sales and Marketing; then Sales and Marketing",
+      "start": "2010",
+      "end": "2012",
+      "source": "https://www.marketscreener.com/quote/stock/CENCORA-INC-9428091/news/AmerisourceBergen-Corporation-Appoints-Robert-P-Mauch-as-Executive-Vice-President-and-Chief-Operati-42204697/"
+    },
+    {
+      "organization": "AmerisourceBergen Drug Corporation",
+      "title": "Senior Vice President, Operations; then SVP and Chief Operating Officer",
+      "start": "2012",
+      "end": "2015",
+      "source": "https://www.marketscreener.com/quote/stock/CENCORA-INC-9428091/news/AmerisourceBergen-Corporation-Appoints-Robert-P-Mauch-as-Executive-Vice-President-and-Chief-Operati-42204697/"
+    },
+    {
+      "organization": "AmerisourceBergen Drug Corporation",
+      "title": "Executive Vice President and President",
+      "start": "2015",
+      "end": "2017",
+      "source": "https://www.marketscreener.com/quote/stock/CENCORA-INC-9428091/news/AmerisourceBergen-Corporation-Appoints-Robert-P-Mauch-as-Executive-Vice-President-and-Chief-Operati-42204697/"
+    },
+    {
+      "organization": "AmerisourceBergen",
+      "title": "Executive Vice President and Group President (Pharmaceutical Distribution & Strategic Global Sourcing, later broader group)",
+      "start": "2017",
+      "end": "2022",
+      "source": "https://www.marketscreener.com/quote/stock/CENCORA-INC-9428091/news/AmerisourceBergen-Corporation-Appoints-Robert-P-Mauch-as-Executive-Vice-President-and-Chief-Operati-42204697/"
+    },
+    {
+      "organization": "AmerisourceBergen / Cencora",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "start": "2022",
+      "end": "2024",
+      "source": "https://www.marketscreener.com/quote/stock/CENCORA-INC-9428091/news/AmerisourceBergen-Corporation-Appoints-Robert-P-Mauch-as-Executive-Vice-President-and-Chief-Operati-42204697/"
+    },
+    {
+      "organization": "Cencora",
+      "title": "President and CEO",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.citybiz.co/article/530786/robert-mauch-appointed-ceo-of-cencora/"
+    }
+  ],
+  "background_category": "Operations",
+  "background_rationale": "A pharmacist and health economist who founded a consulting firm, he spent the 15+ years after its 2007 sale to AmerisourceBergen running sales, operations and the drug distribution business before becoming COO and then CEO.",
+  "tenure": {
+    "start": "2024-10-01",
+    "source": "https://www.citybiz.co/article/530786/robert-mauch-appointed-ceo-of-cencora/"
+  },
+  "notable": [
+    {
+      "date": "2024-11",
+      "type": "decision",
+      "summary": "Announced Cencora's agreement to acquire a majority stake in Retina Consultants of America for $4.6 billion in cash, expanding its specialty physician services business; the deal closed in January 2025.",
+      "source": "https://www.fiercehealthcare.com/finance/cencora-buy-retina-consultants-america-46b-deal"
+    },
+    {
+      "date": "2025-11",
+      "type": "decision",
+      "summary": "Announced a $1 billion, five-year investment to expand and automate Cencora's U.S. distribution network, including new facilities in Ohio and California and expanded cold-chain storage in Alabama.",
+      "source": "https://www.fiercepharma.com/manufacturing/cencora-earmarks-1b-expand-us-pharmaceutical-distribution-operations"
+    },
+    {
+      "date": "2025-12",
+      "type": "decision",
+      "summary": "Agreed to buy out TPG's stake in community oncology platform OneOncology for about $5 billion in cash, at a $7.4 billion enterprise value; the deal closed in February 2026.",
+      "source": "https://www.fiercehealthcare.com/finance/cencora-acquire-majority-stake-oneoncology-5b"
+    },
+    {
+      "date": "2025-10",
+      "type": "statement",
+      "summary": "In a Pharmaceutical Executive profile, Mauch said a lesson from his father guides him: in business and healthcare, everyone has to win, and you can't win while somebody else loses.",
+      "source": "https://www.pharmexec.com/view/bob-mauch-strengthening-the-chain"
+    }
+  ],
+  "personal_story": {
+    "hook": "The son of an independent pharmacy owner, Bob Mauch now runs one of America's largest drug distributors.",
+    "summary": "Mauch grew up the son of an independent pharmacy owner and worked in his parents' community pharmacy as a child. He says he chose pharmacy for its flexibility: you could be a pharmacist, work in industry or own a business. After a PharmD from Mercer, he earned a PhD at the University of South Carolina in 1994, drawn there by outcomes-research professor Gene Reeder. He then moved to Tampa and started his own health economics consulting firm, later named Xcenda, which AmerisourceBergen bought in 2007. Inside the company he moved through sales, operations and leadership of its drug distribution business, became COO in 2022 and CEO of the renamed Cencora in October 2024.",
+    "facts": [
+      {
+        "label": "Family background",
+        "value": "Son of an independent pharmacy owner; worked in his parents' community pharmacy as a child",
+        "source": "https://www.pharmexec.com/view/bob-mauch-strengthening-the-chain"
+      },
+      {
+        "label": "Mentor",
+        "value": "USC outcomes-research professor Gene Reeder, a key reason he chose South Carolina for his PhD",
+        "source": "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php"
+      },
+      {
+        "label": "Turning point",
+        "value": "After his PhD, moved to Tampa to start his own consulting firm (later Xcenda)",
+        "source": "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php"
+      },
+      {
+        "label": "Other",
+        "value": "Joined AmerisourceBergen in 2007 when it acquired Xcenda",
+        "source": "https://www.cencora.com/about/leadership/robert-p-mauch"
+      }
+    ],
+    "quote": {
+      "text": "I could start a business with no experience because I had skills and training, and that all goes back to the team I worked with and Gene's thought leadership.",
+      "context": "University of South Carolina College of Pharmacy alumni profile, April 2023, while EVP and COO of AmerisourceBergen",
+      "source": "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://cms.sc.edu/study/colleges_schools/pharmacy/about/news/2023/phd-alum-finds-calling-in-industry.php",
+      "https://www.pharmexec.com/view/bob-mauch-strengthening-the-chain",
+      "https://www.cencora.com/about/leadership/robert-p-mauch",
+      "https://www.citybiz.co/article/530786/robert-mauch-appointed-ceo-of-cencora/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Founding year of Xcenda/Applied Health Outcomes not confirmed (USC says he founded it after his 1994 PhD; ABC said in 2022 he had been with the company or predecessors 'over 25 years'); career start left null.",
+    "PharmD graduation year not found; left null. USC calls the PhD field 'pharmaceutical sciences' in one place and 'Pharmacy Administration' in a summary; Cencora bio says 'pharmaceutical science' with health economics focus.",
+    "Roles between 2007 and 2010 (immediately post-acquisition) not itemized in sources found.",
+    "Background category is a judgment call between Operations and Science/Medical (PharmD/PhD) or Founder (founded Xcenda, not Cencora).",
+    "Pharmaceutical Executive (Oct 2025) incorrectly says he became CEO in 'early 2024'; the 'everyone has to win' line may be paraphrased in that article, so it is used only as a summarized statement, not a quote."
+  ]
+}

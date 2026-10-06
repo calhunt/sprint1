@@ -1,0 +1,144 @@
+{
+  "id": "boeing",
+  "name": "Kelly Ortberg",
+  "company_id": "boeing",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "University of Iowa",
+      "degree": "BS",
+      "field": "Mechanical Engineering",
+      "year": 1982,
+      "source": "https://en.wikipedia.org/wiki/Kelly_Ortberg"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Texas Instruments",
+      "title": "Engineer",
+      "start": "1983",
+      "end": "1987",
+      "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+    },
+    {
+      "organization": "Rockwell Collins",
+      "title": "Program manager, rising through leadership roles (incl. VP and GM, Communication Systems, from 2001)",
+      "start": "1987",
+      "end": "2013",
+      "source": "https://en.wikipedia.org/wiki/Kelly_Ortberg"
+    },
+    {
+      "organization": "Rockwell Collins",
+      "title": "President and CEO (chairman from 2015)",
+      "start": "2013",
+      "end": "2018",
+      "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+    },
+    {
+      "organization": "Collins Aerospace (United Technologies)",
+      "title": "Chief Executive Officer",
+      "start": "2018",
+      "end": "2020",
+      "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+    },
+    {
+      "organization": "RTX Corporation",
+      "title": "Special advisor to the CEO office; board member",
+      "start": "2020",
+      "end": "2021",
+      "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+    },
+    {
+      "organization": "The Boeing Company",
+      "title": "President and Chief Executive Officer",
+      "start": "2024",
+      "end": null,
+      "source": "https://investors.boeing.com/investors/news/press-release-details/2024/Boeing-Board-Names-Kelly-Ortberg-President-and-CEO/default.aspx"
+    }
+  ],
+  "background_category": "Engineering/Technical",
+  "background_rationale": "A mechanical engineer who started at Texas Instruments and rose from program manager to CEO at avionics maker Rockwell Collins before leading Boeing.",
+  "tenure": {
+    "start": "2024-08-08",
+    "source": "https://investors.boeing.com/investors/news/press-release-details/2024/Boeing-Board-Names-Kelly-Ortberg-President-and-CEO/default.aspx"
+  },
+  "notable": [
+    {
+      "date": "2024-08",
+      "type": "decision",
+      "summary": "Chose to base himself in the Seattle area near Boeing's main commercial aircraft plants, more than two decades after the company moved its headquarters out of Seattle.",
+      "source": "https://en.wikipedia.org/wiki/Kelly_Ortberg"
+    },
+    {
+      "date": "2024-10",
+      "type": "decision",
+      "summary": "Announced plans to cut about 17,000 jobs, roughly 10% of Boeing's global workforce, and delayed first 777X deliveries by a year, as Boeing also launched a large share sale to shore up cash.",
+      "source": "https://en.wikipedia.org/wiki/Boeing"
+    },
+    {
+      "date": "2024-11",
+      "type": "decision",
+      "summary": "Boeing ended a nearly two-month machinists' strike after workers accepted a contract with a 38% pay rise over four years and a $12,000 ratification bonus.",
+      "source": "https://en.wikipedia.org/wiki/Boeing"
+    },
+    {
+      "date": "2025-04",
+      "type": "decision",
+      "summary": "Agreed to sell Jeppesen and other parts of Boeing's Digital Aviation Solutions business to private equity firm Thoma Bravo for $10.55 billion.",
+      "source": "https://en.wikipedia.org/wiki/Jeppesen"
+    }
+  ],
+  "personal_story": {
+    "hook": "A Dubuque-born mechanical engineer, Kelly Ortberg left retirement in 2024 to run Boeing.",
+    "summary": "Ortberg was born in 1960 and is a native of Dubuque, Iowa. He earned a mechanical engineering degree from the University of Iowa in 1982 and started his career as an engineer at Texas Instruments in 1983. In 1987 he joined Cedar Rapids-based Rockwell Collins as a program manager and spent more than three decades there, becoming CEO in 2013 and leading Collins Aerospace after its sale to United Technologies. He retired from RTX in 2021, then returned in August 2024 as Boeing's CEO, saying 'there is much work to be done.'",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Native of Dubuque, Iowa; born April 1960",
+        "source": "https://en.wikipedia.org/wiki/Kelly_Ortberg"
+      },
+      {
+        "label": "First job",
+        "value": "Engineer at Texas Instruments, 1983",
+        "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+      },
+      {
+        "label": "Turning point",
+        "value": "Joined Rockwell Collins as a program manager in 1987; became its CEO in 2013",
+        "source": "https://edition.cnn.com/2024/07/31/investing/boeings-losses-new-ceo/index.html"
+      },
+      {
+        "label": "Other",
+        "value": "Retired from RTX in 2021 before being recruited to lead Boeing in 2024",
+        "source": "https://edition.cnn.com/2024/07/31/investing/boeings-losses-new-ceo/index.html"
+      },
+      {
+        "label": "Other",
+        "value": "Serves on the University of Iowa Engineering Advisory Board",
+        "source": "https://www.boeing.com/company/bios/kelly-ortberg"
+      }
+    ],
+    "quote": {
+      "text": "There is much work to be done, and I'm looking forward to getting started.",
+      "context": "Statement on being named Boeing president and CEO, July 31, 2024",
+      "source": "https://investors.boeing.com/investors/news/press-release-details/2024/Boeing-Board-Names-Kelly-Ortberg-President-and-CEO/default.aspx",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kelly_Ortberg",
+      "https://www.boeing.com/company/bios/kelly-ortberg",
+      "https://investors.boeing.com/investors/news/press-release-details/2024/Boeing-Board-Names-Kelly-Ortberg-President-and-CEO/default.aspx",
+      "https://edition.cnn.com/2024/07/31/investing/boeings-losses-new-ceo/index.html"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Boeing bio says he spent 'over three decades' at Rockwell Collins from 1983, while Wikipedia/CNN say he joined Rockwell Collins in 1987 after Texas Instruments; used 1983-1987 TI, 1987 Rockwell Collins.",
+    "RTX timing: Boeing bio says special advisor from March 2021 and RTX board 2019-2024; Wikipedia/CNN say he retired in 2021. Career entry dated 2020-2021 is approximate.",
+    "October 2024 share sale size: Wikipedia summary says 'nearly $19 billion'; omitted from summary text. 2024 notable items sourced to Wikipedia's Boeing article, not primary releases (Boeing mediaroom archive URLs returned 404).",
+    "Hook's 'left retirement' relies on CNN/Wikipedia reporting that he retired from RTX in 2021; Boeing's bio describes an RTX advisory role until joining Boeing.",
+    "Seattle Times, Reuters and NYT profiles could not be fetched; no first-hand account of his upbringing found."
+  ],
+  "needs_enrichment": true
+}

@@ -1,0 +1,145 @@
+{
+  "id": "morgan-stanley",
+  "name": "Ted Pick",
+  "company_id": "morgan-stanley",
+  "role": "CEO",
+  "education": [
+    {
+      "institution": "Middlebury College",
+      "degree": "BA",
+      "field": "Russian History and Politics",
+      "year": 1990,
+      "source": "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick"
+    },
+    {
+      "institution": "Harvard University",
+      "degree": "MBA",
+      "field": null,
+      "year": 1994,
+      "source": "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick"
+    }
+  ],
+  "career": [
+    {
+      "organization": "Morgan Stanley",
+      "title": "Analyst",
+      "start": "1990",
+      "end": "1992",
+      "source": "https://fortune.com/2023/10/26/who-morgan-stanleys-new-ceo-ted-pick-the-bank-veteran-succeed-james-gorman/"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Equity Capital Markets banker, rising to Head of Equity Capital Markets (Managing Director from 2002)",
+      "start": "1994",
+      "end": null,
+      "source": "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Head of Institutional Equities",
+      "start": "2009",
+      "end": "2015",
+      "source": "https://en.wikipedia.org/wiki/Ted_Pick"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Global Head of Sales and Trading",
+      "start": "2015",
+      "end": "2018",
+      "source": "https://en.wikipedia.org/wiki/Ted_Pick"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Head of Institutional Securities Group (Co-President from 2021)",
+      "start": "2018",
+      "end": "2023",
+      "source": "https://fortune.com/2023/10/26/who-morgan-stanleys-new-ceo-ted-pick-the-bank-veteran-succeed-james-gorman/"
+    },
+    {
+      "organization": "Morgan Stanley",
+      "title": "Chief Executive Officer (Chairman from January 2025)",
+      "start": "2024",
+      "end": null,
+      "source": "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick"
+    }
+  ],
+  "background_category": "Investment/Trading",
+  "background_rationale": "Spent his entire career at Morgan Stanley in equity capital markets, equities and sales and trading, then ran the institutional securities business before becoming CEO.",
+  "tenure": {
+    "start": "2024-01-01",
+    "source": "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick"
+  },
+  "notable": [
+    {
+      "date": "2024-01",
+      "type": "statement",
+      "summary": "In his first weeks as CEO, Pick set long-term targets of $10 trillion in wealth and asset management client assets and 20% returns on tangible equity, summing them up as \"10 and 20.\"",
+      "source": "https://www.cnbc.com/2024/01/18/morgan-stanley-ceo-ted-pick-financial-targets.html"
+    },
+    {
+      "date": "2025-01",
+      "type": "decision",
+      "summary": "Pick added the role of chairman, succeeding James Gorman, who retired from the firm at the end of 2024.",
+      "source": "https://www.morganstanley.com/press-releases/ted-pick-to-become-chairman-on-january-1--2025"
+    },
+    {
+      "date": "2026-01",
+      "type": "decision",
+      "summary": "Morgan Stanley completed its acquisition of EquityZen, a platform for trading shares in private companies, to expand wealth clients' access to private markets.",
+      "source": "https://www.businesswire.com/news/home/20260127293083/en/Morgan-Stanley-Closes-Acquisition-of-EquityZen"
+    },
+    {
+      "date": "2026-07",
+      "type": "statement",
+      "summary": "Reporting record quarterly revenue of $21.3 billion, Pick said total client assets across Wealth and Investment Management had reached the $10 trillion milestone.",
+      "source": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/2q2026.pdf"
+    }
+  ],
+  "personal_story": {
+    "hook": "Ted Pick was the last analyst hired into Morgan Stanley's 1990 class; he now runs the firm.",
+    "summary": "Pick was born in New York City in 1968 and spent part of his childhood in Caracas, Venezuela, where his father worked in petrochemicals. He studied Russian history and politics at Middlebury College, graduating Phi Beta Kappa in 1990, and joined Morgan Stanley at 21 as the last person hired into his analyst class. After an MBA from Harvard Business School he returned to the firm, worked on IPOs including Google and Blackstone, and built the equities business into a global leader. He later led a turnaround of the fixed income division that included cutting about a quarter of its staff, ran the institutional securities group, and succeeded James Gorman as CEO in January 2024.",
+    "facts": [
+      {
+        "label": "Grew up",
+        "value": "Born in New York City; spent part of his childhood in Caracas, Venezuela",
+        "source": "https://en.wikipedia.org/wiki/Ted_Pick"
+      },
+      {
+        "label": "Family background",
+        "value": "Father worked in petrochemicals and later ran an investment firm; father and father-in-law were once brokers",
+        "source": "https://www.advisorhub.com/morgan-stanleys-new-ceo-shares-predecessors-love-for-wealth-unit/"
+      },
+      {
+        "label": "First job",
+        "value": "1990: Morgan Stanley analyst at 21, the last hire in his analyst class",
+        "source": "https://fortune.com/2023/10/26/who-morgan-stanleys-new-ceo-ted-pick-the-bank-veteran-succeed-james-gorman/"
+      },
+      {
+        "label": "Turning point",
+        "value": "2015: took over sales and trading and led a fixed income turnaround that cut about 25% of that workforce",
+        "source": "https://www.efinancialcareers.com/news/finance/ted-pick-morgan-stanley"
+      }
+    ],
+    "quote": {
+      "text": "The wealth business is actually in my blood.",
+      "context": "Discussing his strategy weeks after becoming CEO, January 2024, noting his father and father-in-law had been brokers",
+      "source": "https://www.advisorhub.com/morgan-stanleys-new-ceo-shares-predecessors-love-for-wealth-unit/",
+      "verified": "2026-10-05"
+    },
+    "depth": "moderate",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ted_Pick",
+      "https://fortune.com/2023/10/26/who-morgan-stanleys-new-ceo-ted-pick-the-bank-veteran-succeed-james-gorman/",
+      "https://www.morganstanley.com/about-us-governance/operating-committee/ted-pick",
+      "https://www.efinancialcareers.com/news/finance/ted-pick-morgan-stanley",
+      "https://www.advisorhub.com/morgan-stanleys-new-ceo-shares-predecessors-love-for-wealth-unit/"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Middlebury degree type (BA) assumed from the college's standard degree; sources say only that he graduated Phi Beta Kappa. Field 'Russian History and Politics' from Wikipedia.",
+    "Analyst stint end year (1992) inferred from his 1994 HBS MBA; start year of ECM role after MBA (1994) also inferred.",
+    "Role years 2009-2015 (equities) and 2015-2018 (sales and trading) from Wikipedia; Morgan Stanley bio gives no dates for these roles.",
+    "WebSearch budget was exhausted during this profile, so 2026 coverage relied on directly fetched Morgan Stanley and Business Wire documents; other 2026 developments may be missing."
+  ]
+}

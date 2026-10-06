@@ -1,0 +1,55 @@
+{
+  "id": "travelers",
+  "name": "Alan D. Schnitzer",
+  "company_id": "travelers",
+  "role": "CEO",
+  "education": [
+    {"institution": "University of Pennsylvania", "degree": null, "field": null, "year": null, "source": "https://en.wikipedia.org/wiki/Alan_Schnitzer"},
+    {"institution": "Columbia University", "degree": "JD", "field": null, "year": null, "source": "https://en.wikipedia.org/wiki/Alan_Schnitzer"}
+  ],
+  "career": [
+    {"organization": "Simpson Thacher & Bartlett LLP", "title": "Partner; lead outside counsel to Travelers", "start": null, "end": "2007", "source": "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm"},
+    {"organization": "The Travelers Companies", "title": "Vice Chairman and Chief Legal Officer", "start": "2007", "end": "2014", "source": "https://www.businessinsurance.com/article/20070403/NEWS/20009911/travelers-names-vice-chairman-chief-legal-officer"},
+    {"organization": "The Travelers Companies", "title": "Vice Chairman overseeing Financial, Professional & International Insurance and U.S. Field Management", "start": null, "end": "2014", "source": "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm"},
+    {"organization": "The Travelers Companies", "title": "Vice Chairman and CEO, Business and International Insurance", "start": "2014", "end": "2015", "source": "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm"},
+    {"organization": "The Travelers Companies", "title": "Chief Executive Officer", "start": "2015", "end": null, "source": "https://en.wikipedia.org/wiki/The_Travelers_Companies"},
+    {"organization": "The Travelers Companies", "title": "Chairman and Chief Executive Officer", "start": "2017", "end": null, "source": "https://en.wikipedia.org/wiki/Alan_Schnitzer"}
+  ],
+  "background_category": "Law",
+  "background_rationale": "A Simpson Thacher & Bartlett partner who served as Travelers' lead outside counsel, then joined as Chief Legal Officer before moving into business leadership.",
+  "tenure": {"start": "2015-12-01", "source": "https://en.wikipedia.org/wiki/The_Travelers_Companies"},
+  "notable": [
+    {"date": "2017-08", "type": "decision", "summary": "Travelers completed its acquisition of UK small-business insurance distributor Simply Business, announced in March 2017 for about $490 million.", "source": "https://en.wikipedia.org/wiki/The_Travelers_Companies"},
+    {"date": "2017-08", "type": "decision", "summary": "Schnitzer was elected Chairman of the Board in addition to CEO.", "source": "https://en.wikipedia.org/wiki/Alan_Schnitzer"},
+    {"date": "2025-05", "type": "decision", "summary": "Travelers agreed to sell its Canadian personal insurance business and most of its Canadian commercial business to Definity for about US$2.4 billion, planning about US$0.7 billion of additional share repurchases in 2026.", "source": "https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-to-Sell-Its-Canadian-Personal-Insurance-Business-and-Majority-of-Its-Canadian-Commercial-Insurance-Business-to-Definity-for-US2-4-Billion/"},
+    {"date": "2025-05", "type": "statement", "summary": "Schnitzer called the Canadian sale \"a reflection of our steadfast commitment to disciplined capital allocation and long-term value creation.\"", "source": "https://investor.travelers.com/newsroom/press-releases/news-details/2025/Travelers-to-Sell-Its-Canadian-Personal-Insurance-Business-and-Majority-of-Its-Canadian-Commercial-Insurance-Business-to-Definity-for-US2-4-Billion/"}
+  ],
+  "personal_story": {
+    "hook": "Alan Schnitzer was Travelers' lead outside lawyer before joining the insurer in 2007; eight years later he became its CEO.",
+    "summary": "Schnitzer, born in 1965, studied at the University of Pennsylvania and earned his law degree at Columbia Law School. As a partner at Simpson Thacher & Bartlett he served as Travelers' lead outside counsel, including on its 2004 merger with The St. Paul Companies. In 2007 he moved in-house as Vice Chairman and Chief Legal Officer, then shifted to running insurance businesses in 2014 before succeeding Jay Fishman as CEO in December 2015.",
+    "facts": [
+      {"label": "Other", "value": "Born in 1965", "source": "https://en.wikipedia.org/wiki/Alan_Schnitzer"},
+      {"label": "First job", "value": "Partner at law firm Simpson Thacher & Bartlett, advising Travelers", "source": "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm"},
+      {"label": "Turning point", "value": "2007: left the law firm to become Travelers' Vice Chairman and Chief Legal Officer", "source": "https://www.businessinsurance.com/article/20070403/NEWS/20009911/travelers-names-vice-chairman-chief-legal-officer"},
+      {"label": "Turning point", "value": "2014: moved from legal to running Business and International Insurance", "source": "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm"}
+    ],
+    "quote": null,
+    "depth": "limited",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alan_Schnitzer",
+      "https://www.insurancejournal.com/news/national/2014/06/10/331491.htm",
+      "https://www.businessinsurance.com/article/20070403/NEWS/20009911/travelers-names-vice-chairman-chief-legal-officer",
+      "https://en.wikipedia.org/wiki/The_Travelers_Companies"
+    ]
+  },
+  "last_reviewed": "2026-10-05",
+  "open_issues": [
+    "Penn undergraduate degree type, major and year not confirmed (Wikipedia says only 'a bachelor's degree'); degree left null. Columbia JD year unknown.",
+    "Chairman election dated August 2017 per Wikipedia only; Reuters source blocked.",
+    "Start year at Simpson Thacher not found; 2004 St. Paul merger work per Wikipedia.",
+    "Simply Business notable sourced via Wikipedia; Yahoo press-release link returned 404.",
+    "No 2026 CEO-era items found: Travelers investor newsroom is JS-rendered and could not be listed without web search.",
+    "Hartford Business Journal profile ('At Travelers, they love their lawyer like family') returned 403; may contain personal-story detail and quotes."
+  ],
+  "needs_enrichment": true
+}
