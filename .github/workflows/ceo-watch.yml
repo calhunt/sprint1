@@ -1,25 +1,36 @@
 name: CEO change watch
 
-# Every Monday ~9am Eastern (13:00 UTC), scan SEC EDGAR for 8-K Item 5.02 filings
-# from the previous Monday-Sunday and open an Issue if anything is flagged.
-# Run it by hand any time from the Actions tab ("Run workflow"); optionally set
-# a custom date window, e.g. to test against a past week.
+# Two things you can run by hand from the Actions tab ("Run workflow"):
+#   mode = setup : one-time. Builds data/sec_ids.json (company -> SEC ID) and
+#                  saves it to the repo.
+#   mode = scan  : checks SEC EDGAR for 8-K Item 5.02 filings and opens an Issue
+#                  if anything is flagged. Optional start/end dates let you test
+#                  against a past week.
+# It also runs automatically as a scan every Monday ~9am Eastern (13:00 UTC),
+# covering the previous Monday-Sunday.
 on:
   schedule:
     - cron: "0 13 * * 1"
   workflow_dispatch:
     inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        options:
+          - scan
+          - setup
+        default: scan
       start:
-        description: "Window start, YYYY-MM-DD (blank = last Monday)"
+        description: "Scan window start, YYYY-MM-DD (blank = last Monday)"
         required: false
         default: ""
       end:
-        description: "Window end, YYYY-MM-DD (blank = yesterday)"
+        description: "Scan window end, YYYY-MM-DD (blank = yesterday)"
         required: false
         default: ""
 
 permissions:
-  contents: read
+  contents: write
   issues: write
 
 jobs:
@@ -33,11 +44,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Setup - build SEC ID list
+        if: inputs.mode == 'setup'
+        env:
+          SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
+        run: |
+          python scripts/check_ceo_changes.py --init-ciks
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sec_ids.json
+          git commit -m "Add SEC ID list (auto-generated; review sec_name values)" || echo "Nothing to commit"
+          git push
+
       - name: Scan SEC EDGAR
         id: scan
+        if: inputs.mode != 'setup'
         env:
-          # Repo variable (Settings > Secrets and variables > Actions > Variables):
-          # SEC_USER_AGENT = CEO Signal your.name@example.com
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
           START: ${{ inputs.start }}
           END: ${{ inputs.end }}
