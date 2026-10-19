@@ -1,0 +1,594 @@
+{
+  "amazon": {
+    "name": "Amazon",
+    "cik": 1018724,
+    "sec_name": "AMAZON COM INC",
+    "matched_by": "ticker"
+  },
+  "walmart": {
+    "name": "Walmart",
+    "cik": 104169,
+    "sec_name": "Walmart Inc.",
+    "matched_by": "ticker"
+  },
+  "unitedhealth-group": {
+    "name": "UnitedHealth Group",
+    "cik": 731766,
+    "sec_name": "UNITEDHEALTH GROUP INC",
+    "matched_by": "ticker"
+  },
+  "apple": {
+    "name": "Apple",
+    "cik": 320193,
+    "sec_name": "Apple Inc.",
+    "matched_by": "ticker"
+  },
+  "alphabet": {
+    "name": "Alphabet",
+    "cik": 1652044,
+    "sec_name": "Alphabet Inc.",
+    "matched_by": "ticker"
+  },
+  "cvs-health": {
+    "name": "CVS Health",
+    "cik": 64803,
+    "sec_name": "CVS HEALTH Corp",
+    "matched_by": "ticker"
+  },
+  "berkshire-hathaway": {
+    "name": "Berkshire Hathaway",
+    "cik": 1067983,
+    "sec_name": "BERKSHIRE HATHAWAY INC",
+    "matched_by": "name"
+  },
+  "mckesson": {
+    "name": "McKesson",
+    "cik": 927653,
+    "sec_name": "MCKESSON CORP",
+    "matched_by": "ticker"
+  },
+  "exxon-mobil": {
+    "name": "Exxon Mobil",
+    "cik": 2115436,
+    "sec_name": "ExxonMobil Holdings Corp",
+    "matched_by": "ticker"
+  },
+  "cencora": {
+    "name": "Cencora",
+    "cik": 1140859,
+    "sec_name": "Cencora, Inc.",
+    "matched_by": "ticker"
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "cik": 789019,
+    "sec_name": "MICROSOFT CORP",
+    "matched_by": "ticker"
+  },
+  "jpmorgan-chase": {
+    "name": "JPMorgan Chase",
+    "cik": 19617,
+    "sec_name": "JPMORGAN CHASE & CO",
+    "matched_by": "ticker"
+  },
+  "costco-wholesale": {
+    "name": "Costco Wholesale",
+    "cik": 909832,
+    "sec_name": "COSTCO WHOLESALE CORP /NEW",
+    "matched_by": "ticker"
+  },
+  "cigna-group": {
+    "name": "Cigna Group",
+    "cik": 1739940,
+    "sec_name": "Cigna Group",
+    "matched_by": "ticker"
+  },
+  "cardinal-health": {
+    "name": "Cardinal Health",
+    "cik": 721371,
+    "sec_name": "CARDINAL HEALTH INC",
+    "matched_by": "ticker"
+  },
+  "nvidia": {
+    "name": "Nvidia",
+    "cik": 1045810,
+    "sec_name": "NVIDIA CORP",
+    "matched_by": "ticker"
+  },
+  "meta-platforms": {
+    "name": "Meta Platforms",
+    "cik": 1326801,
+    "sec_name": "Meta Platforms, Inc.",
+    "matched_by": "ticker"
+  },
+  "elevance-health": {
+    "name": "Elevance Health",
+    "cik": 1156039,
+    "sec_name": "Elevance Health, Inc.",
+    "matched_by": "ticker"
+  },
+  "centene": {
+    "name": "Centene",
+    "cik": 1071739,
+    "sec_name": "CENTENE CORP",
+    "matched_by": "ticker"
+  },
+  "bank-of-america": {
+    "name": "Bank of America",
+    "cik": 70858,
+    "sec_name": "BANK OF AMERICA CORP /DE/",
+    "matched_by": "ticker"
+  },
+  "chevron": {
+    "name": "Chevron",
+    "cik": 93410,
+    "sec_name": "CHEVRON CORP",
+    "matched_by": "ticker"
+  },
+  "ford-motor": {
+    "name": "Ford Motor",
+    "cik": 37996,
+    "sec_name": "FORD MOTOR CO",
+    "matched_by": "ticker"
+  },
+  "general-motors": {
+    "name": "General Motors",
+    "cik": 1467858,
+    "sec_name": "General Motors Co",
+    "matched_by": "ticker"
+  },
+  "citigroup": {
+    "name": "Citigroup",
+    "cik": 831001,
+    "sec_name": "CITIGROUP INC",
+    "matched_by": "ticker"
+  },
+  "home-depot": {
+    "name": "Home Depot",
+    "cik": 354950,
+    "sec_name": "HOME DEPOT, INC.",
+    "matched_by": "ticker"
+  },
+  "fannie-mae": {
+    "name": "Fannie Mae",
+    "cik": 310522,
+    "sec_name": "FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE",
+    "matched_by": "ticker"
+  },
+  "kroger": {
+    "name": "Kroger",
+    "cik": 56873,
+    "sec_name": "KROGER CO",
+    "matched_by": "ticker"
+  },
+  "verizon-communications": {
+    "name": "Verizon Communications",
+    "cik": 732712,
+    "sec_name": "VERIZON COMMUNICATIONS INC",
+    "matched_by": "ticker"
+  },
+  "phillips-66": {
+    "name": "Phillips 66",
+    "cik": 1534701,
+    "sec_name": "Phillips 66",
+    "matched_by": "ticker"
+  },
+  "marathon-petroleum": {
+    "name": "Marathon Petroleum",
+    "cik": 1510295,
+    "sec_name": "Marathon Petroleum Corp",
+    "matched_by": "ticker"
+  },
+  "stonex-group": {
+    "name": "StoneX Group",
+    "cik": 913760,
+    "sec_name": "StoneX Group Inc.",
+    "matched_by": "ticker"
+  },
+  "state-farm-insurance": {
+    "name": "State Farm Insurance",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "freddie-mac": {
+    "name": "Freddie Mac",
+    "cik": 1026214,
+    "sec_name": "FEDERAL HOME LOAN MORTGAGE CORP",
+    "matched_by": "ticker"
+  },
+  "humana": {
+    "name": "Humana",
+    "cik": 49071,
+    "sec_name": "HUMANA INC",
+    "matched_by": "ticker"
+  },
+  "at-t": {
+    "name": "AT&T",
+    "cik": 732717,
+    "sec_name": "AT&T INC.",
+    "matched_by": "ticker"
+  },
+  "goldman-sachs-group": {
+    "name": "Goldman Sachs Group",
+    "cik": 886982,
+    "sec_name": "GOLDMAN SACHS GROUP INC",
+    "matched_by": "ticker"
+  },
+  "comcast": {
+    "name": "Comcast",
+    "cik": 1166691,
+    "sec_name": "COMCAST CORP",
+    "matched_by": "ticker"
+  },
+  "wells-fargo": {
+    "name": "Wells Fargo",
+    "cik": 72971,
+    "sec_name": "WELLS FARGO & COMPANY/MN",
+    "matched_by": "ticker"
+  },
+  "morgan-stanley": {
+    "name": "Morgan Stanley",
+    "cik": 895421,
+    "sec_name": "MORGAN STANLEY",
+    "matched_by": "ticker"
+  },
+  "valero-energy": {
+    "name": "Valero Energy",
+    "cik": 1035002,
+    "sec_name": "VALERO ENERGY CORP/TX",
+    "matched_by": "ticker"
+  },
+  "dell-technologies": {
+    "name": "Dell Technologies",
+    "cik": 1571996,
+    "sec_name": "Dell Technologies Inc.",
+    "matched_by": "ticker"
+  },
+  "target": {
+    "name": "Target",
+    "cik": 27419,
+    "sec_name": "TARGET CORP",
+    "matched_by": "ticker"
+  },
+  "tesla": {
+    "name": "Tesla",
+    "cik": 1318605,
+    "sec_name": "Tesla, Inc.",
+    "matched_by": "ticker"
+  },
+  "walt-disney": {
+    "name": "Walt Disney",
+    "cik": 1744489,
+    "sec_name": "Walt Disney Co",
+    "matched_by": "ticker"
+  },
+  "johnson-johnson": {
+    "name": "Johnson & Johnson",
+    "cik": 200406,
+    "sec_name": "JOHNSON & JOHNSON",
+    "matched_by": "ticker"
+  },
+  "pepsico": {
+    "name": "PepsiCo",
+    "cik": 77476,
+    "sec_name": "PEPSICO INC",
+    "matched_by": "ticker"
+  },
+  "boeing": {
+    "name": "Boeing",
+    "cik": 12927,
+    "sec_name": "BOEING CO",
+    "matched_by": "ticker"
+  },
+  "ups": {
+    "name": "UPS",
+    "cik": 1090727,
+    "sec_name": "UNITED PARCEL SERVICE INC",
+    "matched_by": "ticker"
+  },
+  "rtx": {
+    "name": "RTX",
+    "cik": 101829,
+    "sec_name": "RTX Corp",
+    "matched_by": "ticker"
+  },
+  "fedex": {
+    "name": "FedEx",
+    "cik": 1048911,
+    "sec_name": "FEDEX CORP",
+    "matched_by": "ticker"
+  },
+  "progressive": {
+    "name": "Progressive",
+    "cik": 80661,
+    "sec_name": "PROGRESSIVE CORP/OH/",
+    "matched_by": "ticker"
+  },
+  "lowe-s": {
+    "name": "Lowe's",
+    "cik": 60667,
+    "sec_name": "LOWES COMPANIES INC",
+    "matched_by": "ticker"
+  },
+  "energy-transfer": {
+    "name": "Energy Transfer",
+    "cik": 1276187,
+    "sec_name": "Energy Transfer LP",
+    "matched_by": "ticker"
+  },
+  "procter-gamble": {
+    "name": "Procter & Gamble",
+    "cik": 80424,
+    "sec_name": "PROCTER & GAMBLE Co",
+    "matched_by": "ticker"
+  },
+  "sysco": {
+    "name": "Sysco",
+    "cik": 96021,
+    "sec_name": "SYSCO CORP",
+    "matched_by": "ticker"
+  },
+  "american-express": {
+    "name": "American Express",
+    "cik": 4962,
+    "sec_name": "AMERICAN EXPRESS CO",
+    "matched_by": "ticker"
+  },
+  "albertsons": {
+    "name": "Albertsons",
+    "cik": 1646972,
+    "sec_name": "Albertsons Companies, Inc.",
+    "matched_by": "ticker"
+  },
+  "archer-daniels-midland": {
+    "name": "Archer Daniels Midland",
+    "cik": 7084,
+    "sec_name": "Archer-Daniels-Midland Co",
+    "matched_by": "ticker"
+  },
+  "metlife": {
+    "name": "MetLife",
+    "cik": 1099219,
+    "sec_name": "METLIFE INC",
+    "matched_by": "ticker"
+  },
+  "hca-healthcare": {
+    "name": "HCA Healthcare",
+    "cik": 860730,
+    "sec_name": "HCA Healthcare, Inc.",
+    "matched_by": "ticker"
+  },
+  "lockheed-martin": {
+    "name": "Lockheed Martin",
+    "cik": 936468,
+    "sec_name": "LOCKHEED MARTIN CORP",
+    "matched_by": "ticker"
+  },
+  "new-york-life-insurance": {
+    "name": "New York Life Insurance",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "capital-one-financial": {
+    "name": "Capital One Financial",
+    "cik": 927628,
+    "sec_name": "CAPITAL ONE FINANCIAL CORP",
+    "matched_by": "ticker"
+  },
+  "allstate": {
+    "name": "Allstate",
+    "cik": 899051,
+    "sec_name": "ALLSTATE CORP",
+    "matched_by": "ticker"
+  },
+  "caterpillar": {
+    "name": "Caterpillar",
+    "cik": 18230,
+    "sec_name": "CATERPILLAR INC",
+    "matched_by": "ticker"
+  },
+  "ibm": {
+    "name": "IBM",
+    "cik": 51143,
+    "sec_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+    "matched_by": "ticker"
+  },
+  "eli-lilly": {
+    "name": "Eli Lilly",
+    "cik": 59478,
+    "sec_name": "ELI LILLY & Co",
+    "matched_by": "ticker"
+  },
+  "merck": {
+    "name": "Merck",
+    "cik": 310158,
+    "sec_name": "Merck & Co., Inc.",
+    "matched_by": "ticker"
+  },
+  "nationwide": {
+    "name": "Nationwide",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "broadcom": {
+    "name": "Broadcom",
+    "cik": 1730168,
+    "sec_name": "Broadcom Inc.",
+    "matched_by": "ticker"
+  },
+  "delta-air-lines": {
+    "name": "Delta Air Lines",
+    "cik": 27904,
+    "sec_name": "DELTA AIR LINES, INC.",
+    "matched_by": "ticker"
+  },
+  "publix-super-markets": {
+    "name": "Publix Super Markets",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "pfizer": {
+    "name": "Pfizer",
+    "cik": 78003,
+    "sec_name": "PFIZER INC",
+    "matched_by": "ticker"
+  },
+  "td-synnex": {
+    "name": "TD Synnex",
+    "cik": 1177394,
+    "sec_name": "TD SYNNEX CORP",
+    "matched_by": "ticker"
+  },
+  "conocophillips": {
+    "name": "ConocoPhillips",
+    "cik": 1163165,
+    "sec_name": "CONOCOPHILLIPS",
+    "matched_by": "ticker"
+  },
+  "galaxy-digital": {
+    "name": "Galaxy Digital",
+    "cik": 1859392,
+    "sec_name": "Galaxy Digital Inc.",
+    "matched_by": "ticker"
+  },
+  "abbvie": {
+    "name": "AbbVie",
+    "cik": 1551152,
+    "sec_name": "AbbVie Inc.",
+    "matched_by": "ticker"
+  },
+  "prudential-financial": {
+    "name": "Prudential Financial",
+    "cik": 1137774,
+    "sec_name": "PRUDENTIAL FINANCIAL INC",
+    "matched_by": "ticker"
+  },
+  "tjx": {
+    "name": "TJX",
+    "cik": 109198,
+    "sec_name": "TJX COMPANIES INC /DE/",
+    "matched_by": "ticker"
+  },
+  "performance-food-group": {
+    "name": "Performance Food Group",
+    "cik": 1618673,
+    "sec_name": "Performance Food Group Co",
+    "matched_by": "ticker"
+  },
+  "united-airlines-holdings": {
+    "name": "United Airlines Holdings",
+    "cik": 100517,
+    "sec_name": "United Airlines Holdings, Inc.",
+    "matched_by": "ticker"
+  },
+  "oracle": {
+    "name": "Oracle",
+    "cik": 1341439,
+    "sec_name": "ORACLE CORP",
+    "matched_by": "ticker"
+  },
+  "cisco-systems": {
+    "name": "Cisco Systems",
+    "cik": 858877,
+    "sec_name": "CISCO SYSTEMS, INC.",
+    "matched_by": "ticker"
+  },
+  "hp": {
+    "name": "HP",
+    "cik": 47217,
+    "sec_name": "HP INC",
+    "matched_by": "ticker"
+  },
+  "charter-communications": {
+    "name": "Charter Communications",
+    "cik": 1091667,
+    "sec_name": "CHARTER COMMUNICATIONS, INC. /MO/",
+    "matched_by": "ticker"
+  },
+  "american-airlines-group": {
+    "name": "American Airlines Group",
+    "cik": 6201,
+    "sec_name": "American Airlines Group Inc.",
+    "matched_by": "ticker"
+  },
+  "tyson-foods": {
+    "name": "Tyson Foods",
+    "cik": 100493,
+    "sec_name": "TYSON FOODS, INC.",
+    "matched_by": "ticker"
+  },
+  "intel": {
+    "name": "Intel",
+    "cik": 50863,
+    "sec_name": "INTEL CORP",
+    "matched_by": "ticker"
+  },
+  "enterprise-products-partners": {
+    "name": "Enterprise Products Partners",
+    "cik": 1061219,
+    "sec_name": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+    "matched_by": "ticker"
+  },
+  "ingram-micro-holding": {
+    "name": "Ingram Micro Holding",
+    "cik": 1897762,
+    "sec_name": "Ingram Micro Holding Corp",
+    "matched_by": "ticker"
+  },
+  "general-dynamics": {
+    "name": "General Dynamics",
+    "cik": 40533,
+    "sec_name": "GENERAL DYNAMICS CORP",
+    "matched_by": "ticker"
+  },
+  "uber-technologies": {
+    "name": "Uber Technologies",
+    "cik": 1543151,
+    "sec_name": "Uber Technologies, Inc",
+    "matched_by": "ticker"
+  },
+  "usaa": {
+    "name": "USAA",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "tiaa": {
+    "name": "TIAA",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "liberty-mutual-insurance-group": {
+    "name": "Liberty Mutual Insurance Group",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  },
+  "travelers": {
+    "name": "Travelers",
+    "cik": 86312,
+    "sec_name": "TRAVELERS COMPANIES, INC.",
+    "matched_by": "ticker"
+  },
+  "bristol-myers-squibb": {
+    "name": "Bristol-Myers Squibb",
+    "cik": 14272,
+    "sec_name": "BRISTOL MYERS SQUIBB CO",
+    "matched_by": "ticker"
+  },
+  "coca-cola": {
+    "name": "Coca-Cola",
+    "cik": 21344,
+    "sec_name": "COCA COLA CO",
+    "matched_by": "ticker"
+  },
+  "nike": {
+    "name": "Nike",
+    "cik": 320187,
+    "sec_name": "NIKE, Inc.",
+    "matched_by": "ticker"
+  },
+  "massachusetts-mutual-life": {
+    "name": "Massachusetts Mutual Life",
+    "cik": null,
+    "note": "no match; fill in CIK by hand, or leave null (private/mutual companies may not file 8-Ks)"
+  }
+}
